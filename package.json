@@ -1,0 +1,14 @@
+{
+  "name": "anduinos-home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "aiur-ui-stack": "^1.0.0"
+  }
+}
