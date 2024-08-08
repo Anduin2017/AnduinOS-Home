@@ -1,5 +1,9 @@
 # AnduinOS Homepage
 
+![Man hours](https://manhours.aiursoft.cn/r/gitlab.aiursoft.cn/anduin/anduinos-home.svg)
+
+Source code of the [homepage of AnduinOS](https://anduinos.com)
+
 ## Run in Docker
 
 First, install Docker [here](https://docs.docker.com/get-docker/).
