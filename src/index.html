@@ -91,9 +91,26 @@
                     <span class="badge badge-subtle-primary p-1">Open Source</span>
                     <span class="badge badge-subtle-primary p-1">Free</span>
                     <span class="badge badge-subtle-primary p-1">GPL-v3 License</span>
-                    <h1 class="my-4 text-white" style="font-size: 3rem;">Today is the best day for you to switch to
-                        <span class="text-primary">AnduinOS</span>
+                    <h1 id="main-slogan" class="my-4 text-white" style="font-size: 3rem;">
+                        <!-- This content will be replaced by JavaScript -->
                     </h1>
+                    <script>
+                        const slogans = [
+                            "Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>",
+                            "Everything you do on Ubuntu, you can do it on <span class='text-primary'>AnduinOS</span>",
+                            "Reveal the power of your computer, choose <span class='text-primary'>AnduinOS</span>",
+                            "<span class='text-primary'>AnduinOS</span> is your final Linux distribution that you will ever need",
+                            "Transitioning from Windows to <span class='text-primary'>AnduinOS</span> is the best choice you've ever made"
+                        ];
+                    
+                        function getRandomSlogan() {
+                            const randomIndex = Math.floor(Math.random() * slogans.length);
+                            return slogans[randomIndex];
+                        }
+                    
+                        const sloganElement = document.getElementById('main-slogan');
+                        sloganElement.innerHTML = getRandomSlogan();
+                    </script>
                     <p class="text-lg text-white-50">AnduinOS is a custom Debian-based Linux distribution that aims to
                         facilitate users transitioning from Windows to Ubuntu by maintaining familiar operational habits
                         and workflows.</p>
@@ -255,7 +272,7 @@
                         <div class="col-md-4 py-3">
                             <a class="d-block mb-3 mx-1" target="_blank" href="scs/steam.png" target="_blank">
                                 <img src="scs/steam.png" class="img-fluid rounded-3 landing-img"
-                                    alt="Steam Playing Games on AnduinOS"
+                                    alt="Steam Playing Games on AnduinOS" />
                             </a>
                             <h4>Gaming <sup><small class="badge badge-subtle-primary">With Steam</small></sup></h4>
                         </div>
