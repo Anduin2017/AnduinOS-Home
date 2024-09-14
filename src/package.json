@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "aiur-ui-stack": "^1.0.0"
+    "@aiursoft/uistack": "^1.0.3"
   }
 }
