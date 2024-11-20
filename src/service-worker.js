@@ -1,4 +1,4 @@
-const CACHE_NAME = 'anduinOS-cache-v15';
+const CACHE_NAME = 'anduinOS-cache-v16';
 const urlsToCache = [
   '/',
   '/index.html',
@@ -27,54 +27,59 @@ self.addEventListener('install', event => {
         return cache.addAll(urlsToCache);
       })
   );
+  self.skipWaiting(); // Activate worker immediately
 });
 
 self.addEventListener('fetch', event => {
   event.respondWith(
-    caches.match(event.request).then(cachedResponse => {
-      if (cachedResponse) {
-        // Check if the cache is still valid
-        return caches.open(CACHE_NAME).then(cache => {
-          return cache.match(event.request).then(response => {
-            const cachedTime = new Date(response.headers.get('sw-cache-time')).getTime();
-            const now = Date.now();
+    caches.open(CACHE_NAME).then(cache => {
+      return cache.match(event.request).then(cachedResponse => {
+        const now = Date.now();
 
-            if (now - cachedTime > MAX_CACHE_AGE) {
-              // Cache is expired, fetch a new version
-              return fetchAndCache(event.request, cache);
+        if (cachedResponse) {
+          const cachedTime = cachedResponse.headers.get('sw-cache-time');
+          if (cachedTime) {
+            const cacheTime = new Date(cachedTime).getTime();
+            if (now - cacheTime < MAX_CACHE_AGE) {
+              // Return valid cached response
+              return cachedResponse;
             }
-            return response;
-          });
-        });
-      }
-
-      // If no cache exists, fetch and cache it
-      return fetchAndCache(event.request);
+          }
+          // Cache expired, fetch and cache a new version
+          return fetchAndCache(event.request, cache);
+        } else {
+          // No cache, fetch and cache
+          return fetchAndCache(event.request, cache);
+        }
+      });
     })
   );
 });
 
-// Function to fetch and cache a request
 function fetchAndCache(request, cache) {
-  return fetch(request).then(response => {
-    if (!response || response.status !== 200 || response.type !== 'basic') {
-      return response;
+  return fetch(request).then(networkResponse => {
+    if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
+      return networkResponse;
     }
 
-    const responseToCache = response.clone();
-    const cacheHeaders = new Headers(responseToCache.headers);
-    cacheHeaders.append('sw-cache-time', new Date().toISOString());
+    const responseClone = networkResponse.clone();
 
-    const responseWithHeaders = new Response(responseToCache.body, {
-      status: responseToCache.status,
-      statusText: responseToCache.statusText,
-      headers: cacheHeaders
+    return responseClone.blob().then(bodyBlob => {
+      const cacheHeaders = new Headers(networkResponse.headers);
+      cacheHeaders.append('sw-cache-time', new Date().toISOString());
+
+      const responseWithHeaders = new Response(bodyBlob, {
+        status: networkResponse.status,
+        statusText: networkResponse.statusText,
+        headers: cacheHeaders
+      });
+
+      cache.put(request, responseWithHeaders);
+      return networkResponse;
     });
-
-    cache.put(request, responseWithHeaders);
-    return response;
   });
 }
+
 
 self.addEventListener('activate', event => {
   const cacheWhitelist = [CACHE_NAME];
@@ -82,11 +87,12 @@ self.addEventListener('activate', event => {
     caches.keys().then(cacheNames => {
       return Promise.all(
         cacheNames.map(cacheName => {
-          if (cacheWhitelist.indexOf(cacheName) === -1) {
+          if (!cacheWhitelist.includes(cacheName)) {
             return caches.delete(cacheName);
           }
         })
       );
     })
   );
+  self.clients.claim(); // Take control of clients immediately
 });
