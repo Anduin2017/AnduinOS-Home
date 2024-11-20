@@ -1,4 +1,4 @@
-const CACHE_NAME = 'anduinOS-cache-v14';
+const CACHE_NAME = 'anduinOS-cache-v15';
 const urlsToCache = [
   '/',
   '/index.html',
@@ -12,6 +12,7 @@ const urlsToCache = [
   '/scs/watch.png',
   '/ava/aimer.jpg',
   '/ava/yuyuyuyu.jpg',
+  '/ava/coderay.png',
   '/node_modules/@aiursoft/uistack/dist/css/app.css',
   '/node_modules/@aiursoft/uistack/dist/js/app.js'
 ];
