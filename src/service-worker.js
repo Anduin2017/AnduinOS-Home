@@ -1,8 +1,10 @@
-const CACHE_NAME = 'anduinOS-cache-v21';
+const CACHE_NAME = 'anduinOS-cache-v23';
 const urlsToCache = [
   '/',
   '/index.html',
   '/favicon.svg',
+  '/css/site.css',
+  '/js/site.js',
   '/sc.webp',
   '/scs/blender.png',
   '/scs/build.png',

@@ -1,0 +1,36 @@
+.landing-intro-screenshot img {
+    transform: rotateY(-20deg) rotateX(2deg);
+}
+
+.row.py-4 {
+    position: relative;
+}
+
+.middle-card {
+    transform: scale(1.15);
+    z-index: 1;
+    transition: transform 0.3s, box-shadow 0.3s;
+    margin-left: -14px;
+    margin-right: -14px;
+}
+
+.middle-card:hover {
+    transform: scale(1.2);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.row.py-4 .col-sm-4:nth-child(1),
+.row.py-4 .col-sm-4:nth-child(3) {
+    z-index: 0;
+}
+
+@media (max-width: 768px) {
+    .middle-card {
+        transform: scale(1);
+    }
+
+    .middle-card:hover {
+        transform: scale(1.2);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+}
