@@ -1,4 +1,4 @@
-const CACHE_NAME = 'anduinOS-cache-v23';
+const CACHE_NAME = 'anduinOS-cache-v24';
 const urlsToCache = [
   '/',
   '/index.html',
@@ -12,6 +12,12 @@ const urlsToCache = [
   '/scs/serve.png',
   '/scs/steam.png',
   '/scs/watch.png',
+  '/scs/blender_comp.png',
+  '/scs/build_comp.png',
+  '/scs/office_comp.png',
+  '/scs/serve_comp.png',
+  '/scs/steam_comp.png',
+  '/scs/watch_comp.png',
   '/ava/aimer.jpg',
   '/ava/yuyuyuyu.jpg',
   '/ava/coderay.png',
