@@ -60,11 +60,7 @@ const languages = [
   { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма" },
   { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo" },
   { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação" },
-  {
-    code: "pt_BR",
-    name: "Português (Brasil)",
-    checksumLabel: "Soma de verificação",
-  },
+  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação"},
   { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة" },
   { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal" },
   { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma" },
@@ -106,8 +102,7 @@ function createVersionCard(versionObj) {
   h5.textContent = versionObj.codename;
 
   const spanVersion = document.createElement("span");
-  spanVersion.className =
-    versionObj.version === "1.1" ? "display-2" : "display-5";
+  spanVersion.className = versionObj.recommended ? "display-2" : "display-5";
   spanVersion.textContent = versionObj.version;
 
   const spanType = document.createElement("span");
