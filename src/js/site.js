@@ -174,7 +174,7 @@ function createVersionCard(versionObj) {
 function openDownloadModal(versionObj) {
   downloadModalTitle.textContent = `Download AnduinOS ${versionObj.version}`;
   downloadModalDescription.textContent =
-    "To download AnduinOS, select the correct edition below: (1.7GB)";
+    "To download AnduinOS, select the correct edition below: (1.8GB)";
   downloadLinksContainer.innerHTML = ""; // Clear previous links
 
   languages.forEach((lang) => {
