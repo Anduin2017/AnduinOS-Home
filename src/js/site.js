@@ -15,7 +15,7 @@ const versions = [
   {
     version: "1.1",
     tag: "latest-lts",
-    latest: "1.1.0",
+    latest: "1.1.1",
     codename: "Noble Numbat",
     type: "Latest LTS",
     support: "Support till Apr 2029",
@@ -29,7 +29,7 @@ const versions = [
   {
     version: "1.2",
     tag: "latest",
-    latest: "1.2.0",
+    latest: "1.2.1",
     codename: "Oracular Oriole",
     type: "Standard",
     support: "Support till Jul 2025",
