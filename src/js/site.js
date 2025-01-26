@@ -1,3 +1,30 @@
+const languages = [
+  {
+    code: "en_US",
+    name: "English (United States)",
+    checksumLabel: "Checksum",
+  },
+  { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和" },
+  { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和" },
+  { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和" },
+  { code: "ja_JP", name: "日本語", checksumLabel: "チェックサム" },
+  { code: "ko_KR", name: "한국어", checksumLabel: "체크섬" },
+  { code: "vi_VN", name: "Tiếng Việt", checksumLabel: "Kiểm tra" },
+  { code: "th_TH", name: "ภาษาไทย", checksumLabel: "ตรวจสอบ" },
+  { code: "de_DE", name: "Deutsch", checksumLabel: "Prüfsumme" },
+  { code: "fr_FR", name: "Français", checksumLabel: "Somme de contrôle" },
+  { code: "es_ES", name: "Español", checksumLabel: "Suma de comprobación" },
+  { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма" },
+  { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo" },
+  { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação" },
+  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação"},
+  { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة" },
+  { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal" },
+  { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma" },
+  { code: "pl_PL", name: "Polski", checksumLabel: "Suma kontrolna" },
+  { code: "tr_TR", name: "Türkçe", checksumLabel: "Kontrol toplamı" },
+];
+
 const versionCardsContainer = document.getElementById("version-cards");
 const downloadModal = new bootstrap.Modal(
   document.getElementById("download-modal")

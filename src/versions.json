@@ -23,7 +23,7 @@
         "packages": "Ubuntu 24.04 packages",
         "kernel": "Linux kernel 6.8",
         "releaseDate": "Released on 2025.01.06",
-        "latestVersion": "Latest version 1.1.0",
+        "latestVersion": "Latest version 1.1.1",
         "recommended": true
     },
     {
@@ -37,6 +37,6 @@
         "packages": "Ubuntu 24.10 packages",
         "kernel": "Linux kernel 6.11",
         "releaseDate": "Released on 2025.01.09",
-        "latestVersion": "Latest version 1.2.0"
+        "latestVersion": "Latest version 1.2.1"
     }
 ]
