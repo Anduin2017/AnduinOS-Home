@@ -1,73 +1,3 @@
-const versions = [
-  {
-    version: "1.0",
-    tag: "lts",
-    latest: "1.0.6",
-    codename: "Jammy Jellyfish",
-    type: "LTS",
-    support: "Support till Apr 2027",
-    gnome: "Gnome 42",
-    packages: "Ubuntu 22.04 packages",
-    kernel: "Linux kernel 6.8",
-    releaseDate: "Released on 2024.09.01",
-    latestVersion: "Latest version 1.0.6",
-  },
-  {
-    version: "1.1",
-    tag: "latest-lts",
-    latest: "1.1.1",
-    codename: "Noble Numbat",
-    type: "Latest LTS",
-    support: "Support till Apr 2029",
-    gnome: "Gnome 46",
-    packages: "Ubuntu 24.04 packages",
-    kernel: "Linux kernel 6.8",
-    releaseDate: "Released on 2025.01.06",
-    latestVersion: "Latest version 1.1.0",
-    recommended: true,
-  },
-  {
-    version: "1.2",
-    tag: "latest",
-    latest: "1.2.1",
-    codename: "Oracular Oriole",
-    type: "Standard",
-    support: "Support till Jul 2025",
-    gnome: "Gnome 47",
-    packages: "Ubuntu 24.10 packages",
-    kernel: "Linux kernel 6.11",
-    releaseDate: "Released on 2025.01.09",
-    latestVersion: "Latest version 1.2.0",
-  },
-];
-
-const languages = [
-  {
-    code: "en_US",
-    name: "English (United States)",
-    checksumLabel: "Checksum",
-  },
-  { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和" },
-  { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和" },
-  { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和" },
-  { code: "ja_JP", name: "日本語", checksumLabel: "チェックサム" },
-  { code: "ko_KR", name: "한국어", checksumLabel: "체크섬" },
-  { code: "vi_VN", name: "Tiếng Việt", checksumLabel: "Kiểm tra" },
-  { code: "th_TH", name: "ภาษาไทย", checksumLabel: "ตรวจสอบ" },
-  { code: "de_DE", name: "Deutsch", checksumLabel: "Prüfsumme" },
-  { code: "fr_FR", name: "Français", checksumLabel: "Somme de contrôle" },
-  { code: "es_ES", name: "Español", checksumLabel: "Suma de comprobación" },
-  { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма" },
-  { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo" },
-  { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação" },
-  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação"},
-  { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة" },
-  { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal" },
-  { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma" },
-  { code: "pl_PL", name: "Polski", checksumLabel: "Suma kontrolna" },
-  { code: "tr_TR", name: "Türkçe", checksumLabel: "Kontrol toplamı" },
-];
-
 const versionCardsContainer = document.getElementById("version-cards");
 const downloadModal = new bootstrap.Modal(
   document.getElementById("download-modal")
@@ -79,6 +9,20 @@ const downloadModalDescription = document.getElementById(
 const downloadLinksContainer = document.getElementById(
   "download-links-container"
 );
+
+// Function to fetch versions from API
+async function fetchVersions() {
+  try {
+    const response = await fetch("/versions.json");
+    if (!response.ok) {
+      throw new Error(`Failed to fetch versions: ${response.status}`);
+    }
+    const versions = await response.json();
+    generateVersionCards(versions);
+  } catch (error) {
+    console.error("Error fetching versions:", error);
+  }
+}
 
 // Function to create version card
 function createVersionCard(versionObj) {
@@ -202,8 +146,13 @@ function openDownloadModal(versionObj) {
   downloadModal.show();
 }
 
-// Generate all version cards
-versions.forEach((version) => {
-  const card = createVersionCard(version);
-  versionCardsContainer.appendChild(card);
-});
+// Function to generate version cards dynamically
+function generateVersionCards(versions) {
+  versions.forEach((version) => {
+    const card = createVersionCard(version);
+    versionCardsContainer.appendChild(card);
+  });
+}
+
+// Fetch and populate versions on page load
+fetchVersions();
