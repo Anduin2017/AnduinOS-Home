@@ -1,4 +1,4 @@
-const CACHE_NAME = 'anduinOS-cache-v25';
+const CACHE_NAME = 'anduinOS-cache-v26';
 const urlsToCache = [
   '/',
   '/index.html',
