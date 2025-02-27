@@ -13,7 +13,7 @@
     },
     {
         "version": "1.1",
-        "latest": "1.1.1",
+        "latest": "1.1.2",
         "codename": "Noble Numbat",
         "type": "Latest LTS",
         "support": "Support till Apr 2029",
@@ -21,12 +21,12 @@
         "packages": "Ubuntu 24.04 packages",
         "kernel": "Linux kernel 6.8",
         "releaseDate": "Released on 2025.01.06",
-        "latestVersion": "Latest version 1.1.1",
+        "latestVersion": "Latest version 1.1.2",
         "recommended": true
     },
     {
         "version": "1.2",
-        "latest": "1.2.1",
+        "latest": "1.2.2",
         "codename": "Oracular Oriole",
         "type": "Standard",
         "support": "Support till Jul 2025",
@@ -34,6 +34,6 @@
         "packages": "Ubuntu 24.10 packages",
         "kernel": "Linux kernel 6.11",
         "releaseDate": "Released on 2025.01.09",
-        "latestVersion": "Latest version 1.2.1"
+        "latestVersion": "Latest version 1.2.2"
     }
 ]
