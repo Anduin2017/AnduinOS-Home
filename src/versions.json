@@ -18,7 +18,7 @@
         "support": "Support till Apr 2029",
         "gnome": "Gnome 46",
         "packages": "Ubuntu 24.04 packages",
-        "kernel": "Linux kernel 6.8",
+        "kernel": "Linux kernel 6.11",
         "releaseDate": "Released on 2025.01.06",
         "recommended": true
     },
