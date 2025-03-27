@@ -96,7 +96,7 @@ function createVersionCard(versionObj) {
     versionObj.packages,
     versionObj.kernel,
     versionObj.releaseDate,
-    versionObj.latestVersion,
+    "Latest version " + versionObj.latest,
   ];
   includes.forEach((item) => {
     const li = document.createElement("li");
