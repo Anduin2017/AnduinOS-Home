@@ -54,7 +54,7 @@ async function fetchVersions() {
 // Function to create version card
 function createVersionCard(versionObj) {
   const col = document.createElement("div");
-  col.className = "col-sm-4 mb-3 mb-md-0";
+  col.className = "col-sm-4 mb-5 mb-md-0";
 
   const card = document.createElement("div");
   card.className = "card text-center h-100";
@@ -175,7 +175,9 @@ function openDownloadModal(versionObj) {
 
 // Function to generate version cards dynamically
 function generateVersionCards(versions) {
-  versions.forEach((version) => {
+  versions
+  .filter((version) => version.isVisible)
+  .forEach((version) => {
     const card = createVersionCard(version);
     versionCardsContainer.appendChild(card);
   });
