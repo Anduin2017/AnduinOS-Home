@@ -59,7 +59,7 @@ function createVersionCard(versionObj) {
   const card = document.createElement("div");
   card.className = "card text-center h-100";
 
-  if (versionObj.recommended) {
+  if (versionObj.largeCard) {
     card.classList.add("middle-card");
   }
 
@@ -96,8 +96,12 @@ function createVersionCard(versionObj) {
     versionObj.packages,
     versionObj.kernel,
     versionObj.releaseDate,
-    "Latest version " + versionObj.latest,
+    "Latest version " + versionObj.latest
   ];
+
+  if (versionObj.additionalText) {
+    includes.push(versionObj.additionalText);
+  }
   includes.forEach((item) => {
     const li = document.createElement("li");
     li.className = "mb-2";

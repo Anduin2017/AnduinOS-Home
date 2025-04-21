@@ -1,6 +1,7 @@
 [
     {
         "isVisible": true,
+        "largeCard": false,
         "version": "1.0",
         "latest": "1.0.7",
         "codename": "Jammy Jellyfish",
@@ -9,10 +10,13 @@
         "gnome": "Gnome 42",
         "packages": "Ubuntu 22.04 packages",
         "kernel": "Linux kernel 6.8",
-        "releaseDate": "Released on 2024.09.01"
+        "releaseDate": "Released on 2024.09.01",
+        "additionalText": "",
+        "recommended": false
     },
     {
         "isVisible": true,
+        "largeCard": true,
         "version": "1.1",
         "latest": "1.1.3",
         "codename": "Noble Numbat",
@@ -22,10 +26,12 @@
         "packages": "Ubuntu 24.04 packages",
         "kernel": "Linux kernel 6.11",
         "releaseDate": "Released on 2025.01.06",
+        "additionalText": "Recommended for most users.",
         "recommended": true
     },
     {
         "isVisible": false,
+        "largeCard": false,
         "version": "1.2",
         "latest": "1.2.3",
         "codename": "Oracular Oriole",
@@ -34,10 +40,13 @@
         "gnome": "Gnome 47",
         "packages": "Ubuntu 24.10 packages",
         "kernel": "Linux kernel 6.11",
-        "releaseDate": "Released on 2025.01.09"
+        "releaseDate": "Released on 2025.01.09",
+        "additionalText": "",
+        "recommended": false
     },
     {
         "isVisible": true,
+        "largeCard": false,
         "version": "1.3",
         "latest": "1.3.0",
         "codename": "Plucky Puffin",
@@ -47,6 +56,7 @@
         "packages": "Ubuntu 25.04 packages",
         "kernel": "Linux kernel 6.14",
         "releaseDate": "Released on 2025.05.01",
-        "recommended": false
+        "additionalText": "Use flatpak for graphical applications. Recommended for enthusiasts.",
+        "recommended": true
     }
 ]
