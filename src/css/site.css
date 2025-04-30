@@ -6,6 +6,10 @@
     position: relative;
 }
 
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.17);
+}
+
 .middle-card {
     transform: scale(1.15);
     z-index: 1;
@@ -22,15 +26,4 @@
 .row.py-4 .col-sm-4:nth-child(1),
 .row.py-4 .col-sm-4:nth-child(3) {
     z-index: 0;
-}
-
-@media (max-width: 768px) {
-    .middle-card {
-        transform: scale(1);
-    }
-
-    .middle-card:hover {
-        transform: scale(1.2);
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
 }
