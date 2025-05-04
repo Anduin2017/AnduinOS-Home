@@ -65,6 +65,6 @@
         "additionalText": "Use flatpak for graphical applications. Recommended for enthusiasts.",
         "recommended": true,
         "notRecommended": false,
-        "supportTorrent": false
+        "supportTorrent": true
     }
 ]
