@@ -1,28 +1,24 @@
 const languages = [
-  {
-    code: "en_US",
-    name: "English (United States)",
-    checksumLabel: "Checksum",
-  },
-  { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和" },
-  { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和" },
-  { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和" },
-  { code: "ja_JP", name: "日本語", checksumLabel: "チェックサム" },
-  { code: "ko_KR", name: "한국어", checksumLabel: "체크섬" },
-  { code: "vi_VN", name: "Tiếng Việt", checksumLabel: "Kiểm tra" },
-  { code: "th_TH", name: "ภาษาไทย", checksumLabel: "ตรวจสอบ" },
-  { code: "de_DE", name: "Deutsch", checksumLabel: "Prüfsumme" },
-  { code: "fr_FR", name: "Français", checksumLabel: "Somme de contrôle" },
-  { code: "es_ES", name: "Español", checksumLabel: "Suma de comprobación" },
-  { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма" },
-  { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo" },
-  { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação" },
-  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação"},
-  { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة" },
-  { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal" },
-  { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma" },
-  { code: "pl_PL", name: "Polski", checksumLabel: "Suma kontrolna" },
-  { code: "tr_TR", name: "Türkçe", checksumLabel: "Kontrol toplamı" },
+  { code: "en_US", name: "English (United States)", checksumLabel: "Checksum", torrentLabel: "Torrent" },
+  { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和", torrentLabel: "种子" },
+  { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和", torrentLabel: "種子" },
+  { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和", torrentLabel: "種子" },
+  { code: "ja_JP", name: "日本語", checksumLabel: "チェックサム", torrentLabel: "トレント" },
+  { code: "ko_KR", name: "한국어", checksumLabel: "체크섬", torrentLabel: "토렌트" },
+  { code: "vi_VN", name: "Tiếng Việt", checksumLabel: "Mã kiểm tra", torrentLabel: "Torrent" },
+  { code: "th_TH", name: "ภาษาไทย", checksumLabel: "เช็กซัม", torrentLabel: "ทอร์เรนต์" },
+  { code: "de_DE", name: "Deutsch", checksumLabel: "Prüfsumme", torrentLabel: "Torrent" },
+  { code: "fr_FR", name: "Français", checksumLabel: "Somme de contrôle", torrentLabel: "Torrent" },
+  { code: "es_ES", name: "Español", checksumLabel: "Suma de comprobación", torrentLabel: "Torrent" },
+  { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма", torrentLabel: "Торрент" },
+  { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo", torrentLabel: "Torrent" },
+  { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação", torrentLabel: "Torrent" },
+  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação", torrentLabel: "Torrent" },
+  { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة", torrentLabel: "التورنت" },
+  { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal", torrentLabel: "Torrent" },
+  { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma", torrentLabel: "Torrent" },
+  { code: "pl_PL", name: "Polski", checksumLabel: "Suma kontrolna", torrentLabel: "Torrent" },
+  { code: "tr_TR", name: "Türkçe", checksumLabel: "Kontrol toplamı", torrentLabel: "Torrent" },
 ];
 
 const versionCardsContainer = document.getElementById("version-cards");
@@ -65,6 +61,10 @@ function createVersionCard(versionObj) {
 
   const cardBody = document.createElement("div");
   cardBody.className = "card-body d-flex flex-column";
+
+  if (versionObj.notRecommended) {
+    cardBody.style.setProperty("color", "#bbb", "important");
+  }
 
   const versionInfo = document.createElement("div");
   versionInfo.className = "mb-4";
@@ -165,11 +165,20 @@ function openDownloadModal(versionObj) {
     checksumLink.className = "btn btn-outline-primary btn-lg btn-pill mb-2";
     checksumLink.textContent = lang.checksumLabel;
 
+    const torrentLink = document.createElement("a");
+    torrentLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.torrent`;
+    torrentLink.target = "_blank";
+    torrentLink.className = "btn btn-outline-primary btn-lg btn-pill mb-2";
+    torrentLink.textContent = lang.torrentLabel;
+
     // Wrap links in a div for better layout
     const linkDiv = document.createElement("div");
     linkDiv.className = "mb-2";
     linkDiv.appendChild(isoLink);
     linkDiv.appendChild(checksumLink);
+    if (versionObj.supportTorrent) {
+      linkDiv.appendChild(torrentLink);
+    }
 
     downloadLinksContainer.appendChild(linkDiv);
   });

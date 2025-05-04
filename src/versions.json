@@ -11,8 +11,10 @@
         "packages": "Ubuntu 22.04 packages",
         "kernel": "Linux kernel 6.8",
         "releaseDate": "Released on 2024.09.01",
-        "additionalText": "",
-        "recommended": false
+        "additionalText": "Outdated.",
+        "recommended": false,
+        "notRecommended": true,
+        "supportTorrent": false
     },
     {
         "isVisible": true,
@@ -27,7 +29,9 @@
         "kernel": "Linux kernel 6.11",
         "releaseDate": "Released on 2025.01.06",
         "additionalText": "Recommended for most users.",
-        "recommended": false
+        "recommended": false,
+        "notRecommended": false,
+        "supportTorrent": true
     },
     {
         "isVisible": false,
@@ -42,7 +46,9 @@
         "kernel": "Linux kernel 6.11",
         "releaseDate": "Released on 2025.01.09",
         "additionalText": "",
-        "recommended": false
+        "recommended": false,
+        "notRecommended": false,
+        "supportTorrent": false
     },
     {
         "isVisible": true,
@@ -57,6 +63,8 @@
         "kernel": "Linux kernel 6.14",
         "releaseDate": "Released on 2025.05.01",
         "additionalText": "Use flatpak for graphical applications. Recommended for enthusiasts.",
-        "recommended": true
+        "recommended": true,
+        "notRecommended": false,
+        "supportTorrent": false
     }
 ]
