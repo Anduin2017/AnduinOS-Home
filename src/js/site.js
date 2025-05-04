@@ -160,7 +160,7 @@ function openDownloadModal(versionObj) {
     isoLink.textContent = `ISO - ${lang.name}`;
 
     const checksumLink = document.createElement("a");
-    checksumLink.href = `https://cdn-bu5f377d8s2m.vultrcdn.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.sha256`;
+    checksumLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.sha256`;
     checksumLink.target = "_blank";
     checksumLink.className = "btn btn-outline-primary btn-lg btn-pill mb-2";
     checksumLink.textContent = lang.checksumLabel;
