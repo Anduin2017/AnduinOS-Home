@@ -154,7 +154,7 @@ function openDownloadModal(versionObj) {
 
   languages.forEach((lang) => {
     const isoLink = document.createElement("a");
-    isoLink.href = `https://cdn-bu5f377d8s2m.vultrcdn.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.iso`;
+    isoLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.iso`;
     isoLink.target = "_blank";
     isoLink.className = "btn btn-primary btn-lg btn-pill me-2 mb-2";
     isoLink.textContent = `ISO - ${lang.name}`;
