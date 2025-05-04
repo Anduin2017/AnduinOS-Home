@@ -162,23 +162,23 @@ function openDownloadModal(versionObj) {
     const checksumLink = document.createElement("a");
     checksumLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.sha256`;
     checksumLink.target = "_blank";
-    checksumLink.className = "btn btn-outline-primary btn-lg btn-pill mb-2";
+    checksumLink.className = "btn btn-outline-primary btn-lg btn-pill me-2 mb-2";
     checksumLink.textContent = lang.checksumLabel;
 
     const torrentLink = document.createElement("a");
     torrentLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.torrent`;
     torrentLink.target = "_blank";
-    torrentLink.className = "btn btn-outline-primary btn-lg btn-pill mb-2";
+    torrentLink.className = "btn btn-outline-primary btn-lg btn-pill me-2 mb-2";
     torrentLink.textContent = lang.torrentLabel;
 
     // Wrap links in a div for better layout
     const linkDiv = document.createElement("div");
     linkDiv.className = "mb-2";
     linkDiv.appendChild(isoLink);
-    linkDiv.appendChild(checksumLink);
     if (versionObj.supportTorrent) {
       linkDiv.appendChild(torrentLink);
     }
+    linkDiv.appendChild(checksumLink);
 
     downloadLinksContainer.appendChild(linkDiv);
   });
