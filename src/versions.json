@@ -37,7 +37,7 @@
         "isVisible": false,
         "largeCard": false,
         "version": "1.2",
-        "latest": "1.2.3",
+        "latest": "1.2.4",
         "codename": "Oracular Oriole",
         "type": "Standard",
         "support": "Support till Jul 2025",
@@ -62,7 +62,7 @@
         "packages": "Ubuntu 25.04 packages",
         "kernel": "Linux kernel 6.14",
         "releaseDate": "Released on 2025.05.01",
-        "additionalText": "Use flatpak for graphical applications. Recommended for enthusiasts.",
+        "additionalText": "Use flatpak for graphical applications.",
         "recommended": true,
         "notRecommended": false,
         "supportTorrent": true
