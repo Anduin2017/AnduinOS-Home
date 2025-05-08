@@ -28,7 +28,7 @@
         "packages": "Ubuntu 24.04 packages",
         "kernel": "Linux kernel 6.11",
         "releaseDate": "Released on 2025.01.06",
-        "additionalText": "Recommended for most users.",
+        "additionalText": "Recommended for users need a stable long-term version and on older hardware.",
         "recommended": false,
         "notRecommended": false,
         "supportTorrent": true
