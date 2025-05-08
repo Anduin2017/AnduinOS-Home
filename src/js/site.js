@@ -1,24 +1,24 @@
 const languages = [
-  { code: "en_US", name: "English (United States)", checksumLabel: "Checksum", torrentLabel: "Torrent" },
-  { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和", torrentLabel: "种子" },
-  { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和", torrentLabel: "種子" },
-  { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和", torrentLabel: "種子" },
-  { code: "ja_JP", name: "日本語", checksumLabel: "チェックサム", torrentLabel: "トレント" },
-  { code: "ko_KR", name: "한국어", checksumLabel: "체크섬", torrentLabel: "토렌트" },
-  { code: "vi_VN", name: "Tiếng Việt", checksumLabel: "Mã kiểm tra", torrentLabel: "Torrent" },
-  { code: "th_TH", name: "ภาษาไทย", checksumLabel: "เช็กซัม", torrentLabel: "ทอร์เรนต์" },
-  { code: "de_DE", name: "Deutsch", checksumLabel: "Prüfsumme", torrentLabel: "Torrent" },
-  { code: "fr_FR", name: "Français", checksumLabel: "Somme de contrôle", torrentLabel: "Torrent" },
-  { code: "es_ES", name: "Español", checksumLabel: "Suma de comprobación", torrentLabel: "Torrent" },
-  { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма", torrentLabel: "Торрент" },
-  { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo", torrentLabel: "Torrent" },
-  { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação", torrentLabel: "Torrent" },
-  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação", torrentLabel: "Torrent" },
-  { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة", torrentLabel: "التورنت" },
-  { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal", torrentLabel: "Torrent" },
-  { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma", torrentLabel: "Torrent" },
-  { code: "pl_PL", name: "Polski", checksumLabel: "Suma kontrolna", torrentLabel: "Torrent" },
-  { code: "tr_TR", name: "Türkçe", checksumLabel: "Kontrol toplamı", torrentLabel: "Torrent" },
+  { code: "en_US", name: "English (United States)", checksumLabel: "Checksum", torrentLabel: "Torrent", directLabel: "Direct (HTTP)" },
+  { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和", torrentLabel: "种子", directLabel: "源站下载 (HTTP)" },
+  { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和", torrentLabel: "種子", directLabel: "源站下載 (HTTP)" },
+  { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和", torrentLabel: "種子", directLabel: "源站下載 (HTTP)" },
+  { code: "ja_JP", name: "日本語", checksumLabel: "チェックサム", torrentLabel: "トレント", directLabel: "直接ダウンロード (HTTP)" },
+  { code: "ko_KR", name: "한국어", checksumLabel: "체크섬", torrentLabel: "토렌트", directLabel: "직접 다운로드 (HTTP)" },
+  { code: "vi_VN", name: "Tiếng Việt", checksumLabel: "Mã kiểm tra", torrentLabel: "Torrent", directLabel: "Tải trực tiếp (HTTP)" },
+  { code: "th_TH", name: "ภาษาไทย", checksumLabel: "เช็กซัม", torrentLabel: "ทอร์เรนต์", directLabel: "ดาวน์โหลดโดยตรง (HTTP)" },
+  { code: "de_DE", name: "Deutsch", checksumLabel: "Prüfsumme", torrentLabel: "Torrent", directLabel: "Direktdownload (HTTP)" },
+  { code: "fr_FR", name: "Français", checksumLabel: "Somme de contrôle", torrentLabel: "Torrent", directLabel: "Téléchargement direct (HTTP)" },
+  { code: "es_ES", name: "Español", checksumLabel: "Suma de comprobación", torrentLabel: "Torrent", directLabel: "Descarga directa (HTTP)" },
+  { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма", torrentLabel: "Торрент", directLabel: "Прямая загрузка (HTTP)" },
+  { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo", torrentLabel: "Torrent", directLabel: "Download diretto (HTTP)" },
+  { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação", torrentLabel: "Torrent", directLabel: "Download direto (HTTP)" },
+  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação", torrentLabel: "Torrent", directLabel: "Download direto (HTTP)" },
+  { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة", torrentLabel: "التورنت", directLabel: "تحميل مباشر (HTTP)" },
+  { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal", torrentLabel: "Torrent", directLabel: "Directe download (HTTP)" },
+  { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma", torrentLabel: "Torrent", directLabel: "Direktnedladdning (HTTP)" },
+  { code: "pl_PL", name: "Polski", checksumLabel: "Suma kontrolna", torrentLabel: "Torrent", directLabel: "Bezpośrednie pobieranie (HTTP)" },
+  { code: "tr_TR", name: "Türkçe", checksumLabel: "Kontrol toplamı", torrentLabel: "Torrent", directLabel: "Doğrudan İndirme (HTTP)" },
 ];
 
 const versionCardsContainer = document.getElementById("version-cards");
@@ -153,11 +153,22 @@ function openDownloadModal(versionObj) {
   downloadLinksContainer.innerHTML = ""; // Clear previous links
 
   languages.forEach((lang) => {
+    const langLabel = document.createElement("h5");
+    langLabel.className = "mt-3";
+    langLabel.textContent = lang.name;
+    downloadLinksContainer.appendChild(langLabel);
+
     const isoLink = document.createElement("a");
     isoLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.iso`;
     isoLink.target = "_blank";
-    isoLink.className = "btn btn-primary btn-lg btn-pill me-2 mb-2";
-    isoLink.textContent = `ISO - ${lang.name}`;
+    isoLink.className = "btn btn-outline-primary btn-lg btn-pill me-2 mb-2";
+    isoLink.textContent = `${lang.directLabel}`;
+
+    const torrentLink = document.createElement("a");
+    torrentLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.torrent`;
+    torrentLink.target = "_blank";
+    torrentLink.className = "btn btn-primary btn-lg btn-pill me-2 mb-2";
+    torrentLink.textContent = `${lang.torrentLabel}`;
 
     const checksumLink = document.createElement("a");
     checksumLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.sha256`;
@@ -165,11 +176,7 @@ function openDownloadModal(versionObj) {
     checksumLink.className = "btn btn-outline-primary btn-lg btn-pill me-2 mb-2";
     checksumLink.textContent = lang.checksumLabel;
 
-    const torrentLink = document.createElement("a");
-    torrentLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.torrent`;
-    torrentLink.target = "_blank";
-    torrentLink.className = "btn btn-outline-primary btn-lg btn-pill me-2 mb-2";
-    torrentLink.textContent = lang.torrentLabel;
+
 
     // Wrap links in a div for better layout
     const linkDiv = document.createElement("div");
