@@ -48,13 +48,13 @@
         "additionalText": "",
         "recommended": false,
         "notRecommended": false,
-        "supportTorrent": false
+        "supportTorrent": true
     },
     {
         "isVisible": true,
         "largeCard": false,
         "version": "1.3",
-        "latest": "1.3.0",
+        "latest": "1.3.1",
         "codename": "Plucky Puffin",
         "type": "Standard",
         "support": "Support till Jan 2026",

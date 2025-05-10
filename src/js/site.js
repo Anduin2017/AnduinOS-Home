@@ -1,5 +1,6 @@
 const languages = [
   { code: "en_US", name: "English (United States)", checksumLabel: "Checksum", torrentLabel: "Torrent", directLabel: "Direct (HTTP)" },
+  { code: "en_GB", name: "English (United Kingdom)", checksumLabel: "Checksum", torrentLabel: "Torrent", directLabel: "Direct (HTTP)" },
   { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和", torrentLabel: "种子", directLabel: "源站下载 (HTTP)" },
   { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和", torrentLabel: "種子", directLabel: "源站下載 (HTTP)" },
   { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和", torrentLabel: "種子", directLabel: "源站下載 (HTTP)" },
