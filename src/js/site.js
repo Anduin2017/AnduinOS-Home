@@ -37,7 +37,7 @@ const downloadLinksContainer = document.getElementById(
 // Function to fetch versions from API
 async function fetchVersions() {
   try {
-    const response = await fetch("/versions.json");
+    const response = await fetch("/versions.json?version=20250510");
     if (!response.ok) {
       throw new Error(`Failed to fetch versions: ${response.status}`);
     }
