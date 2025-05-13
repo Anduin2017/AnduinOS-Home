@@ -22,6 +22,7 @@
     .middle-card {
         transform: none;
         transition: none;
+        margin: 0;
     }
 
     .middle-card:hover {
