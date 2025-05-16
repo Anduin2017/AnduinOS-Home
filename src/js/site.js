@@ -1,25 +1,151 @@
 const languages = [
-  { code: "en_US", name: "English (United States)", checksumLabel: "Checksum", torrentLabel: "Torrent", directLabel: "Direct (HTTP)" },
-  { code: "en_GB", name: "English (United Kingdom)", checksumLabel: "Checksum", torrentLabel: "Torrent", directLabel: "Direct (HTTP)" },
-  { code: "zh_CN", name: "中文 (中国大陆)", checksumLabel: "校验和", torrentLabel: "种子", directLabel: "源站下载 (HTTP)" },
-  { code: "zh_TW", name: "中文 (台灣)", checksumLabel: "校驗和", torrentLabel: "種子", directLabel: "源站下載 (HTTP)" },
-  { code: "zh_HK", name: "中文 (香港)", checksumLabel: "校驗和", torrentLabel: "種子", directLabel: "源站下載 (HTTP)" },
-  { code: "ja_JP", name: "日本語", checksumLabel: "チェックサム", torrentLabel: "トレント", directLabel: "直接ダウンロード (HTTP)" },
-  { code: "ko_KR", name: "한국어", checksumLabel: "체크섬", torrentLabel: "토렌트", directLabel: "직접 다운로드 (HTTP)" },
-  { code: "vi_VN", name: "Tiếng Việt", checksumLabel: "Mã kiểm tra", torrentLabel: "Torrent", directLabel: "Tải trực tiếp (HTTP)" },
-  { code: "th_TH", name: "ภาษาไทย", checksumLabel: "เช็กซัม", torrentLabel: "ทอร์เรนต์", directLabel: "ดาวน์โหลดโดยตรง (HTTP)" },
-  { code: "de_DE", name: "Deutsch", checksumLabel: "Prüfsumme", torrentLabel: "Torrent", directLabel: "Direktdownload (HTTP)" },
-  { code: "fr_FR", name: "Français", checksumLabel: "Somme de contrôle", torrentLabel: "Torrent", directLabel: "Téléchargement direct (HTTP)" },
-  { code: "es_ES", name: "Español", checksumLabel: "Suma de comprobación", torrentLabel: "Torrent", directLabel: "Descarga directa (HTTP)" },
-  { code: "ru_RU", name: "Русский", checksumLabel: "Контрольная сумма", torrentLabel: "Торрент", directLabel: "Прямая загрузка (HTTP)" },
-  { code: "it_IT", name: "Italiano", checksumLabel: "Somma di controllo", torrentLabel: "Torrent", directLabel: "Download diretto (HTTP)" },
-  { code: "pt_PT", name: "Português", checksumLabel: "Soma de verificação", torrentLabel: "Torrent", directLabel: "Download direto (HTTP)" },
-  { code: "pt_BR", name: "Português (Brasil)", checksumLabel: "Soma de verificação", torrentLabel: "Torrent", directLabel: "Download direto (HTTP)" },
-  { code: "ar_SA", name: "العربية", checksumLabel: "التحقق من الصحة", torrentLabel: "التورنت", directLabel: "تحميل مباشر (HTTP)" },
-  { code: "nl_NL", name: "Nederlands", checksumLabel: "Controlegetal", torrentLabel: "Torrent", directLabel: "Directe download (HTTP)" },
-  { code: "sv_SE", name: "Svenska", checksumLabel: "Kontrollsumma", torrentLabel: "Torrent", directLabel: "Direktnedladdning (HTTP)" },
-  { code: "pl_PL", name: "Polski", checksumLabel: "Suma kontrolna", torrentLabel: "Torrent", directLabel: "Bezpośrednie pobieranie (HTTP)" },
-  { code: "tr_TR", name: "Türkçe", checksumLabel: "Kontrol toplamı", torrentLabel: "Torrent", directLabel: "Doğrudan İndirme (HTTP)" },
+  {
+    code: "en_US",
+    name: "English (United States)",
+    checksumLabel: "Checksum",
+    torrentLabel: "Torrent",
+    directLabel: "Direct (HTTP)",
+  },
+  {
+    code: "en_GB",
+    name: "English (United Kingdom)",
+    checksumLabel: "Checksum",
+    torrentLabel: "Torrent",
+    directLabel: "Direct (HTTP)",
+  },
+  {
+    code: "zh_CN",
+    name: "中文 (中国大陆)",
+    checksumLabel: "校验和",
+    torrentLabel: "种子",
+    directLabel: "源站下载 (HTTP)",
+  },
+  {
+    code: "zh_TW",
+    name: "中文 (台灣)",
+    checksumLabel: "校驗和",
+    torrentLabel: "種子",
+    directLabel: "源站下載 (HTTP)",
+  },
+  {
+    code: "zh_HK",
+    name: "中文 (香港)",
+    checksumLabel: "校驗和",
+    torrentLabel: "種子",
+    directLabel: "源站下載 (HTTP)",
+  },
+  {
+    code: "ja_JP",
+    name: "日本語",
+    checksumLabel: "チェックサム",
+    torrentLabel: "トレント",
+    directLabel: "直接ダウンロード (HTTP)",
+  },
+  {
+    code: "ko_KR",
+    name: "한국어",
+    checksumLabel: "체크섬",
+    torrentLabel: "토렌트",
+    directLabel: "직접 다운로드 (HTTP)",
+  },
+  {
+    code: "vi_VN",
+    name: "Tiếng Việt",
+    checksumLabel: "Mã kiểm tra",
+    torrentLabel: "Torrent",
+    directLabel: "Tải trực tiếp (HTTP)",
+  },
+  {
+    code: "th_TH",
+    name: "ภาษาไทย",
+    checksumLabel: "เช็กซัม",
+    torrentLabel: "ทอร์เรนต์",
+    directLabel: "ดาวน์โหลดโดยตรง (HTTP)",
+  },
+  {
+    code: "de_DE",
+    name: "Deutsch",
+    checksumLabel: "Prüfsumme",
+    torrentLabel: "Torrent",
+    directLabel: "Direktdownload (HTTP)",
+  },
+  {
+    code: "fr_FR",
+    name: "Français",
+    checksumLabel: "Somme de contrôle",
+    torrentLabel: "Torrent",
+    directLabel: "Téléchargement direct (HTTP)",
+  },
+  {
+    code: "es_ES",
+    name: "Español",
+    checksumLabel: "Suma de comprobación",
+    torrentLabel: "Torrent",
+    directLabel: "Descarga directa (HTTP)",
+  },
+  {
+    code: "ru_RU",
+    name: "Русский",
+    checksumLabel: "Контрольная сумма",
+    torrentLabel: "Торрент",
+    directLabel: "Прямая загрузка (HTTP)",
+  },
+  {
+    code: "it_IT",
+    name: "Italiano",
+    checksumLabel: "Somma di controllo",
+    torrentLabel: "Torrent",
+    directLabel: "Download diretto (HTTP)",
+  },
+  {
+    code: "pt_PT",
+    name: "Português",
+    checksumLabel: "Soma de verificação",
+    torrentLabel: "Torrent",
+    directLabel: "Download direto (HTTP)",
+  },
+  {
+    code: "pt_BR",
+    name: "Português (Brasil)",
+    checksumLabel: "Soma de verificação",
+    torrentLabel: "Torrent",
+    directLabel: "Download direto (HTTP)",
+  },
+  {
+    code: "ar_SA",
+    name: "العربية",
+    checksumLabel: "التحقق من الصحة",
+    torrentLabel: "التورنت",
+    directLabel: "تحميل مباشر (HTTP)",
+  },
+  {
+    code: "nl_NL",
+    name: "Nederlands",
+    checksumLabel: "Controlegetal",
+    torrentLabel: "Torrent",
+    directLabel: "Directe download (HTTP)",
+  },
+  {
+    code: "sv_SE",
+    name: "Svenska",
+    checksumLabel: "Kontrollsumma",
+    torrentLabel: "Torrent",
+    directLabel: "Direktnedladdning (HTTP)",
+  },
+  {
+    code: "pl_PL",
+    name: "Polski",
+    checksumLabel: "Suma kontrolna",
+    torrentLabel: "Torrent",
+    directLabel: "Bezpośrednie pobieranie (HTTP)",
+  },
+  {
+    code: "tr_TR",
+    name: "Türkçe",
+    checksumLabel: "Kontrol toplamı",
+    torrentLabel: "Torrent",
+    directLabel: "Doğrudan İndirme (HTTP)",
+  },
 ];
 
 const versionCardsContainer = document.getElementById("version-cards");
@@ -97,7 +223,7 @@ function createVersionCard(versionObj) {
     versionObj.packages,
     versionObj.kernel,
     versionObj.releaseDate,
-    "Latest version " + versionObj.latest
+    "Latest version " + versionObj.latest,
   ];
 
   if (versionObj.additionalText) {
@@ -147,8 +273,8 @@ function createVersionCard(versionObj) {
 }
 
 function renderDownloadLinks(versionObj, langCode) {
-  const lang = languages.find(l => l.code === langCode);
-  downloadLinksContainer.innerHTML = "";  // 清空
+  const lang = languages.find((l) => l.code === langCode);
+  downloadLinksContainer.innerHTML = ""; // 清空
 
   // direct (HTTP)
   const isoLink = document.createElement("a");
@@ -184,7 +310,7 @@ function openDownloadModal(versionObj) {
 
   const languageSelect = document.getElementById("language-select");
   languageSelect.innerHTML = "";
-  languages.forEach(lang => {
+  languages.forEach((lang) => {
     const opt = document.createElement("option");
     opt.value = lang.code;
     opt.textContent = lang.name;
@@ -203,12 +329,30 @@ function openDownloadModal(versionObj) {
 // Function to generate version cards dynamically
 function generateVersionCards(versions) {
   versions
-  .filter((version) => version.isVisible)
-  .forEach((version) => {
-    const card = createVersionCard(version);
-    versionCardsContainer.appendChild(card);
-  });
+    .filter((version) => version.isVisible)
+    .forEach((version) => {
+      const card = createVersionCard(version);
+      versionCardsContainer.appendChild(card);
+    });
 }
+
+const slogans = [
+  "No telemetry at all! Choose <span class='text-primary'>AnduinOS</span> to regain your privacy",
+  "Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>",
+  "<span class='text-primary'>AnduinOS</span> is Ubuntu's package base + <span class='text-primary'>Flatpak</span> app experience",
+  "Everything you do on Ubuntu, you can do it on <span class='text-primary'>AnduinOS</span>",
+  "Reveal the power of your computer, choose <span class='text-primary'>AnduinOS</span>",
+  "Transitioning to <span class='text-primary'>AnduinOS</span> will be the best decision you've ever made",
+  "<span class='text-primary'>AnduinOS</span> 1.0 is released on 2024.09.01",
+];
+
+function getRandomSlogan() {
+  const randomIndex = Math.floor(Math.random() * slogans.length);
+  return slogans[randomIndex];
+}
+
+const sloganElement = document.getElementById("main-slogan");
+sloganElement.innerHTML = getRandomSlogan();
 
 // Fetch and populate versions on page load
 fetchVersions();
