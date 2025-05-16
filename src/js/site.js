@@ -162,15 +162,23 @@ const downloadLinksContainer = document.getElementById(
 
 // Function to fetch versions from API
 async function fetchVersions() {
+  const cacheKey = 'versions-20250510';
+  const cached = localStorage.getItem(cacheKey);
+  if (cached) {
+    console.log('Using cached versions');
+    generateVersionCards(JSON.parse(cached));
+    return;
+  }
+
   try {
-    const response = await fetch("/versions.json?version=20250510");
-    if (!response.ok) {
-      throw new Error(`Failed to fetch versions: ${response.status}`);
-    }
+    const response = await fetch('/versions.json?version=20250510');
+    if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
+
     const versions = await response.json();
+    localStorage.setItem(cacheKey, JSON.stringify(versions));
     generateVersionCards(versions);
   } catch (error) {
-    console.error("Error fetching versions:", error);
+    console.error('Error fetching versions:', error);
   }
 }
 
