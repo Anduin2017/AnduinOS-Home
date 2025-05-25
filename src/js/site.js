@@ -162,7 +162,7 @@ const downloadLinksContainer = document.getElementById(
 
 // Function to fetch versions from API
 async function fetchVersions() {
-  const cacheKey = 'versions-20250510';
+  const cacheKey = 'versions-20250525';
   const cached = localStorage.getItem(cacheKey);
   if (cached) {
     console.log('Using cached versions');
