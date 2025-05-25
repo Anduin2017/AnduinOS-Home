@@ -160,10 +160,30 @@ const downloadLinksContainer = document.getElementById(
   "download-links-container"
 );
 
+// Get YYYYMMDD
+function get_ymd() {
+  return new Date().toISOString().slice(0, 10).replace(/-/g, '');
+}
+
 // Function to fetch versions from API
 async function fetchVersions() {
-  const cacheKey = 'versions-20250525';
-  const cached = localStorage.getItem(cacheKey);
+  const cacheKey = 'versions-' + get_ymd();
+  let cached = null;
+
+  try {
+    // Clean up old cache entries
+    for (let i = localStorage.length - 1; i >= 0; i--) {
+      const key = localStorage.key(i);
+      if (key && key.startsWith('versions-') && key !== cacheKey) {
+        localStorage.removeItem(key);
+      }
+    }
+    // Try to get cached data
+    cached = localStorage.getItem(cacheKey);
+  } catch (error) {
+    console.warn('localStorage unavailable:', error);
+  }
+
   if (cached) {
     console.log('Using cached versions');
     generateVersionCards(JSON.parse(cached));
@@ -171,9 +191,8 @@ async function fetchVersions() {
   }
 
   try {
-    const response = await fetch('/versions.json?version=20250525');
+    const response = await fetch('/versions.json?version=' + get_ymd());
     if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
-
     const versions = await response.json();
     localStorage.setItem(cacheKey, JSON.stringify(versions));
     generateVersionCards(versions);
