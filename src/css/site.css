@@ -18,18 +18,6 @@
     margin-right: -14px;
 }
 
-@media (max-width: 576px) {
-    .middle-card {
-        transform: none;
-        transition: none;
-        margin: 0;
-    }
-
-    .middle-card:hover {
-        transform: none !important;
-    }
-}
-
 .middle-card:hover {
     transform: scale(1.17);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
@@ -38,4 +26,25 @@
 .row.py-4 .col-sm-4:nth-child(1),
 .row.py-4 .col-sm-4:nth-child(3) {
     z-index: 0;
+}
+
+nav.navbar{
+    display:block;
+    position:fixed;
+    z-index:10;
+    right:0;
+    left:0;
+    border-bottom:1px solid #4b4f5c
+}
+
+@media (max-width: 576px) {
+    .middle-card {
+        transform: none!important;
+        transition: none!important;
+        margin: 0!important;
+    }
+
+    .middle-card:hover {
+        transform: none !important;
+    }
 }

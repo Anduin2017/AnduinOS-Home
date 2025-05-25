@@ -9,13 +9,15 @@
         content="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. AnduinOS uses apt to manage system-wide packages and uses flatpak to manage graphical applications." />
     <meta name="author" content="Anduin Xue">
     <title>Open Source &amp; Linux - AnduinOS</title>
+    <base href="https://www.anduinos.com/">
     <link rel="canonical" href="https://www.anduinos.com" />
     <link rel="shortcut icon" href="favicon.svg">
-    <link href="/node_modules/@aiursoft/uistack/dist/css/app.css" rel="stylesheet">
-    <link href="/css/site.css?v=20250513" rel="stylesheet">
-
-    <script src="/node_modules/@aiursoft/uistack/dist/js/app.js" defer></script>
-    <script src="/js/site.js?v=20250525-2" defer></script>
+    <link href="./node_modules/@aiursoft/uistack/dist/css/app.css" rel="stylesheet">
+    <link href="./css/site.css?v=20250524" rel="stylesheet">
+    <script src="./node_modules/@aiursoft/uistack/dist/js/app.js" defer></script>
+    <script src="./js/site.js?v=20250525-2" defer></script>
+    <link href="./css/gallery.css" rel="stylesheet">
+    <script src="./js/gallery.js" defer></script>
 </head>
 
 <body>
@@ -56,8 +58,8 @@
                 </li>
             </ul>
             <a href="https://download.anduinos.com/" target="_blank"
-                class="btn btn-lg btn-success btn-pill my-2 my-sm-0 ms-3">Download AnduinOS</a>
-            <a href="https://www.paypal.com/paypalme/anduinxue2017" target="_blank" class="btn btn-lg btn-primary btn-pill my-2 my-sm-0 ms-3">Donate (via PayPal)</a>
+                class="btn btn-lg btn-success btn-pill my-2 my-sm-0 ms-3"><i class="fa fa-download" aria-hidden="true"></i> Download AnduinOS</a>
+            <a href="https://www.paypal.com/paypalme/anduinxue2017" target="_blank" rel="noreferer" class="btn btn-lg btn-primary btn-pill my-2 my-sm-0 ms-3"><i class="fa fa-money" aria-hidden="true"></i> Donate</a>
         </div>
     </nav>
 
@@ -70,8 +72,7 @@
                     <span class="badge badge-subtle-primary p-1">GPL-v3 License</span>
                     <h1 id="main-slogan" class="my-4 text-white" style="font-size: 3rem;">
                         <!-- This content will be replaced by JavaScript -->
-                        Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>. <span class='text-primary'>AnduinOS</span> 1.0 is
-                        released on 2024.09.01
+                        Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>.
                     </h1>
                     <p class="text-lg text-white-50">AnduinOS is a custom Ubuntu-based Linux distribution that aims to
                         facilitate developers transitioning from Windows to Linux by maintaining familiar operational
@@ -240,45 +241,33 @@
 
                     <div class="row">
                         <div class="col-md-4 py-3">
-                            <a class="d-block mb-3 mx-1" target="_blank" href="scs/watch.png">
-                                <img src="scs/watch_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
+                                <img gallery src="scs/watch_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                                     alt="Watching Youtube Videos on AnduinOS" />
-                            </a>
                             <h4>Browsing</h4>
                         </div>
                         <div class="col-md-4 py-3">
-                            <a class="d-block mb-3 mx-1" target="_blank" href="scs/steam.png">
-                                <img src="scs/steam_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
+                                <img gallery src="scs/steam_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                                     alt="Steam Playing Games on AnduinOS" />
-                            </a>
                             <h4>Gaming <sup><small class="badge badge-subtle-primary">With Steam</small></sup></h4>
                         </div>
                         <div class="col-md-4 py-3">
-                            <a class="d-block mb-3 mx-1" target="_blank" href="scs/build.png">
-                                <img src="scs/build_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
+                                <img gallery src="scs/build_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                                     alt="Writing Code on AnduinOS" />
-                            </a>
                             <h4>Build</h4>
                         </div>
                         <div class="col-md-4 py-3">
-                            <a class="d-block mb-3 mx-1" target="_blank" href="scs/office.png">
-                                <img src="scs/office_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
+                                <img gallery src="scs/office_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                                     alt="Working on mail and chat on AnduinOS" />
-                            </a>
                             <h4>Work</h4>
                         </div>
                         <div class="col-md-4 py-3">
-                            <a class="d-block mb-3 mx-1" target="_blank" href="scs/serve.png">
-                                <img src="scs/serve_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
+                                <img gallery src="scs/serve_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                                     alt="Hosting a server on AnduinOS" />
-                            </a>
                             <h4>Serve</h4>
                         </div>
                         <div class="col-md-4 py-3">
-                            <a class="d-block mb-3 mx-1" target="_blank" href="scs/blender.png">
-                                <img src="scs/blender_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
+                                <img gallery src="scs/blender_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                                     alt="Editing blender 3D model on AnduinOS" />
-                            </a>
                             <h4>Editing</h4>
                         </div>
                     </div>
@@ -286,6 +275,11 @@
             </div>
         </div>
     </section>
+
+    <div id="iglmodal" class="iglmodal" onclick="igl_hide()">
+        <span class="close" onclick="igl_hide()">&times;</span>
+        <img class="iglmodal-content" id="iglmodal-img">
+    </div>
 
     <section class="py-6 bg-white">
         <div class="container-fluid">
@@ -608,7 +602,7 @@
                         AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows.
                     </p>
                 </div>
-                <div class="col-12 col-md-4 col-lg-2 offset-lg-2 mb-3 mb-md-0">
+                <div class="col-12 col-md-4 col-lg-2 mb-3 mb-md-0">
                     <h4 class="text-light fs-5">Resources</h4>
                     <ul class="list-unstyled ps-0 mb-0 mt-3">
                         <li class="mt-2"><a href="https://news.anduinos.com" class="text-white-50">News</a></li>
@@ -645,6 +639,17 @@
                         <li class="mt-2"><a
                                 href="/terms.html"
                                 class="text-white-50">Terms of Service</a></li>
+                    </ul>
+                </div>
+                <div class="col-12 col-md-4 col-lg-2 mb-3 mb-md-0">
+                    <h4 class="text-light fs-5">Social</h4>
+                    <ul class="list-unstyled ps-0 mb-0 mt-3">
+                        <li class="mt-2"><i class="fa fa-github"></i> <a
+                                href="https://github.com/Anduin2017/AnduinOS/"
+                                class="text-white-50" target="_blank">Github</a></li>
+                        <li class="mt-2"><i class="fa-brands fa-mastodon"></i> <a
+                                href="https://mastodon.social/@AnduinOS"
+                                class="text-white-50" rel="me" target="_blank">Mastodon</a></li>
                     </ul>
                 </div>
             </div>
