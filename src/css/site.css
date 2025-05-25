@@ -37,6 +37,10 @@ nav.navbar{
     border-bottom:1px solid #4b4f5c
 }
 
+.landing-intro{
+    padding-top:160px!important
+}
+
 @media (max-width: 576px) {
     .middle-card {
         transform: none!important;
