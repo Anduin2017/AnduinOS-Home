@@ -171,7 +171,7 @@ async function fetchVersions() {
   }
 
   try {
-    const response = await fetch('/versions.json?version=20250510');
+    const response = await fetch('/versions.json?version=20250525');
     if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
 
     const versions = await response.json();
