@@ -191,7 +191,7 @@ async function fetchVersions() {
   }
 
   try {
-    const response = await fetch('/versions.json?version=' + get_ymd());
+    const response = await fetch('./versions.json?version=' + get_ymd(),{cache: 'force-cache'});
     if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
     const versions = await response.json();
     localStorage.setItem(cacheKey, JSON.stringify(versions));
