@@ -1,3 +1,6 @@
+//=====================================
+//         The Download page
+//=====================================
 const languages = [
   {
     code: "en_US",
@@ -160,45 +163,32 @@ const downloadLinksContainer = document.getElementById(
   "download-links-container"
 );
 
-// Get YYYYMMDD
-function get_ymd() {
-  return new Date().toISOString().slice(0, 10).replace(/-/g, '');
-}
-
 // Function to fetch versions from API
 async function fetchVersions() {
-  const cacheKey = 'versions-' + get_ymd();
-  let cached = null;
-
-  try {
-    // Clean up old cache entries
-    for (let i = localStorage.length - 1; i >= 0; i--) {
-      const key = localStorage.key(i);
-      if (key && key.startsWith('versions-') && key !== cacheKey) {
-        localStorage.removeItem(key);
-      }
-    }
-    // Try to get cached data
-    cached = localStorage.getItem(cacheKey);
-  } catch (error) {
-    console.warn('localStorage unavailable:', error);
-  }
-
+  const cacheKey = 'versions-20250528';
+  const cached = localStorage.getItem(cacheKey);
   if (cached) {
     console.log('Using cached versions');
     generateVersionCards(JSON.parse(cached));
     return;
   }
 
-  try {
-    const response = await fetch('./versions.json?version=' + get_ymd(),{cache: 'force-cache'});
-    if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
-    const versions = await response.json();
-    localStorage.setItem(cacheKey, JSON.stringify(versions));
-    generateVersionCards(versions);
-  } catch (error) {
-    console.error('Error fetching versions:', error);
-  }
+  const response = await fetch(`/versions.json?version=${cacheKey}`);
+  if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
+
+  const versions = await response.json();
+  localStorage.setItem(cacheKey, JSON.stringify(versions));
+  generateVersionCards(versions);
+}
+
+// Function to generate version cards dynamically
+function generateVersionCards(versions) {
+  versions
+    .filter((version) => version.isVisible)
+    .forEach((version) => {
+      const card = createVersionCard(version);
+      versionCardsContainer.appendChild(card);
+    });
 }
 
 // Function to create version card
@@ -299,6 +289,29 @@ function createVersionCard(versionObj) {
   return col;
 }
 
+function openDownloadModal(versionObj) {
+  downloadModalTitle.textContent = `Download AnduinOS ${versionObj.version}`;
+  downloadModalDescription.textContent =
+    `To download AnduinOS, select the correct edition below: (${versionObj.size})`;
+
+  const languageSelect = document.getElementById("language-select");
+  languageSelect.innerHTML = "";
+  languages.forEach((lang) => {
+    const opt = document.createElement("option");
+    opt.value = lang.code;
+    opt.textContent = lang.name;
+    languageSelect.appendChild(opt);
+  });
+
+  languageSelect.onchange = () => {
+    renderDownloadLinks(versionObj, languageSelect.value);
+  };
+
+  renderDownloadLinks(versionObj, languageSelect.value);
+
+  downloadModal.show();
+}
+
 function renderDownloadLinks(versionObj, langCode) {
   const lang = languages.find((l) => l.code === langCode);
   downloadLinksContainer.innerHTML = ""; // 清空
@@ -330,39 +343,11 @@ function renderDownloadLinks(versionObj, langCode) {
   downloadLinksContainer.appendChild(checksumLink);
 }
 
-function openDownloadModal(versionObj) {
-  downloadModalTitle.textContent = `Download AnduinOS ${versionObj.version}`;
-  downloadModalDescription.textContent =
-    "Select the correct edition below: (About ${versionObj.size})";
+fetchVersions();
 
-  const languageSelect = document.getElementById("language-select");
-  languageSelect.innerHTML = "";
-  languages.forEach((lang) => {
-    const opt = document.createElement("option");
-    opt.value = lang.code;
-    opt.textContent = lang.name;
-    languageSelect.appendChild(opt);
-  });
-
-  languageSelect.onchange = () => {
-    renderDownloadLinks(versionObj, languageSelect.value);
-  };
-
-  renderDownloadLinks(versionObj, languageSelect.value);
-
-  downloadModal.show();
-}
-
-// Function to generate version cards dynamically
-function generateVersionCards(versions) {
-  versions
-    .filter((version) => version.isVisible)
-    .forEach((version) => {
-      const card = createVersionCard(version);
-      versionCardsContainer.appendChild(card);
-    });
-}
-
+//=====================================
+//         The Slogan
+//=====================================
 const slogans = [
   "No telemetry at all! Choose <span class='text-primary'>AnduinOS</span> to regain your privacy",
   "Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>",
@@ -381,5 +366,25 @@ function getRandomSlogan() {
 const sloganElement = document.getElementById("main-slogan");
 sloganElement.innerHTML = getRandomSlogan();
 
-// Fetch and populate versions on page load
-fetchVersions();
+//=====================================
+//         The Image Gallery
+//=====================================
+document.addEventListener('DOMContentLoaded', (() => {
+  document.querySelectorAll('img[gallery]').forEach(x => {
+     x.addEventListener('click', function () {
+        igl_show(this)
+     });
+  });
+}));
+function igl_show(img) {
+  var iglmodal = document.getElementById('iglmodal');
+  var iglmodalImg = document.getElementById('iglmodal-img');
+  iglmodal.style.display = 'flex';
+  iglmodalImg.src = img.src.replace('_comp','').replace('.webp','.png');
+  iglmodalImg.onclick = function (event) {
+     event.stopPropagation();
+  };
+}
+function igl_hide() {
+  document.getElementById('iglmodal').style.display = 'none';
+}
