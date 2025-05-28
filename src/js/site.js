@@ -165,7 +165,7 @@ const downloadLinksContainer = document.getElementById(
 
 // Function to fetch versions from API
 async function fetchVersions() {
-  const cacheKey = 'versions-20250528';
+  const cacheKey = 'versions-20250528-2';
   const cached = localStorage.getItem(cacheKey);
   if (cached) {
     console.log('Using cached versions');
@@ -194,7 +194,7 @@ function generateVersionCards(versions) {
 // Function to create version card
 function createVersionCard(versionObj) {
   const col = document.createElement("div");
-  col.className = "col-sm-4 mb-5 mb-md-0";
+  col.className = "col-sm-6 mb-5 mb-md-0";
 
   const card = document.createElement("div");
   card.className = "card text-center h-100";
