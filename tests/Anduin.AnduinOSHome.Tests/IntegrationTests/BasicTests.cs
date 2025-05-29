@@ -4,8 +4,6 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Anduin.AnduinOSHome.Tests.Tools;
 using Microsoft.Extensions.Hosting;
 using static Aiursoft.WebTools.Extends;
-using Aiursoft.AiurObserver.DefaultConsumers;
-using Aiursoft.AiurObserver.WebSocket;
 
 namespace Anduin.AnduinOSHome.Tests.IntegrationTests;
 
