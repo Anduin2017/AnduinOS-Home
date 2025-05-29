@@ -5,7 +5,7 @@
 [![Test Coverage](https://gitlab.aiursoft.cn/anduin/AnduinOS-Home/badges/master/coverage.svg)](https://gitlab.aiursoft.cn/anduin/AnduinOS-Home/-/pipelines)
 [![ManHours](https://manhours.aiursoft.cn/r/gitlab.aiursoft.cn/anduin/anduinos-home.svg)](https://gitlab.aiursoft.cn/anduin/AnduinOS-Home/-/commits/master?ref_type=heads)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.anduinos.com%2F)](https://www.anduinos.com)
-[![Docker](https://img.shields.io/docker/pulls/anduin/AnduinOS-Home.svg)](https://hub.docker.com/r/anduin/AnduinOS-Home)
+[![Docker](https://img.shields.io/docker/pulls/anduin2019/anduinos-home.svg)](https://hub.docker.com/r/anduin/AnduinOS-Home)
 
 AnduinOS-Home is the home page of AnduinOS, which is a web-based operating system. It provides a user-friendly interface to access your AnduinOS system, including downloading ISO files, read document and join community.
 
