@@ -20,13 +20,13 @@ The following script will install\update this app on your Ubuntu server. Support
 On your Ubuntu server, run the following command:
 
 ```bash
-curl -sL https://gitlab.aiursoft.cn/anduin/AnduinOS-Home/-/raw/master/install.sh | sudo bash
+curl -sL https://gitlab.aiursoft.cn/anduin/anduinos-home/-/raw/master/install.sh | sudo bash
 ```
 
 Of course it is suggested that append a custom port number to the command:
 
 ```bash
-curl -sL https://gitlab.aiursoft.cn/anduin/AnduinOS-Home/-/raw/master/install.sh | sudo bash -s 8080
+curl -sL https://gitlab.aiursoft.cn/anduin/anduinos-home/-/raw/master/install.sh | sudo bash -s 8080
 ```
 
 It will install the app as a systemd service, and start it automatically. Binary files will be located at `/opt/apps`. Service files will be located at `/etc/systemd/system`.
@@ -52,8 +52,8 @@ First, install Docker [here](https://docs.docker.com/get-docker/).
 Then run the following commands in a Linux shell:
 
 ```bash
-image=anduin2019/AnduinOS-Home
-appName=AnduinOS-Home
+image=anduin2019/anduinos-home
+appName=anduinos-home
 docker pull $image
 docker run -d --name $appName --restart unless-stopped -p 5000:5000 -v /var/www/$appName:/data $image
 ```
@@ -64,7 +64,7 @@ The docker image has the following context:
 
 | Properties  | Value                           |
 |-------------|---------------------------------|
-| Image       | anduin/AnduinOS-Home            |
+| Image       | anduin/anduinos-home            |
 | Ports       | 5000                            |
 | Binary path | /app                            |
 | Data path   | /data                           |
