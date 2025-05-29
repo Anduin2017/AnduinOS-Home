@@ -60,7 +60,6 @@
 
 nav.navbar{
     display:block;
-    position:fixed;
     z-index:10;
     right:0;
     left:0;
