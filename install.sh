@@ -1,7 +1,7 @@
 aiur() { arg="$( cut -d ' ' -f 2- <<< "$@" )" && curl -sL https://gitlab.aiursoft.cn/aiursoft/aiurscript/-/raw/master/$1.sh | sudo bash -s $arg; }
 
-app_name="anduinOSHome"
-repo_path="https://gitlab.aiursoft.cn/anduin/anduinoshome"
+app_name="anduinos-home"
+repo_path="https://gitlab.aiursoft.cn/anduin/anduinos-home"
 proj_path="src/Anduin.AnduinOSHome/Anduin.AnduinOSHome.csproj"
 
 get_dll_name()
@@ -20,7 +20,7 @@ install()
     fi
     echo "Installing $app_name... to port $port"
 
-    # Install prerequisites    
+    # Install prerequisites
     aiur install/dotnet
     aiur install/node
 
@@ -36,7 +36,7 @@ install()
 
     # Publish the app
     aiur dotnet/publish "/tmp/repo/$proj_path" "/opt/apps/$app_name"
-    
+
     # Register the service
     dll_name=$(get_dll_name)
     aiur services/register_aspnet_service $app_name $port "/opt/apps/$app_name" $dll_name
