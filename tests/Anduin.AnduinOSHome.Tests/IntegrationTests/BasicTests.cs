@@ -1,3 +1,4 @@
+using System.Diagnostics.CodeAnalysis;
 using System.Text.Json;
 using Aiursoft.CSTools.Tools;
 using Anduin.AnduinOSHome.Models;
@@ -32,6 +33,7 @@ public class BasicTests
     }
 
     [TestCleanup]
+    [ExcludeFromCodeCoverage]
     public async Task CleanServer()
     {
         if (_server == null) return;
