@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.anduinos.com%2F)](https://www.anduinos.com)
 [![Docker](https://img.shields.io/docker/pulls/anduin2019/anduinos-home.svg)](https://hub.docker.com/r/anduin2019/anduinos-home)
 
-AnduinOS-Home is the home page of AnduinOS, which is a web-based operating system. It provides a user-friendly interface to access your AnduinOS system, including downloading ISO files, read document and join community.
+AnduinOS-Home is the home page of AnduinOS, which is an Ubuntu based operating system. It hosts as the home page of the website, including downloading ISO files, read document and join community.
 
 ## Try
 
