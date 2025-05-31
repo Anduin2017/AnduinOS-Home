@@ -9,6 +9,8 @@
 
 AnduinOS-Home is the home page of AnduinOS, which is an Ubuntu based operating system. It hosts as the home page of the website, including downloading ISO files, read document and join community.
 
+![overview](./screenshot.png)
+
 ## Try
 
 Try a running AnduinOS-Home [here](https://www.anduinos.com/).
