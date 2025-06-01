@@ -1,3 +1,4 @@
+@using Microsoft.AspNetCore.Localization
 
 @* Footer *@
 <footer class="py-5 bg-dark">
@@ -20,6 +21,67 @@
                     AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning
                     from Windows to Linux by maintaining familiar operational habits and workflows.
                 </p>
+                <div class="dropdown mt-3 mb-3">
+                    <button class="btn btn-outline-light btn-sm dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="fa-solid fa-globe"></i>
+                        @{
+                            var currentCulture = ViewContext.HttpContext.Features.Get<IRequestCultureFeature>()?.RequestCulture.Culture.Name;
+                            // public class Startup : IWebStartup
+                            // {
+                            //     public static Dictionary<string, string> SupportedCultures = new()
+                            //     {
+                            //         { "en_US", "English (United States)" },
+                            //         { "en_GB", "English (United Kingdom)" },
+                            //         { "zh_CN", "中文 (中国)" },
+                            //         { "zh_TW", "中文 (台灣)" },
+                            //         { "zh_HK", "中文 (香港)" },
+                            //         { "ja_JP", "日本語 (日本)" },
+                            //         { "ko_KR", "한국어 (대한민국)" },
+                            //         { "vi_VN", "Tiếng Việt (Việt Nam)" },
+                            //         { "th_TH", "ภาษาไทย (ประเทศไทย)" },
+                            //         { "de_DE", "Deutsch (Deutschland)" },
+                            //         { "fr_FR", "Français (France)" },
+                            //         { "es_ES", "Español (España)" },
+                            //         { "ru_RU", "Русский (Россия)" },
+                            //         { "it_IT", "Italiano (Italia)" },
+                            //         { "pt_PT", "Português (Portugal)" },
+                            //         { "pt_BR", "Português (Brasil)" },
+                            //         { "ar_SA", "العربية (المملكة العربية السعودية)" },
+                            //         { "nl_NL", "Nederlands (Nederland)" },
+                            //         { "sv_SE", "Svenska (Sverige)" },
+                            //         { "pl_PL", "Polski (Polska)" },
+                            //         { "tr_TR", "Türkçe (Türkiye)" }
+                            //     };
+                            // var displayName = currentCulture switch {
+                            //     "en_US" => "English",
+                            //     "zh_CN" => "中文",
+                            //     _ => "English"
+                            // };
+                            var displayName = Startup.SupportedCultures.GetValueOrDefault(currentCulture ?? string.Empty, "Unknown");
+                        }
+                        @displayName
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="languageDropdown">
+                        @foreach (var culture in Startup.SupportedCultures)
+                        {
+                            <li>
+                                <a class="dropdown-item" href="#" onclick="setLanguage('@culture.Key')">
+                                    <i class="fa-solid fa-flag me-2"></i>@culture.Value
+                                </a>
+                            </li>
+                        }
+                        @* <li> *@
+                        @*     <a class="dropdown-item" href="#" onclick="setLanguage('en_US')"> *@
+                        @*         <i class="fa-solid fa-flag me-2"></i>English *@
+                        @*     </a> *@
+                        @* </li> *@
+                        @* <li> *@
+                        @*     <a class="dropdown-item" href="#" onclick="setLanguage('zh_CN')"> *@
+                        @*         <i class="fa-solid fa-flag me-2"></i>中文 *@
+                        @*     </a> *@
+                        @* </li> *@
+                    </ul>
+                </div>
             </div>
             <div class="col-12 col-md-4 col-lg-2 mb-3 mb-md-0">
                 <h4 class="text-light fs-5">Resources</h4>
@@ -64,15 +126,18 @@
                 <h4 class="text-light fs-5">Social</h4>
                 <ul class="list-unstyled ps-0 mb-0 mt-3">
                     <li class="mt-2"><i class="fa-solid fa-comments"></i> <a
-                            href="https://rvlt.gg/dPwPs8e6"
-                            class="text-white-50" target="_blank">Revolt</a></li>
+                                                                              href="https://rvlt.gg/dPwPs8e6"
+                                                                              class="text-white-50" target="_blank">Revolt</a></li>
                     <li class="mt-2"><i class="fa-brands fa-github"></i> <a
-                            href="https://github.com/Anduin2017/AnduinOS/"
-                            class="text-white-50" target="_blank">Github</a></li>
+                                                                             href="https://github.com/Anduin2017/AnduinOS/"
+                                                                             class="text-white-50" target="_blank">Github</a></li>
                     <li class="mt-2"><i class="fa-brands fa-mastodon"></i> <a
-                            href="https://mastodon.social/@@AnduinOS"
-                            class="text-white-50" rel="me" target="_blank">Mastodon</a></li>
+                                                                               href="https://mastodon.social/@@AnduinOS"
+                                                                               class="text-white-50" rel="me" target="_blank">Mastodon</a></li>
                 </ul>
+            </div>
+            <div class="col-12 col-md-4 col-lg-1 mb-3 mb-md-0">
+
             </div>
         </div>
         <div class="row">
@@ -84,3 +149,20 @@
         </div>
     </div>
 </footer>
+
+
+<script>
+function setLanguage(culture) {
+    const form = document.createElement('form');
+    form.method = 'POST';
+    form.action = '/culture/set';
+
+    const cultureInput = document.createElement('input');
+    cultureInput.type = 'hidden';
+    cultureInput.name = 'culture';
+    cultureInput.value = culture;
+    form.appendChild(cultureInput);
+    document.body.appendChild(form);
+    form.submit();
+}
+</script>
