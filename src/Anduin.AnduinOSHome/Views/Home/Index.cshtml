@@ -13,7 +13,7 @@
 
     // Select a random slogan
     var random = new Random().Next(0, slogans.Length);
-    var randomSlogan = Localizer[slogans[random]];
+    var randomSlogan = Localizer[slogans[random]].Value;
 }
 @section scripts {
     <script src="~/js/index.js" asp-append-version="true" defer></script>
