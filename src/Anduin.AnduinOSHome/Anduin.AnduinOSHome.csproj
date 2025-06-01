@@ -15,17 +15,4 @@
     <PackageReference Include="Aiursoft.Scanner" Version="9.0.5" />
     <PackageReference Include="Aiursoft.WebTools" Version="9.0.3" />
   </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Update="Resources\Views\Home\Index.zh_CN.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Index.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Update="Resources\Views\Home\Index.zh_CN.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Index.zh_CN.resx</DependentUpon>
-    </Compile>
-  </ItemGroup>
 </Project>
