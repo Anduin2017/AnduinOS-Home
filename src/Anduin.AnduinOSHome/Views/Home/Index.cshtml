@@ -1,5 +1,19 @@
 @{
     ViewData["Title"] = "Open Source & Linux";
+    var slogans = new[]
+    {
+        "No telemetry at all! Choose <span class='text-primary'>AnduinOS</span> to regain your privacy",
+        "Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>",
+        "<span class='text-primary'>AnduinOS</span> is Ubuntu's package base + <span class='text-primary'>Flatpak</span> app experience",
+        "Everything you do on Ubuntu, you can do it on <span class='text-primary'>AnduinOS</span>",
+        "Reveal the power of your computer, choose <span class='text-primary'>AnduinOS</span>",
+        "Transitioning to <span class='text-primary'>AnduinOS</span> will be the best decision you've ever made",
+        "<span class='text-primary'>AnduinOS</span> 1.0 is released on 2024.09.01",
+    };
+
+    // Select a random slogan
+    var random = new Random().Next(0, slogans.Length);
+    var randomSlogan = slogans[random];
 }
 @section scripts {
     <script src="~/js/index.js" asp-append-version="true" defer></script>
@@ -26,20 +40,18 @@
                 <span class="badge badge-subtle-primary p-1">@Localizer["Free"]</span>
                 <span class="badge badge-subtle-primary p-1">@Localizer["GPL-v3 License"]</span>
                 <h1 id="main-slogan" class="my-4 text-white" style="font-size: 3rem;">
-                    <!-- This content will be replaced by JavaScript -->
-                    @Localizer["Today is the best day for you to switch to"] <span class='text-primary'>@Localizer["AnduinOS"]</span>.
+                    @Html.Raw(randomSlogan)
                 </h1>
                 <p class="text-lg text-white-50">@Localizer["AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows."]</p>
                 <div class="my-4">
-                    <!-- <div class="d-inline-block me-3">
-                        <h2 class="text-white">65+</h2>
-                        <span class="text-white-50">Verified software</span>
-                    </div>
-                    <div class="d-inline-block">
-                        <h2 class="text-white">3</h2>
-                        <span class="text-white-50">Versions</span>
-                    </div> -->
-
+                    @* <div class="d-inline-block me-3"> *@
+                    @*     <h2 class="text-white">65+</h2> *@
+                    @*     <span class="text-white-50">Verified software</span> *@
+                    @* </div> *@
+                    @* <div class="d-inline-block"> *@
+                    @*     <h2 class="text-white">3</h2> *@
+                    @*     <span class="text-white-50">Versions</span> *@
+                    @* </div> *@
                     <span class="badge badge-subtle-primary p-1">v1.3.2</span>
                 </div>
                 <div class="my-4">
@@ -282,7 +294,6 @@
                         <p class="lead mb-2">@Localizer["\"AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!\""]</p>
 
                         <div class="landing-stars">
-                            <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
