@@ -26,37 +26,6 @@
                         <i class="fa-solid fa-globe"></i>
                         @{
                             var currentCulture = ViewContext.HttpContext.Features.Get<IRequestCultureFeature>()?.RequestCulture.Culture.Name;
-                            // public class Startup : IWebStartup
-                            // {
-                            //     public static Dictionary<string, string> SupportedCultures = new()
-                            //     {
-                            //         { "en_US", "English (United States)" },
-                            //         { "en_GB", "English (United Kingdom)" },
-                            //         { "zh_CN", "中文 (中国)" },
-                            //         { "zh_TW", "中文 (台灣)" },
-                            //         { "zh_HK", "中文 (香港)" },
-                            //         { "ja_JP", "日本語 (日本)" },
-                            //         { "ko_KR", "한국어 (대한민국)" },
-                            //         { "vi_VN", "Tiếng Việt (Việt Nam)" },
-                            //         { "th_TH", "ภาษาไทย (ประเทศไทย)" },
-                            //         { "de_DE", "Deutsch (Deutschland)" },
-                            //         { "fr_FR", "Français (France)" },
-                            //         { "es_ES", "Español (España)" },
-                            //         { "ru_RU", "Русский (Россия)" },
-                            //         { "it_IT", "Italiano (Italia)" },
-                            //         { "pt_PT", "Português (Portugal)" },
-                            //         { "pt_BR", "Português (Brasil)" },
-                            //         { "ar_SA", "العربية (المملكة العربية السعودية)" },
-                            //         { "nl_NL", "Nederlands (Nederland)" },
-                            //         { "sv_SE", "Svenska (Sverige)" },
-                            //         { "pl_PL", "Polski (Polska)" },
-                            //         { "tr_TR", "Türkçe (Türkiye)" }
-                            //     };
-                            // var displayName = currentCulture switch {
-                            //     "en_US" => "English",
-                            //     "zh_CN" => "中文",
-                            //     _ => "English"
-                            // };
                             var displayName = Startup.SupportedCultures.GetValueOrDefault(currentCulture ?? string.Empty, "Unknown");
                         }
                         @displayName
@@ -70,16 +39,6 @@
                                 </a>
                             </li>
                         }
-                        @* <li> *@
-                        @*     <a class="dropdown-item" href="#" onclick="setLanguage('en_US')"> *@
-                        @*         <i class="fa-solid fa-flag me-2"></i>English *@
-                        @*     </a> *@
-                        @* </li> *@
-                        @* <li> *@
-                        @*     <a class="dropdown-item" href="#" onclick="setLanguage('zh_CN')"> *@
-                        @*         <i class="fa-solid fa-flag me-2"></i>中文 *@
-                        @*     </a> *@
-                        @* </li> *@
                     </ul>
                 </div>
             </div>
@@ -149,20 +108,3 @@
         </div>
     </div>
 </footer>
-
-
-<script>
-function setLanguage(culture) {
-    const form = document.createElement('form');
-    form.method = 'POST';
-    form.action = '/culture/set';
-
-    const cultureInput = document.createElement('input');
-    cultureInput.type = 'hidden';
-    cultureInput.name = 'culture';
-    cultureInput.value = culture;
-    form.appendChild(cultureInput);
-    document.body.appendChild(form);
-    form.submit();
-}
-</script>

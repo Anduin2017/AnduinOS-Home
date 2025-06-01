@@ -365,3 +365,21 @@ function igl_show(img) {
 function igl_hide() {
     document.getElementById('iglmodal').style.display = 'none';
 }
+
+//=====================================
+//         The Language Selector
+//=====================================
+
+function setLanguage(culture) {
+    const form = document.createElement('form');
+    form.method = 'POST';
+    form.action = '/culture/set';
+
+    const cultureInput = document.createElement('input');
+    cultureInput.type = 'hidden';
+    cultureInput.name = 'culture';
+    cultureInput.value = culture;
+    form.appendChild(cultureInput);
+    document.body.appendChild(form);
+    form.submit();
+}
