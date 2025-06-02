@@ -5,11 +5,11 @@ using Microsoft.Extensions.Options;
 
 namespace Anduin.AnduinOSHome.Controllers;
 
+[LimitPerMin(20)]
 public class HomeController(IOptions<List<VersionInfo>> versions) : Controller
 {
     private readonly List<VersionInfo> _versions = versions.Value;
 
-    [LimitPerMin(10)]
     public IActionResult Index()
     {
         return View();

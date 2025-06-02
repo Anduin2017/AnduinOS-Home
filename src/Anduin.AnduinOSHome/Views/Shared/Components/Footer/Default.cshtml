@@ -1,3 +1,4 @@
+@using Microsoft.AspNetCore.Localization
 
 @* Footer *@
 <footer class="py-5 bg-dark">
@@ -20,6 +21,26 @@
                     AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning
                     from Windows to Linux by maintaining familiar operational habits and workflows.
                 </p>
+                <div class="dropdown mt-3 mb-3">
+                    <button class="btn btn-outline-light btn-sm dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        <i class="fa-solid fa-globe"></i>
+                        @{
+                            var currentCulture = ViewContext.HttpContext.Features.Get<IRequestCultureFeature>()?.RequestCulture.Culture.Name;
+                            var displayName = Startup.SupportedCultures.GetValueOrDefault(currentCulture ?? string.Empty, "Unknown");
+                        }
+                        @displayName
+                    </button>
+                    <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="languageDropdown">
+                        @foreach (var culture in Startup.SupportedCultures)
+                        {
+                            <li>
+                                <a class="dropdown-item" href="#" onclick="setLanguage('@culture.Key')">
+                                    <i class="fa-solid fa-flag me-2"></i>@culture.Value
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                </div>
             </div>
             <div class="col-12 col-md-4 col-lg-2 mb-3 mb-md-0">
                 <h4 class="text-light fs-5">Resources</h4>
@@ -64,15 +85,18 @@
                 <h4 class="text-light fs-5">Social</h4>
                 <ul class="list-unstyled ps-0 mb-0 mt-3">
                     <li class="mt-2"><i class="fa-solid fa-comments"></i> <a
-                            href="https://rvlt.gg/dPwPs8e6"
-                            class="text-white-50" target="_blank">Revolt</a></li>
+                                                                              href="https://rvlt.gg/dPwPs8e6"
+                                                                              class="text-white-50" target="_blank">Revolt</a></li>
                     <li class="mt-2"><i class="fa-brands fa-github"></i> <a
-                            href="https://github.com/Anduin2017/AnduinOS/"
-                            class="text-white-50" target="_blank">Github</a></li>
+                                                                             href="https://github.com/Anduin2017/AnduinOS/"
+                                                                             class="text-white-50" target="_blank">Github</a></li>
                     <li class="mt-2"><i class="fa-brands fa-mastodon"></i> <a
-                            href="https://mastodon.social/@@AnduinOS"
-                            class="text-white-50" rel="me" target="_blank">Mastodon</a></li>
+                                                                               href="https://mastodon.social/@@AnduinOS"
+                                                                               class="text-white-50" rel="me" target="_blank">Mastodon</a></li>
                 </ul>
+            </div>
+            <div class="col-12 col-md-4 col-lg-1 mb-3 mb-md-0">
+
             </div>
         </div>
         <div class="row">

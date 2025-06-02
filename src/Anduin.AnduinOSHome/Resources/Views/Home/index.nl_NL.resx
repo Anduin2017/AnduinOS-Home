@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+
+    <!-- Slogans -->
+    <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+        <value>Geen telemetrie! Kies &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; om je privacy terug te winnen</value>
+    </data>
+    <data name="Today is the best day for you to switch to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>Vandaag is de beste dag om over te stappen naar &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; is Ubuntu's package base + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; is Ubuntu's pakketbasis + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; app-ervaring</value>
+    </data>
+    <data name="Everything you do on Ubuntu, you can do it on &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>Alles wat je op Ubuntu doet, kun je ook op &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; doen</value>
+    </data>
+    <data name="Reveal the power of your computer, choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>Ontdek de kracht van je computer, kies &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;</value>
+    </data>
+    <data name="Transitioning to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; will be the best decision you've ever made" xml:space="preserve">
+        <value>Overstappen naar &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; zal de beste beslissing zijn die je ooit hebt genomen</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is uitgebracht op 2024.09.01</value>
+    </data>
+
+    <!-- Header section -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>Speciale dank!</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>De AnduinOS server wordt met trots gesponsord door</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>een aanbieder van eersteklas hostingdiensten</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>Meld je vandaag aan!</value>
+    </data>
+
+    <!-- Main content -->
+    <data name="Open Source" xml:space="preserve">
+        <value>Open Source</value>
+    </data>
+    <data name="Free" xml:space="preserve">
+        <value>Gratis</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>GPL-v3 Licentie</value>
+    </data>
+    <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+        <value>AnduinOS is een aangepaste Ubuntu-gebaseerde Linux-distributie die ontwikkelaars helpt om van Windows naar Linux over te stappen door vertrouwde werkgewoonten en workflows te behouden.</value>
+    </data>
+    <data name="Download" xml:space="preserve">
+        <value>Downloaden</value>
+    </data>
+    <data name="Docs" xml:space="preserve">
+        <value>Documentatie</value>
+    </data>
+    <data name="All versions" xml:space="preserve">
+        <value>Alle versies</value>
+    </data>
+    <data name="Change Log" xml:space="preserve">
+        <value>Wijzigingslogboek</value>
+    </data>
+
+    <!-- Features section -->
+    <data name="Reasons" xml:space="preserve">
+        <value>Redenen</value>
+    </data>
+    <data name="Why choose AnduinOS?" xml:space="preserve">
+        <value>Waarom AnduinOS kiezen?</value>
+    </data>
+    <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+        <value>Kleinere image, vriendelijke interface, onovertroffen prestaties, veilig en beveiligd.</value>
+    </data>
+    <data name="Ready to use" xml:space="preserve">
+        <value>Klaar voor gebruik</value>
+    </data>
+    <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+        <value>De ISO is slechts 2,0GB groot. Net als Ubuntu is het eenvoudig te installeren en kan het voldoen aan je dagelijkse behoeften zonder aanvullende configuratie of ingewikkelde bewerkingen.</value>
+    </data>
+    <data name="Friendly interface" xml:space="preserve">
+        <value>Vriendelijke interface</value>
+    </data>
+    <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+        <value>De GNOME-gebaseerde desktopomgeving heeft prachtige interfaces en mens-computer interacties die passen bij gebruikersgewoonten, waardoor je snel kunt beginnen met AnduinOS zonder te veel leerkosten.</value>
+    </data>
+    <data name="Root and privacy" xml:space="preserve">
+        <value>Root en privacy</value>
+    </data>
+    <data name="Privacy is no longer optional. It's essential. AnduinOS is designed to gather nothing from you. We don't track you. We don't profile you. We don't target you. You remain anonymous to the system." xml:space="preserve">
+        <value>Privacy is niet langer optioneel. Het is essentieel. AnduinOS is ontworpen om niets van je te verzamelen. We volgen je niet. We profileren je niet. We targeten je niet. Je blijft anoniem voor het systeem.</value>
+    </data>
+    <data name="Ecological perfection" xml:space="preserve">
+        <value>Ecologische perfectie</value>
+    </data>
+    <data name="AnduinOS is based on Ubuntu's package base. It's compatible with most of the apt packages from Ubuntu. It's a perfect combination of experience and ecology." xml:space="preserve">
+        <value>AnduinOS is gebaseerd op Ubuntu's pakketbasis. Het is compatibel met de meeste apt-pakketten van Ubuntu. Het is een perfecte combinatie van ervaring en ecologie.</value>
+    </data>
+    <data name="Open Source" xml:space="preserve">
+        <value>Open Source</value>
+    </data>
+    <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
+        <value>AnduinOS is een open-source project. Volgens de GPL-v3 licentie kun je de broncode bekijken, wijzigen en herdistribueren. Het is gratis en zal altijd gratis blijven.</value>
+    </data>
+    <data name="Containerized" xml:space="preserve">
+        <value>Gecontaineriseerd</value>
+    </data>
+    <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
+        <value>Grafische applicaties worden geïnstalleerd via Flatpak en houden zichzelf gescheiden van het basissysteem (sinds 1.3). Ze maken ook fijnmazige controle over hun machtigingen mogelijk.</value>
+    </data>
+
+    <!-- Download section -->
+    <data name="Versions" xml:space="preserve">
+        <value>Versies</value>
+    </data>
+    <data name="Choose your AnduinOS version" xml:space="preserve">
+        <value>Kies je AnduinOS versie</value>
+    </data>
+    <data name="AnduinOS is available in" xml:space="preserve">
+        <value>AnduinOS is beschikbaar in</value>
+    </data>
+    <data name="two version branches" xml:space="preserve">
+        <value>twee versietakken</value>
+    </data>
+    <data name="LTS and Standard" xml:space="preserve">
+        <value>LTS en Standard</value>
+    </data>
+    <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
+        <value>De LTS-versie wordt aanbevolen voor gebruikers die stabiele langetermijnondersteuning nodig hebben, terwijl de Standard-versie wordt aanbevolen voor gebruikers met nieuwere apparaten die de nieuwste functies willen verkennen.</value>
+    </data>
+
+    <!-- Usage section -->
+    <data name="Usage" xml:space="preserve">
+        <value>Gebruik</value>
+    </data>
+    <data name="With AnduinOS, you can do more" xml:space="preserve">
+        <value>Met AnduinOS kun je meer doen</value>
+    </data>
+    <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It's up to you." xml:space="preserve">
+        <value>Alles wat je op Ubuntu doet, kun je ook op AnduinOS doen. Je kunt het gebruiken als dagelijks besturingssysteem, ontwikkelomgeving, server of leertool. Het is aan jou.</value>
+    </data>
+    <data name="Browsing" xml:space="preserve">
+        <value>Surfen</value>
+    </data>
+    <data name="Gaming" xml:space="preserve">
+        <value>Gamen</value>
+    </data>
+    <data name="With Steam" xml:space="preserve">
+        <value>Met Steam</value>
+    </data>
+    <data name="Build" xml:space="preserve">
+        <value>Bouwen</value>
+    </data>
+    <data name="Work" xml:space="preserve">
+        <value>Werken</value>
+    </data>
+    <data name="Serve" xml:space="preserve">
+        <value>Serveren</value>
+    </data>
+    <data name="Editing" xml:space="preserve">
+        <value>Bewerken</value>
+    </data>
+
+    <!-- Reviews section -->
+    <data name="Reviews" xml:space="preserve">
+        <value>Beoordelingen</value>
+    </data>
+    <data name="What users are saying" xml:space="preserve">
+        <value>Wat gebruikers zeggen</value>
+    </data>
+    <data name="Here's what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
+        <value>Dit is wat enkele van onze 2000+ gebruikers te zeggen hebben over het werken met AnduinOS.</value>
+    </data>
+    <data name="Designer" xml:space="preserve">
+        <value>Designer</value>
+    </data>
+    <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can't miss. Trust me!!!" xml:space="preserve">
+        <value>AnduinOS heeft een schoon, mooi modern ontwerp, gebruiksvriendelijke interface, onder zo veel distributies is dit de keuze die je niet kunt missen. Vertrouw me!!!</value>
+    </data>
+    <data name="Lead Developer" xml:space="preserve">
+        <value>Lead Developer</value>
+    </data>
+    <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
+        <value>AnduinOS heeft nieuw leven geblazen in mijn Surface Go, waarvan ik dacht dat hij nutteloos was. Verrassend genoeg draait het veel soepeler dan Windows. Alle functies werken perfect!</value>
+    </data>
+    <data name="Developer" xml:space="preserve">
+        <value>Developer</value>
+    </data>
+    <data name="AnduinOS is your final Linux distribution! It's built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
+        <value>AnduinOS is je definitieve Linux-distributie! Het is gebouwd voor ontwikkelaars en is lichtgewicht maar toch krachtig. Met zijn goed geconstrueerde thema's en snelkoppelingen kunnen Windows-gebruikers soepel overstappen naar AnduinOS en het instellen van je systeem vergeten.</value>
+    </data>
+    <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
+        <value>AnduinOS heeft mijn levens- en werkprocessen diepgaand gestroomlijnd, waardoor het zijn positie als mijn favoriete Linux-distributie voor dagelijks gebruik heeft verstevigd!</value>
+    </data>
+
+    <!-- Media reviews -->
+    <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
+        <value>...We mogen niet vergeten dat het een 1,8 GB image is. Het vrolijkte me op... Ik denk echt dat het een installatie verdient, de tijd zal het zeker leren.</value>
+    </data>
+    <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It's intuitive, simple to use, and well-designed." xml:space="preserve">
+        <value>In feite is dit een van die &quot;instellen-en-vergeten&quot; distributies die het gebruik van Linux tot een genot maken. Het is intuïtief, eenvoudig te gebruiken en goed ontworpen.</value>
+    </data>
+    <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
+        <value>Het OS blijft zich richten op gebruiksgemak, vooral voor gebruikers die overstappen van Windows.</value>
+    </data>
+    <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
+        <value>Linux is een goede optie om computers draaiende te houden, en als je iets wilt dat lijkt op Windows, dan is AnduinOS het bekijken waard.</value>
+    </data>
+
+    <!-- FAQ section -->
+    <data name="FAQ" xml:space="preserve">
+        <value>FAQ</value>
+    </data>
+    <data name="Frequently asked questions" xml:space="preserve">
+        <value>Veelgestelde vragen</value>
+    </data>
+    <data name="Here are some of the answers you might be looking for." xml:space="preserve">
+        <value>Hier zijn enkele antwoorden waar je mogelijk naar zoekt.</value>
+    </data>
+    <data name="Is it free to use AnduinOS?" xml:space="preserve">
+        <value>Is het gratis om AnduinOS te gebruiken?</value>
+    </data>
+    <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
+        <value>Ja, AnduinOS is gratis te gebruiken. Het is een open-source project dat de GPL-v3 licentie volgt. Je kunt de broncode bekijken, wijzigen en herdistribueren. Het is gratis en zal altijd gratis blijven.</value>
+    </data>
+    <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
+        <value>Wat voor soort applicaties kan ik op AnduinOS draaien?</value>
+    </data>
+    <data name="AnduinOS is based on Ubuntu's package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
+        <value>AnduinOS is gebaseerd op Ubuntu's pakketbasis. Elke software die op Ubuntu draait, kan ook op AnduinOS draaien. Je kunt verschillende applicaties draaien, inclusief maar niet beperkt tot: Linux-apps, web-apps en zelfs Windows-apps met Wine.</value>
+    </data>
+    <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
+        <value>AnduinOS gebruikt Flatpak om grafische applicaties te beheren. Flatpak is een software-hulpprogramma voor software-implementatie, applicatievirtualisatie en pakketbeheer. Het stelt je in staat om applicaties in een sandbox-omgeving uit te voeren, wat kan helpen bij het verbeteren van veiligheid en stabiliteit.</value>
+    </data>
+    <data name="How can I search for solutions to problems?" xml:space="preserve">
+        <value>Hoe kan ik zoeken naar oplossingen voor problemen?</value>
+    </data>
+    <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu's documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
+        <value>Op Ask Ubuntu kun je zoeken naar en vragen stellen over zeer voorkomende problemen. Oplossingen voor bijna alle AnduinOS-problemen zijn identiek aan die voor Ubuntu. Je kunt volledig vertrouwen op Ubuntu's documentatie en expertise om problemen met AnduinOS op te lossen.</value>
+    </data>
+    <data name="Is there any support included?" xml:space="preserve">
+        <value>Is er ondersteuning inbegrepen?</value>
+    </data>
+    <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
+        <value>Je hebt toegang tot AnduinOS online ondersteuningsdiensten via GitHub Discussions. Neem contact met ons op via</value>
+    </data>
+    <data name="here" xml:space="preserve">
+        <value>hier</value>
+    </data>
+    <data name="for any questions." xml:space="preserve">
+        <value>voor eventuele vragen.</value>
+    </data>
+    <data name="Who is behind AnduinOS?" xml:space="preserve">
+        <value>Wie zit er achter AnduinOS?</value>
+    </data>
+    <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
+        <value>AnduinOS is een non-profit project dat in vrije tijd is gebouwd, uitsluitend ondersteund door donaties, en niet gesteund door een bedrijf of nationale regering.</value>
+    </data>
+    <data name="Read more" xml:space="preserve">
+        <value>Lees meer</value>
+    </data>
+    <data name="AnduinOS works based on donations from users. We are grateful for your support. And you can" xml:space="preserve">
+        <value>AnduinOS werkt op basis van donaties van gebruikers. We zijn dankbaar voor je steun. En je kunt</value>
+    </data>
+    <data name="donate" xml:space="preserve">
+        <value>doneren</value>
+    </data>
+    <data name="to us via PayPal." xml:space="preserve">
+        <value>aan ons via PayPal.</value>
+    </data>
+    <data name="How can I contact the AnduinOS team?" xml:space="preserve">
+        <value>Hoe kan ik contact opnemen met het AnduinOS-team?</value>
+    </data>
+    <data name="Please contact us with email at" xml:space="preserve">
+        <value>Neem contact met ons op via e-mail op</value>
+    </data>
+    <data name="for any questions. Please join our" xml:space="preserve">
+        <value>voor eventuele vragen. Doe mee met ons</value>
+    </data>
+    <data name="Revolt channel" xml:space="preserve">
+        <value>Revolt-kanaal</value>
+    </data>
+    <data name="for community support." xml:space="preserve">
+        <value>voor community-ondersteuning.</value>
+    </data>
+
+    <!-- Community section -->
+    <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
+        <value>Sluit je aan bij onze community en raak betrokken bij AnduinOS!</value>
+    </data>
+    <data name="Join Revolt channel" xml:space="preserve">
+        <value>Doe mee met Revolt-kanaal</value>
+    </data>
+    <data name="Join Discussions" xml:space="preserve">
+        <value>Doe mee met Discussions</value>
+    </data>
+
+    <!-- Download modal -->
+    <data name="Download AnduinOS" xml:space="preserve">
+        <value>Download AnduinOS</value>
+    </data>
+    <data name="Select the correct edition below:" xml:space="preserve">
+        <value>Selecteer de juiste editie hieronder:</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>Taal</value>
+    </data>
+    <data name="By downloading, you agree to our" xml:space="preserve">
+        <value>Door te downloaden ga je akkoord met onze</value>
+    </data>
+    <data name="Terms of Service" xml:space="preserve">
+        <value>Servicevoorwaarden</value>
+    </data>
+    <data name="and" xml:space="preserve">
+        <value>en</value>
+    </data>
+    <data name="Privacy Policy" xml:space="preserve">
+        <value>Privacybeleid</value>
+    </data>
+    <data name="Close" xml:space="preserve">
+        <value>Sluiten</value>
+    </data>
+</root>

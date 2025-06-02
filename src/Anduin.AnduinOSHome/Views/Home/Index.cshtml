@@ -1,5 +1,19 @@
 @{
     ViewData["Title"] = "Open Source & Linux";
+    var slogans = new[]
+    {
+        "No telemetry at all! Choose <span class='text-primary'>AnduinOS</span> to regain your privacy",
+        "Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>",
+        "<span class='text-primary'>AnduinOS</span> is Ubuntu's package base + <span class='text-primary'>Flatpak</span> app experience",
+        "Everything you do on Ubuntu, you can do it on <span class='text-primary'>AnduinOS</span>",
+        "Reveal the power of your computer, choose <span class='text-primary'>AnduinOS</span>",
+        "Transitioning to <span class='text-primary'>AnduinOS</span> will be the best decision you've ever made",
+        "<span class='text-primary'>AnduinOS</span> 1.0 is released on 2024.09.01",
+    };
+
+    // Select a random slogan
+    var random = new Random().Next(0, slogans.Length);
+    var randomSlogan = Localizer[slogans[random]].Value;
 }
 @section scripts {
     <script src="~/js/index.js" asp-append-version="true" defer></script>
@@ -8,9 +22,9 @@
 <!-- Ad Banner -->
 <div class="alert alert-dismissible fade show text-center mb-0 pt-2 pb-2 border-0 rounded-0 text-white" role="alert" style="background-color: #2a4b77;">
     <div class="container">
-        <strong class="text-white">Special Thanks!</strong>
-        The AnduinOS server is proudly sponsored by <a href="https://voxihost.pl/" class="alert-link text-white">Voxihost</a>, a provider of top-tier hosting services.
-        <a href="https://voxihost.pl/" class="alert-link ms-2">Sign up today!</a>
+        <strong class="text-white">@Localizer["Special Thanks!"]</strong>
+        @Localizer["The AnduinOS server is proudly sponsored by"] <a href="https://voxihost.pl/" class="alert-link text-white">@Localizer["Voxihost"]</a>, @Localizer["a provider of top-tier hosting services"].
+        <a href="https://voxihost.pl/" class="alert-link ms-2">@Localizer["Sign up today!"]</a>
     </div>
     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" style="padding: .8rem"></button>
 </div>
@@ -22,40 +36,36 @@
     <div class="landing-intro-content container h-100">
         <div class="row align-items-center h-100">
             <div class="col-lg-5 mx-auto">
-                <span class="badge badge-subtle-primary p-1">Open Source</span>
-                <span class="badge badge-subtle-primary p-1">Free</span>
-                <span class="badge badge-subtle-primary p-1">GPL-v3 License</span>
+                <span class="badge badge-subtle-primary p-1">@Localizer["Open Source"]</span>
+                <span class="badge badge-subtle-primary p-1">@Localizer["Free"]</span>
+                <span class="badge badge-subtle-primary p-1">@Localizer["GPL-v3 License"]</span>
                 <h1 id="main-slogan" class="my-4 text-white" style="font-size: 3rem;">
-                    <!-- This content will be replaced by JavaScript -->
-                    Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>.
+                    @Html.Raw(randomSlogan)
                 </h1>
-                <p class="text-lg text-white-50">AnduinOS is a custom Ubuntu-based Linux distribution that aims to
-                    facilitate developers transitioning from Windows to Linux by maintaining familiar operational
-                    habits and workflows.</p>
+                <p class="text-lg text-white-50">@Localizer["AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows."]</p>
                 <div class="my-4">
-                    <!-- <div class="d-inline-block me-3">
-                        <h2 class="text-white">65+</h2>
-                        <span class="text-white-50">Verified software</span>
-                    </div>
-                    <div class="d-inline-block">
-                        <h2 class="text-white">3</h2>
-                        <span class="text-white-50">Versions</span>
-                    </div> -->
-
+                    @* <div class="d-inline-block me-3"> *@
+                    @*     <h2 class="text-white">65+</h2> *@
+                    @*     <span class="text-white-50">Verified software</span> *@
+                    @* </div> *@
+                    @* <div class="d-inline-block"> *@
+                    @*     <h2 class="text-white">3</h2> *@
+                    @*     <span class="text-white-50">Versions</span> *@
+                    @* </div> *@
                     <span class="badge badge-subtle-primary p-1">v1.3.2</span>
                 </div>
                 <div class="my-4">
-                    <a class="btn btn-primary btn-lg btn-pill" href="#download-links">Download</a>
+                    <a class="btn btn-primary btn-lg btn-pill" href="#download-links">@Localizer["Download"]</a>
                     <a href="https://docs.anduinos.com" target="_blank"
-                       class="btn btn-outline-primary btn-lg btn-pill">Docs</a>
+                       class="btn btn-outline-primary btn-lg btn-pill">@Localizer["Docs"]</a>
                 </div>
                 <div class="my-4">
                     <a href="https://download.anduinos.com/" target="_blank" class="">
-                        All versions
+                        @Localizer["All versions"]
                     </a>
                     <a href="https://docs.anduinos.com/CHANGELOG.html" target="_blank"
                        class="ms-2">
-                        Change Log
+                        @Localizer["Change Log"]
                     </a>
                 </div>
             </div>
@@ -72,9 +82,9 @@
 <section class="py-6">
     <div class="container">
         <div class="mb-5 text-center">
-            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">Reasons</span>
-            <h2 class="h1">Why choose AnduinOS?</h2>
-            <p class="text-muted fs-lg">Smaller image, friendly interface, unbeatable performance, safe and secure.
+            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Reasons"]</span>
+            <h2 class="h1">@Localizer["Why choose AnduinOS?"]</h2>
+            <p class="text-muted fs-lg">@Localizer["Smaller image, friendly interface, unbeatable performance, safe and secure."]
             </p>
         </div>
         <div class="row text-start">
@@ -84,10 +94,8 @@
                         <i data-lucide="sliders"></i>
                     </div>
                     <div class="flex-grow-1">
-                        <h4 class="mt-0">Ready to use</h4>
-                        <p class="fs-lg">The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install
-                            and can
-                            meet your daily needs without additional configuration or complicated operations.</p>
+                        <h4 class="mt-0">@Localizer["Ready to use"]</h4>
+                        <p class="fs-lg">@Localizer["The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations."]</p>
                     </div>
                 </div>
             </div>
@@ -97,10 +105,8 @@
                         <i data-lucide="smartphone"></i>
                     </div>
                     <div class="flex-grow-1">
-                        <h4 class="mt-0">Friendly interface</h4>
-                        <p class="fs-lg">The GNOME-based desktop environment have beautiful interfaces and
-                            human-computer interactions that fit user habits, allowing you to quickly get started
-                            with AnduinOS without too much learning cost.</p>
+                        <h4 class="mt-0">@Localizer["Friendly interface"]</h4>
+                        <p class="fs-lg">@Localizer["The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost."]</p>
                     </div>
                 </div>
             </div>
@@ -110,10 +116,8 @@
                         <i data-lucide="mail"></i>
                     </div>
                     <div class="flex-grow-1">
-                        <h4 class="mt-0">Root and privacy</h4>
-                        <p class="fs-lg">Privacy is no longer optional. It's essential. AnduinOS is designed to
-                            gather nothing from you. We don't track you. We don't profile you. We don't target you.
-                            You remain anonymous to the system.</p>
+                        <h4 class="mt-0">@Localizer["Root and privacy"]</h4>
+                        <p class="fs-lg">@Localizer["Privacy is no longer optional. It's essential. AnduinOS is designed to gather nothing from you. We don't track you. We don't profile you. We don't target you. You remain anonymous to the system."]</p>
                     </div>
                 </div>
             </div>
@@ -123,10 +127,8 @@
                         <i data-lucide="chrome"></i>
                     </div>
                     <div class="flex-grow-1">
-                        <h4 class="mt-0">Ecological perfection</h4>
-                        <p class="fs-lg">AnduinOS is based on Ubuntu's package base. It's compatible
-                            with most of the apt packages from Ubuntu. It's a perfect combination of experience and
-                            ecology.</p>
+                        <h4 class="mt-0">@Localizer["Ecological perfection"]</h4>
+                        <p class="fs-lg">@Localizer["AnduinOS is based on Ubuntu's package base. It's compatible with most of the apt packages from Ubuntu. It's a perfect combination of experience and ecology."]</p>
                     </div>
                 </div>
             </div>
@@ -136,10 +138,8 @@
                         <i data-lucide="code"></i>
                     </div>
                     <div class="flex-grow-1">
-                        <h4 class="mt-0">Open source</h4>
-                        <p class="fs-lg">AnduinOS is an open-source project. Following the GPL-v3 license, you can
-                            view the
-                            source code, modify it, and redistribute it. It's free and will always be free.</p>
+                        <h4 class="mt-0">@Localizer["Open Source"]</h4>
+                        <p class="fs-lg">@Localizer["AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It's free and will always be free."]</p>
                     </div>
                 </div>
             </div>
@@ -149,10 +149,8 @@
                         <i data-lucide="download-cloud"></i>
                     </div>
                     <div class="flex-grow-1">
-                        <h4 class="mt-0">Containerized</h4>
-                        <p class="fs-lg">Graphical applications are installed via Flatpak, and keep themselves separate
-                            from the base system (Since 1.3). They also allow for fine-grained control over their
-                            permissions.</p>
+                        <h4 class="mt-0">@Localizer["Containerized"]</h4>
+                        <p class="fs-lg">@Localizer["Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions."]</p>
                     </div>
                 </div>
             </div>
@@ -166,13 +164,11 @@
         <div class="row">
             <div class="col-md-12 col-xl-10 col-xxl-10 mx-auto">
                 <div class="mb-4 text-center">
-                    <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">Versions</span>
-                    <h2 class="h1">Choose your AnduinOS version</h2>
-                    <p class="text-muted fs-lg">AnduinOS is available in <a
-                            href="https://docs.anduinos.com/VERSIONS.html">two version branches</a>: LTS and Standard.
-                        The
-                        LTS version is recommended for users need a stable long-term support, while the Standard version
-                        is recommended for users with newer devices and want to explore the latest features.</p>
+                    <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Versions"]</span>
+                    <h2 class="h1">@Localizer["Choose your AnduinOS version"]</h2>
+                    <p class="text-muted fs-lg">@Localizer["AnduinOS is available in"] <a
+                            href="https://docs.anduinos.com/VERSIONS.html">@Localizer["two version branches"]</a>: @Localizer["LTS and Standard"].
+                        @Localizer["The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features."]</p>
                 </div>
                 <div class="row py-4" id="version-cards">
                     <!-- Version cards will be dynamically inserted here by JavaScript -->
@@ -190,12 +186,10 @@
                 <div class="row">
                     <div class="col-lg-10 col-xl-9 mx-auto">
                         <div class="mb-4">
-                            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">Usage</span>
-                            <h2 class="h1 mb-3">With AnduinOS, you can do more</h2>
+                            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Usage"]</span>
+                            <h2 class="h1 mb-3">@Localizer["With AnduinOS, you can do more"]</h2>
                             <p class="text-muted fs-lg">
-                                Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily
-                                operating system, a
-                                development environment, a server, or a learning tool. It's up to you.
+                                @Localizer["Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It's up to you."]
                             </p>
                         </div>
                     </div>
@@ -205,32 +199,32 @@
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/watch_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                              alt="Watching Youtube Videos on AnduinOS"/>
-                        <h4 class="mt-3">Browsing</h4>
+                        <h4 class="mt-3">@Localizer["Browsing"]</h4>
                     </div>
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/steam_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                              alt="Steam Playing Games on AnduinOS"/>
-                        <h4 class="mt-3">Gaming <sup><small class="badge badge-subtle-primary">With Steam</small></sup></h4>
+                        <h4 class="mt-3">@Localizer["Gaming"] <sup><small class="badge badge-subtle-primary">@Localizer["With Steam"]</small></sup></h4>
                     </div>
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/build_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                              alt="Writing Code on AnduinOS"/>
-                        <h4 class="mt-3">Build</h4>
+                        <h4 class="mt-3">@Localizer["Build"]</h4>
                     </div>
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/office_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                              alt="Working on mail and chat on AnduinOS"/>
-                        <h4 class="mt-3">Work</h4>
+                        <h4 class="mt-3">@Localizer["Work"]</h4>
                     </div>
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/serve_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                              alt="Hosting a server on AnduinOS"/>
-                        <h4 class="mt-3">Serve</h4>
+                        <h4 class="mt-3">@Localizer["Serve"]</h4>
                     </div>
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/blender_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                              alt="Editing blender 3D model on AnduinOS"/>
-                        <h4 class="mt-3">Editing</h4>
+                        <h4 class="mt-3">@Localizer["Editing"]</h4>
                     </div>
                 </div>
             </div>
@@ -248,9 +242,9 @@
 <section class="py-6 bg-white">
     <div class="container-fluid">
         <div class="mb-5 text-center">
-            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">Reviews</span>
-            <h2 class="h1">What users are saying</h2>
-            <p class="text-muted fs-lg">Here's what some of our 2000+ users have to say about working with AnduinOS.
+            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Reviews"]</span>
+            <h2 class="h1">@Localizer["What users are saying"]</h2>
+            <p class="text-muted fs-lg">@Localizer["Here's what some of our 2000+ users have to say about working with AnduinOS."]
             </p>
         </div>
         <div class="d-flex flex-nowrap overflow-auto review-scroll container" style="scrollbar-width: thin;">
@@ -266,11 +260,10 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="mb-1 mt-2">Vince</h5><small
-                                    class="d-block text-muted h5 fw-normal">Designer</small>
+                                    class="d-block text-muted h5 fw-normal">@Localizer["Designer"]</small>
                             </div>
                         </div>
-                        <p class="lead mb-2">“AnduinOS has a clean, beautiful modern design, user-friendly interface,
-                            among so many distributions, this is the choice you can't miss. Trust me!!!”</p>
+                        <p class="lead mb-2">@Localizer["AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can't miss. Trust me!!!"]</p>
 
                         <div class="landing-stars">
                             <i class="fas fa-star"></i>
@@ -295,15 +288,12 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="mb-1 mt-2">Yuyuyuyu</h5><small
-                                    class="d-block text-muted h5 fw-normal">Lead Developer</small>
+                                    class="d-block text-muted h5 fw-normal">@Localizer["Lead Developer"]</small>
                             </div>
                         </div>
-                        <p class="lead mb-2">“AnduinOS has breathed new life into my Surface Go, which I previously
-                            thought was useless. Surprisingly, it runs much smoother than Windows. All the features
-                            work perfectly!”</p>
+                        <p class="lead mb-2">@Localizer["AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!"]</p>
 
                         <div class="landing-stars">
-                            <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -325,13 +315,10 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="mb-1 mt-2">Aimer</h5><small
-                                    class="d-block text-muted h5 fw-normal">Developer</small>
+                                    class="d-block text-muted h5 fw-normal">@Localizer["Developer"]</small>
                             </div>
                         </div>
-                        <p class="lead mb-2">“AnduinOS is your final Linux distribution! It's built for developers
-                            and is lightweight yet still powerful. With its well-constructed themes and shortcuts,
-                            Windows users can smoothly transition to AnduinOS and forget about setting up your
-                            system.”</p>
+                        <p class="lead mb-2">@Localizer["AnduinOS is your final Linux distribution! It's built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system."]</p>
 
                         <div class="landing-stars">
                             <i class="fas fa-star"></i>
@@ -356,11 +343,10 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="mb-1 mt-2">Cody Ray</h5><small
-                                    class="d-block text-muted h5 fw-normal">Developer</small>
+                                    class="d-block text-muted h5 fw-normal">@Localizer["Developer"]</small>
                             </div>
                         </div>
-                        <p class="lead mb-2">“AnduinOS has profoundly streamlined my life and work processes,
-                            solidifying its position as my preferred Linux distribution for everyday use!”</p>
+                        <p class="lead mb-2">@Localizer["AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!"]</p>
 
                         <div class="landing-stars">
                             <i class="fas fa-star"></i>
@@ -387,8 +373,7 @@
                             <a href="https://distrowatch.com/table.php?distribution=anduin"
                                target="_blank">DistroWatch</a>
                         </h4>
-                        <p class="fs-lg">"...We must not forget that it is a 1.8 GB image. It lifted my spirits... I
-                            really think it deserves an installation, surely time will tell."</p>
+                        <p class="fs-lg">@Localizer["...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell."]</p>
                     </div>
                 </div>
             </div>
@@ -399,8 +384,7 @@
                             <a href="https://www.zdnet.com/article/this-windows-11-like-linux-distribution-is-aimed-squarely-at-developers/"
                                target="_blank">ZDNet</a>
                         </h4>
-                        <p class="fs-lg">"In fact, this is one of those "set-it-and-forget-it" distributions that makes
-                            using Linux a delight. It's intuitive, simple to use, and well-designed."</p>
+                        <p class="fs-lg">@Localizer["In fact, this is one of those \"set-it-and-forget-it\" distributions that makes using Linux a delight. It's intuitive, simple to use, and well-designed."]</p>
                     </div>
                 </div>
             </div>
@@ -411,8 +395,7 @@
                             <a href="https://betanews.com/2025/05/01/say-no-thanks-microsoft-windows-11-and-yes-please-to-anduinos-1-3/"
                                target="_blank">BetaNews</a>
                         </h4>
-                        <p class="fs-lg">"The OS continues to focus on ease of use, especially for those users moving
-                            over from Windows."</p>
+                        <p class="fs-lg">@Localizer["The OS continues to focus on ease of use, especially for those users moving over from Windows."]</p>
                     </div>
                 </div>
             </div>
@@ -423,8 +406,7 @@
                             <a href="https://www.neowin.net/news/the-sole-maintainer-of-linux-distribution-anduinos-turns-out-to-be-a-microsoft-employee/"
                                target="_blank">Neowin</a>
                         </h4>
-                        <p class="fs-lg">"Linux stands as a good option to keep computers running, and if you want
-                            something that looks similar to Windows, then AnduinOS is worth checking out."</p>
+                        <p class="fs-lg">@Localizer["Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out."]</p>
                     </div>
                 </div>
             </div>
@@ -436,9 +418,9 @@
 <section class="py-5 bg-white">
     <div class="container">
         <div class="mb-5 text-center">
-            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">FAQ</span>
-            <h2 class="h1">Frequently asked questions</h2>
-            <p class="text-muted fs-lg">Here are some of the answers you might be looking for.</p>
+            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["FAQ"]</span>
+            <h2 class="h1">@Localizer["Frequently asked questions"]</h2>
+            <p class="text-muted fs-lg">@Localizer["Here are some of the answers you might be looking for."]</p>
         </div>
 
         <div class="row">
@@ -448,15 +430,13 @@
                         <div class="card-header cursor-pointer" id="faqZero" data-bs-toggle="collapse"
                              data-bs-target="#collapseZero" aria-expanded="true" aria-controls="collapseZero">
                             <h6 class="mb-0">
-                                Is it free to use AnduinOS?
+                                @Localizer["Is it free to use AnduinOS?"]
                             </h6>
                         </div>
                         <div id="collapseZero" class="collapse" aria-labelledby="faqOne"
                              data-bs-parent="#accordionFaq">
                             <div class="card-body py-3">
-                                Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3
-                                license. You can view the source code, modify it, and redistribute it. It's free and
-                                will always be free.
+                                @Localizer["Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It's free and will always be free."]
                             </div>
                         </div>
                     </div>
@@ -464,20 +444,15 @@
                         <div class="card-header cursor-pointer" id="faqOne" data-bs-toggle="collapse"
                              data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             <h6 class="mb-0">
-                                What kind of applications can I run on AnduinOS?
+                                @Localizer["What kind of applications can I run on AnduinOS?"]
                             </h6>
                         </div>
                         <div id="collapseOne" class="collapse" aria-labelledby="faqOne"
                              data-bs-parent="#accordionFaq">
                             <div class="card-body py-3">
-                                AnduinOS is based on Ubuntu's package base. Any software that runs on Ubuntu that
-                                can run on AnduinOS. You can run a variety of applications, including but not
-                                limited to: Linux apps, web apps, and even Windows apps using Wine.
+                                @Localizer["AnduinOS is based on Ubuntu's package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine."]
                                 <br><br>
-                                AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility
-                                for software deployment, application virtualization, and package management.
-                                It allows you to run applications in a sandboxed environment, which can help improve
-                                security and stability.
+                                @Localizer["AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability."]
                             </div>
                         </div>
                     </div>
@@ -485,15 +460,13 @@
                         <div class="card-header cursor-pointer" id="faqTwo" data-bs-toggle="collapse"
                              data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                             <h6 class="mb-0">
-                                How can I search for solutions to problems?
+                                @Localizer["How can I search for solutions to problems?"]
                             </h6>
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="faqTwo"
                              data-bs-parent="#accordionFaq">
                             <div class="card-body py-3">
-                                On Ask Ubuntu, you can search for and ask about very common issues. Solutions for
-                                almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely
-                                on Ubuntu's documentation and expertise to resolve problems with AnduinOS.
+                                @Localizer["On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu's documentation and expertise to resolve problems with AnduinOS."]
                             </div>
                         </div>
                     </div>
@@ -501,15 +474,14 @@
                         <div class="card-header cursor-pointer" id="faqThree" data-bs-toggle="collapse"
                              data-bs-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
                             <h6 class="mb-0">
-                                Is there any support included?
+                                @Localizer["Is there any support included?"]
                             </h6>
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="faqThree"
                              data-bs-parent="#accordionFaq">
                             <div class="card-body py-3">
-                                You have access to AnduinOS online support services via GitHub Discussions. Please
-                                contact us at <a href="https://github.com/Anduin2017/AnduinOS/discussions">here</a>
-                                for any questions.
+                                @Localizer["You have access to AnduinOS online support services via GitHub Discussions. Please contact us at"] <a href="https://github.com/Anduin2017/AnduinOS/discussions">@Localizer["here"]</a>
+                                @Localizer["for any questions."]
                             </div>
                         </div>
                     </div>
@@ -517,20 +489,18 @@
                         <div class="card-header cursor-pointer" id="faqFour" data-bs-toggle="collapse"
                              data-bs-target="#collapseWho" aria-expanded="true" aria-controls="collapseWho">
                             <h6 class="mb-0">
-                                Who is behind AnduinOS?
+                                @Localizer["Who is behind AnduinOS?"]
                             </h6>
                         </div>
                         <div id="collapseWho" class="collapse" aria-labelledby="faqOne"
                              data-bs-parent="#accordionFaq">
                             <div class="card-body py-3">
-                                AnduinOS is a non-profit project built in spare time, sustained solely through
-                                donations, and is not backed by any corporation or national government.
+                                @Localizer["AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government."]
                                 <a href="https://news.anduinos.com/post/2025/5/6/story-behind-anduinos-a-letter-from-anduin"
-                                   target="_blank">Read more</a>.
+                                   target="_blank">@Localizer["Read more"]</a>.
                                 <br><br>
-                                AnduinOS works based on donations from users. We are grateful for your support. And you
-                                can <a href="https://www.paypal.com/paypalme/anduinxue2017" target="_blank">donate</a>
-                                to us via PayPal.
+                                @Localizer["AnduinOS works based on donations from users. We are grateful for your support. And you can"] <a href="https://www.paypal.com/paypalme/anduinxue2017" target="_blank">@Localizer["donate"]</a>
+                                @Localizer["to us via PayPal."]
                             </div>
                         </div>
                     </div>
@@ -538,16 +508,16 @@
                         <div class="card-header cursor-pointer" id="faqFive" data-bs-toggle="collapse"
                              data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                             <h6 class="mb-0">
-                                How can I contact the AnduinOS team?
+                                @Localizer["How can I contact the AnduinOS team?"]
                             </h6>
                         </div>
                         <div id="collapseFour" class="collapse" aria-labelledby="faqFour"
                              data-bs-parent="#accordionFaq">
                             <div class="card-body py-3">
-                                Please contact us with email at <a
+                                @Localizer["Please contact us with email at"] <a
                                     href="mailto:anduin@aiursoft.com">anduin@aiursoft.com</a>
-                                for any questions. Please join our <a href="https://rvlt.gg/dPwPs8e6">Revolt channel</a>
-                                for community support.
+                                @Localizer["for any questions. Please join our"] <a href="https://rvlt.gg/dPwPs8e6">@Localizer["Revolt channel"]</a>
+                                @Localizer["for community support."]
                             </div>
                         </div>
                     </div>
@@ -563,13 +533,13 @@
         <div class="row">
             <div class="col-12 col-md-10 col-lg-9 col-xl-8 mx-auto">
                 <h2 class="h1 mb-3">
-                    Join our community and get involved with AnduinOS!
+                    @Localizer["Join our community and get involved with AnduinOS!"]
                 </h2>
                 <a href="https://rvlt.gg/dPwPs8e6" class="align-middle btn btn-danger btn-pill btn-lg mt-n1"
                    target="_blank">
                     <i class="fa-solid fa-comments"></i>
                     <span class="ms-1">
-                            Join Revolt channel
+                            @Localizer["Join Revolt channel"]
                         </span>
                 </a>
 
@@ -577,7 +547,7 @@
                    class="align-middle btn btn-secondary btn-pill btn-lg mt-n1" target="_blank">
                     <i class="fa-brands fa-github"></i>
                     <span class="ms-1">
-                           Join Discussions
+                           @Localizer["Join Discussions"]
                        </span>
                 </a>
             </div>
@@ -590,26 +560,26 @@
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 id="download-modal-title" class="modal-title">Download AnduinOS</h5>
+                <h5 id="download-modal-title" class="modal-title">@Localizer["Download AnduinOS"]</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body m-3">
-                <p id="download-modal-description" class="mb-0">Select the correct edition below:</p>
+                <p id="download-modal-description" class="mb-0">@Localizer["Select the correct edition below:"]</p>
                 <hr>
                 <div class="mb-3">
-                    <label for="language-select" class="form-label">Language</label>
+                    <label for="language-select" class="form-label">@Localizer["Language"]</label>
                     <select id="language-select" class="form-select"></select>
                 </div>
                 <div id="download-links-container" class="d-flex flex-wrap gap-2">
                     <!-- Dynamic insert download links -->
                 </div>
                 <div class="mt-3">
-                    <p class="text-muted">By downloading, you agree to our <a asp-controller="Home" asp-action="Terms">Terms of Service</a>
-                        and <a asp-controller="Home" asp-action="Privacy">Privacy Policy</a>.</p>
+                    <p class="text-muted">@Localizer["By downloading, you agree to our"] <a asp-controller="Home" asp-action="Terms">@Localizer["Terms of Service"]</a>
+                        @Localizer["and"] <a asp-controller="Home" asp-action="Privacy">@Localizer["Privacy Policy"]</a>.</p>
                 </div>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" data-bs-dismiss="modal">@Localizer["Close"]</button>
             </div>
         </div>
     </div>

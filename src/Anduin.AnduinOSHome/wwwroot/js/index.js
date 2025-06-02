@@ -342,27 +342,6 @@ function renderDownloadLinks(versionObj, langCode) {
 fetchVersions();
 
 //=====================================
-//         The Slogan
-//=====================================
-const slogans = [
-    "No telemetry at all! Choose <span class='text-primary'>AnduinOS</span> to regain your privacy",
-    "Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>",
-    "<span class='text-primary'>AnduinOS</span> is Ubuntu's package base + <span class='text-primary'>Flatpak</span> app experience",
-    "Everything you do on Ubuntu, you can do it on <span class='text-primary'>AnduinOS</span>",
-    "Reveal the power of your computer, choose <span class='text-primary'>AnduinOS</span>",
-    "Transitioning to <span class='text-primary'>AnduinOS</span> will be the best decision you've ever made",
-    "<span class='text-primary'>AnduinOS</span> 1.0 is released on 2024.09.01",
-];
-
-function getRandomSlogan() {
-    const randomIndex = Math.floor(Math.random() * slogans.length);
-    return slogans[randomIndex];
-}
-
-const sloganElement = document.getElementById("main-slogan");
-sloganElement.innerHTML = getRandomSlogan();
-
-//=====================================
 //         The Image Gallery
 //=====================================
 document.addEventListener('DOMContentLoaded', (() => {
@@ -385,4 +364,22 @@ function igl_show(img) {
 
 function igl_hide() {
     document.getElementById('iglmodal').style.display = 'none';
+}
+
+//=====================================
+//         The Language Selector
+//=====================================
+
+function setLanguage(culture) {
+    const form = document.createElement('form');
+    form.method = 'POST';
+    form.action = '/culture/set';
+
+    const cultureInput = document.createElement('input');
+    cultureInput.type = 'hidden';
+    cultureInput.name = 'culture';
+    cultureInput.value = culture;
+    form.appendChild(cultureInput);
+    document.body.appendChild(form);
+    form.submit();
 }
