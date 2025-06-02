@@ -33,9 +33,6 @@
     <data name="Sign up today!" xml:space="preserve">
         <value>Đăng ký ngay hôm nay!</value>
     </data>
-    <data name="Open source" xml:space="preserve">
-        <value>Mã nguồn mở</value>
-    </data>
     <data name="Free" xml:space="preserve">
         <value>Miễn phí</value>
     </data>
@@ -114,7 +111,7 @@
     <data name="AnduinOS is based on Ubuntu's package base. It's compatible with most of the apt packages from Ubuntu. It's a perfect combination of experience and ecology." xml:space="preserve">
         <value>AnduinOS dựa trên nền tảng gói của Ubuntu. Nó tương thích với hầu hết các gói apt từ Ubuntu. Đây là sự kết hợp hoàn hảo giữa trải nghiệm và hệ sinh thái.</value>
     </data>
-    <data name="Open source" xml:space="preserve">
+    <data name="Open Source" xml:space="preserve">
         <value>Mã nguồn mở</value>
     </data>
     <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">

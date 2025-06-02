@@ -33,9 +33,6 @@
     <data name="Sign up today!" xml:space="preserve">
         <value>今すぐ登録！</value>
     </data>
-    <data name="Open source" xml:space="preserve">
-        <value>オープンソース</value>
-    </data>
     <data name="Free" xml:space="preserve">
         <value>無料</value>
     </data>
@@ -114,7 +111,7 @@
     <data name="AnduinOS is based on Ubuntu's package base. It's compatible with most of the apt packages from Ubuntu. It's a perfect combination of experience and ecology." xml:space="preserve">
         <value>AnduinOSはUbuntuのパッケージベースに基づいています。Ubuntuのほとんどのaptパッケージと互換性があります。体験とエコロジーの完璧な組み合わせです。</value>
     </data>
-    <data name="Open source" xml:space="preserve">
+    <data name="Open Source" xml:space="preserve">
         <value>オープンソース</value>
     </data>
     <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
