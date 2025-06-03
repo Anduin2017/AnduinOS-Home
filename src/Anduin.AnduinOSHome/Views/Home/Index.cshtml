@@ -1,3 +1,6 @@
+@using Anduin.AnduinOSHome.Models
+@using Microsoft.Extensions.Options
+@inject IOptions<List<VersionInfo>> Versions
 @{
     ViewData["Title"] = "Open Source & Linux";
     var slogans = new[]
@@ -44,15 +47,10 @@
                 </h1>
                 <p class="text-lg text-white-50">@Localizer["AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows."]</p>
                 <div class="my-4">
-                    @* <div class="d-inline-block me-3"> *@
-                    @*     <h2 class="text-white">65+</h2> *@
-                    @*     <span class="text-white-50">Verified software</span> *@
-                    @* </div> *@
-                    @* <div class="d-inline-block"> *@
-                    @*     <h2 class="text-white">3</h2> *@
-                    @*     <span class="text-white-50">Versions</span> *@
-                    @* </div> *@
-                    <span class="badge badge-subtle-primary p-1">v1.3.2</span>
+                    @{
+                        var lastestVersion = Versions.Value.LastOrDefault()?.Latest;
+                    }
+                    <span class="badge badge-subtle-primary p-1">v@(lastestVersion)</span>
                 </div>
                 <div class="my-4">
                     <a class="btn btn-primary btn-lg btn-pill" href="#download-links">@Localizer["Download"]</a>
