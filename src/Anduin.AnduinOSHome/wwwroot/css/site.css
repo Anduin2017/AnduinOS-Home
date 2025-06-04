@@ -32,6 +32,10 @@
     transform: rotateY(-20deg) rotateX(2deg);
 }
 
+img[gallery] {
+    cursor: pointer
+}
+
 .row.py-4 {
     position: relative;
 }
