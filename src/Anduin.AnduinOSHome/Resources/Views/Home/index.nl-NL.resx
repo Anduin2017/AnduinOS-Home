@@ -60,9 +60,6 @@
     </data>
 
     <!-- Main content -->
-    <data name="Open Source" xml:space="preserve">
-        <value>Open Source</value>
-    </data>
     <data name="Free" xml:space="preserve">
         <value>Gratis</value>
     </data>

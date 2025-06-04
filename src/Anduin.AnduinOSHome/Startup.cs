@@ -11,27 +11,27 @@ public class Startup : IWebStartup
 {
     public static Dictionary<string, string> SupportedCultures = new()
     {
-        { "en_US", "English (United States)" },
-        { "en_GB", "English (United Kingdom)" },
-        { "zh_CN", "中文 (中国大陆)" },
-        { "zh_TW", "中文 (台灣)" },
-        { "zh_HK", "中文 (香港)" },
-        { "ja_JP", "日本語 (日本)" },
-        { "ko_KR", "한국어 (대한민국)" },
-        { "vi_VN", "Tiếng Việt (Việt Nam)" },
-        { "th_TH", "ภาษาไทย (ประเทศไทย)" },
-        { "de_DE", "Deutsch (Deutschland)" },
-        { "fr_FR", "Français (France)" },
-        { "es_ES", "Español (España)" },
-        { "ru_RU", "Русский (Россия)" },
-        { "it_IT", "Italiano (Italia)" },
-        { "pt_PT", "Português (Portugal)" },
-        { "pt_BR", "Português (Brasil)" },
-        { "ar_SA", "العربية (المملكة العربية السعودية)" },
-        { "nl_NL", "Nederlands (Nederland)" },
-        { "sv_SE", "Svenska (Sverige)" },
-        { "pl_PL", "Polski (Polska)" },
-        { "tr_TR", "Türkçe (Türkiye)" }
+        { "en-US", "English (United States)" },
+        { "en-GB", "English (United Kingdom)" },
+        { "zh-CN", "中文 (中国大陆)" },
+        { "zh-TW", "中文 (台灣)" },
+        { "zh-HK", "中文 (香港)" },
+        { "ja-JP", "日本語 (日本)" },
+        { "ko-KR", "한국어 (대한민국)" },
+        { "vi-VN", "Tiếng Việt (Việt Nam)" },
+        { "th-TH", "ภาษาไทย (ประเทศไทย)" },
+        { "de-DE", "Deutsch (Deutschland)" },
+        { "fr-FR", "Français (France)" },
+        { "es-ES", "Español (España)" },
+        { "ru-RU", "Русский (Россия)" },
+        { "it-IT", "Italiano (Italia)" },
+        { "pt-PT", "Português (Portugal)" },
+        { "pt-BR", "Português (Brasil)" },
+        { "ar-SA", "العربية (المملكة العربية السعودية)" },
+        { "nl-NL", "Nederlands (Nederland)" },
+        { "sv-SE", "Svenska (Sverige)" },
+        { "pl-PL", "Polski (Polska)" },
+        { "tr-TR", "Türkçe (Türkiye)" }
     };
 
     public void ConfigureServices(IConfiguration configuration, IWebHostEnvironment environment, IServiceCollection services)
@@ -51,6 +51,7 @@ public class Startup : IWebStartup
     {
         var supportedCultures = Startup.SupportedCultures.Select(c => new CultureInfo(c.Key)).ToList();
         var defaultLanguage = supportedCultures.First();
+
         app.UseRequestLocalization(new RequestLocalizationOptions
         {
             DefaultRequestCulture = new RequestCulture(defaultLanguage),

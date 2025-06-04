@@ -5,7 +5,7 @@ using Microsoft.Extensions.Options;
 
 namespace Anduin.AnduinOSHome.Controllers;
 
-[LimitPerMin(20)]
+[LimitPerMin]
 public class HomeController(IOptions<List<VersionInfo>> versions) : Controller
 {
     private readonly List<VersionInfo> _versions = versions.Value;
