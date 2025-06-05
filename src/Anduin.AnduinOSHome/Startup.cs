@@ -9,7 +9,7 @@ namespace Anduin.AnduinOSHome;
 
 public class Startup : IWebStartup
 {
-    public static Dictionary<string, string> SupportedCultures = new()
+    public static readonly Dictionary<string, string> SupportedCultures = new()
     {
         { "en-US", "English (United States)" },
         { "en-GB", "English (United Kingdom)" },
@@ -52,12 +52,21 @@ public class Startup : IWebStartup
         var supportedCultures = Startup.SupportedCultures.Select(c => new CultureInfo(c.Key)).ToList();
         var defaultLanguage = supportedCultures.First();
 
-        app.UseRequestLocalization(new RequestLocalizationOptions
+        var localizationOptions = new RequestLocalizationOptions
         {
             DefaultRequestCulture = new RequestCulture(defaultLanguage),
-            SupportedCultures = supportedCultures,
-            SupportedUICultures = supportedCultures
-        });
+            SupportedCultures      = supportedCultures,
+            SupportedUICultures    = supportedCultures,
+            FallBackToParentCultures    = true,
+            FallBackToParentUICultures  = true,
+            RequestCultureProviders =
+            [
+                new CookieRequestCultureProvider(),
+                new StartsWithAcceptLanguageProvider()
+            ]
+        };
+
+        app.UseRequestLocalization(localizationOptions);
         app.UseStaticFiles();
         app.UseRouting();
         app.MapDefaultControllerRoute();
