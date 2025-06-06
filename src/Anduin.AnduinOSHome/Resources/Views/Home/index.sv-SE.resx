@@ -60,6 +60,12 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 släpptes 2024.09.01</value>
     </data>
+    <data name="Linux is not difficult. Try &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>Linux är inte svårt. Prova &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;.</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; vill bli din assistent.</value>
+    </data>
     <data name="AnduinOS" xml:space="preserve">
         <value>AnduinOS</value>
     </data>

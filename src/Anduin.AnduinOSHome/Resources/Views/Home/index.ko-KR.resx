@@ -60,6 +60,12 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0이 2024.09.01에 출시되었습니다</value>
     </data>
+    <data name="Linux is not difficult. Try &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>리눅스는 어렵지 않습니다. &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;를 사용해 보세요.</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;가 당신의 도우미가 되고 싶어합니다.</value>
+    </data>
     <data name="AnduinOS" xml:space="preserve">
         <value>AnduinOS</value>
     </data>

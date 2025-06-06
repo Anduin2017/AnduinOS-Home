@@ -60,6 +60,12 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 于 2024.09.01 发布</value>
     </data>
+    <data name="Linux is not difficult. Try &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>Linux 并不难。试试 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 吧。</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 想成为你的助手。</value>
+    </data>
     <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
         <value>AnduinOS 是一个基于 Ubuntu 的自定义 Linux 发行版，旨在通过保持熟悉的操作习惯和工作流程，帮助开发者从 Windows 过渡到 Linux。</value>
     </data>

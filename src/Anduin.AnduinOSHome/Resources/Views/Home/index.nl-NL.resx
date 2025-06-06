@@ -41,6 +41,12 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is uitgebracht op 2024.09.01</value>
     </data>
+    <data name="Linux is not difficult. Try &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>Linux is niet moeilijk. Probeer &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; eens.</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wil jouw assistent worden.</value>
+    </data>
 
     <!-- Header section -->
     <data name="Special Thanks!" xml:space="preserve">
