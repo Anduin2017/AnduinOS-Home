@@ -18,27 +18,8 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>本当にありがとう！</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>AnduinOSサーバーは</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>がスポンサーしており、最高級のホスティングサービスを提供しています</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>今すぐ登録！</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>無料</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>GPL-v3ライセンス</value>
-    </data>
+
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
         <value>テレメトリー一切なし！&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;を選択して、プライバシーを取り戻そう</value>
     </data>
@@ -66,6 +47,31 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;はあなたのアシスタントになりたい</value>
     </data>
+
+    <!-- ===== BANNER ===== -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>本当にありがとう！</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>AnduinOSサーバーは</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>がスポンサーしており、最高級のホスティングサービスを提供しています</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>今すぐ登録！</value>
+    </data>
+
+    <!-- ===== MAIN ===== -->
+    <data name="Free" xml:space="preserve">
+        <value>無料</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>GPL-v3ライセンス</value>
+    </data>
     <data name="AnduinOS" xml:space="preserve">
         <value>AnduinOS</value>
     </data>
@@ -84,6 +90,8 @@
     <data name="Change Log" xml:space="preserve">
         <value>変更ログ</value>
     </data>
+
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>理由</value>
     </data>
@@ -129,6 +137,8 @@
     <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
         <value>グラフィカルアプリケーションはFlatpak経由でインストールされ、ベースシステムから分離されています（1.3以降）。また、権限の細かな制御も可能です。</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>バージョン</value>
     </data>
@@ -147,6 +157,8 @@
     <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
         <value>LTSバージョンは安定した長期サポートが必要なユーザーにお勧めで、スタンダードバージョンは新しいデバイスを持ち、最新機能を探求したいユーザーにお勧めです。</value>
     </data>
+
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>用途</value>
     </data>
@@ -177,11 +189,13 @@
     <data name="Editing" xml:space="preserve">
         <value>編集</value>
     </data>
+
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
         <value>レビュー</value>
     </data>
     <data name="What users are saying" xml:space="preserve">
-        <value>ユーザーの声</value>
+        <value>利用者は何と言っているか</value>
     </data>
     <data name="Here's what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
         <value>AnduinOSの使用について、2000人以上の利用者の中から一部の声をご紹介します。</value>
@@ -207,6 +221,8 @@
     <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
         <value>AnduinOSは私の生活と仕事のプロセスを大幅に合理化し、日常使用における私の好みのLinuxディストリビューションとしての地位を確固たるものにしました！</value>
     </data>
+
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
         <value>...1.8GBのイメージであることを忘れてはいけません。私の気持ちを高揚させました...本当にインストールする価値があると思います。きっと時間が証明してくれるでしょう。</value>
     </data>
@@ -219,6 +235,8 @@
     <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
         <value>Linuxはコンピューターを稼働させ続けるための良い選択肢であり、Windowsに似た見た目を求めるなら、AnduinOSをチェックする価値があります。</value>
     </data>
+
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
         <value>よくある質問</value>
     </data>
@@ -294,6 +312,8 @@
     <data name="for community support." xml:space="preserve">
         <value>にぜひご参加いただき、コミュニティサポートをご利用ください。</value>
     </data>
+
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
         <value>私たちのコミュニティに参加して、AnduinOSに関わってください！</value>
     </data>
@@ -303,6 +323,8 @@
     <data name="Join Discussions" xml:space="preserve">
         <value>ディスカッションに参加</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
         <value>AnduinOSをダウンロード</value>
     </data>

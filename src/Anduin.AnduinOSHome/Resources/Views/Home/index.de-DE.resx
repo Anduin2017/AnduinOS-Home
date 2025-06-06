@@ -18,27 +18,8 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>Besonderen Dank!</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>Der AnduinOS-Server wird stolz gesponsert von</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>einem Anbieter erstklassiger Hosting-Dienste</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>Registrieren Sie sich noch heute!</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>Kostenlos</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>GPL-v3-Lizenz</value>
-    </data>
+
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
         <value>Keine Telemetrie überhaupt! Wählen Sie &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;, um Ihre Privatsphäre zurückzugewinnen</value>
     </data>
@@ -66,6 +47,31 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; möchte dein Assistent werden.</value>
     </data>
+
+    <!-- ===== BANNER ===== -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>Besonderen Dank!</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>Der AnduinOS-Server wird stolz gesponsert von</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>einem Anbieter erstklassiger Hosting-Dienste</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>Registrieren Sie sich noch heute!</value>
+    </data>
+    <data name="Free" xml:space="preserve">
+        <value>Kostenlos</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>GPL-v3-Lizenz</value>
+    </data>
+
+    <!-- ===== MAIN ===== -->
     <data name="AnduinOS" xml:space="preserve">
         <value>AnduinOS</value>
     </data>
@@ -84,6 +90,8 @@
     <data name="Change Log" xml:space="preserve">
         <value>Änderungsprotokoll</value>
     </data>
+
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>Gründe</value>
     </data>
@@ -129,6 +137,8 @@
     <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
         <value>Grafische Anwendungen werden über Flatpak installiert und halten sich vom Basissystem getrennt (seit 1.3). Sie ermöglichen auch eine feinabgestimmte Kontrolle über ihre Berechtigungen.</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>Versionen</value>
     </data>
@@ -147,6 +157,8 @@
     <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
         <value>Die LTS-Version wird für Benutzer empfohlen, die stabile Langzeitunterstützung benötigen, während die Standard-Version für Benutzer mit neueren Geräten empfohlen wird, die die neuesten Funktionen erkunden möchten.</value>
     </data>
+
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>Verwendung</value>
     </data>
@@ -177,6 +189,8 @@
     <data name="Editing" xml:space="preserve">
         <value>Bearbeiten</value>
     </data>
+
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
         <value>Bewertungen</value>
     </data>
@@ -207,6 +221,8 @@
     <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
         <value>AnduinOS hat meine Lebens- und Arbeitsprozesse tiefgreifend optimiert und seine Position als meine bevorzugte Linux-Distribution für den täglichen Gebrauch gefestigt!</value>
     </data>
+
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
         <value>...Wir dürfen nicht vergessen, dass es ein 1,8 GB großes Image ist. Es hat meine Stimmung gehoben... Ich denke wirklich, es verdient eine Installation, die Zeit wird es sicherlich zeigen.</value>
     </data>
@@ -219,6 +235,8 @@
     <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
         <value>Linux stellt eine gute Option dar, um Computer am Laufen zu halten, und wenn Sie etwas wollen, das Windows ähnlich sieht, dann ist AnduinOS einen Blick wert.</value>
     </data>
+
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
         <value>FAQ</value>
     </data>
@@ -294,6 +312,8 @@
     <data name="for community support." xml:space="preserve">
         <value>bei für Community-Support.</value>
     </data>
+
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
         <value>Treten Sie unserer Community bei und engagieren Sie sich mit AnduinOS!</value>
     </data>
@@ -303,6 +323,8 @@
     <data name="Join Discussions" xml:space="preserve">
         <value>Diskussionen beitreten</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
         <value>AnduinOS herunterladen</value>
     </data>

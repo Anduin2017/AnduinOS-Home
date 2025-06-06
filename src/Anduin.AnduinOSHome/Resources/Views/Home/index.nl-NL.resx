@@ -19,7 +19,7 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
 
-    <!-- Slogans -->
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
         <value>Geen telemetrie! Kies &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; om je privacy terug te winnen</value>
     </data>
@@ -48,7 +48,7 @@
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wil jouw assistent worden.</value>
     </data>
 
-    <!-- Header section -->
+    <!-- ===== BANNER ===== -->
     <data name="Special Thanks!" xml:space="preserve">
         <value>Speciale dank!</value>
     </data>
@@ -65,7 +65,7 @@
         <value>Meld je vandaag aan!</value>
     </data>
 
-    <!-- Main content -->
+    <!-- ===== MAIN ===== -->
     <data name="Free" xml:space="preserve">
         <value>Gratis</value>
     </data>
@@ -88,7 +88,7 @@
         <value>Wijzigingslogboek</value>
     </data>
 
-    <!-- Features section -->
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>Redenen</value>
     </data>
@@ -135,7 +135,7 @@
         <value>Grafische applicaties worden geïnstalleerd via Flatpak en houden zichzelf gescheiden van het basissysteem (sinds 1.3). Ze maken ook fijnmazige controle over hun machtigingen mogelijk.</value>
     </data>
 
-    <!-- Download section -->
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>Versies</value>
     </data>
@@ -155,7 +155,7 @@
         <value>De LTS-versie wordt aanbevolen voor gebruikers die stabiele langetermijnondersteuning nodig hebben, terwijl de Standard-versie wordt aanbevolen voor gebruikers met nieuwere apparaten die de nieuwste functies willen verkennen.</value>
     </data>
 
-    <!-- Usage section -->
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>Gebruik</value>
     </data>
@@ -187,7 +187,7 @@
         <value>Bewerken</value>
     </data>
 
-    <!-- Reviews section -->
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
         <value>Beoordelingen</value>
     </data>
@@ -219,7 +219,7 @@
         <value>AnduinOS heeft mijn levens- en werkprocessen diepgaand gestroomlijnd, waardoor het zijn positie als mijn favoriete Linux-distributie voor dagelijks gebruik heeft verstevigd!</value>
     </data>
 
-    <!-- Media reviews -->
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
         <value>...We mogen niet vergeten dat het een 1,8 GB image is. Het vrolijkte me op... Ik denk echt dat het een installatie verdient, de tijd zal het zeker leren.</value>
     </data>
@@ -233,7 +233,7 @@
         <value>Linux is een goede optie om computers draaiende te houden, en als je iets wilt dat lijkt op Windows, dan is AnduinOS het bekijken waard.</value>
     </data>
 
-    <!-- FAQ section -->
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
         <value>FAQ</value>
     </data>
@@ -310,7 +310,7 @@
         <value>voor community-ondersteuning.</value>
     </data>
 
-    <!-- Community section -->
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
         <value>Sluit je aan bij onze community en raak betrokken bij AnduinOS!</value>
     </data>
@@ -321,7 +321,7 @@
         <value>Doe mee met Discussions</value>
     </data>
 
-    <!-- Download modal -->
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
         <value>Download AnduinOS</value>
     </data>
