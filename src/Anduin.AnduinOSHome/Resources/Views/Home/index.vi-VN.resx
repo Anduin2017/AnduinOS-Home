@@ -349,4 +349,27 @@
     <data name="Close" xml:space="preserve">
         <value>Đóng</value>
     </data>
+
+    <!-- ===== HEADER ===== -->
+    <data name="Docs" xml:space="preserve">
+        <value>Tài liệu</value>
+    </data>
+    <data name="News" xml:space="preserve">
+        <value>Tin tức</value>
+    </data>
+    <data name="Install" xml:space="preserve">
+        <value>Cài đặt</value>
+    </data>
+    <data name="Source Code" xml:space="preserve">
+        <value>Mã nguồn</value>
+    </data>
+    <data name="Community" xml:space="preserve">
+        <value>Cộng đồng</value>
+    </data>
+    <data name="Download AnduinOS" xml:space="preserve">
+        <value>Tải AnduinOS</value>
+    </data>
+    <data name="Donate" xml:space="preserve">
+        <value>Ủng hộ</value>
+    </data>
 </root>

@@ -344,4 +344,27 @@
     <data name="Close" xml:space="preserve">
         <value>إغلاق</value>
     </data>
+
+    <!-- ===== HEADER ===== -->
+    <data name="Docs" xml:space="preserve">
+        <value>الوثائق</value>
+    </data>
+    <data name="News" xml:space="preserve">
+        <value>الأخبار</value>
+    </data>
+    <data name="Install" xml:space="preserve">
+        <value>تثبيت</value>
+    </data>
+    <data name="Source Code" xml:space="preserve">
+        <value>الكود المصدري</value>
+    </data>
+    <data name="Community" xml:space="preserve">
+        <value>المجتمع</value>
+    </data>
+    <data name="Download AnduinOS" xml:space="preserve">
+        <value>تحميل AnduinOS</value>
+    </data>
+    <data name="Donate" xml:space="preserve">
+        <value>تبرع</value>
+    </data>
 </root>

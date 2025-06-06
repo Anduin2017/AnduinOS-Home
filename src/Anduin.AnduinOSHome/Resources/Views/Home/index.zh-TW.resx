@@ -349,4 +349,27 @@
     <data name="Close" xml:space="preserve">
         <value>關閉</value>
     </data>
+
+    <!-- ===== HEADER ===== -->
+    <data name="Docs" xml:space="preserve">
+        <value>文档</value>
+    </data>
+    <data name="News" xml:space="preserve">
+        <value>新闻</value>
+    </data>
+    <data name="Install" xml:space="preserve">
+        <value>安装</value>
+    </data>
+    <data name="Source Code" xml:space="preserve">
+        <value>源代码</value>
+    </data>
+    <data name="Community" xml:space="preserve">
+        <value>社区</value>
+    </data>
+    <data name="Download AnduinOS" xml:space="preserve">
+        <value>下载 AnduinOS</value>
+    </data>
+    <data name="Donate" xml:space="preserve">
+        <value>捐赠</value>
+    </data>
 </root>

@@ -346,4 +346,27 @@
     <data name="Close" xml:space="preserve">
         <value>Sluiten</value>
     </data>
+
+    <!-- ===== HEADER ===== -->
+    <data name="Docs" xml:space="preserve">
+        <value>Documentatie</value>
+    </data>
+    <data name="News" xml:space="preserve">
+        <value>Nieuws</value>
+    </data>
+    <data name="Install" xml:space="preserve">
+        <value>Installeren</value>
+    </data>
+    <data name="Source Code" xml:space="preserve">
+        <value>Broncode</value>
+    </data>
+    <data name="Community" xml:space="preserve">
+        <value>Community</value>
+    </data>
+    <data name="Download AnduinOS" xml:space="preserve">
+        <value>AnduinOS downloaden</value>
+    </data>
+    <data name="Donate" xml:space="preserve">
+        <value>Doneren</value>
+    </data>
 </root>
