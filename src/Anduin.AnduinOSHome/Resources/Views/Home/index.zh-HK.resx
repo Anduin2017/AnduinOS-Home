@@ -18,47 +18,28 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>特別鳴謝！</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>AnduinOS 伺服器由</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>提供頂級託管服務</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>立即註冊！</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>免費</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>GPL-v3 授權</value>
-    </data>
+
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
-        <value>完全沒有遙測！選擇 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 來重獲您的私隱</value>
+        <value>完全没有监控！选择 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 来重获隐私</value>
     </data>
     <data name="Today is the best day for you to switch to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-        <value>今天是您轉換到 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 的最佳時機</value>
+        <value>今天就是你切换到 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 的最佳时机</value>
     </data>
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; is Ubuntu's package base + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
-        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 是 Ubuntu 套件基礎 + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; 應用程式體驗</value>
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 是 Ubuntu 的软件包基础 + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; 应用体验</value>
     </data>
     <data name="Everything you do on Ubuntu, you can do it on &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-        <value>您在 Ubuntu 上做的所有事情，都可以在 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 上完成</value>
+        <value>在 Ubuntu 上能做的一切，在 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 上都能办到</value>
     </data>
     <data name="Reveal the power of your computer, choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-        <value>釋放您電腦的威力，選擇 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;</value>
+        <value>释放你电脑的性能，选择 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;</value>
     </data>
     <data name="Transitioning to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; will be the best decision you've ever made" xml:space="preserve">
-        <value>轉換到 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 將是您做過最好的決定</value>
+        <value>更换到 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 将是您做过的最好决定</value>
     </data>
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
-        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 於 2024.09.01 發布</value>
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 于 2024.09.01 发布</value>
     </data>
     <data name="Linux is not difficult. Try &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
         <value>Linux 并不难。试试 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 吧。</value>
@@ -66,265 +47,303 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 想成为你的助手。</value>
     </data>
-    <data name="AnduinOS" xml:space="preserve">
-        <value>AnduinOS</value>
+
+    <!-- ===== BANNER ===== -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>特别感谢！</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>AnduinOS 服务器由</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>提供支持，这是一家顶级托管服务提供商</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>立即注册！</value>
+    </data>
+
+    <!-- ===== MAIN ===== -->
+    <data name="Free" xml:space="preserve">
+        <value>免费</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>GPL-v3 许可证</value>
     </data>
     <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
-        <value>AnduinOS 是一個基於 Ubuntu 的自訂 Linux 發行版，旨在透過保持熟悉的操作習慣和工作流程，幫助開發者從 Windows 轉換到 Linux。</value>
+        <value>AnduinOS 是一个基于 Ubuntu 的自定义 Linux 发行版，旨在通过保持熟悉的操作习惯和工作流程，帮助开发者从 Windows 过渡到 Linux。</value>
     </data>
     <data name="Download" xml:space="preserve">
-        <value>下載</value>
+        <value>下载</value>
     </data>
     <data name="Docs" xml:space="preserve">
-        <value>文檔</value>
+        <value>文档</value>
     </data>
     <data name="All versions" xml:space="preserve">
         <value>所有版本</value>
     </data>
     <data name="Change Log" xml:space="preserve">
-        <value>變更記錄</value>
+        <value>更新日志</value>
     </data>
+
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>理由</value>
     </data>
     <data name="Why choose AnduinOS?" xml:space="preserve">
-        <value>為何選擇 AnduinOS？</value>
+        <value>为什么选择 AnduinOS？</value>
     </data>
     <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
-        <value>更小的映像檔、友善的介面、無與倫比的效能、安全可靠。</value>
+        <value>更小的 ISO，友好的界面，无与伦比的性能，安全可靠。</value>
     </data>
     <data name="Ready to use" xml:space="preserve">
-        <value>即用即可</value>
+        <value>开箱即用</value>
     </data>
     <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
-        <value>ISO 檔案只有 2.0GB 大小。與 Ubuntu 類似，安裝簡單，無需額外配置或複雜操作即可滿足您的日常需求。</value>
+        <value>ISO 文件仅有 2.0GB 大小。与 Ubuntu 类似，安装简单，无需额外配置或复杂操作即可满足日常需求。</value>
     </data>
     <data name="Friendly interface" xml:space="preserve">
-        <value>友善介面</value>
+        <value>界面友好</value>
     </data>
     <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
-        <value>基於 GNOME 的桌面環境擁有美麗的介面和符合用戶習慣的人機互動，讓您可以快速上手 AnduinOS，無需太多學習成本。</value>
+        <value>基于 GNOME 的桌面环境拥有美观的界面和符合用户习惯的人机交互，让您无需太多学习成本即可快速上手 AnduinOS。</value>
     </data>
     <data name="Root and privacy" xml:space="preserve">
-        <value>根權限與私隱</value>
+        <value>Root权限和隐私</value>
     </data>
     <data name="Privacy is no longer optional. It's essential. AnduinOS is designed to gather nothing from you. We don't track you. We don't profile you. We don't target you. You remain anonymous to the system." xml:space="preserve">
-        <value>私隱不再是可選的，而是必需的。AnduinOS 設計為不收集您的任何資料。我們不追蹤您、不分析您、不針對您。您在系統中保持匿名。</value>
+        <value>当我们不再掌控设备，隐私将会是一种奢侈。AnduinOS 设计原则是不收集您的任何信息。我们不跟踪、不分析、不针对您。您对系统而言始终是匿名的。</value>
     </data>
     <data name="Ecological perfection" xml:space="preserve">
-        <value>生態完善</value>
+        <value>生态完善</value>
     </data>
     <data name="AnduinOS is based on Ubuntu's package base. It's compatible with most of the apt packages from Ubuntu. It's a perfect combination of experience and ecology." xml:space="preserve">
-        <value>AnduinOS 基於 Ubuntu 的套件基礎。它與大多數來自 Ubuntu 的 apt 套件相容。這是體驗與生態的完美結合。</value>
+        <value>AnduinOS 基于 Ubuntu 的软件包基础。它与大多数来自 Ubuntu 的 apt 软件包兼容，从而达到体验和生态的完美结合。</value>
     </data>
     <data name="Open Source" xml:space="preserve">
-        <value>開源</value>
+        <value>开源</value>
     </data>
     <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
-        <value>AnduinOS 是一個開源項目。遵循 GPL-v3 授權，您可以查看原始碼、修改並重新分發。它是免費的，永遠都會是免費的。</value>
+        <value>AnduinOS 是一个开源项目。遵循 GPL-v3 许可证；您可以查看源代码，修改它，并重新分发它。它是免费的，并将永远免费。</value>
     </data>
     <data name="Containerized" xml:space="preserve">
         <value>容器化</value>
     </data>
     <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
-        <value>圖形化應用程式透過 Flatpak 安裝，與基礎系統保持分離（自 1.3 版起）。它們也允許對權限進行細緻的控制。</value>
+        <value>图形应用程序默认通过 Flatpak 安装，并与基础系统保持分离（自 1.3 版本起），从而允许对权限进行精细控制。</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>版本</value>
     </data>
     <data name="Choose your AnduinOS version" xml:space="preserve">
-        <value>選擇您的 AnduinOS 版本</value>
+        <value>选择您的 AnduinOS 版本</value>
     </data>
     <data name="AnduinOS is available in" xml:space="preserve">
-        <value>AnduinOS 提供</value>
+        <value>AnduinOS 有</value>
     </data>
     <data name="two version branches" xml:space="preserve">
-        <value>兩個版本分支</value>
+        <value>两个版本分支</value>
     </data>
     <data name="LTS and Standard" xml:space="preserve">
-        <value>LTS 和標準版</value>
+        <value>LTS 和标准版</value>
     </data>
     <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
-        <value>LTS 版本建議需要穩定長期支援的用戶使用，而標準版則建議擁有較新設備並希望探索最新功能的用戶使用。</value>
+        <value>LTS 版本推荐给需要稳定长期支持的用户，而标准版推荐给拥有较新设备并希望探索最新功能的用户。</value>
     </data>
+
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>用途</value>
     </data>
     <data name="With AnduinOS, you can do more" xml:space="preserve">
-        <value>使用 AnduinOS，您可以做得更多</value>
+        <value>使用 AnduinOS，您可以做到的事情会更多！</value>
     </data>
     <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It's up to you." xml:space="preserve">
-        <value>您在 Ubuntu 上做的所有事情，都可以在 AnduinOS 上完成。您可以將其用作日常作業系統、開發環境、伺服器或學習工具。由您決定。</value>
+        <value>在 Ubuntu 上能做的一切，在 AnduinOS 上都能做到。您可以将其用作日常操作系统、开发环境、服务器或学习工具。一切由您决定。</value>
     </data>
     <data name="Browsing" xml:space="preserve">
-        <value>瀏覽</value>
+        <value>浏览网页</value>
     </data>
     <data name="Gaming" xml:space="preserve">
-        <value>遊戲</value>
+        <value>游戏</value>
     </data>
     <data name="With Steam" xml:space="preserve">
-        <value>使用 Steam</value>
+        <value>通过 Steam</value>
     </data>
     <data name="Build" xml:space="preserve">
-        <value>建構</value>
+        <value>开发</value>
     </data>
     <data name="Work" xml:space="preserve">
-        <value>工作</value>
+        <value>办公</value>
     </data>
     <data name="Serve" xml:space="preserve">
-        <value>伺服</value>
+        <value>作为服务器</value>
     </data>
     <data name="Editing" xml:space="preserve">
-        <value>編輯</value>
+        <value>编辑创作</value>
     </data>
+
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
-        <value>評價</value>
+        <value>评价</value>
     </data>
     <data name="What users are saying" xml:space="preserve">
-        <value>用戶怎麼說</value>
+        <value>用户怎么说</value>
     </data>
     <data name="Here's what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
-        <value>以下是我們 2000 多位用戶對使用 AnduinOS 的評價。</value>
+        <value>以下是我们 2000 多名用户对使用 AnduinOS 的一些评价。</value>
     </data>
     <data name="Designer" xml:space="preserve">
-        <value>設計師</value>
+        <value>设计师</value>
     </data>
     <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can't miss. Trust me!!!" xml:space="preserve">
-        <value>AnduinOS 擁有乾淨、美麗的現代設計和用戶友善的介面，在眾多發行版中，這是您不能錯過的選擇。相信我！！！</value>
+        <value>"AnduinOS 有着整洁、美观的现代设计，用户友好的界面，在众多发行版中，这是你不能错过的选择。相信我！！！"</value>
     </data>
     <data name="Lead Developer" xml:space="preserve">
-        <value>首席開發者</value>
+        <value>首席开发者</value>
     </data>
     <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
-        <value>AnduinOS 為我原本認為無用的 Surface Go 注入了新生命。令人驚訝的是，它運行得比 Windows 流暢得多。所有功能都運作完美！</value>
+        <value>"AnduinOS 为我的 Surface Go 注入了新的生命，我曾经认为它毫无用处。令人惊讶的是，它比 Windows 运行得更流畅。所有功能都完美运行！"</value>
     </data>
     <data name="Developer" xml:space="preserve">
-        <value>開發者</value>
+        <value>开发者</value>
     </data>
     <data name="AnduinOS is your final Linux distribution! It's built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
-        <value>AnduinOS 是您最終的 Linux 發行版！它為開發者而建，輕量級但仍然強大。憑藉其精心構建的主題和快捷鍵，Windows 用戶可以順利轉換到 AnduinOS，忘記設定系統的煩惱。</value>
+        <value>"AnduinOS 是您的最终 Linux 发行版！它为开发者打造，轻量却功能强大。凭借精心构建的主题和快捷方式，Windows 用户可以平滑过渡到 AnduinOS，无需再烦恼系统设置。"</value>
     </data>
     <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
-        <value>AnduinOS 深度簡化了我的生活和工作流程，鞏固了它作為我日常使用首選 Linux 發行版的地位！</value>
+        <value>"AnduinOS 深刻地简化了我的生活和工作流程，巩固了它作为我日常使用的首选 Linux 发行版的地位！"</value>
     </data>
+
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
-        <value>...我們不能忘記這是一個 1.8 GB 的映像檔。它振奮了我的精神...我真的認為它值得安裝，時間會證明一切。</value>
+        <value>"...我们不能忘记它只是一个 1.8 GB 的镜像。它振奋了我的精神...我真的认为它值得安装，时间会证明一切。"</value>
     </data>
     <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It's intuitive, simple to use, and well-designed." xml:space="preserve">
-        <value>事實上，這是那些「設定後即可忘記」的發行版之一，讓使用 Linux 成為一種樂趣。它直觀、易於使用且設計精良。</value>
+        <value>"事实上，这是那种'设置好就忘记'的发行版，让使用 Linux 成为一种享受。它直观、易用且设计精良。"</value>
     </data>
     <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
-        <value>該作業系統持續專注於易用性，特別是對於從 Windows 轉換過來的用戶。</value>
+        <value>"该操作系统继续专注于易用性，尤其是对那些从 Windows 迁移过来的用户。"</value>
     </data>
     <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
-        <value>Linux 是保持電腦運行的好選擇，如果您想要外觀類似 Windows 的系統，那麼 AnduinOS 值得一試。</value>
+        <value>"Linux 是保持电脑运行的好选择，如果你想要类似 Windows 外观的系统，那么 AnduinOS 值得一试。"</value>
     </data>
+
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
-        <value>常見問題</value>
+        <value>常见问题</value>
     </data>
     <data name="Frequently asked questions" xml:space="preserve">
-        <value>常見問題</value>
+        <value>常见问题</value>
     </data>
     <data name="Here are some of the answers you might be looking for." xml:space="preserve">
-        <value>以下是您可能正在尋找的一些答案。</value>
+        <value>这里是您可能在寻找的一些答案。</value>
     </data>
     <data name="Is it free to use AnduinOS?" xml:space="preserve">
-        <value>使用 AnduinOS 是免費的嗎？</value>
+        <value>使用 AnduinOS 是免费的吗？</value>
     </data>
     <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
-        <value>是的，AnduinOS 是免費使用的。它是一個遵循 GPL-v3 授權的開源項目。您可以查看原始碼、修改並重新分發。它是免費的，永遠都會是免費的。</value>
+        <value>是的，AnduinOS 是免费自由使用的。它是一个遵循 GPL-v3 许可证的开源项目。您可以查看源代码，修改它，并重新分发它。它是免费的，并将永远免费。</value>
     </data>
     <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
-        <value>我可以在 AnduinOS 上運行哪些類型的應用程式？</value>
+        <value>我可以在 AnduinOS 上运行什么类型的应用程序？</value>
     </data>
     <data name="AnduinOS is based on Ubuntu's package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
-        <value>AnduinOS 基於 Ubuntu 的套件基礎。在 Ubuntu 上運行的任何軟體都可以在 AnduinOS 上運行。您可以運行各種應用程式，包括但不限於：Linux 應用程式、網頁應用程式，甚至使用 Wine 運行 Windows 應用程式。</value>
+        <value>AnduinOS 基于 Ubuntu 的软件包基础。任何在 Ubuntu 上运行的软件都可以在 AnduinOS 上运行。您可以运行各种应用程序，包括但不限于：Linux 应用程序、Web 应用程序，甚至使用 Wine 运行 Windows 应用程序。</value>
     </data>
     <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
-        <value>AnduinOS 使用 Flatpak 來管理圖形化應用程式。Flatpak 是用於軟體部署、應用程式虛擬化和套件管理的軟體工具。它允許您在沙盒環境中運行應用程式，有助於提高安全性和穩定性。</value>
+        <value>AnduinOS 使用 Flatpak 管理图形应用程序。Flatpak 是一个用于软件部署、应用虚拟化和软件包管理的工具。它允许您在沙盒环境中运行应用程序，有助于提高安全性和稳定性。</value>
     </data>
     <data name="How can I search for solutions to problems?" xml:space="preserve">
-        <value>我如何搜尋問題的解決方案？</value>
+        <value>我如何寻找问题的解决方案？</value>
     </data>
     <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu's documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
-        <value>在 Ask Ubuntu 上，您可以搜尋和詢問非常常見的問題。幾乎所有 AnduinOS 問題的解決方案都與 Ubuntu 的解決方案相同。您可以完全依賴 Ubuntu 的文檔和專業知識來解決 AnduinOS 的問題。</value>
+        <value>在 Ask Ubuntu 上，您可以搜索并询问常见问题。几乎所有 AnduinOS 问题的解决方案都与 Ubuntu 相同。您可以完全依靠 Ubuntu 的文档和专业知识来解决 AnduinOS 的问题。</value>
     </data>
     <data name="Is there any support included?" xml:space="preserve">
-        <value>是否包含任何支援？</value>
+        <value>是否包含任何支持？</value>
     </data>
     <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
-        <value>您可以透過 GitHub Discussions 存取 AnduinOS 線上支援服務。請在</value>
+        <value>您可以通过 GitHub Discussions 访问 AnduinOS 在线支持服务。请联系我们</value>
     </data>
     <data name="here" xml:space="preserve">
-        <value>這裡</value>
+        <value>这里</value>
     </data>
     <data name="for any questions." xml:space="preserve">
-        <value>聯繫我們以解答任何問題。</value>
+        <value>有任何问题。</value>
     </data>
     <data name="Who is behind AnduinOS?" xml:space="preserve">
-        <value>AnduinOS 背後是誰？</value>
+        <value>谁在 AnduinOS 背后？</value>
     </data>
     <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
-        <value>AnduinOS 是一個在業餘時間建立的非牟利項目，完全透過捐款維持，沒有任何企業或國家政府的支持。</value>
+        <value>AnduinOS 是一个在业余时间构建的非营利性项目，仅通过捐赠维持，没有任何公司或国家政府支持。</value>
     </data>
     <data name="Read more" xml:space="preserve">
         <value>了解更多</value>
     </data>
     <data name="AnduinOS works based on donations from users. We are grateful for your support. And you can" xml:space="preserve">
-        <value>AnduinOS 基於用戶的捐款運作。我們感謝您的支持。您可以</value>
+        <value>AnduinOS 基于用户的捐赠运作。我们感谢您的支持。您可以</value>
     </data>
     <data name="donate" xml:space="preserve">
-        <value>捐款</value>
+        <value>捐赠</value>
     </data>
     <data name="to us via PayPal." xml:space="preserve">
-        <value>透過 PayPal 給我們。</value>
+        <value>通过 PayPal 给我们。</value>
     </data>
     <data name="How can I contact the AnduinOS team?" xml:space="preserve">
-        <value>我如何聯繫 AnduinOS 團隊？</value>
+        <value>如何联系 AnduinOS 团队？</value>
     </data>
     <data name="Please contact us with email at" xml:space="preserve">
-        <value>請透過電郵聯繫我們：</value>
+        <value>请通过电子邮件联系我们</value>
     </data>
     <data name="for any questions. Please join our" xml:space="preserve">
-        <value>如有任何問題。請加入我們的</value>
+        <value>有任何问题。请加入我们的</value>
     </data>
     <data name="Revolt channel" xml:space="preserve">
-        <value>Revolt 頻道</value>
+        <value>Revolt 频道</value>
     </data>
     <data name="for community support." xml:space="preserve">
-        <value>以獲得社群支援。</value>
+        <value>获取社区支持。</value>
     </data>
+
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
-        <value>加入我們的社群並參與 AnduinOS！</value>
+        <value>加入我们的社区，参与 AnduinOS！</value>
     </data>
     <data name="Join Revolt channel" xml:space="preserve">
-        <value>加入 Revolt 頻道</value>
+        <value>加入 Revolt 频道</value>
     </data>
     <data name="Join Discussions" xml:space="preserve">
-        <value>加入討論</value>
+        <value>加入 GitHub 讨论</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
-        <value>下載 AnduinOS</value>
+        <value>下载 AnduinOS</value>
     </data>
     <data name="Select the correct edition below:" xml:space="preserve">
-        <value>請在下方選擇正確的版本：</value>
+        <value>在下方选择正确的版本：</value>
     </data>
     <data name="Language" xml:space="preserve">
-        <value>語言</value>
+        <value>语言</value>
     </data>
     <data name="By downloading, you agree to our" xml:space="preserve">
-        <value>下載即表示您同意我們的</value>
+        <value>下载即表示您同意我们的</value>
     </data>
     <data name="Terms of Service" xml:space="preserve">
-        <value>服務條款</value>
+        <value>服务条款</value>
     </data>
     <data name="and" xml:space="preserve">
         <value>和</value>
     </data>
     <data name="Privacy Policy" xml:space="preserve">
-        <value>私隱政策</value>
+        <value>隐私政策</value>
     </data>
     <data name="Close" xml:space="preserve">
-        <value>關閉</value>
+        <value>关闭</value>
     </data>
 </root>

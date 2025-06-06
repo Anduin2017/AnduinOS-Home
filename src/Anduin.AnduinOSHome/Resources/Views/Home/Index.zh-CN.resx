@@ -18,27 +18,8 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>特别感谢！</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>AnduinOS 服务器由</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>提供支持，这是一家顶级托管服务提供商</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>立即注册！</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>免费</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>GPL-v3 许可证</value>
-    </data>
+
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
         <value>完全没有监控！选择 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 来重获隐私</value>
     </data>
@@ -66,6 +47,31 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 想成为你的助手。</value>
     </data>
+
+    <!-- ===== BANNER ===== -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>特别感谢！</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>AnduinOS 服务器由</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>提供支持，这是一家顶级托管服务提供商</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>立即注册！</value>
+    </data>
+
+    <!-- ===== MAIN ===== -->
+    <data name="Free" xml:space="preserve">
+        <value>免费</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>GPL-v3 许可证</value>
+    </data>
     <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
         <value>AnduinOS 是一个基于 Ubuntu 的自定义 Linux 发行版，旨在通过保持熟悉的操作习惯和工作流程，帮助开发者从 Windows 过渡到 Linux。</value>
     </data>
@@ -81,6 +87,8 @@
     <data name="Change Log" xml:space="preserve">
         <value>更新日志</value>
     </data>
+
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>理由</value>
     </data>
@@ -126,6 +134,8 @@
     <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
         <value>图形应用程序默认通过 Flatpak 安装，并与基础系统保持分离（自 1.3 版本起），从而允许对权限进行精细控制。</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>版本</value>
     </data>
@@ -144,6 +154,8 @@
     <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
         <value>LTS 版本推荐给需要稳定长期支持的用户，而标准版推荐给拥有较新设备并希望探索最新功能的用户。</value>
     </data>
+
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>用途</value>
     </data>
@@ -174,6 +186,8 @@
     <data name="Editing" xml:space="preserve">
         <value>编辑创作</value>
     </data>
+
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
         <value>评价</value>
     </data>
@@ -204,6 +218,8 @@
     <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
         <value>"AnduinOS 深刻地简化了我的生活和工作流程，巩固了它作为我日常使用的首选 Linux 发行版的地位！"</value>
     </data>
+
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
         <value>"...我们不能忘记它只是一个 1.8 GB 的镜像。它振奋了我的精神...我真的认为它值得安装，时间会证明一切。"</value>
     </data>
@@ -216,6 +232,8 @@
     <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
         <value>"Linux 是保持电脑运行的好选择，如果你想要类似 Windows 外观的系统，那么 AnduinOS 值得一试。"</value>
     </data>
+
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
         <value>常见问题</value>
     </data>
@@ -291,6 +309,8 @@
     <data name="for community support." xml:space="preserve">
         <value>获取社区支持。</value>
     </data>
+
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
         <value>加入我们的社区，参与 AnduinOS！</value>
     </data>
@@ -300,6 +320,8 @@
     <data name="Join Discussions" xml:space="preserve">
         <value>加入 GitHub 讨论</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
         <value>下载 AnduinOS</value>
     </data>

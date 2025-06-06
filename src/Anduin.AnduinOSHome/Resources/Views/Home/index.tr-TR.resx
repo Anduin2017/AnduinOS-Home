@@ -18,27 +18,8 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>Özel Teşekkürler!</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>AnduinOS sunucusu gururla sponsor edilmiştir</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>birinci sınıf hosting hizmetleri sağlayıcısı</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>Bugün kaydolun!</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>Ücretsiz</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>GPL-v3 Lisansı</value>
-    </data>
+
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
         <value>Hiç telemetri yok! Gizliliğinizi geri kazanmak için &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;'u seçin</value>
     </data>
@@ -66,6 +47,31 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; asistanınız olmak istiyor.</value>
     </data>
+
+    <!-- ===== BANNER ===== -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>Özel Teşekkürler!</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>AnduinOS sunucusu gururla sponsor edilmiştir</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>birinci sınıf hosting hizmetleri sağlayıcısı</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>Bugün kaydolun!</value>
+    </data>
+    <data name="Free" xml:space="preserve">
+        <value>Ücretsiz</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>GPL-v3 Lisansı</value>
+    </data>
+
+    <!-- ===== MAIN ===== -->
     <data name="AnduinOS" xml:space="preserve">
         <value>AnduinOS</value>
     </data>
@@ -84,6 +90,8 @@
     <data name="Change Log" xml:space="preserve">
         <value>Değişiklik Günlüğü</value>
     </data>
+
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>Nedenler</value>
     </data>
@@ -129,6 +137,8 @@
     <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
         <value>Grafik uygulamalar Flatpak aracılığıyla kurulur ve kendilerini temel sistemden ayrı tutar (1.3'ten beri). Ayrıca izinleri üzerinde ayrıntılı kontrol sağlarlar.</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>Sürümler</value>
     </data>
@@ -147,6 +157,8 @@
     <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
         <value>LTS sürümü istikrarlı uzun vadeli destek ihtiyacı olan kullanıcılar için önerilirken, Standart sürüm daha yeni cihazları olan ve en son özellikleri keşfetmek isteyen kullanıcılar için önerilir.</value>
     </data>
+
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>Kullanım</value>
     </data>
@@ -177,6 +189,8 @@
     <data name="Editing" xml:space="preserve">
         <value>Düzenleme</value>
     </data>
+
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
         <value>İncelemeler</value>
     </data>
@@ -207,6 +221,8 @@
     <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
         <value>AnduinOS hayatımı ve iş süreçlerimi derinlemesine kolaylaştırdı, günlük kullanım için tercih ettiğim Linux dağıtımı pozisyonunu sağlamlaştırdı!</value>
     </data>
+
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
         <value>...1.8 GB'lık bir imaj olduğunu unutmamalıyız. Moralimi yükseltti... Gerçekten kurulmayı hak ettiğini düşünüyorum, zaman gösterecek.</value>
     </data>
@@ -219,6 +235,8 @@
     <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
         <value>Linux bilgisayarları çalışır durumda tutmak için iyi bir seçenek ve Windows'a benzer görünen bir şey istiyorsanız, AnduinOS'a göz atmaya değer.</value>
     </data>
+
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
         <value>SSS</value>
     </data>
@@ -294,6 +312,8 @@
     <data name="for community support." xml:space="preserve">
         <value>topluluk desteği için katılın.</value>
     </data>
+
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
         <value>Topluluğumuza katılın ve AnduinOS ile ilgilenin!</value>
     </data>
@@ -303,6 +323,8 @@
     <data name="Join Discussions" xml:space="preserve">
         <value>Tartışmalara katıl</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
         <value>AnduinOS'u İndir</value>
     </data>

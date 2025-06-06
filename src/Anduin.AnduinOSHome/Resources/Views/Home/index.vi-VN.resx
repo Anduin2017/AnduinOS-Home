@@ -18,27 +18,8 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>Đặc biệt cảm ơn!</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>Máy chủ AnduinOS được tài trợ một cách tự hào bởi</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>, nhà cung cấp dịch vụ hosting hàng đầu</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>Đăng ký ngay hôm nay!</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>Miễn phí</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>Giấy phép GPL-v3</value>
-    </data>
+
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
         <value>Không theo dõi dữ liệu! Chọn &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; để lấy lại quyền riêng tư của bạn</value>
     </data>
@@ -66,6 +47,31 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; muốn trở thành trợ lý của bạn.</value>
     </data>
+
+    <!-- ===== BANNER ===== -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>Đặc biệt cảm ơn!</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>Máy chủ AnduinOS được tài trợ một cách tự hào bởi</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>, nhà cung cấp dịch vụ hosting hàng đầu</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>Đăng ký ngay hôm nay!</value>
+    </data>
+
+    <!-- ===== MAIN ===== -->
+    <data name="Free" xml:space="preserve">
+        <value>Miễn phí</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>Giấy phép GPL-v3</value>
+    </data>
     <data name="AnduinOS" xml:space="preserve">
         <value>AnduinOS</value>
     </data>
@@ -84,6 +90,8 @@
     <data name="Change Log" xml:space="preserve">
         <value>Nhật ký thay đổi</value>
     </data>
+
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>Lý do</value>
     </data>
@@ -129,6 +137,8 @@
     <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
         <value>Các ứng dụng đồ họa được cài đặt qua Flatpak và tách biệt khỏi hệ thống cơ sở (Từ phiên bản 1.3). Chúng cũng cho phép kiểm soát chi tiết quyền hạn của mình.</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>Phiên bản</value>
     </data>
@@ -147,6 +157,8 @@
     <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
         <value>Phiên bản LTS được khuyến nghị cho người dùng cần hỗ trợ dài hạn ổn định, trong khi phiên bản Standard được khuyến nghị cho người dùng có thiết bị mới hơn và muốn khám phá các tính năng mới nhất.</value>
     </data>
+
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>Sử dụng</value>
     </data>
@@ -177,6 +189,8 @@
     <data name="Editing" xml:space="preserve">
         <value>Chỉnh sửa</value>
     </data>
+
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
         <value>Đánh giá</value>
     </data>
@@ -207,6 +221,8 @@
     <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
         <value>AnduinOS đã tinh giản sâu sắc cuộc sống và quy trình làm việc của tôi, củng cố vị thế là bản phân phối Linux ưa thích của tôi để sử dụng hằng ngày!</value>
     </data>
+
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
         <value>...Chúng ta không được quên rằng đây là một hình ảnh 1.8 GB. Nó đã nâng cao tinh thần của tôi... Tôi thực sự nghĩ rằng nó đáng để cài đặt, chắc chắn thời gian sẽ trả lời.</value>
     </data>
@@ -219,6 +235,8 @@
     <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
         <value>Linux là một lựa chọn tốt để giữ máy tính hoạt động, và nếu bạn muốn thứ gì đó trông giống Windows, thì AnduinOS đáng để kiểm tra.</value>
     </data>
+
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
         <value>Câu hỏi thường gặp</value>
     </data>
@@ -294,6 +312,8 @@
     <data name="for community support." xml:space="preserve">
         <value>của chúng tôi để được hỗ trợ cộng đồng.</value>
     </data>
+
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
         <value>Tham gia cộng đồng của chúng tôi và tham gia vào AnduinOS!</value>
     </data>
@@ -303,6 +323,8 @@
     <data name="Join Discussions" xml:space="preserve">
         <value>Tham gia thảo luận</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
         <value>Tải xuống AnduinOS</value>
     </data>

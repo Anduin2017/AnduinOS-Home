@@ -18,27 +18,8 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>ขอบคุณเป็นพิเศษ!</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>เซิร์ฟเวอร์ AnduinOS ได้รับการสนับสนุนอย่างภาคภูมิใจจาก</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>ผู้ให้บริการโฮสติ้งระดับพรีเมียม</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>สมัครสมาชิกวันนี้!</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>ฟรี</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>ใบอนุญาต GPL-v3</value>
-    </data>
+
+    <!-- ===== SLOGANS ===== -->
     <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
         <value>ไม่มีการติดตามข้อมูลเลย! เลือก &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; เพื่อคืนความเป็นส่วนตัวของคุณ</value>
     </data>
@@ -66,6 +47,31 @@
     <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; wants to become your assistant" xml:space="preserve">
         <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; ต้องการเป็นผู้ช่วยของคุณ</value>
     </data>
+
+    <!-- ===== BANNER ===== -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>ขอบคุณเป็นพิเศษ!</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>เซิร์ฟเวอร์ AnduinOS ได้รับการสนับสนุนอย่างภาคภูมิใจจาก</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>ผู้ให้บริการโฮสติ้งระดับพรีเมียม</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>สมัครสมาชิกวันนี้!</value>
+    </data>
+    <data name="Free" xml:space="preserve">
+        <value>ฟรี</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>ใบอนุญาต GPL-v3</value>
+    </data>
+
+    <!-- ===== MAIN ===== -->
     <data name="AnduinOS" xml:space="preserve">
         <value>AnduinOS</value>
     </data>
@@ -84,6 +90,8 @@
     <data name="Change Log" xml:space="preserve">
         <value>บันทึกการเปลี่ยนแปลง</value>
     </data>
+
+    <!-- ===== FEATURE ===== -->
     <data name="Reasons" xml:space="preserve">
         <value>เหตุผล</value>
     </data>
@@ -129,6 +137,8 @@
     <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
         <value>แอปพลิเคชันกราฟิกถูกติดตั้งผ่าน Flatpak และแยกตัวเองออกจากระบบฐาน (ตั้งแต่เวอร์ชัน 1.3) พวกเขายังอนุญาตให้ควบคุมสิทธิ์การเข้าถึงอย่างละเอียด</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Versions" xml:space="preserve">
         <value>เวอร์ชัน</value>
     </data>
@@ -147,6 +157,8 @@
     <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
         <value>เวอร์ชัน LTS แนะนำสำหรับผู้ใช้ที่ต้องการการสนับสนุนระยะยาวที่เสถียร ในขณะที่เวอร์ชัน Standard แนะนำสำหรับผู้ใช้ที่มีอุปกรณ์ใหม่กว่าและต้องการสำรวจฟีเจอร์ล่าสุด</value>
     </data>
+
+    <!-- ===== USAGE ===== -->
     <data name="Usage" xml:space="preserve">
         <value>การใช้งาน</value>
     </data>
@@ -177,6 +189,8 @@
     <data name="Editing" xml:space="preserve">
         <value>แก้ไข</value>
     </data>
+
+    <!-- ===== REVIEWS ===== -->
     <data name="Reviews" xml:space="preserve">
         <value>รีวิว</value>
     </data>
@@ -207,6 +221,8 @@
     <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
         <value>AnduinOS ได้ปรับปรุงกระบวนการชีวิตและการทำงานของฉันอย่างลึกซึ้ง ยืนยันตำแหน่งของมันในฐานะลินุกซ์ดิสทริบิวชันที่ฉันชื่นชอบสำหรับการใช้งานประจำวัน!</value>
     </data>
+
+    <!-- ===== MEDIA ===== -->
     <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
         <value>...เราต้องไม่ลืมว่านี่คือไฟล์ภาพ 1.8 GB มันทำให้จิตใจฉันดีขึ้น... ฉันคิดจริง ๆ ว่ามันสมควรได้รับการติดตั้ง แน่นอนว่าเวลาจะเป็นคำตอบ</value>
     </data>
@@ -219,6 +235,8 @@
     <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
         <value>Linux เป็นตัวเลือกที่ดีในการทำให้คอมพิวเตอร์ทำงานต่อไป และหากคุณต้องการสิ่งที่ดูคล้าย Windows แล้ว AnduinOS คุ้มค่าแก่การลอง</value>
     </data>
+
+    <!-- ===== FAQ ===== -->
     <data name="FAQ" xml:space="preserve">
         <value>คำถามที่พบบ่อย</value>
     </data>
@@ -294,6 +312,8 @@
     <data name="for community support." xml:space="preserve">
         <value>ของเรา เพื่อการสนับสนุนจากชุมชน</value>
     </data>
+
+    <!-- ===== COMMUNITY ===== -->
     <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
         <value>เข้าร่วมชุมชนของเราและมีส่วนร่วมกับ AnduinOS!</value>
     </data>
@@ -303,6 +323,8 @@
     <data name="Join Discussions" xml:space="preserve">
         <value>เข้าร่วมการอภิปราย</value>
     </data>
+
+    <!-- ===== DOWNLOAD ===== -->
     <data name="Download AnduinOS" xml:space="preserve">
         <value>ดาวน์โหลด AnduinOS</value>
     </data>
