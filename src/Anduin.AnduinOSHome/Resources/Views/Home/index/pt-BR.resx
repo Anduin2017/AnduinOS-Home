@@ -349,27 +349,4 @@
     <data name="Close" xml:space="preserve">
         <value>Fechar</value>
     </data>
-
-    <!-- ===== HEADER ===== -->
-    <data name="Docs" xml:space="preserve">
-        <value>Documentação</value>
-    </data>
-    <data name="News" xml:space="preserve">
-        <value>Notícias</value>
-    </data>
-    <data name="Install" xml:space="preserve">
-        <value>Instalar</value>
-    </data>
-    <data name="Source Code" xml:space="preserve">
-        <value>Código-fonte</value>
-    </data>
-    <data name="Community" xml:space="preserve">
-        <value>Comunidade</value>
-    </data>
-    <data name="Download AnduinOS" xml:space="preserve">
-        <value>Descarregar AnduinOS</value>
-    </data>
-    <data name="Donate" xml:space="preserve">
-        <value>Doar</value>
-    </data>
 </root>

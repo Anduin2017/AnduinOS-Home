@@ -349,27 +349,4 @@
     <data name="Close" xml:space="preserve">
         <value>ปิด</value>
     </data>
-
-    <!-- ===== HEADER ===== -->
-    <data name="Docs" xml:space="preserve">
-        <value>เอกสาร</value>
-    </data>
-    <data name="News" xml:space="preserve">
-        <value>ข่าวสาร</value>
-    </data>
-    <data name="Install" xml:space="preserve">
-        <value>ติดตั้ง</value>
-    </data>
-    <data name="Source Code" xml:space="preserve">
-        <value>ซอร์สโค้ด</value>
-    </data>
-    <data name="Community" xml:space="preserve">
-        <value>ชุมชน</value>
-    </data>
-    <data name="Download AnduinOS" xml:space="preserve">
-        <value>ดาวน์โหลด AnduinOS</value>
-    </data>
-    <data name="Donate" xml:space="preserve">
-        <value>บริจาค</value>
-    </data>
 </root>

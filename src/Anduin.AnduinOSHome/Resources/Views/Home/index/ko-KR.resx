@@ -349,27 +349,4 @@
     <data name="Close" xml:space="preserve">
         <value>닫기</value>
     </data>
-
-    <!-- ===== HEADER ===== -->
-    <data name="Docs" xml:space="preserve">
-        <value>문서</value>
-    </data>
-    <data name="News" xml:space="preserve">
-        <value>뉴스</value>
-    </data>
-    <data name="Install" xml:space="preserve">
-        <value>설치</value>
-    </data>
-    <data name="Source Code" xml:space="preserve">
-        <value>소스 코드</value>
-    </data>
-    <data name="Community" xml:space="preserve">
-        <value>커뮤니티</value>
-    </data>
-    <data name="Download AnduinOS" xml:space="preserve">
-        <value>AnduinOS 다운로드</value>
-    </data>
-    <data name="Donate" xml:space="preserve">
-        <value>기부하기</value>
-    </data>
 </root>

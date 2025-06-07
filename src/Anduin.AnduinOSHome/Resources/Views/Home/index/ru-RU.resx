@@ -349,27 +349,4 @@
     <data name="Close" xml:space="preserve">
         <value>Закрыть</value>
     </data>
-
-    <!-- ===== HEADER ===== -->
-    <data name="Docs" xml:space="preserve">
-        <value>Документация</value>
-    </data>
-    <data name="News" xml:space="preserve">
-        <value>Новости</value>
-    </data>
-    <data name="Install" xml:space="preserve">
-        <value>Установить</value>
-    </data>
-    <data name="Source Code" xml:space="preserve">
-        <value>Исходный код</value>
-    </data>
-    <data name="Community" xml:space="preserve">
-        <value>Сообщество</value>
-    </data>
-    <data name="Download AnduinOS" xml:space="preserve">
-        <value>Скачать AnduinOS</value>
-    </data>
-    <data name="Donate" xml:space="preserve">
-        <value>Пожертвовать</value>
-    </data>
 </root>

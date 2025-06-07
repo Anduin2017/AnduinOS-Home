@@ -349,27 +349,4 @@
     <data name="Close" xml:space="preserve">
         <value>Stäng</value>
     </data>
-
-    <!-- ===== HEADER ===== -->
-    <data name="Docs" xml:space="preserve">
-        <value>Dokumentation</value>
-    </data>
-    <data name="News" xml:space="preserve">
-        <value>Nyheter</value>
-    </data>
-    <data name="Install" xml:space="preserve">
-        <value>Installera</value>
-    </data>
-    <data name="Source Code" xml:space="preserve">
-        <value>Källkod</value>
-    </data>
-    <data name="Community" xml:space="preserve">
-        <value>Community</value>
-    </data>
-    <data name="Download AnduinOS" xml:space="preserve">
-        <value>Ladda ner AnduinOS</value>
-    </data>
-    <data name="Donate" xml:space="preserve">
-        <value>Donera</value>
-    </data>
 </root>
