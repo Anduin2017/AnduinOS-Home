@@ -27,7 +27,7 @@
                             .RequestCulture.Culture.Name;
                     }
                     <form asp-controller="Culture" asp-action="Set" method="post" class="d-inline">
-                        <select name="culture" onchange="this.form.submit()" class="form-select form-select-sm w-auto">
+                        <select name="culture" id="culture" onchange="this.form.submit()" class="form-select form-select-sm w-auto">
                             @foreach (var culture in Startup.SupportedCultures)
                             {
                                 <option value="@culture.Key"

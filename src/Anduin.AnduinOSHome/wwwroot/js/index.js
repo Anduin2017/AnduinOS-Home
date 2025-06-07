@@ -156,7 +156,6 @@ const downloadModal = new bootstrap.Modal(
     document.getElementById("download-modal")
 );
 const downloadModalTitle = document.getElementById("download-modal-title");
-const downloadModalDescription = document.getElementById("download-modal-description");
 const downloadLinksContainer = document.getElementById("download-links-container");
 
 // Function to fetch versions from API
@@ -286,9 +285,7 @@ function createVersionCard(versionObj) {
 }
 
 function openDownloadModal(versionObj) {
-    downloadModalTitle.textContent = `Download AnduinOS ${versionObj.version}`;
-    downloadModalDescription.textContent =
-        `To download AnduinOS, select the correct edition below: (${versionObj.size})`;
+    downloadModalTitle.textContent = `AnduinOS ${versionObj.version}`;
 
     const languageSelect = document.getElementById("language-select");
     languageSelect.innerHTML = "";
@@ -298,6 +295,8 @@ function openDownloadModal(versionObj) {
         opt.textContent = lang.name;
         languageSelect.appendChild(opt);
     });
+
+	languageSelect.value = document.getElementById('culture').value.replace('-','_');
 
     languageSelect.onchange = () => {
         renderDownloadLinks(versionObj, languageSelect.value);
