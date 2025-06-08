@@ -349,4 +349,7 @@
     <data name="Close" xml:space="preserve">
         <value>Cerrar</value>
     </data>
+    <data name="Recommended System Requirements" xml:space="preserve">
+        <value>Requisitos recomendados del sistema</value>
+    </data>
 </root>

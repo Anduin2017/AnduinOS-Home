@@ -349,4 +349,7 @@
     <data name="Close" xml:space="preserve">
         <value>Đóng</value>
     </data>
+    <data name="Recommended System Requirements" xml:space="preserve">
+        <value>Yêu cầu hệ thống khuyến nghị</value>
+    </data>
 </root>

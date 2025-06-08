@@ -349,4 +349,7 @@
     <data name="Close" xml:space="preserve">
         <value>Kapat</value>
     </data>
+    <data name="Recommended System Requirements" xml:space="preserve">
+        <value>Önerilen Sistem Gereksinimleri</value>
+    </data>
 </root>

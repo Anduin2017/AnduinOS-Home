@@ -346,4 +346,7 @@
     <data name="Close" xml:space="preserve">
         <value>Sluiten</value>
     </data>
+    <data name="Recommended System Requirements" xml:space="preserve">
+        <value>Aanbevolen systeemvereisten</value>
+    </data>
 </root>

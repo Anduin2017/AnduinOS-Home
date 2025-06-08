@@ -344,4 +344,7 @@
     <data name="Close" xml:space="preserve">
         <value>إغلاق</value>
     </data>
+    <data name="Recommended System Requirements" xml:space="preserve">
+        <value>متطلبات النظام الموصى بها</value>
+    </data>
 </root>

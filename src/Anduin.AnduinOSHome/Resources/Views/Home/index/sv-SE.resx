@@ -349,4 +349,7 @@
     <data name="Close" xml:space="preserve">
         <value>Stäng</value>
     </data>
+    <data name="Recommended System Requirements" xml:space="preserve">
+        <value>Rekommenderade systemkrav</value>
+    </data>
 </root>

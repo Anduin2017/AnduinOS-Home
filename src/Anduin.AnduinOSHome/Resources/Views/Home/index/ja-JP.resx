@@ -335,7 +335,7 @@
         <value>言語</value>
     </data>
     <data name="By downloading, you agree to our" xml:space="preserve">
-        <value>ダウンロードすることで、私たちの</value>
+        <value>ダウンロードすることで、同意するものとします：</value>
     </data>
     <data name="Terms of Service" xml:space="preserve">
         <value>利用規約</value>
@@ -348,5 +348,8 @@
     </data>
     <data name="Close" xml:space="preserve">
         <value>閉じる</value>
+    </data>
+    <data name="Recommended System Requirements" xml:space="preserve">
+        <value>推奨システム要件</value>
     </data>
 </root>
