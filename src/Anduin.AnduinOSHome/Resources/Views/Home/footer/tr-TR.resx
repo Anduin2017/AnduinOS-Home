@@ -20,5 +20,40 @@
     </resheader>
 
     <!-- ===== FOOTER ===== -->
-
+    <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+        <value>AnduinOS – Windows'tan Linux'a geçiş yapan geliştiricilerin alışkanlıklarını ve iş akışlarını koruyarak geçişi kolaylaştırmayı hedefleyen, Ubuntu tabanlı özel bir Linux dağıtımı.</value>
+    </data>
+    <data name="Resources" xml:space="preserve">
+        <value>Kaynaklar</value>
+    </data>
+    <data name="Source Code" xml:space="preserve">
+        <value>Kaynak Kodu</value>
+    </data>
+    <data name="Community" xml:space="preserve">
+        <value>Topluluk</value>
+    </data>
+    <data name="Document" xml:space="preserve">
+        <value>Belge</value>
+    </data>
+    <data name="Reference" xml:space="preserve">
+        <value>Referans</value>
+    </data>
+    <data name="Legal" xml:space="preserve">
+        <value>Yasal</value>
+    </data>
+    <data name="License" xml:space="preserve">
+        <value>Lisans</value>
+    </data>
+    <data name="Open Source" xml:space="preserve">
+        <value>Açık Kaynak</value>
+    </data>
+    <data name="Privacy Policy" xml:space="preserve">
+        <value>Gizlilik Politikası</value>
+    </data>
+    <data name="Terms Of Service" xml:space="preserve">
+        <value>Kullanım Şartları</value>
+    </data>
+    <data name="Social" xml:space="preserve">
+        <value>Sosyal</value>
+    </data>
 </root>

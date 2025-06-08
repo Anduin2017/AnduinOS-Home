@@ -20,5 +20,40 @@
     </resheader>
 
     <!-- ===== FOOTER ===== -->
-
+    <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+        <value>AnduinOS – 一款基于Ubuntu的定制Linux发行版，旨在通过保持熟悉的操作习惯和工作流程，帮助开发者从Windows顺利过渡到Linux。</value>
+    </data>
+    <data name="Resources" xml:space="preserve">
+        <value>资源</value>
+    </data>
+    <data name="Source Code" xml:space="preserve">
+        <value>源代码</value>
+    </data>
+    <data name="Community" xml:space="preserve">
+        <value>社区</value>
+    </data>
+    <data name="Document" xml:space="preserve">
+        <value>文档</value>
+    </data>
+    <data name="Reference" xml:space="preserve">
+        <value>参考</value>
+    </data>
+    <data name="Legal" xml:space="preserve">
+        <value>法律</value>
+    </data>
+    <data name="License" xml:space="preserve">
+        <value>许可证</value>
+    </data>
+    <data name="Open Source" xml:space="preserve">
+        <value>开源</value>
+    </data>
+    <data name="Privacy Policy" xml:space="preserve">
+        <value>隐私政策</value>
+    </data>
+    <data name="Terms Of Service" xml:space="preserve">
+        <value>服务条款</value>
+    </data>
+    <data name="Social" xml:space="preserve">
+        <value>社交</value>
+    </data>
 </root>
