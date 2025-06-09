@@ -156,6 +156,7 @@ const downloadModal = new bootstrap.Modal(
     document.getElementById("download-modal")
 );
 const downloadModalTitle = document.getElementById("download-modal-title");
+const downloadModalDescription = document.getElementById("download-modal-description");
 const downloadLinksContainer = document.getElementById("download-links-container");
 
 // Function to fetch versions from API
@@ -285,7 +286,9 @@ function createVersionCard(versionObj) {
 }
 
 function openDownloadModal(versionObj) {
-    downloadModalTitle.textContent = `AnduinOS ${versionObj.version}`;
+    downloadModalTitle.textContent = `Download AnduinOS ${versionObj.version}`;
+    downloadModalDescription.textContent =
+        `To download AnduinOS, select the correct edition below: (${versionObj.size})`;
 
     const languageSelect = document.getElementById("language-select");
     languageSelect.innerHTML = "";
@@ -296,8 +299,6 @@ function openDownloadModal(versionObj) {
         languageSelect.appendChild(opt);
     });
 
-	languageSelect.value = document.getElementById('culture').value.replace('-','_');
-
     languageSelect.onchange = () => {
         renderDownloadLinks(versionObj, languageSelect.value);
     };
@@ -307,51 +308,35 @@ function openDownloadModal(versionObj) {
     downloadModal.show();
 }
 
-function createDownloadLink(href, className, textContent) {
-    const link = document.createElement("a");
-    link.href = href;
-    link.target = "_blank";
-    link.className = className;
-    link.textContent = textContent;
-    /*
-    link.addEventListener("click", function(e) {
-        e.preventDefault();
-        const tempLink = document.createElement("a");
-        tempLink.href = href;
-        tempLink.download = "";
-        tempLink.click();
-        document.body.removeChild(tempLink);
-        setTimeout(() => {
-            window.location.href = "thank_you.html";
-        }, 500);
-    });
-    */
-    downloadLinksContainer.appendChild(link);
-}
-
 function renderDownloadLinks(versionObj, langCode) {
     const lang = languages.find((l) => l.code === langCode);
-    downloadLinksContainer.replaceChildren();
-    // Direct (HTTP)
-    createDownloadLink(
-        `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.iso`,
-        "btn btn-outline-primary btn-lg btn-pill",
-        lang.directLabel
-    );
-    // Torrent
+    downloadLinksContainer.innerHTML = ""; // 清空
+
+    // direct (HTTP)
+    const isoLink = document.createElement("a");
+    isoLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.iso`;
+    isoLink.target = "_blank";
+    isoLink.className = "btn btn-outline-primary btn-lg btn-pill";
+    isoLink.textContent = lang.directLabel;
+    downloadLinksContainer.appendChild(isoLink);
+
+    // torrent
     if (versionObj.supportTorrent) {
-        createDownloadLink(
-            `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.torrent`,
-            "btn btn-primary btn-lg btn-pill",
-            lang.torrentLabel
-        );
+        const torrentLink = document.createElement("a");
+        torrentLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.torrent`;
+        torrentLink.target = "_blank";
+        torrentLink.className = "btn btn-primary btn-lg btn-pill";
+        torrentLink.textContent = lang.torrentLabel;
+        downloadLinksContainer.appendChild(torrentLink);
     }
-    // Hashsum
-    createDownloadLink(
-        `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.sha256`,
-        "btn btn-outline-primary btn-lg btn-pill",
-        lang.checksumLabel
-    );
+
+    // sha256
+    const checksumLink = document.createElement("a");
+    checksumLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.sha256`;
+    checksumLink.target = "_blank";
+    checksumLink.className = "btn btn-outline-primary btn-lg btn-pill";
+    checksumLink.textContent = lang.checksumLabel;
+    downloadLinksContainer.appendChild(checksumLink);
 }
 
 fetchVersions();

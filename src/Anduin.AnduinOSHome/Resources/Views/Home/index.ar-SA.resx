@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+
+    <!-- Slogans -->
+    <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+        <value>لا توجد بيانات تتبع على الإطلاق! اختر &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; لاستعادة خصوصيتك</value>
+    </data>
+    <data name="Today is the best day for you to switch to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>اليوم هو أفضل يوم للتبديل إلى &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; is Ubuntu's package base + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; هو قاعدة حزم Ubuntu + تجربة تطبيقات &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt;</value>
+    </data>
+    <data name="Everything you do on Ubuntu, you can do it on &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>كل ما تفعله على Ubuntu، يمكنك فعله على &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;</value>
+    </data>
+    <data name="Reveal the power of your computer, choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+        <value>اكتشف قوة حاسوبك، اختر &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;</value>
+    </data>
+    <data name="Transitioning to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; will be the best decision you've ever made" xml:space="preserve">
+        <value>الانتقال إلى &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; سيكون أفضل قرار اتخذته على الإطلاق</value>
+    </data>
+    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 تم إصداره في 2024.09.01</value>
+    </data>
+
+    <!-- Banner -->
+    <data name="Special Thanks!" xml:space="preserve">
+        <value>شكر خاص!</value>
+    </data>
+    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+        <value>خادم AnduinOS برعاية فخورة من</value>
+    </data>
+    <data name="Voxihost" xml:space="preserve">
+        <value>Voxihost</value>
+    </data>
+    <data name="a provider of top-tier hosting services" xml:space="preserve">
+        <value>مزود خدمات استضافة من الدرجة الأولى</value>
+    </data>
+    <data name="Sign up today!" xml:space="preserve">
+        <value>سجل اليوم!</value>
+    </data>
+
+    <!-- Main section -->
+    <data name="Free" xml:space="preserve">
+        <value>مجاني</value>
+    </data>
+    <data name="GPL-v3 License" xml:space="preserve">
+        <value>رخصة GPL-v3</value>
+    </data>
+    <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+        <value>AnduinOS هو توزيعة Linux مخصصة مبنية على Ubuntu تهدف إلى تسهيل انتقال المطورين من Windows إلى Linux من خلال الحفاظ على عادات التشغيل وسير العمل المألوفة.</value>
+    </data>
+    <data name="Download" xml:space="preserve">
+        <value>تحميل</value>
+    </data>
+    <data name="Docs" xml:space="preserve">
+        <value>التوثيق</value>
+    </data>
+    <data name="All versions" xml:space="preserve">
+        <value>جميع الإصدارات</value>
+    </data>
+    <data name="Change Log" xml:space="preserve">
+        <value>سجل التغييرات</value>
+    </data>
+
+    <!-- Features section -->
+    <data name="Reasons" xml:space="preserve">
+        <value>الأسباب</value>
+    </data>
+    <data name="Why choose AnduinOS?" xml:space="preserve">
+        <value>لماذا تختار AnduinOS؟</value>
+    </data>
+    <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+        <value>صورة أصغر، واجهة ودودة، أداء لا يُهزم، آمن ومحمي.</value>
+    </data>
+    <data name="Ready to use" xml:space="preserve">
+        <value>جاهز للاستخدام</value>
+    </data>
+    <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+        <value>حجم ISO هو 2.0 جيجابايت فقط. مثل Ubuntu، سهل التثبيت ويمكنه تلبية احتياجاتك اليومية دون تكوين إضافي أو عمليات معقدة.</value>
+    </data>
+    <data name="Friendly interface" xml:space="preserve">
+        <value>واجهة ودودة</value>
+    </data>
+    <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+        <value>بيئة سطح المكتب المبنية على GNOME لها واجهات جميلة وتفاعلات بين الإنسان والحاسوب تناسب عادات المستخدم، مما يتيح لك البدء بسرعة مع AnduinOS دون تكلفة تعلم كبيرة.</value>
+    </data>
+    <data name="Root and privacy" xml:space="preserve">
+        <value>الصلاحيات والخصوصية</value>
+    </data>
+    <data name="Privacy is no longer optional. It's essential. AnduinOS is designed to gather nothing from you. We don't track you. We don't profile you. We don't target you. You remain anonymous to the system." xml:space="preserve">
+        <value>الخصوصية لم تعد اختيارية. إنها ضرورية. AnduinOS مصمم لعدم جمع أي شيء منك. نحن لا نتتبعك. لا نضع لك ملف شخصي. لا نستهدفك. تبقى مجهول الهوية للنظام.</value>
+    </data>
+    <data name="Ecological perfection" xml:space="preserve">
+        <value>الكمال البيئي</value>
+    </data>
+    <data name="AnduinOS is based on Ubuntu's package base. It's compatible with most of the apt packages from Ubuntu. It's a perfect combination of experience and ecology." xml:space="preserve">
+        <value>AnduinOS مبني على قاعدة حزم Ubuntu. إنه متوافق مع معظم حزم apt من Ubuntu. إنه مزيج مثالي من التجربة والبيئة.</value>
+    </data>
+    <data name="Open Source" xml:space="preserve">
+        <value>مفتوح المصدر</value>
+    </data>
+    <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
+        <value>AnduinOS هو مشروع مفتوح المصدر. باتباع رخصة GPL-v3، يمكنك عرض الكود المصدري وتعديله وإعادة توزيعه. إنه مجاني وسيبقى مجانياً دائماً.</value>
+    </data>
+    <data name="Containerized" xml:space="preserve">
+        <value>حاويات</value>
+    </data>
+    <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
+        <value>التطبيقات الرسومية يتم تثبيتها عبر Flatpak، وتبقي نفسها منفصلة عن النظام الأساسي (منذ الإصدار 1.3). كما تسمح بالتحكم الدقيق في أذوناتها.</value>
+    </data>
+
+    <!-- Download section -->
+    <data name="Versions" xml:space="preserve">
+        <value>الإصدارات</value>
+    </data>
+    <data name="Choose your AnduinOS version" xml:space="preserve">
+        <value>اختر إصدار AnduinOS الخاص بك</value>
+    </data>
+    <data name="AnduinOS is available in" xml:space="preserve">
+        <value>AnduinOS متوفر في</value>
+    </data>
+    <data name="two version branches" xml:space="preserve">
+        <value>فرعين من الإصدارات</value>
+    </data>
+    <data name="LTS and Standard" xml:space="preserve">
+        <value>LTS والمعياري</value>
+    </data>
+    <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
+        <value>إصدار LTS موصى به للمستخدمين الذين يحتاجون دعماً مستقراً طويل المدى، بينما الإصدار المعياري موصى به للمستخدمين الذين لديهم أجهزة أحدث ويريدون استكشاف أحدث الميزات.</value>
+    </data>
+
+    <!-- Usage section -->
+    <data name="Usage" xml:space="preserve">
+        <value>الاستخدام</value>
+    </data>
+    <data name="With AnduinOS, you can do more" xml:space="preserve">
+        <value>مع AnduinOS، يمكنك فعل المزيد</value>
+    </data>
+    <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It's up to you." xml:space="preserve">
+        <value>كل ما تفعله على Ubuntu، يمكنك فعله على AnduinOS. يمكنك استخدامه كنظام تشغيل يومي، أو بيئة تطوير، أو خادم، أو أداة تعلم. الأمر متروك لك.</value>
+    </data>
+    <data name="Browsing" xml:space="preserve">
+        <value>التصفح</value>
+    </data>
+    <data name="Gaming" xml:space="preserve">
+        <value>الألعاب</value>
+    </data>
+    <data name="With Steam" xml:space="preserve">
+        <value>مع Steam</value>
+    </data>
+    <data name="Build" xml:space="preserve">
+        <value>البناء</value>
+    </data>
+    <data name="Work" xml:space="preserve">
+        <value>العمل</value>
+    </data>
+    <data name="Serve" xml:space="preserve">
+        <value>الخدمة</value>
+    </data>
+    <data name="Editing" xml:space="preserve">
+        <value>التحرير</value>
+    </data>
+
+    <!-- Reviews section -->
+    <data name="Reviews" xml:space="preserve">
+        <value>المراجعات</value>
+    </data>
+    <data name="What users are saying" xml:space="preserve">
+        <value>ما يقوله المستخدمون</value>
+    </data>
+    <data name="Here's what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
+        <value>إليك ما يقوله بعض من أكثر من 2000 مستخدم لدينا حول العمل مع AnduinOS.</value>
+    </data>
+    <data name="Designer" xml:space="preserve">
+        <value>مصمم</value>
+    </data>
+    <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can't miss. Trust me!!!" xml:space="preserve">
+        <value>AnduinOS له تصميم حديث نظيف وجميل، واجهة سهلة الاستخدام، من بين العديد من التوزيعات، هذا هو الخيار الذي لا يمكنك تفويته. ثق بي!!!</value>
+    </data>
+    <data name="Lead Developer" xml:space="preserve">
+        <value>المطور الرئيسي</value>
+    </data>
+    <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
+        <value>AnduinOS أعطى حياة جديدة لجهاز Surface Go الخاص بي، والذي كنت أعتقد سابقاً أنه عديم الفائدة. والمفاجئ أنه يعمل بسلاسة أكثر من Windows. جميع الميزات تعمل بشكل مثالي!</value>
+    </data>
+    <data name="Developer" xml:space="preserve">
+        <value>مطور</value>
+    </data>
+    <data name="AnduinOS is your final Linux distribution! It's built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
+        <value>AnduinOS هو توزيعة Linux النهائية لك! إنه مبني للمطورين وخفيف الوزن لكنه قوي. مع الموضوعات والاختصارات المبنية جيداً، يمكن لمستخدمي Windows الانتقال بسلاسة إلى AnduinOS ونسيان إعداد النظام.</value>
+    </data>
+    <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
+        <value>AnduinOS قام بتبسيط عمليات حياتي وعملي بشكل عميق، مما عزز موقعه كتوزيعة Linux المفضلة للاستخدام اليومي!</value>
+    </data>
+
+    <!-- Media reviews -->
+    <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
+        <value>...يجب ألا ننسى أنها صورة بحجم 1.8 جيجابايت. لقد رفعت معنوياتي... أعتقد حقاً أنها تستحق التثبيت، بالتأكيد الوقت سيخبرنا.</value>
+    </data>
+    <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It's intuitive, simple to use, and well-designed." xml:space="preserve">
+        <value>في الواقع، هذه واحدة من توزيعات &quot;أعدها وانسها&quot; التي تجعل استخدام Linux متعة. إنها بديهية وبسيطة الاستخدام ومصممة جيداً.</value>
+    </data>
+    <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
+        <value>نظام التشغيل يستمر في التركيز على سهولة الاستخدام، خاصة لأولئك المستخدمين المنتقلين من Windows.</value>
+    </data>
+    <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
+        <value>Linux يقف كخيار جيد للحفاظ على تشغيل أجهزة الكمبيوتر، وإذا كنت تريد شيئاً يبدو مشابهاً لـ Windows، فإن AnduinOS يستحق المراجعة.</value>
+    </data>
+
+    <!-- FAQ section -->
+    <data name="FAQ" xml:space="preserve">
+        <value>الأسئلة الشائعة</value>
+    </data>
+    <data name="Frequently asked questions" xml:space="preserve">
+        <value>الأسئلة المطروحة بكثرة</value>
+    </data>
+    <data name="Here are some of the answers you might be looking for." xml:space="preserve">
+        <value>إليك بعض الإجابات التي قد تبحث عنها.</value>
+    </data>
+    <data name="Is it free to use AnduinOS?" xml:space="preserve">
+        <value>هل استخدام AnduinOS مجاني؟</value>
+    </data>
+    <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
+        <value>نعم، AnduinOS مجاني للاستخدام. إنه مشروع مفتوح المصدر يتبع رخصة GPL-v3. يمكنك عرض الكود المصدري وتعديله وإعادة توزيعه. إنه مجاني وسيبقى مجانياً دائماً.</value>
+    </data>
+    <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
+        <value>ما نوع التطبيقات التي يمكنني تشغيلها على AnduinOS؟</value>
+    </data>
+    <data name="AnduinOS is based on Ubuntu's package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
+        <value>AnduinOS مبني على قاعدة حزم Ubuntu. أي برنامج يعمل على Ubuntu يمكن أن يعمل على AnduinOS. يمكنك تشغيل مجموعة متنوعة من التطبيقات، بما في ذلك وليس محدوداً بـ: تطبيقات Linux وتطبيقات الويب وحتى تطبيقات Windows باستخدام Wine.</value>
+    </data>
+    <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
+        <value>AnduinOS يستخدم Flatpak لإدارة التطبيقات الرسومية. Flatpak هو أداة برمجية لنشر البرامج وافتراض التطبيقات وإدارة الحزم. يتيح لك تشغيل التطبيقات في بيئة معزولة، مما يمكن أن يساعد في تحسين الأمان والاستقرار.</value>
+    </data>
+    <data name="How can I search for solutions to problems?" xml:space="preserve">
+        <value>كيف يمكنني البحث عن حلول للمشاكل؟</value>
+    </data>
+    <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu's documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
+        <value>في Ask Ubuntu، يمكنك البحث والسؤال عن المشاكل الشائعة جداً. حلول معظم مشاكل AnduinOS مطابقة لتلك الخاصة بـ Ubuntu. يمكنك الاعتماد كلياً على توثيق وخبرة Ubuntu لحل مشاكل AnduinOS.</value>
+    </data>
+    <data name="Is there any support included?" xml:space="preserve">
+        <value>هل يوجد أي دعم مشمول؟</value>
+    </data>
+    <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
+        <value>لديك وصول إلى خدمات الدعم عبر الإنترنت لـ AnduinOS عبر GitHub Discussions. يرجى الاتصال بنا في</value>
+    </data>
+    <data name="here" xml:space="preserve">
+        <value>هنا</value>
+    </data>
+    <data name="for any questions." xml:space="preserve">
+        <value>لأي أسئلة.</value>
+    </data>
+    <data name="Who is behind AnduinOS?" xml:space="preserve">
+        <value>من وراء AnduinOS؟</value>
+    </data>
+    <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
+        <value>AnduinOS هو مشروع غير ربحي بني في أوقات الفراغ، يُدعم فقط من خلال التبرعات، وليس مدعوماً من أي شركة أو حكومة وطنية.</value>
+    </data>
+    <data name="Read more" xml:space="preserve">
+        <value>اقرأ المزيد</value>
+    </data>
+    <data name="AnduinOS works based on donations from users. We are grateful for your support. And you can" xml:space="preserve">
+        <value>AnduinOS يعمل بناءً على تبرعات المستخدمين. نحن ممتنون لدعمكم. ويمكنكم</value>
+    </data>
+    <data name="donate" xml:space="preserve">
+        <value>التبرع</value>
+    </data>
+    <data name="to us via PayPal." xml:space="preserve">
+        <value>لنا عبر PayPal.</value>
+    </data>
+    <data name="How can I contact the AnduinOS team?" xml:space="preserve">
+        <value>كيف يمكنني الاتصال بفريق AnduinOS؟</value>
+    </data>
+    <data name="Please contact us with email at" xml:space="preserve">
+        <value>يرجى الاتصال بنا عبر البريد الإلكتروني على</value>
+    </data>
+    <data name="for any questions. Please join our" xml:space="preserve">
+        <value>لأي أسئلة. يرجى الانضمام إلى</value>
+    </data>
+    <data name="Revolt channel" xml:space="preserve">
+        <value>قناة Revolt</value>
+    </data>
+    <data name="for community support." xml:space="preserve">
+        <value>للحصول على دعم المجتمع.</value>
+    </data>
+
+    <!-- Community section -->
+    <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
+        <value>انضم إلى مجتمعنا وشارك في AnduinOS!</value>
+    </data>
+    <data name="Join Revolt channel" xml:space="preserve">
+        <value>انضم إلى قناة Revolt</value>
+    </data>
+    <data name="Join Discussions" xml:space="preserve">
+        <value>انضم إلى المناقشات</value>
+    </data>
+
+    <!-- Download modal -->
+    <data name="Download AnduinOS" xml:space="preserve">
+        <value>تحميل AnduinOS</value>
+    </data>
+    <data name="Select the correct edition below:" xml:space="preserve">
+        <value>اختر الإصدار الصحيح أدناه:</value>
+    </data>
+    <data name="Language" xml:space="preserve">
+        <value>اللغة</value>
+    </data>
+    <data name="By downloading, you agree to our" xml:space="preserve">
+        <value>بالتحميل، فإنك توافق على</value>
+    </data>
+    <data name="Terms of Service" xml:space="preserve">
+        <value>شروط الخدمة</value>
+    </data>
+    <data name="and" xml:space="preserve">
+        <value>و</value>
+    </data>
+    <data name="Privacy Policy" xml:space="preserve">
+        <value>سياسة الخصوصية</value>
+    </data>
+    <data name="Close" xml:space="preserve">
+        <value>إغلاق</value>
+    </data>
+</root>
