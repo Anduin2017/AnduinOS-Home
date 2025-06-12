@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Terms of Service" xml:space="preserve">
+    <value>服务条款</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>最后更新：2025年5月10日</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. 条款的接受</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>访问并使用AnduinOS网站（“Website”）及其任何相关服务（包括但不限于文档、下载和社区讨论等“Services”），即表示您同意受本《服务条款》（“Terms”）约束。</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>如果您不同意本协议的任何条款，则不得使用本网站或相关服务。</value>
+  </data>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. 条款修改</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>我们保留随时更新或修改本条款的权利，且无需事先通知。</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>您在条款变更后继续使用本网站或服务即视为接受新条款。</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>建议您定期查阅本条款内容。</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. 网站与服务的使用</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>您同意仅出于合法目的使用本网站及服务，并遵守所有适用的法律法规。</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>您特别同意不得：</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>滥用、攻击或超载网站、服务器或服务。</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>试图未经授权访问系统或数据。</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>上传、分发或传播任何恶意软件、病毒或有害代码。</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>利用本网站或服务从事任何欺诈、非法或恶意活动。</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>我们保留对违反本条款的用户限制或终止访问的权利。</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. 知识产权</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS 是一个遵循 GNU 通用公共许可证 v3.0 (GPL-v3) 发布的开源项目。</value>
+  </data>
+  <data name="GNU General Public License v3.0 (GPL-v3)" xml:space="preserve">
+    <value>GNU通用公共许可证v3.0 (GPL-v3)</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>。</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>未经明确许可，您不得复制、转载或分发本网站的任何非代码内容。</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>虽然该软件是开源的，但网站设计、品牌材料及其他非软件内容可能受独立的知识产权保护。</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. 第三方链接及内容</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>本网站及服务可能包含指向非我方所有或控制的第三方网站或服务的链接。</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>我们对任何第三方网站的内容、政策或行为概不负责。</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>访问第三方资源需自行承担风险。</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. 免责声明</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>本网站、服务及AnduinOS软件均按</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>&quot;按现状&quot;和&quot;按可用性&quot;</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>不提供任何明示或暗示的保证。</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>适用于特定用途</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>我们明确声明不提供任何明示或默示的担保，包括但不限于：</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>不侵权</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>准确性</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>可靠性</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>网站、服务或软件的可用性或安全性</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>使用AnduinOS及本网站完全由您自行承担风险。</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>在法律允许的最大范围内，我们对以下情况概不负责：</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. 责任限制</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>间接损害、附带损害、特殊损害、后果性损害或惩罚性损害赔偿；</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>利润、收入、数据或商誉的损失；</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>因您使用（或无法使用）本网站、服务或AnduinOS软件而导致的损害。</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. 终止条款</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. 适用法律</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>我们保留立即终止或暂停您访问网站或服务的权利，且无需提前通知，如果我们认为您的行为违反本条款或对其他用户、我们或第三方造成损害。</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. 联系信息</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>本条款受网站运营者所在司法管辖区的法律管辖并依其解释，不冲突法原则除外。</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>如对本服务条款有任何疑问，请联系：</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>电子邮箱：</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>社区：</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. 关于修改版本的免责声明</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub 讨论区</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOS 是一个遵循 GNU 通用公共许可证 v3.0 (GPL-v3) 条款发布的自由开源项目。</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
+    <value>虽然任何人都可以根据许可条款合法获取、修改和重新分发该软件的副本，</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
+    <value>我们仅对通过官方渠道正式分发的版本负责。</value>
+  </data>
+  <data name=", including:" xml:space="preserve">
+    <value>包括但不限于：</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>我们不认可、不验证也不支持任何非官方或第三方修改的AnduinOS版本。</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>如果您从上述官方渠道以外的任何来源获取AnduinOS，</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>您需自行承担由此产生的全部风险。</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>对于非官方或修改版本的AnduinOS所造成的任何损害、损失或安全漏洞，我们概不负责。</value>
+  </data>
+
+</root>
