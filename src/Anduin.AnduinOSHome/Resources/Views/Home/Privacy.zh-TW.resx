@@ -267,5 +267,11 @@
   <data name="Community:" xml:space="preserve">
     <value>社群：</value>
   </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (\&quot;local execution\&quot;)." xml:space="preserve">
+    <value>所有系統操作、配置及使用者活動皆在您自己的裝置上本地執行（「本地執行」）。</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
+    <value>所有系統操作、設定及使用者活動均在您自己的裝置上本地執行（&quot;本地執行&quot;）。</value>
+  </data>
 
 </root>

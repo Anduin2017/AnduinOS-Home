@@ -201,5 +201,11 @@
   <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
     <value>对于非官方或修改版本的AnduinOS所造成的任何损害、损失或安全漏洞，我们概不负责。</value>
   </data>
+  <data name="By accessing and using the AnduinOS website (\&quot;Website\&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (\&quot;Services\&quot;), you agree to be bound by these Terms of Service (\&quot;Terms\&quot;)." xml:space="preserve">
+    <value>通过访问和使用AnduinOS网站（“网站”）及其任何相关服务（包括但不限于文档、下载和社区讨论等“服务”），即表示您同意受本服务条款（“条款”）的约束。</value>
+  </data>
+  <data name="\&quot;as is\&quot; and \&quot;as available,\&quot;" xml:space="preserve">
+    <value>&quot;按现状&quot;和&quot;按可用性&quot;</value>
+  </data>
 
 </root>

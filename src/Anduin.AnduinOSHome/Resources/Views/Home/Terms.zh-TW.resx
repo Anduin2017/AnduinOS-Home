@@ -195,5 +195,17 @@
   <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
     <value>對於非官方或修改版本的AnduinOS所導致的任何損害、損失或安全漏洞，我們概不承擔任何責任。</value>
   </data>
+  <data name="\&quot;as is\&quot; and \&quot;as available,\&quot;" xml:space="preserve">
+    <value>「現狀」與「現有」</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (\&quot;Website\&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (\&quot;Services\&quot;), you agree to be bound by these Terms of Service (\&quot;Terms\&quot;)." xml:space="preserve">
+    <value>當您存取並使用 AnduinOS 網站（「網站」）及任何相關服務（包括但不限於文件、下載與社群討論等「服務」），即表示您同意受本《服務條款》（「條款」）約束。</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>「現狀」與「可用性」</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>當您存取並使用 AnduinOS 網站（「網站」）及任何相關服務（包括但不限於文件、下載與社群討論等「服務」）時，即表示您同意受本《服務條款》（「條款」）約束。</value>
+  </data>
 
 </root>

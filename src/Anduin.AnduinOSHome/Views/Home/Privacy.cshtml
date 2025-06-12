@@ -40,7 +40,7 @@
 				<p>@Localizer["In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users."]</p>
 				<hr>
 				<h2 id="3-open-source-guarantees-your-freedom">@Localizer["3. Open Source Guarantees Your Freedom"]</h2>
-				<p>@Localizer["AnduinOS is distributed under the"]<a href="https://www.gnu.org/licenses/gpl-3.0.en.html">@Localizer["GNU General Public License v3.0 (GPL-v3)"]</a>@Localizer["."]<br>@Localizer["This license guarantees:"]</p>
+				<p>@Localizer["AnduinOS is distributed under the"]<a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0 (GPL-v3)</a>@Localizer["."]<br>@Localizer["This license guarantees:"]</p>
 				<ul>
 					<li>
 						<strong>@Localizer["Freedom to inspect:"]</strong>@Localizer["You can review the source code to verify there are no hidden tracking mechanisms."]</li>
@@ -54,7 +54,7 @@
 					<br>@Localizer["There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu."]</p>
 				<hr>
 				<h2 id="4-upstream-software-and-privacy-considerations">@Localizer["4. Upstream Software and Privacy Considerations"]</h2>
-				<p>@Localizer["While AnduinOS itself does not collect any data,"]<strong>@Localizer["it integrates a wide range of upstream open-source software"]</strong>@Localizer["originating from Ubuntu, Debian, GNOME, Flathub, and other sources."]<br>@Localizer["(Some examples and references can be found"]<a href="https://gitlab.aiursoft.cn/anduin/anduinos/-/blob/1.4/OSS.md?ref_type=heads">@Localizer["here"]</a>@Localizer[")."]</p>
+				<p>@Localizer["While AnduinOS itself does not collect any data,"]<strong> @Localizer["it integrates a wide range of upstream open-source software"] </strong>@Localizer["originating from Ubuntu, Debian, GNOME, Flathub, and other sources."]<br>@Localizer["(Some examples and references can be found"]<a href="https://gitlab.aiursoft.cn/anduin/anduinos/-/blob/1.4/OSS.md?ref_type=heads"> @Localizer["here"]</a>).</p>
 				<p>@Localizer["Some upstream components may have independent data collection mechanisms."]<br>@Localizer["Notably:"]</p>
 				<ul>
 					<li>
@@ -94,20 +94,20 @@
 				<p>@Localizer["Thus, by default,"]<strong>@Localizer["AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting"]</strong>@Localizer["."]</p>
 				<p>@Localizer["However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced."]</p>
 				<p>@Localizer["To ensure full opt-out, you can review and, if necessary, remove these packages using:"]</p>
-				<pre>
+				<p>
 					<code class="lang-bash">sudo apt remove popularity-contest ubuntu-report apport whoopsie</code>
-				</pre>
+				</p>
 				<p>
 					<strong>@Localizer["Explanation:"]</strong>
 				</p>
 				<ul>
 					<li>
 						<strong>
-							<code>@Localizer["popularity-contest"]</code>
+							<code>popularity-contest</code>
 						</strong>@Localizer[": Periodically submits anonymous package usage statistics."]</li>
 					<li>
 						<strong>
-							<code>@Localizer["ubuntu-report"]</code>
+							<code>ubuntu-report</code>
 						</strong>@Localizer[": Collects basic hardware and software details at installation time."]</li>
 					<li>
 						<strong>

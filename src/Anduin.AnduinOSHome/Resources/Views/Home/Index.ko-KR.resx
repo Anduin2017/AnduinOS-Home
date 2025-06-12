@@ -18,307 +18,311 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-    <data name="Special Thanks!" xml:space="preserve">
-        <value>특별히 감사드립니다!</value>
-    </data>
-    <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-        <value>AnduinOS 서버는</value>
-    </data>
-    <data name="Voxihost" xml:space="preserve">
-        <value>Voxihost</value>
-    </data>
-    <data name="a provider of top-tier hosting services" xml:space="preserve">
-        <value>에서 자랑스럽게 후원하며, 최고급 호스팅 서비스를 제공합니다</value>
-    </data>
-    <data name="Sign up today!" xml:space="preserve">
-        <value>지금 가입하세요!</value>
-    </data>
-    <data name="Free" xml:space="preserve">
-        <value>무료</value>
-    </data>
-    <data name="GPL-v3 License" xml:space="preserve">
-        <value>GPL-v3 라이선스</value>
-    </data>
-    <data name="No telemetry at all! Choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
-        <value>텔레메트리 완전 차단! 개인정보를 되찾으려면 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;를 선택하세요</value>
-    </data>
-    <data name="Today is the best day for you to switch to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-        <value>오늘이 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;로 전환하기에 가장 좋은 날입니다</value>
-    </data>
-    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; is Ubuntu's package base + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
-        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;는 Ubuntu의 패키지 기반 + &lt;span class='text-primary'&gt;Flatpak&lt;/span&gt; 앱 경험</value>
-    </data>
-    <data name="Everything you do on Ubuntu, you can do it on &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-        <value>Ubuntu에서 할 수 있는 모든 것을 &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;에서도 할 수 있습니다</value>
-    </data>
-    <data name="Reveal the power of your computer, choose &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-        <value>컴퓨터의 힘을 발휘하세요, &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;를 선택하세요</value>
-    </data>
-    <data name="Transitioning to &lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; will be the best decision you've ever made" xml:space="preserve">
-        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt;로의 전환은 당신이 내린 최고의 결정이 될 것입니다</value>
-    </data>
-    <data name="&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
-        <value>&lt;span class='text-primary'&gt;AnduinOS&lt;/span&gt; 1.0이 2024.09.01에 출시되었습니다</value>
-    </data>
-    <data name="AnduinOS" xml:space="preserve">
-        <value>AnduinOS</value>
-    </data>
-    <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
-        <value>AnduinOS는 개발자들이 Windows에서 Linux로 전환할 때 익숙한 조작 습관과 워크플로우를 유지하여 전환을 쉽게 하는 것을 목표로 하는 커스텀 Ubuntu 기반 Linux 배포판입니다.</value>
-    </data>
-    <data name="Download" xml:space="preserve">
-        <value>다운로드</value>
-    </data>
-    <data name="Docs" xml:space="preserve">
-        <value>문서</value>
-    </data>
-    <data name="All versions" xml:space="preserve">
-        <value>모든 버전</value>
-    </data>
-    <data name="Change Log" xml:space="preserve">
-        <value>변경 로그</value>
-    </data>
-    <data name="Reasons" xml:space="preserve">
-        <value>이유</value>
-    </data>
-    <data name="Why choose AnduinOS?" xml:space="preserve">
-        <value>왜 AnduinOS를 선택해야 할까요?</value>
-    </data>
-    <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
-        <value>작은 이미지, 친화적인 인터페이스, 뛰어난 성능, 안전하고 보안.</value>
-    </data>
-    <data name="Ready to use" xml:space="preserve">
-        <value>바로 사용 가능</value>
-    </data>
-    <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
-        <value>ISO 파일은 단지 2.0GB 크기입니다. Ubuntu와 유사하게 설치가 간단하며 추가 구성이나 복잡한 작업 없이 일상적인 필요를 충족할 수 있습니다.</value>
-    </data>
-    <data name="Friendly interface" xml:space="preserve">
-        <value>친화적인 인터페이스</value>
-    </data>
-    <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
-        <value>GNOME 기반 데스크톱 환경은 사용자 습관에 맞는 아름다운 인터페이스와 인간-컴퓨터 상호작용을 제공하여 많은 학습 비용 없이 AnduinOS를 빠르게 시작할 수 있게 해줍니다.</value>
-    </data>
-    <data name="Root and privacy" xml:space="preserve">
-        <value>루트 권한과 개인정보</value>
-    </data>
-    <data name="Privacy is no longer optional. It's essential. AnduinOS is designed to gather nothing from you. We don't track you. We don't profile you. We don't target you. You remain anonymous to the system." xml:space="preserve">
-        <value>개인정보는 더 이상 선택사항이 아닙니다. 필수입니다. AnduinOS는 당신으로부터 아무것도 수집하지 않도록 설계되었습니다. 우리는 당신을 추적하지 않습니다. 프로파일링하지 않습니다. 타겟팅하지 않습니다. 당신은 시스템에 대해 익명으로 남아있습니다.</value>
-    </data>
-    <data name="Ecological perfection" xml:space="preserve">
-        <value>생태계의 완성</value>
-    </data>
-    <data name="AnduinOS is based on Ubuntu's package base. It's compatible with most of the apt packages from Ubuntu. It's a perfect combination of experience and ecology." xml:space="preserve">
-        <value>AnduinOS는 Ubuntu의 패키지 기반에 기초합니다. Ubuntu의 대부분의 apt 패키지와 호환됩니다. 경험과 생태계의 완벽한 조합입니다.</value>
-    </data>
-    <data name="Open Source" xml:space="preserve">
-        <value>오픈 소스</value>
-    </data>
-    <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
-        <value>AnduinOS는 오픈 소스 프로젝트입니다. GPL-v3 라이선스에 따라 소스 코드를 보고, 수정하고, 재배포할 수 있습니다. 무료이며 항상 무료일 것입니다.</value>
-    </data>
-    <data name="Containerized" xml:space="preserve">
-        <value>컨테이너화</value>
-    </data>
-    <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
-        <value>그래픽 애플리케이션은 Flatpak을 통해 설치되며 기본 시스템과 분리됩니다(1.3부터). 또한 권한에 대한 세밀한 제어가 가능합니다.</value>
-    </data>
-    <data name="Versions" xml:space="preserve">
-        <value>버전</value>
-    </data>
-    <data name="Choose your AnduinOS version" xml:space="preserve">
-        <value>AnduinOS 버전을 선택하세요</value>
-    </data>
-    <data name="AnduinOS is available in" xml:space="preserve">
-        <value>AnduinOS는</value>
-    </data>
-    <data name="two version branches" xml:space="preserve">
-        <value>두 가지 버전 브랜치</value>
-    </data>
-    <data name="LTS and Standard" xml:space="preserve">
-        <value>LTS와 표준</value>
-    </data>
-    <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
-        <value>LTS 버전은 안정적인 장기 지원이 필요한 사용자에게 권장되며, 표준 버전은 새로운 장치를 가지고 최신 기능을 탐색하고 싶은 사용자에게 권장됩니다.</value>
-    </data>
-    <data name="Usage" xml:space="preserve">
-        <value>사용법</value>
-    </data>
-    <data name="With AnduinOS, you can do more" xml:space="preserve">
-        <value>AnduinOS로 더 많은 것을 할 수 있습니다</value>
-    </data>
-    <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It's up to you." xml:space="preserve">
-        <value>Ubuntu에서 할 수 있는 모든 것을 AnduinOS에서도 할 수 있습니다. 일상적인 운영체제, 개발 환경, 서버, 또는 학습 도구로 사용할 수 있습니다. 당신의 선택입니다.</value>
-    </data>
-    <data name="Browsing" xml:space="preserve">
-        <value>브라우징</value>
-    </data>
-    <data name="Gaming" xml:space="preserve">
-        <value>게임</value>
-    </data>
-    <data name="With Steam" xml:space="preserve">
-        <value>Steam과 함께</value>
-    </data>
-    <data name="Build" xml:space="preserve">
-        <value>빌드</value>
-    </data>
-    <data name="Work" xml:space="preserve">
-        <value>작업</value>
-    </data>
-    <data name="Serve" xml:space="preserve">
-        <value>서버</value>
-    </data>
-    <data name="Editing" xml:space="preserve">
-        <value>편집</value>
-    </data>
-    <data name="Reviews" xml:space="preserve">
-        <value>리뷰</value>
-    </data>
-    <data name="What users are saying" xml:space="preserve">
-        <value>사용자들의 의견</value>
-    </data>
-    <data name="Here's what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
-        <value>AnduinOS 사용에 대한 2000명 이상의 사용자 중 일부의 의견을 소개합니다.</value>
-    </data>
-    <data name="Designer" xml:space="preserve">
-        <value>디자이너</value>
-    </data>
-    <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can't miss. Trust me!!!" xml:space="preserve">
-        <value>AnduinOS는 깔끔하고 아름다운 현대적 디자인과 사용자 친화적인 인터페이스를 가지고 있으며, 수많은 배포판 중에서 놓칠 수 없는 선택입니다. 저를 믿으세요!!!</value>
-    </data>
-    <data name="Lead Developer" xml:space="preserve">
-        <value>수석 개발자</value>
-    </data>
-    <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
-        <value>AnduinOS는 이전에 쓸모없다고 생각했던 제 Surface Go에 새 생명을 불어넣었습니다. 놀랍게도 Windows보다 훨씬 부드럽게 작동합니다. 모든 기능이 완벽하게 작동합니다!</value>
-    </data>
-    <data name="Developer" xml:space="preserve">
-        <value>개발자</value>
-    </data>
-    <data name="AnduinOS is your final Linux distribution! It's built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
-        <value>AnduinOS는 당신의 최종 Linux 배포판입니다! 개발자를 위해 만들어졌으며 가벼우면서도 강력합니다. 잘 구성된 테마와 단축키로 Windows 사용자들이 AnduinOS로 부드럽게 전환하고 시스템 설정에 대해 걱정할 필요가 없습니다.</value>
-    </data>
-    <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
-        <value>AnduinOS는 제 삶과 업무 프로세스를 크게 간소화했으며, 일상 사용을 위한 제가 선호하는 Linux 배포판으로서의 지위를 확고히 했습니다!</value>
-    </data>
-    <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
-        <value>...1.8GB 이미지라는 것을 잊어서는 안 됩니다. 제 기분을 좋게 해줬습니다... 정말로 설치할 가치가 있다고 생각합니다. 시간이 증명해 줄 것입니다.</value>
-    </data>
-    <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It's intuitive, simple to use, and well-designed." xml:space="preserve">
-        <value>사실, 이것은 Linux 사용을 즐겁게 만드는 &quot;설정하고 잊어버리는&quot; 타입의 배포판 중 하나입니다. 직관적이고, 사용하기 쉽고, 잘 설계되어 있습니다.</value>
-    </data>
-    <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
-        <value>이 OS는 특히 Windows에서 이주하는 사용자들을 위해 사용 편의성에 계속 초점을 맞추고 있습니다.</value>
-    </data>
-    <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
-        <value>Linux는 컴퓨터를 계속 실행시키는 좋은 옵션이며, Windows와 비슷해 보이는 것을 원한다면 AnduinOS를 확인해 볼 가치가 있습니다.</value>
-    </data>
-    <data name="FAQ" xml:space="preserve">
-        <value>자주 묻는 질문</value>
-    </data>
-    <data name="Frequently asked questions" xml:space="preserve">
-        <value>자주 묻는 질문</value>
-    </data>
-    <data name="Here are some of the answers you might be looking for." xml:space="preserve">
-        <value>여기에 찾고 있는 답변이 있을 수 있습니다.</value>
-    </data>
-    <data name="Is it free to use AnduinOS?" xml:space="preserve">
-        <value>AnduinOS는 무료로 사용할 수 있나요?</value>
-    </data>
-    <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It's free and will always be free." xml:space="preserve">
-        <value>네, AnduinOS는 무료로 사용할 수 있습니다. GPL-v3 라이선스를 따르는 오픈 소스 프로젝트입니다. 소스 코드를 보고, 수정하고, 재배포할 수 있습니다. 무료이며 항상 무료일 것입니다.</value>
-    </data>
-    <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
-        <value>AnduinOS에서 어떤 종류의 애플리케이션을 실행할 수 있나요?</value>
-    </data>
-    <data name="AnduinOS is based on Ubuntu's package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
-        <value>AnduinOS는 Ubuntu의 패키지 기반에 기초합니다. Ubuntu에서 실행되는 모든 소프트웨어가 AnduinOS에서도 실행될 수 있습니다. Linux 앱, 웹 앱, 그리고 Wine을 사용한 Windows 앱을 포함하여 다양한 애플리케이션을 실행할 수 있습니다.</value>
-    </data>
-    <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
-        <value>AnduinOS는 그래픽 애플리케이션 관리에 Flatpak을 사용합니다. Flatpak은 소프트웨어 배포, 애플리케이션 가상화, 패키지 관리를 위한 소프트웨어 유틸리티입니다. 샌드박스 환경에서 애플리케이션을 실행할 수 있어 보안과 안정성 향상에 도움이 됩니다.</value>
-    </data>
-    <data name="How can I search for solutions to problems?" xml:space="preserve">
-        <value>문제 해결책을 어떻게 찾을 수 있나요?</value>
-    </data>
-    <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu's documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
-        <value>Ask Ubuntu에서 매우 일반적인 문제들을 검색하고 질문할 수 있습니다. 거의 모든 AnduinOS 문제의 해결책은 Ubuntu의 것과 동일합니다. AnduinOS 문제 해결을 위해 Ubuntu의 문서와 전문 지식에 전적으로 의존할 수 있습니다.</value>
-    </data>
-    <data name="Is there any support included?" xml:space="preserve">
-        <value>지원이 포함되어 있나요?</value>
-    </data>
-    <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
-        <value>GitHub Discussions를 통해 AnduinOS 온라인 지원 서비스에 액세스할 수 있습니다.</value>
-    </data>
-    <data name="here" xml:space="preserve">
-        <value>여기</value>
-    </data>
-    <data name="for any questions." xml:space="preserve">
-        <value>에서 언제든지 문의해 주세요.</value>
-    </data>
-    <data name="Who is behind AnduinOS?" xml:space="preserve">
-        <value>AnduinOS의 뒷받침은 누구인가요?</value>
-    </data>
-    <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
-        <value>AnduinOS는 여가 시간에 구축된 비영리 프로젝트로, 오직 기부를 통해서만 유지되며 어떤 기업이나 정부의 지원도 받지 않습니다.</value>
-    </data>
-    <data name="Read more" xml:space="preserve">
-        <value>더 읽어보기</value>
-    </data>
-    <data name="AnduinOS works based on donations from users. We are grateful for your support. And you can" xml:space="preserve">
-        <value>AnduinOS는 사용자들의 기부를 바탕으로 운영됩니다. 여러분의 지원에 감사드립니다.</value>
-    </data>
-    <data name="donate" xml:space="preserve">
-        <value>기부</value>
-    </data>
-    <data name="to us via PayPal." xml:space="preserve">
-        <value>를 PayPal을 통해 할 수 있습니다.</value>
-    </data>
-    <data name="How can I contact the AnduinOS team?" xml:space="preserve">
-        <value>AnduinOS 팀에 어떻게 연락할 수 있나요?</value>
-    </data>
-    <data name="Please contact us with email at" xml:space="preserve">
-        <value>이메일로 문의해 주세요:</value>
-    </data>
-    <data name="for any questions. Please join our" xml:space="preserve">
-        <value>궁금한 점이 있으시면 언제든지. 저희</value>
-    </data>
-    <data name="Revolt channel" xml:space="preserve">
-        <value>Revolt 채널</value>
-    </data>
-    <data name="for community support." xml:space="preserve">
-        <value>에 참여하여 커뮤니티 지원을 받으세요.</value>
-    </data>
-    <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
-        <value>저희 커뮤니티에 참여하고 AnduinOS에 기여해 보세요!</value>
-    </data>
-    <data name="Join Revolt channel" xml:space="preserve">
-        <value>Revolt 채널 참여</value>
-    </data>
-    <data name="Join Discussions" xml:space="preserve">
-        <value>토론 참여</value>
-    </data>
-    <data name="Download AnduinOS" xml:space="preserve">
-        <value>AnduinOS 다운로드</value>
-    </data>
-    <data name="Select the correct edition below:" xml:space="preserve">
-        <value>아래에서 올바른 에디션을 선택하세요:</value>
-    </data>
-    <data name="Language" xml:space="preserve">
-        <value>언어</value>
-    </data>
-    <data name="By downloading, you agree to our" xml:space="preserve">
-        <value>다운로드함으로써 저희의</value>
-    </data>
-    <data name="Terms of Service" xml:space="preserve">
-        <value>서비스 약관</value>
-    </data>
-    <data name="and" xml:space="preserve">
-        <value>과</value>
-    </data>
-    <data name="Privacy Policy" xml:space="preserve">
-        <value>개인정보 처리방침</value>
-    </data>
-    <data name="Close" xml:space="preserve">
-        <value>닫기</value>
-    </data>
+      <data name="Special Thanks!" xml:space="preserve">
+    <value>특별히 감사드립니다!</value>
+  </data>
+  <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+    <value>AnduinOS 서버는</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="a provider of top-tier hosting services" xml:space="preserve">
+    <value>에서 자랑스럽게 후원하며, 최고급 호스팅 서비스를 제공합니다</value>
+  </data>
+  <data name="Sign up today!" xml:space="preserve">
+    <value>지금 가입하세요!</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>무료</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 라이선스</value>
+  </data>
+  <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>텔레메트리 완전 차단! 개인정보를 되찾으려면 &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;를 선택하세요</value>
+  </data>
+  <data name="Today is the best day for you to switch to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>오늘이 &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;로 전환하기에 가장 좋은 날입니다</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;는 Ubuntu의 패키지 기반 + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; 앱 경험</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Ubuntu에서 할 수 있는 모든 것을 &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;에서도 할 수 있습니다</value>
+  </data>
+  <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>컴퓨터의 힘을 발휘하세요, &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;를 선택하세요</value>
+  </data>
+  <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;로의 전환은 당신이 내린 최고의 결정이 될 것입니다</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0이 2024.09.01에 출시되었습니다</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS는 개발자들이 Windows에서 Linux로 전환할 때 익숙한 조작 습관과 워크플로우를 유지하여 전환을 쉽게 하는 것을 목표로 하는 커스텀 Ubuntu 기반 Linux 배포판입니다.</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>다운로드</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>문서</value>
+  </data>
+  <data name="All versions" xml:space="preserve">
+    <value>모든 버전</value>
+  </data>
+  <data name="Change Log" xml:space="preserve">
+    <value>변경 로그</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>이유</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>왜 AnduinOS를 선택해야 할까요?</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>작은 이미지, 친화적인 인터페이스, 뛰어난 성능, 안전하고 보안.</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>바로 사용 가능</value>
+  </data>
+  <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>ISO 파일은 단지 2.0GB 크기입니다. Ubuntu와 유사하게 설치가 간단하며 추가 구성이나 복잡한 작업 없이 일상적인 필요를 충족할 수 있습니다.</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>친화적인 인터페이스</value>
+  </data>
+  <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>GNOME 기반 데스크톱 환경은 사용자 습관에 맞는 아름다운 인터페이스와 인간-컴퓨터 상호작용을 제공하여 많은 학습 비용 없이 AnduinOS를 빠르게 시작할 수 있게 해줍니다.</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>루트 권한과 개인정보</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>개인정보는 더 이상 선택사항이 아닙니다. 필수입니다. AnduinOS는 당신으로부터 아무것도 수집하지 않도록 설계되었습니다. 우리는 당신을 추적하지 않습니다. 프로파일링하지 않습니다. 타겟팅하지 않습니다. 당신은 시스템에 대해 익명으로 남아있습니다.</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>생태계의 완성</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS는 Ubuntu의 패키지 기반에 기초합니다. Ubuntu의 대부분의 apt 패키지와 호환됩니다. 경험과 생태계의 완벽한 조합입니다.</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>오픈 소스</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS는 오픈 소스 프로젝트입니다. GPL-v3 라이선스에 따라 소스 코드를 보고, 수정하고, 재배포할 수 있습니다. 무료이며 항상 무료일 것입니다.</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>컨테이너화</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>그래픽 애플리케이션은 Flatpak을 통해 설치되며 기본 시스템과 분리됩니다(1.3부터). 또한 권한에 대한 세밀한 제어가 가능합니다.</value>
+  </data>
+  <data name="Versions" xml:space="preserve">
+    <value>버전</value>
+  </data>
+  <data name="Choose your AnduinOS version" xml:space="preserve">
+    <value>AnduinOS 버전을 선택하세요</value>
+  </data>
+  <data name="AnduinOS is available in" xml:space="preserve">
+    <value>AnduinOS는</value>
+  </data>
+  <data name="two version branches" xml:space="preserve">
+    <value>두 가지 버전 브랜치</value>
+  </data>
+  <data name="LTS and Standard" xml:space="preserve">
+    <value>LTS와 표준</value>
+  </data>
+  <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
+    <value>LTS 버전은 안정적인 장기 지원이 필요한 사용자에게 권장되며, 표준 버전은 새로운 장치를 가지고 최신 기능을 탐색하고 싶은 사용자에게 권장됩니다.</value>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>사용법</value>
+  </data>
+  <data name="With AnduinOS, you can do more" xml:space="preserve">
+    <value>AnduinOS로 더 많은 것을 할 수 있습니다</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It&apos;s up to you." xml:space="preserve">
+    <value>Ubuntu에서 할 수 있는 모든 것을 AnduinOS에서도 할 수 있습니다. 일상적인 운영체제, 개발 환경, 서버, 또는 학습 도구로 사용할 수 있습니다. 당신의 선택입니다.</value>
+  </data>
+  <data name="Browsing" xml:space="preserve">
+    <value>브라우징</value>
+  </data>
+  <data name="Gaming" xml:space="preserve">
+    <value>게임</value>
+  </data>
+  <data name="With Steam" xml:space="preserve">
+    <value>Steam과 함께</value>
+  </data>
+  <data name="Build" xml:space="preserve">
+    <value>빌드</value>
+  </data>
+  <data name="Work" xml:space="preserve">
+    <value>작업</value>
+  </data>
+  <data name="Serve" xml:space="preserve">
+    <value>서버</value>
+  </data>
+  <data name="Editing" xml:space="preserve">
+    <value>편집</value>
+  </data>
+  <data name="Reviews" xml:space="preserve">
+    <value>리뷰</value>
+  </data>
+  <data name="What users are saying" xml:space="preserve">
+    <value>사용자들의 의견</value>
+  </data>
+  <data name="Here&apos;s what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
+    <value>AnduinOS 사용에 대한 2000명 이상의 사용자 중 일부의 의견을 소개합니다.</value>
+  </data>
+  <data name="Designer" xml:space="preserve">
+    <value>디자이너</value>
+  </data>
+  <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can&apos;t miss. Trust me!!!" xml:space="preserve">
+    <value>AnduinOS는 깔끔하고 아름다운 현대적 디자인과 사용자 친화적인 인터페이스를 가지고 있으며, 수많은 배포판 중에서 놓칠 수 없는 선택입니다. 저를 믿으세요!!!</value>
+  </data>
+  <data name="Lead Developer" xml:space="preserve">
+    <value>수석 개발자</value>
+  </data>
+  <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
+    <value>AnduinOS는 이전에 쓸모없다고 생각했던 제 Surface Go에 새 생명을 불어넣었습니다. 놀랍게도 Windows보다 훨씬 부드럽게 작동합니다. 모든 기능이 완벽하게 작동합니다!</value>
+  </data>
+  <data name="Developer" xml:space="preserve">
+    <value>개발자</value>
+  </data>
+  <data name="AnduinOS is your final Linux distribution! It&apos;s built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
+    <value>AnduinOS는 당신의 최종 Linux 배포판입니다! 개발자를 위해 만들어졌으며 가벼우면서도 강력합니다. 잘 구성된 테마와 단축키로 Windows 사용자들이 AnduinOS로 부드럽게 전환하고 시스템 설정에 대해 걱정할 필요가 없습니다.</value>
+  </data>
+  <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
+    <value>AnduinOS는 제 삶과 업무 프로세스를 크게 간소화했으며, 일상 사용을 위한 제가 선호하는 Linux 배포판으로서의 지위를 확고히 했습니다!</value>
+  </data>
+  <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
+    <value>...1.8GB 이미지라는 것을 잊어서는 안 됩니다. 제 기분을 좋게 해줬습니다... 정말로 설치할 가치가 있다고 생각합니다. 시간이 증명해 줄 것입니다.</value>
+  </data>
+  <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It&apos;s intuitive, simple to use, and well-designed." xml:space="preserve">
+    <value>사실, 이것은 Linux 사용을 즐겁게 만드는 &quot;설정하고 잊어버리는&quot; 타입의 배포판 중 하나입니다. 직관적이고, 사용하기 쉽고, 잘 설계되어 있습니다.</value>
+  </data>
+  <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
+    <value>이 OS는 특히 Windows에서 이주하는 사용자들을 위해 사용 편의성에 계속 초점을 맞추고 있습니다.</value>
+  </data>
+  <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
+    <value>Linux는 컴퓨터를 계속 실행시키는 좋은 옵션이며, Windows와 비슷해 보이는 것을 원한다면 AnduinOS를 확인해 볼 가치가 있습니다.</value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
+  <data name="Frequently asked questions" xml:space="preserve">
+    <value>자주 묻는 질문</value>
+  </data>
+  <data name="Here are some of the answers you might be looking for." xml:space="preserve">
+    <value>여기에 찾고 있는 답변이 있을 수 있습니다.</value>
+  </data>
+  <data name="Is it free to use AnduinOS?" xml:space="preserve">
+    <value>AnduinOS는 무료로 사용할 수 있나요?</value>
+  </data>
+  <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>네, AnduinOS는 무료로 사용할 수 있습니다. GPL-v3 라이선스를 따르는 오픈 소스 프로젝트입니다. 소스 코드를 보고, 수정하고, 재배포할 수 있습니다. 무료이며 항상 무료일 것입니다.</value>
+  </data>
+  <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
+    <value>AnduinOS에서 어떤 종류의 애플리케이션을 실행할 수 있나요?</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
+    <value>AnduinOS는 Ubuntu의 패키지 기반에 기초합니다. Ubuntu에서 실행되는 모든 소프트웨어가 AnduinOS에서도 실행될 수 있습니다. Linux 앱, 웹 앱, 그리고 Wine을 사용한 Windows 앱을 포함하여 다양한 애플리케이션을 실행할 수 있습니다.</value>
+  </data>
+  <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
+    <value>AnduinOS는 그래픽 애플리케이션 관리에 Flatpak을 사용합니다. Flatpak은 소프트웨어 배포, 애플리케이션 가상화, 패키지 관리를 위한 소프트웨어 유틸리티입니다. 샌드박스 환경에서 애플리케이션을 실행할 수 있어 보안과 안정성 향상에 도움이 됩니다.</value>
+  </data>
+  <data name="How can I search for solutions to problems?" xml:space="preserve">
+    <value>문제 해결책을 어떻게 찾을 수 있나요?</value>
+  </data>
+  <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
+    <value>Ask Ubuntu에서 매우 일반적인 문제들을 검색하고 질문할 수 있습니다. 거의 모든 AnduinOS 문제의 해결책은 Ubuntu의 것과 동일합니다. AnduinOS 문제 해결을 위해 Ubuntu의 문서와 전문 지식에 전적으로 의존할 수 있습니다.</value>
+  </data>
+  <data name="Is there any support included?" xml:space="preserve">
+    <value>지원이 포함되어 있나요?</value>
+  </data>
+  <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
+    <value>GitHub Discussions를 통해 AnduinOS 온라인 지원 서비스에 액세스할 수 있습니다.</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>여기</value>
+  </data>
+  <data name="for any questions." xml:space="preserve">
+    <value>에서 언제든지 문의해 주세요.</value>
+  </data>
+  <data name="Who is behind AnduinOS?" xml:space="preserve">
+    <value>AnduinOS의 뒷받침은 누구인가요?</value>
+  </data>
+  <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
+    <value>AnduinOS는 여가 시간에 구축된 비영리 프로젝트로, 오직 기부를 통해서만 유지되며 어떤 기업이나 정부의 지원도 받지 않습니다.</value>
+  </data>
+  <data name="Read more" xml:space="preserve">
+    <value>더 읽어보기</value>
+  </data>
+  <data name="AnduinOS works based on donations from users. We are grateful for your support. And you can" xml:space="preserve">
+    <value>AnduinOS는 사용자들의 기부를 바탕으로 운영됩니다. 여러분의 지원에 감사드립니다.</value>
+  </data>
+  <data name="donate" xml:space="preserve">
+    <value>기부</value>
+  </data>
+  <data name="to us via PayPal." xml:space="preserve">
+    <value>를 PayPal을 통해 할 수 있습니다.</value>
+  </data>
+  <data name="How can I contact the AnduinOS team?" xml:space="preserve">
+    <value>AnduinOS 팀에 어떻게 연락할 수 있나요?</value>
+  </data>
+  <data name="Please contact us with email at" xml:space="preserve">
+    <value>이메일로 문의해 주세요:</value>
+  </data>
+  <data name="for any questions. Please join our" xml:space="preserve">
+    <value>궁금한 점이 있으시면 언제든지. 저희</value>
+  </data>
+  <data name="Revolt channel" xml:space="preserve">
+    <value>Revolt 채널</value>
+  </data>
+  <data name="for community support." xml:space="preserve">
+    <value>에 참여하여 커뮤니티 지원을 받으세요.</value>
+  </data>
+  <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
+    <value>저희 커뮤니티에 참여하고 AnduinOS에 기여해 보세요!</value>
+  </data>
+  <data name="Join Revolt channel" xml:space="preserve">
+    <value>Revolt 채널 참여</value>
+  </data>
+  <data name="Join Discussions" xml:space="preserve">
+    <value>토론 참여</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>AnduinOS 다운로드</value>
+  </data>
+  <data name="Select the correct edition below:" xml:space="preserve">
+    <value>아래에서 올바른 에디션을 선택하세요:</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>언어</value>
+  </data>
+  <data name="By downloading, you agree to our" xml:space="preserve">
+    <value>다운로드함으로써 저희의</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>서비스 약관</value>
+  </data>
+  <data name="and" xml:space="preserve">
+    <value>과</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>개인정보 처리방침</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>닫기</value>
+  </data>
+  <data name="In fact, this is one of those \&quot;set-it-and-forget-it\&quot; distributions that makes using Linux a delight. It&apos;s intuitive, simple to use, and well-designed." xml:space="preserve">
+    <value>사실, 이는 Linux 사용을 즐겁게 만드는 \&quot;설치 후 잊어도 되는\&quot; 배포판 중 하나입니다. 직관적이고 사용하기 쉬우며 잘 설계되었습니다.</value>
+  </data>
+
 </root>

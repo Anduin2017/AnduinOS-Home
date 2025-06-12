@@ -279,5 +279,8 @@
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>AnduinOS GitHub 讨论区</value>
   </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (\&quot;local execution\&quot;)." xml:space="preserve">
+    <value>所有系统操作、配置及用户活动均在您本地设备上完成（即“本地执行”）。</value>
+  </data>
 
 </root>
