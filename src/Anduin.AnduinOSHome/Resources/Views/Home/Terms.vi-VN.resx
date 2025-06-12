@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="You specifically agree not to:" xml:space="preserve">
+    <value>Bạn đặc biệt đồng ý không:</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Cập nhật lần cuối: 10 tháng 5, 2025</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. Sử dụng Trang web và Dịch vụ</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Điều khoản Dịch vụ</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>Nếu bạn không đồng ý với bất kỳ phần nào của Điều khoản này, bạn không được sử dụng Website hoặc Dịch vụ.</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>Cố gắng truy cập trái phép vào hệ thống hoặc dữ liệu.</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>Sử dụng Trang web hoặc Dịch vụ cho bất kỳ hoạt động gian lận, bất hợp pháp hoặc độc hại nào.</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>Bạn nên xem lại các Điều khoản này định kỳ.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>Chúng tôi bảo lưu quyền cập nhật hoặc sửa đổi các Điều khoản này bất cứ lúc nào mà không cần thông báo trước.</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>Chúng tôi bảo lưu quyền hạn chế hoặc chấm dứt quyền truy cập đối với người dùng vi phạm các Điều khoản này.</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>Việc bạn tiếp tục sử dụng Trang web hoặc Dịch vụ sau bất kỳ thay đổi nào đồng nghĩa với việc chấp nhận các Điều khoản mới.</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>Lạm dụng, tấn công hoặc làm quá tải Trang web, máy chủ hoặc Dịch vụ.</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>Tải lên, phân phối hoặc truyền bất kỳ phần mềm độc hại, vi-rút hoặc mã gây hại nào.</value>
+  </data>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. Điều khoản sửa đổi</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. Sở hữu trí tuệ</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>Bạn đồng ý chỉ sử dụng Trang web và Dịch vụ cho mục đích hợp pháp và tuân thủ mọi luật lệ, quy định hiện hành.</value>
+  </data>
+  <data name="GNU General Public License v3.0 (GPL-v3)" xml:space="preserve">
+    <value>Giấy phép Công cộng GNU phiên bản 3.0 (GPL-v3)</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. Miễn trừ Bảo đảm</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS là một dự án mã nguồn mở và miễn phí được phân phối theo</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>Chúng tôi không chịu trách nhiệm về nội dung, chính sách hoặc hoạt động của bất kỳ trang web bên thứ ba nào.</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>Truy cập tài nguyên của bên thứ ba là hoàn toàn do bạn tự chịu rủi ro.</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. Chấp nhận Điều khoản</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>Bạn không được sao chép, tái tạo hoặc phân phối các thành phần không phải mã nguồn của Website mà không có sự cho phép rõ ràng.</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>Trang web và Dịch vụ có thể bao gồm các liên kết đến trang web hoặc dịch vụ của bên thứ ba không thuộc sở hữu hoặc kiểm soát của chúng tôi.</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. Liên kết và Nội dung của Bên Thứ Ba</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>Trang web, Dịch vụ và phần mềm AnduinOS được cung cấp</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>không có bất kỳ bảo đảm nào thuộc bất kỳ loại nào, dù là rõ ràng hay ngụ ý.</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>Chúng tôi hoàn toàn từ chối mọi bảo đảm, bao gồm nhưng không giới hạn ở:</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>Độ tin cậy</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>Mặc dù phần mềm là mã nguồn mở, nhưng thiết kế Website, tài liệu nhận diện thương hiệu và các nội dung không phải phần mềm khác có thể thuộc về các quyền sở hữu trí tuệ riêng biệt.</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>Phù hợp cho một mục đích cụ thể</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>Không vi phạm</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Độ chính xác</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>Tính khả dụng hoặc bảo mật của Website, Dịch vụ hoặc phần mềm</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. Chấm dứt</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>Thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt;</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. Giới hạn trách nhiệm pháp lý</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. Luật điều chỉnh</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>Thiệt hại phát sinh từ việc bạn sử dụng (hoặc không thể sử dụng) Website, Dịch vụ hoặc phần mềm AnduinOS.</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. Thông tin liên hệ</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>Việc sử dụng AnduinOS và Trang web hoàn toàn do bạn tự chịu rủi ro.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>Thảo luận GitHub AnduinOS</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>Trong phạm vi tối đa được pháp luật cho phép, chúng tôi sẽ không chịu trách nhiệm cho bất kỳ:</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>Nếu bạn có bất kỳ câu hỏi nào liên quan đến Điều khoản Dịch vụ này, vui lòng liên hệ:</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Cộng đồng:</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>Chúng tôi bảo lưu quyền chấm dứt hoặc tạm ngưng quyền truy cập của bạn vào Trang web hoặc Dịch vụ ngay lập tức, không cần báo trước, đối với hành vi mà chúng tôi cho là vi phạm các Điều khoản này hoặc gây hại cho người dùng khác, chúng tôi hoặc bên thứ ba.</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>Mất lợi nhuận, doanh thu, dữ liệu hoặc uy tín;</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>Các Điều khoản này được điều chỉnh và giải thích theo luật pháp của khu vực pháp lý nơi nhà điều hành Website cư trú, không tính đến các nguyên tắc xung đột luật pháp.</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
+    <value>chúng tôi chỉ chịu trách nhiệm cho các phiên bản được phân phối chính thức thông qua các kênh chính thức của chúng tôi</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. Tuyên bố miễn trừ trách nhiệm đối với các phiên bản đã chỉnh sửa</value>
+  </data>
+  <data name=", including:" xml:space="preserve">
+    <value>, bao gồm:</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>Nếu bạn nhận được AnduinOS từ bất kỳ nguồn nào khác ngoài các kênh chính thức được liệt kê ở trên,</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOS là một dự án mã nguồn mở và miễn phí được phân phối theo Giấy phép Công cộng GNU v3.0 (GPL-v3).</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>bạn làm như vậy hoàn toàn tự chịu rủi ro.</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
+    <value>Trong khi bất kỳ ai cũng có thể hợp pháp nhận, sửa đổi và phân phối lại các bản sao của phần mềm theo các điều khoản của giấy phép,</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>Chúng tôi không chứng thực, xác minh hoặc hỗ trợ bất kỳ phiên bản AnduinOS không chính thức hoặc đã được chỉnh sửa bởi bên thứ ba.</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>Chúng tôi từ chối mọi trách nhiệm đối với bất kỳ thiệt hại, tổn thất hoặc lỗ hổng bảo mật nào gây ra bởi các phiên bản AnduinOS không chính thức hoặc đã bị sửa đổi.</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>&quot;nguyên trạng&quot; và &quot;như hiện có&quot;,</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>Bằng việc truy cập và sử dụng trang web AnduinOS (&quot;Website&quot;) cùng bất kỳ dịch vụ liên quan nào, bao gồm nhưng không giới hạn ở tài liệu, tải xuống và thảo luận cộng đồng (&quot;Dịch vụ&quot;), bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (&quot;Điều khoản&quot;).</value>
+  </data>
+
+</root>

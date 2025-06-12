@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Reference" xml:space="preserve">
+    <value>참고 자료</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>소셜</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>소스 코드</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>문서</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>개인정보 처리방침</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>라이선스</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>서비스 약관</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>법적 정보</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>리소스</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS - Windows에서 Linux로 전환하는 개발자들이 익숙한 작업 습관과 워크플로우를 유지할 수 있도록 돕기 위해 제작된 Ubuntu 기반의 맞춤형 Linux 배포판입니다.</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>뉴스</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>오픈 소스</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>커뮤니티</value>
+  </data>
+
+</root>

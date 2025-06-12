@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Privacy Policy" xml:space="preserve">
+    <value>Política de Privacidad</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Código Abierto</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Redes sociales</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Recursos</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Términos de Servicio</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>Comunidad</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Noticias</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Código Fuente</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>Licencia</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Avisos legales</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Documentación</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referencias</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS - una distribución personalizada de Linux basada en Ubuntu que busca facilitar la transición de desarrolladores desde Windows a Linux manteniendo hábitos operativos y flujos de trabajo familiares.</value>
+  </data>
+
+</root>

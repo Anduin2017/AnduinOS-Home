@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. 약관 변경</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>악성 코드, 바이러스 또는 유해한 프로그램을 업로드, 배포 또는 전송하지 않습니다.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>당사는 사전 통지 없이 언제든지 본 약관을 업데이트하거나 수정할 권리를 보유합니다.</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>귀하는 웹사이트와 서비스를 합법적인 목적으로만 사용하고 모든 적용 가능한 법률 및 규정을 준수할 것에 동의합니다.</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>이 약관을 정기적으로 검토할 것을 권장합니다.</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. 웹사이트 및 서비스 사용</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>시스템 또는 데이터에 대한 무단 접근을 시도하는 행위</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>마지막 업데이트: 2025년 5월 10일</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>귀하는 특히 다음 행위를 하지 않음에 동의합니다:</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. 이용 약관 동의</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>이 약관의 어느 부분에 동의하지 않는 경우 웹사이트 또는 서비스를 사용해서는 안 됩니다.</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>변경 후에도 웹사이트 또는 서비스를 계속 사용하는 것은 새로운 약관에 대한 동의로 간주됩니다.</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>웹사이트 또는 서비스를 사기, 불법 또는 악의적인 활동에 사용하지 않기로 동의합니다.</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>웹사이트, 서버 또는 서비스를 악용, 공격 또는 과부하시키는 행위</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>본 약관을 위반하는 사용자의 접근을 제한하거나 종료할 권한을 보유합니다.</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>이용약관</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. 지적 재산권</value>
+  </data>
+  <data name="GNU General Public License v3.0 (GPL-v3)" xml:space="preserve">
+    <value>GNU 일반 공중 라이선스 v3.0 (GPL-v3)</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>명시적인 허락 없이 웹사이트의 비코드 요소를 복사, 재생산 또는 배포할 수 없습니다.</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>제3자 리소스에 접근하는 것은 전적으로 귀하의 책임 하에 이루어집니다.</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>정확성</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>당사는 제3자 사이트의 콘텐츠, 정책 또는 관행에 대해 책임을 지지 않습니다.</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>특정 목적에의 적합성</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>권리 침해 없음</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS는 무료 오픈 소스 프로젝트로, 다음 라이선스 하에 배포됩니다.</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>명시적이든 묵시적이든 어떠한 종류의 보증도 없이.</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. 제3자 링크 및 콘텐츠</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>우리는 명시적으로 모든 보증을 부인하며, 이에 국한되지 않고 다음을 포함합니다:</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. 보증의 부인</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>웹사이트 및 서비스에는 당사가 소유하거나 통제하지 않는 제3자 웹사이트 또는 서비스에 대한 링크가 포함될 수 있습니다.</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>해당 소프트웨어는 오픈 소스이지만, 웹사이트 디자인, 브랜딩 자료 및 기타 비소프트웨어 콘텐츠는 별도의 지적 재산권이 적용될 수 있습니다.</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>신뢰성</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>웹사이트, 서비스 및 AnduinOS 소프트웨어는 제공됩니다</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>AnduinOS 및 웹사이트 사용은 전적으로 귀하의 책임 하에 있습니다.</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>웹사이트, 서비스 또는 소프트웨어의 가용성 또는 보안</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. 준거법</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>법적으로 허용되는 최대 한도 내에서, 우리는 다음에 대해 책임을 지지 않습니다:</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>간접적, 부수적, 특별, 결과적 또는 징벌적 손해;</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>웹사이트, 서비스 또는 AnduinOS 소프트웨어 사용(또는 사용 불가)으로 인해 발생하는 손해.</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>이메일:</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. 책임의 한계</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>이익, 수익, 데이터 또는 평판 손실;</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>커뮤니티:</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. 연락처 정보</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>본 약관은 웹사이트 운영자가 거주하는 관할권의 법률에 따라 규율되고 해석되며, 그 관할권의 법률 충돌 원칙은 고려하지 않습니다.</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. 수정된 버전에 대한 면책 조항</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>이 이용 약관에 대해 궁금한 점이 있으시면 다음 연락처로 문의해 주세요:</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. 계약 해지</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>당사는 본 약관을 위반하거나 다른 사용자, 당사 또는 제3자에게 해를 끼칠 수 있다고 판단되는 행위에 대해 사전 통지 없이 즉시 웹사이트 또는 서비스에 대한 귀하의 접근을 종료하거나 중단할 권리를 보유합니다.</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
+    <value>라이선스 조건에 따라 누구든지 해당 소프트웨어의 복사본을 합법적으로 획득, 수정 및 재배포할 수 있지만,</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOS는 GNU 일반 공중 라이선스 v3.0(GPL-v3)으로 배포되는 무료 오픈 소스 프로젝트입니다.</value>
+  </data>
+  <data name=", including:" xml:space="preserve">
+    <value>, 다음을 포함하여:</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>이에 따른 모든 책임은 전적으로 귀하에게 있습니다.</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>위에 명시된 공식 채널 이외의 다른 출처에서 AnduinOS를 획득할 경우,</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
+    <value>저희는 공식 채널을 통해 공식적으로 배포된 버전에 대해서만 책임을 집니다.</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>AnduinOS의 비공식적이거나 제3자가 수정한 버전은 인증, 검증, 지원하지 않습니다.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub 토론</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>공식적으로 배포되지 않거나 수정된 AnduinOS 버전으로 인해 발생하는 모든 피해, 손상, 손실 또는 보안 취약성에 대해서는 어떠한 책임도 지지 않습니다.</value>
+  </data>
+  <data name="\&quot;as is\&quot; and \&quot;as available,\&quot;" xml:space="preserve">
+    <value>&quot;있는 그대로&quot; 및 &quot;제공되는 대로&quot;</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (\&quot;Website\&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (\&quot;Services\&quot;), you agree to be bound by these Terms of Service (\&quot;Terms\&quot;)." xml:space="preserve">
+    <value>AnduinOS 웹사이트(&quot;Website&quot;) 및 문서, 다운로드, 커뮤니티 토론 등 관련 서비스(&quot;Services&quot;)에 접근하거나 사용함으로써, 귀하는 본 이용 약관(&quot;Terms&quot;)에 구속되는 데 동의하는 것으로 간주됩니다.</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>&quot;있는 그대로&quot; 및 &quot;제공되는 대로&quot;</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>AnduinOS 웹사이트(&quot;Website&quot;) 및 문서, 다운로드, 커뮤니티 토론 등을 포함한 관련 서비스(&quot;Services&quot;)에 접근하고 이용함으로써, 귀하는 본 이용 약관(&quot;Terms&quot;)에 구속되는 데 동의하는 것으로 간주됩니다.</value>
+  </data>
+
+</root>

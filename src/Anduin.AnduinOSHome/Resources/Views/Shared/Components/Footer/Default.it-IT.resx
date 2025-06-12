@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Document" xml:space="preserve">
+    <value>Documentazione</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Riferimento</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Codice Sorgente</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Note legali</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Termini di Servizio</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Informativa sulla privacy</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>Comunità</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS - una distribuzione Linux personalizzata basata su Ubuntu che mira a facilitare la transizione degli sviluppatori da Windows a Linux mantenendo abitudini operative e flussi di lavoro familiari.</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>Licenza</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Risorse</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Notizie</value>
+  </data>
+
+</root>

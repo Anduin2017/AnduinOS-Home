@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Resources" xml:space="preserve">
+    <value>Zasoby</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>Licencja</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>Społeczność</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Informacje prawne</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Otwarte Oprogramowanie</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Kod źródłowy</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Regulamin usługi</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Polityka prywatności</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Dokumentacja</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referencje</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Aktualności</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS - niestandardowa dystrybucja Linuksa oparta na Ubuntu, której celem jest ułatwienie programistom przejścia z Windowsa na Linuksa poprzez zachowanie znajomych nawyków operacyjnych i przepływów pracy.</value>
+  </data>
+
+</root>
