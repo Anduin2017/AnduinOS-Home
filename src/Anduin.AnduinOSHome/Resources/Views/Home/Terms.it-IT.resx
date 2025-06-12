@@ -189,5 +189,14 @@
   <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
     <value>Sebbene il software sia open-source, il design del sito web, i materiali di branding e altri contenuti non software possono essere soggetti a diritti di proprietà intellettuale separati.</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Community:</value>
+  </data>
 
 </root>

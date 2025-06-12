@@ -198,5 +198,8 @@
   <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
     <value>&quot;tal cual&quot; y &quot;según disponibilidad&quot;,</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

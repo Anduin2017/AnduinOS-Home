@@ -195,5 +195,11 @@
   <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
     <value>เมื่อคุณเข้าถึงและใช้เว็บไซต์ AnduinOS (&quot;เว็บไซต์&quot;) และบริการที่เกี่ยวข้องใดๆ รวมถึงแต่ไม่จำกัดเพียงเอกสารประกอบ การดาวน์โหลด และการสนทนาชุมชน (&quot;บริการ&quot;) คุณตกลงที่จะผูกพันตามข้อกำหนดการให้บริการเหล่านี้ (&quot;ข้อกำหนด&quot;)</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub Discussions</value>
+  </data>
 
 </root>

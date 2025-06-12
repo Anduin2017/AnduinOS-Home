@@ -258,5 +258,8 @@
   <data name="Email:" xml:space="preserve">
     <value>E-posta:</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

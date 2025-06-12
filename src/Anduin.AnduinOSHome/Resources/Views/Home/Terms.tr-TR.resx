@@ -195,5 +195,8 @@
   <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
     <value>Web Sitesi veya Hizmetleri herhangi bir değişiklikten sonra kullanmaya devam etmeniz, yeni Şartları kabul ettiğiniz anlamına gelir.</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

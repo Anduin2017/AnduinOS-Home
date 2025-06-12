@@ -36,5 +36,8 @@
   <data name="Download" xml:space="preserve">
     <value>Downloaden</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>Community</value>
+  </data>
 
 </root>

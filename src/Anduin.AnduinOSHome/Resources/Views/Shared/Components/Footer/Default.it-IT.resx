@@ -51,5 +51,11 @@
   <data name="News" xml:space="preserve">
     <value>Notizie</value>
   </data>
+  <data name="Social" xml:space="preserve">
+    <value>Social</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Open Source</value>
+  </data>
 
 </root>

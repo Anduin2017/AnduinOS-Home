@@ -51,5 +51,11 @@
   <data name="Resources" xml:space="preserve">
     <value>Ressourcen</value>
   </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Open Source</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>Community</value>
+  </data>
 
 </root>

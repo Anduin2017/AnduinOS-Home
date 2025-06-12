@@ -198,5 +198,8 @@
   <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
     <value>Получая доступ и используя веб-сайт AnduinOS («Веб-сайт») и любые связанные сервисы, включая, но не ограничиваясь документацией, загрузками и обсуждениями в сообществе («Сервисы»), вы соглашаетесь соблюдать настоящие Условия предоставления услуг («Условия»).</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

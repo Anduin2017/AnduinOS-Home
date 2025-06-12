@@ -51,5 +51,11 @@
   <data name="Legals" xml:space="preserve">
     <value>Juridisch</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>Gemeenschap</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Open Source</value>
+  </data>
 
 </root>

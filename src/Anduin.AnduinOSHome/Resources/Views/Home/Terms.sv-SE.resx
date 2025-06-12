@@ -195,5 +195,8 @@
   <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
     <value>Skador som uppstår på grund av din användning av (eller oförmåga att använda) Webbplatsen, Tjänsterna eller AnduinOS-programvaran.</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

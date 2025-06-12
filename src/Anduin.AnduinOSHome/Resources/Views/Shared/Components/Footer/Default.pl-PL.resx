@@ -54,5 +54,8 @@
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
     <value>AnduinOS - niestandardowa dystrybucja Linuksa oparta na Ubuntu, której celem jest ułatwienie programistom przejścia z Windowsa na Linuksa poprzez zachowanie znajomych nawyków operacyjnych i przepływów pracy.</value>
   </data>
+  <data name="Social" xml:space="preserve">
+    <value>Społecznościowe</value>
+  </data>
 
 </root>

@@ -267,5 +267,8 @@
   <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
     <value>すべてのシステム操作、設定、およびユーザーアクティビティは、お使いのデバイス上でローカルに実行されます（「ローカル実行」）。</value>
   </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub Discussions</value>
+  </data>
 
 </root>

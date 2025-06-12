@@ -195,5 +195,11 @@
   <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
     <value>Bằng việc truy cập và sử dụng trang web AnduinOS (&quot;Website&quot;) cùng bất kỳ dịch vụ liên quan nào, bao gồm nhưng không giới hạn ở tài liệu, tải xuống và thảo luận cộng đồng (&quot;Dịch vụ&quot;), bạn đồng ý bị ràng buộc bởi các Điều khoản Dịch vụ này (&quot;Điều khoản&quot;).</value>
   </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

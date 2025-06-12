@@ -36,5 +36,8 @@
   <data name="Source Code" xml:space="preserve">
     <value>Quellcode</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>Community</value>
+  </data>
 
 </root>

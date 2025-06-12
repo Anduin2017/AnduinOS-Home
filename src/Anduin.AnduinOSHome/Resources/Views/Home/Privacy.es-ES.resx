@@ -255,5 +255,11 @@
   <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
     <value>Todas las operaciones del sistema, configuraciones y actividades del usuario se realizan localmente en tu propio dispositivo (&quot;ejecución local&quot;).</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="Control:" xml:space="preserve">
+    <value>Control:</value>
+  </data>
 
 </root>

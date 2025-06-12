@@ -264,5 +264,11 @@
   <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
     <value>Tất cả hoạt động hệ thống, cấu hình và hành động người dùng đều diễn ra cục bộ trên thiết bị của bạn (&quot;thực thi cục bộ&quot;).</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Email:</value>
+  </data>
 
 </root>

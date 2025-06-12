@@ -258,5 +258,8 @@
   <data name="here" xml:space="preserve">
     <value>hier</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

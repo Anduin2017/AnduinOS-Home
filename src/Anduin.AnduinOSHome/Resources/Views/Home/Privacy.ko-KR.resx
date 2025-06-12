@@ -267,5 +267,8 @@
   <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
     <value>모든 시스템 작업, 구성 및 사용자 활동은 사용자 자신의 기기에서 로컬로 이루어집니다(&quot;로컬 실행&quot;).</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

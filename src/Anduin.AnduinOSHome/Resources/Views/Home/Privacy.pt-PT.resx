@@ -258,5 +258,8 @@
   <data name="Snap daemon" xml:space="preserve">
     <value>Serviço do Snap</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

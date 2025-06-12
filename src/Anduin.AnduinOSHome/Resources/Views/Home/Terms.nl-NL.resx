@@ -195,5 +195,8 @@
   <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
     <value>Het gebruik van AnduinOS en de Website is volledig op eigen risico.</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

@@ -258,5 +258,8 @@
   <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
     <value>Du kan granska källkoden för att verifiera att det inte finns några dolda spårningsmekanismer.</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

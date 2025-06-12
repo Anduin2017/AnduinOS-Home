@@ -192,5 +192,11 @@
   <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
     <value>Durch den Zugriff auf und die Nutzung der AnduinOS-Website (&quot;Website&quot;) und aller damit verbundenen Dienste, einschließlich, aber nicht beschränkt auf Dokumentation, Downloads und Community-Diskussionen (&quot;Dienste&quot;), erklären Sie sich damit einverstanden, an diese Nutzungsbedingungen (&quot;Bedingungen&quot;) gebunden zu sein.</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Community:</value>
+  </data>
 
 </root>

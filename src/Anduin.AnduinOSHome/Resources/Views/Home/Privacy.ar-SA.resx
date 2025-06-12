@@ -258,5 +258,8 @@
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>مناقشات AnduinOS على GitHub</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

@@ -195,5 +195,8 @@
   <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
     <value>Isentamo-nos de qualquer responsabilidade por danos, prejuízos, perdas ou vulnerabilidades de segurança causados por versões não oficiais ou modificadas do AnduinOS.</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>
