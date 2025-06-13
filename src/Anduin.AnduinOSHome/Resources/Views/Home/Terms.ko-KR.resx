@@ -207,5 +207,14 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>포함:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>저희는 공식 채널을 통해 공식 배포된 버전에 대해서만 책임을 집니다.</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>라이선스 조건에 따라 누구든지 해당 소프트웨어의 복사본을 합법적으로 획득, 수정 및 재배포할 수 있지만,</value>
+  </data>
 
 </root>

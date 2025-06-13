@@ -201,5 +201,14 @@
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>AnduinOS GitHub Discussions</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>รวมถึง:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>เรารับผิดชอบเฉพาะเวอร์ชันที่แจกจ่ายอย่างเป็นทางการผ่านช่องทางทางการของเราเท่านั้น</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>ในขณะที่ทุกคนสามารถได้รับ แก้ไข และแจกจ่ายสำเนาของซอฟต์แวร์ได้อย่างถูกกฎหมายภายใต้เงื่อนไขของสัญญาอนุญาต</value>
+  </data>
 
 </root>

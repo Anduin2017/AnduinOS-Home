@@ -207,5 +207,14 @@
   <data name="\&quot;as is\&quot; and \&quot;as available,\&quot;" xml:space="preserve">
     <value>&quot;按现状&quot;和&quot;按可用性&quot;</value>
   </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>我们仅对通过官方渠道正式分发的版本负责，</value>
+  </data>
+  <data name="including:" xml:space="preserve">
+    <value>包括：</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>虽然任何人都可以根据许可条款合法获取、修改和重新分发该软件的副本，</value>
+  </data>
 
 </root>

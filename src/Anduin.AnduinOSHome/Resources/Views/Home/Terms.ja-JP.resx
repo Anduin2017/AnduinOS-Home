@@ -204,5 +204,14 @@
   <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
     <value>AnduinOSウェブサイト（「本ウェブサイト」）および関連サービス（ドキュメント、ダウンロード、コミュニティディスカッションなどを含むがこれらに限定されない「本サービス」）にアクセスし利用することにより、あなたは本利用規約（「本規約」）に拘束されることに同意するものとします。</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>以下を含む:</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>本ソフトウェアはライセンス条項に基づき、誰でも合法的に入手、改変、および再配布することができますが、</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>当社が公式チャネルを通じて正式に配布するバージョンのみに責任を負います。</value>
+  </data>
 
 </root>

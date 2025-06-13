@@ -198,5 +198,14 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>incluindo:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>somos responsáveis apenas pelas versões distribuídas oficialmente por meio de nossos canais oficiais,</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Embora qualquer pessoa possa legalmente obter, modificar e redistribuir cópias do software sob os termos da licença,</value>
+  </data>
 
 </root>

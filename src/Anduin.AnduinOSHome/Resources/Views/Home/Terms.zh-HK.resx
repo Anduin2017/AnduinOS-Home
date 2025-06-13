@@ -207,5 +207,14 @@
   <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
     <value>當你存取及使用 AnduinOS 網站（「網站」）以及任何相關服務（包括但不限於文件、下載及社群討論等「服務」），即表示你同意受本《服務條款》（「條款」）約束。</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>包括：</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>我哋只會對透過我哋官方渠道正式發佈嘅版本負責，</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>雖然任何人根據許可條款均可合法獲取、修改及重新分發該軟件的副本，</value>
+  </data>
 
 </root>

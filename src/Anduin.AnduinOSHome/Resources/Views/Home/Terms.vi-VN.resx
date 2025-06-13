@@ -201,5 +201,14 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>bao gồm:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>chúng tôi chỉ chịu trách nhiệm cho các phiên bản được phân phối chính thức thông qua các kênh chính thức của chúng tôi,</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Trong khi bất kỳ ai cũng có thể hợp pháp nhận, sửa đổi và phân phối lại các bản sao của phần mềm theo các điều khoản của giấy phép,</value>
+  </data>
 
 </root>

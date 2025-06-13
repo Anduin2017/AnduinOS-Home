@@ -198,5 +198,14 @@
   <data name="Community:" xml:space="preserve">
     <value>Community:</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>einschließlich:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>wir sind nur für die Versionen verantwortlich, die offiziell über unsere offiziellen Kanäle verteilt werden,</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Während jeder gemäß den Bedingungen der Lizenz Kopien der Software legal beschaffen, modifizieren und weiterverteilen darf,</value>
+  </data>
 
 </root>
