@@ -327,5 +327,44 @@
   <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
     <value>...si vous envisagez de reprendre le contrôle de votre vie privée et de passer à Linux, Anduin OS est l&apos;endroit idéal pour commencer votre voyage. C&apos;est propre, c&apos;est simple, et la transition est fluide. Anduin OS n&apos;a pas été conçu pour les geeks de la tech. Il a été spécialement conçu pour VOUS. Faites le changement. Vous ne le regretterez pas.</value>
   </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>Comprend :</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Recommandé</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>paquets</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Sorti le</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>Dernière version</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Support jusqu&apos;au</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>Utilisez Flatpak pour les applications graphiques.</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Recommandé pour les utilisateurs ayant besoin d&apos;une version stable à long terme et utilisant du matériel plus ancien.</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>vérifier la somme de contrôle</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>Pour télécharger AnduinOS, sélectionnez l&apos;édition appropriée ci-dessous :</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Après le téléchargement, vous pouvez apprendre comment</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>graver l&apos;ISO sur une clé USB</value>
+  </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>Utilisation de Flatpak pour les applications graphiques.</value>
+  </data>
 
 </root>

@@ -327,5 +327,44 @@
   <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
     <value>...eğer gizliliğinizi geri almayı ve Linux&apos;a geçmeyi düşünüyorsanız, Anduin OS yolculuğunuza başlamak için mükemmel bir yerdir. Temiz, basit ve geçiş sorunsuzdur. Anduin OS teknoloji meraklıları için tasarlanmadı. Özellikle SİZİN için tasarlandı. Geçiş yapın. Pişman olmayacaksınız.</value>
   </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Destek süresi</value>
+  </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>İçerir:</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>Grafik uygulamalar için flatpak kullanın.</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>paketler</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Yayınlanma tarihi</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Kararlı bir uzun vadeli sürüme ihtiyaç duyan ve eski donanıma sahip kullanıcılar için önerilir.</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>En son sürüm</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>AnduinOS&apos;u indirmek için aşağıdan doğru sürümü seçin:</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>İndirdikten sonra, nasıl yapılacağını öğrenmek isteyebilirsiniz</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>sağlama toplamını doğrulayın</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>ISO&apos;yu bir USB sürücüsüne yazın</value>
+  </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>Grafik uygulamalar için flatpak kullanımı.</value>
+  </data>
 
 </root>
