@@ -366,5 +366,8 @@
   <data name="Using flatpak for graphical applications." xml:space="preserve">
     <value>使用Flatpak管理图形应用程序。</value>
   </data>
+  <data name="." xml:space="preserve">
+    <value>。</value>
+  </data>
 
 </root>

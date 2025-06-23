@@ -161,6 +161,7 @@ downloadModalEl.addEventListener('show.bs.modal', event => {
     const version       = btn.dataset.version;
     const latest        = btn.dataset.latest;
     const size          = btn.dataset.size;
+    const preferred = btn.dataset.preferedLanguage || '';
 
     downloadModalDescription.textContent = `${downloadModalDescriptionText} (${size})`;
 
@@ -172,6 +173,16 @@ downloadModalEl.addEventListener('show.bs.modal', event => {
             languageSelect.appendChild(opt);
         });
     }
+
+    const prefLower = preferred.toLowerCase();
+    const matches = languages
+        .map(lang => lang.code)
+        .filter(code => code.toLowerCase().startsWith(prefLower))
+        .sort((a, b) => b.length - a.length);
+
+    languageSelect.value = matches.length
+        ? matches[0]
+        : 'en_US';
 
     languageSelect.onchange = () => {
         renderDownloadLinks({ version, latest }, languageSelect.value);
