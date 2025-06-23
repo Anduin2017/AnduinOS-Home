@@ -17,7 +17,8 @@
     // Select a random slogan
     var random = new Random().Next(0, slogans.Length);
     var randomSlogan = Localizer[slogans[random]].Value;
-    var lastestVersion = Versions.Value.LastOrDefault()?.Latest;
+    var visibleVersions = Versions.Value.Where(v => v.IsVisible).ToArray();
+    var lastestVersion = visibleVersions.LastOrDefault()?.Latest;
 }
 @section scripts {
     <script src="~/js/index.js" asp-append-version="true" defer></script>
@@ -166,8 +167,63 @@
                             href="https://docs.anduinos.com/VERSIONS.html">@Localizer["two version branches"]</a>: @Localizer["LTS and Standard"].
                         @Localizer["The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features."]</p>
                 </div>
-                <div class="row py-4" id="version-cards">
-                    <!-- Version cards will be dynamically inserted here by JavaScript -->
+                <div class="row py-4">
+                    @foreach (var version in visibleVersions)
+                    {
+                        <div class="col-sm-6 mb-5 mb-md-0">
+                            <div class="card text-center h-100 @(version.LargeCard ? "middle-card" : "")">
+                                <div class="card-body d-flex flex-column"
+                                     @(version.NotRecommended
+                                         ? Html.Raw("style=\"color:#bbb !important\"")
+                                         : null)>
+                                    <div class="mb-4">
+                                        <h5>@version.Codename</h5>
+                                        <span class="@(version.Recommended ? "display-2" : "display-5")">
+                                            @version.Version
+                                        </span><br />
+                                        <span>@version.Type</span>
+                                    </div>
+
+                                    <h6 class="mt-3">@Localizer["Includes:"]</h6>
+                                    <ul class="list-unstyled">
+                                        <li class="mb-2">@version.Support</li>
+                                        <li class="mb-2">@version.Gnome</li>
+                                        <li class="mb-2">@version.Packages</li>
+                                        <li class="mb-2">@version.Kernel</li>
+                                        <li class="mb-2">@version.ReleaseDate</li>
+                                        <li class="mb-2">
+                                            @Localizer["Latest version"] @version.Latest
+                                        </li>
+                                        @if (!string.IsNullOrEmpty(version.AdditionalText))
+                                        {
+                                            <li class="mb-2">@version.AdditionalText</li>
+                                        }
+                                        @if (version.Recommended)
+                                        {
+                                            <li class="mb-2">
+                                                <span class="badge badge-subtle-primary">
+                                                    @Localizer["Recommended"]
+                                                </span>
+                                            </li>
+                                        }
+                                    </ul>
+
+                                    <div class="mt-auto">
+                                        <button type="button"
+                                                class="btn btn-lg btn-pill @(version.Recommended ? "btn-primary" : "btn-outline-primary")"
+                                                data-bs-toggle="modal"
+                                                data-bs-target="#download-modal"
+                                                data-version="@version.Version"
+                                                data-latest="@version.Latest"
+                                                data-size="@version.Size"
+                                                data-support-torrent="@version.SupportTorrent">
+                                            @Localizer["Download"]
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
                 </div>
             </div>
         </div>
@@ -592,7 +648,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body m-3">
-                <p id="download-modal-description" class="mb-0">@Localizer["Select the correct edition below:"]</p>
+                <p id="download-modal-description" class="mb-0">@Localizer["To download AnduinOS, select the correct edition below:"]</p>
                 <hr>
                 <div class="mb-3">
                     <label for="language-select" class="form-label">@Localizer["Language"]</label>

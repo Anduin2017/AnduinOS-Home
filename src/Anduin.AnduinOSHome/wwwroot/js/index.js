@@ -151,195 +151,62 @@ const languages = [
     },
 ];
 
-const versionCardsContainer = document.getElementById("version-cards");
-const downloadModal = new bootstrap.Modal(
-    document.getElementById("download-modal")
-);
-const downloadModalTitle = document.getElementById("download-modal-title");
-const downloadModalDescription = document.getElementById("download-modal-description");
-const downloadLinksContainer = document.getElementById("download-links-container");
+const languageSelect= document.getElementById('language-select');
+const downloadModalEl          = document.getElementById('download-modal');
+const downloadLinksContainer   = document.getElementById('download-links-container');
+downloadModalEl.addEventListener('show.bs.modal', event => {
+    const btn = event.relatedTarget;
+    const version       = btn.dataset.version;
+    const latest        = btn.dataset.latest;
+    const size          = btn.dataset.size;
+    const supportTorrent = btn.dataset.supportTorrent.toLowerCase() === 'true';
 
-// Function to fetch versions from API
-async function fetchVersions() {
-    const cacheKey = 'versions-20250529';
-    const cached = localStorage.getItem(cacheKey);
-    if (cached) {
-        console.log('Using cached versions');
-        generateVersionCards(JSON.parse(cached));
-        return;
-    }
-
-    const response = await fetch(`/versions.json?version=${cacheKey}`);
-    if (!response.ok) throw new Error(`Fetch failed: ${response.status}`);
-
-    const versions = await response.json();
-    localStorage.setItem(cacheKey, JSON.stringify(versions));
-    generateVersionCards(versions);
-}
-
-// Function to generate version cards dynamically
-function generateVersionCards(versions) {
-    versions
-        .filter((version) => version.isVisible)
-        .forEach((version) => {
-            const card = createVersionCard(version);
-            versionCardsContainer.appendChild(card);
+    if (!languageSelect.options.length) {
+        languages.forEach(lang => {
+            const opt = document.createElement('option');
+            opt.value       = lang.code;
+            opt.textContent = lang.name;
+            languageSelect.appendChild(opt);
         });
-}
-
-// Function to create version card
-function createVersionCard(versionObj) {
-    const col = document.createElement("div");
-    col.className = "col-sm-6 mb-5 mb-md-0";
-
-    const card = document.createElement("div");
-    card.className = "card text-center h-100";
-
-    if (versionObj.largeCard) {
-        card.classList.add("middle-card");
     }
-
-    const cardBody = document.createElement("div");
-    cardBody.className = "card-body d-flex flex-column";
-
-    if (versionObj.notRecommended) {
-        cardBody.style.setProperty("color", "#bbb", "important");
-    }
-
-    const versionInfo = document.createElement("div");
-    versionInfo.className = "mb-4";
-
-    const h5 = document.createElement("h5");
-    h5.textContent = versionObj.codename;
-
-    const spanVersion = document.createElement("span");
-    spanVersion.className = versionObj.recommended ? "display-2" : "display-5";
-    spanVersion.textContent = versionObj.version;
-
-    const spanType = document.createElement("span");
-    spanType.textContent = versionObj.type;
-
-    versionInfo.appendChild(h5);
-    versionInfo.appendChild(spanVersion);
-    versionInfo.appendChild(document.createElement("br")); // Line break
-    versionInfo.appendChild(spanType);
-
-    const h6Includes = document.createElement("h6");
-    h6Includes.className = "mt-3";
-    h6Includes.textContent = "Includes:";
-
-    const ul = document.createElement("ul");
-    ul.className = "list-unstyled";
-    const includes = [
-        versionObj.support,
-        versionObj.gnome,
-        versionObj.packages,
-        versionObj.kernel,
-        versionObj.releaseDate,
-        "Latest version " + versionObj.latest,
-    ];
-
-    if (versionObj.additionalText) {
-        includes.push(versionObj.additionalText);
-    }
-    includes.forEach((item) => {
-        const li = document.createElement("li");
-        li.className = "mb-2";
-        li.textContent = item;
-        ul.appendChild(li);
-    });
-
-    if (versionObj.recommended) {
-        const li = document.createElement("li");
-        li.className = "mb-2";
-        const badge = document.createElement("span");
-        badge.className = "badge badge-subtle-primary";
-        badge.textContent = "Recommended";
-        li.appendChild(badge);
-        ul.appendChild(li);
-    }
-
-    const downloadButton = document.createElement("button");
-    downloadButton.type = "button";
-    downloadButton.className = `btn btn-lg btn-pill ${
-        versionObj.recommended ? "btn-primary" : "btn-outline-primary"
-    }`;
-    downloadButton.textContent = "Download";
-    downloadButton.setAttribute("data-version", versionObj.version);
-    downloadButton.addEventListener("click", () => {
-        openDownloadModal(versionObj);
-    });
-
-    const downloadDiv = document.createElement("div");
-    downloadDiv.className = "mt-auto";
-    downloadDiv.appendChild(downloadButton);
-
-    cardBody.appendChild(versionInfo);
-    cardBody.appendChild(h6Includes);
-    cardBody.appendChild(ul);
-    cardBody.appendChild(downloadDiv);
-
-    card.appendChild(cardBody);
-    col.appendChild(card);
-
-    return col;
-}
-
-function openDownloadModal(versionObj) {
-    downloadModalTitle.textContent = `Download AnduinOS ${versionObj.version}`;
-    downloadModalDescription.textContent =
-        `To download AnduinOS, select the correct edition below: (${versionObj.size})`;
-
-    const languageSelect = document.getElementById("language-select");
-    languageSelect.innerHTML = "";
-    languages.forEach((lang) => {
-        const opt = document.createElement("option");
-        opt.value = lang.code;
-        opt.textContent = lang.name;
-        languageSelect.appendChild(opt);
-    });
 
     languageSelect.onchange = () => {
-        renderDownloadLinks(versionObj, languageSelect.value);
+        renderDownloadLinks({ version, latest, supportTorrent }, languageSelect.value);
     };
 
-    renderDownloadLinks(versionObj, languageSelect.value);
+    const initialLang = languageSelect.value || languages[0].code;
+    renderDownloadLinks({ version, latest, supportTorrent }, initialLang);
+});
 
-    downloadModal.show();
-}
+function renderDownloadLinks({ version, latest, supportTorrent }, langCode) {
+    const lang = languages.find(l => l.code === langCode);
+    downloadLinksContainer.innerHTML = '';
 
-function renderDownloadLinks(versionObj, langCode) {
-    const lang = languages.find((l) => l.code === langCode);
-    downloadLinksContainer.innerHTML = ""; // 清空
+    const base = `https://download.anduinos.com/${version}/${latest}/AnduinOS-${latest}-${lang.code}`;
 
-    // direct (HTTP)
-    const isoLink = document.createElement("a");
-    isoLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.iso`;
-    isoLink.target = "_blank";
-    isoLink.className = "btn btn-outline-primary btn-lg btn-pill";
-    isoLink.textContent = lang.directLabel;
-    downloadLinksContainer.appendChild(isoLink);
-
-    // torrent
-    if (versionObj.supportTorrent) {
-        const torrentLink = document.createElement("a");
-        torrentLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.torrent`;
-        torrentLink.target = "_blank";
-        torrentLink.className = "btn btn-primary btn-lg btn-pill";
-        torrentLink.textContent = lang.torrentLabel;
-        downloadLinksContainer.appendChild(torrentLink);
+    if (supportTorrent) {
+        const t = document.createElement('a');
+        t.href        = `${base}.torrent`;
+        t.target      = '_blank';
+        t.className   = 'btn btn-primary btn-lg btn-pill';
+        t.textContent = lang.torrentLabel;
+        downloadLinksContainer.appendChild(t);
     }
 
-    // sha256
-    const checksumLink = document.createElement("a");
-    checksumLink.href = `https://download.anduinos.com/${versionObj.version}/${versionObj.latest}/AnduinOS-${versionObj.latest}-${lang.code}.sha256`;
-    checksumLink.target = "_blank";
-    checksumLink.className = "btn btn-outline-primary btn-lg btn-pill";
-    checksumLink.textContent = lang.checksumLabel;
-    downloadLinksContainer.appendChild(checksumLink);
-}
+    const iso = document.createElement('a');
+    iso.href        = `${base}.iso`;
+    iso.target      = '_blank';
+    iso.className   = 'btn btn-outline-primary btn-lg btn-pill';
+    iso.textContent = lang.directLabel;
+    downloadLinksContainer.appendChild(iso);
 
-fetchVersions();
+    const chk = document.createElement('a');
+    chk.href        = `${base}.sha256`;
+    chk.target      = '_blank';
+    chk.className   = 'btn btn-outline-primary btn-lg btn-pill';
+    chk.textContent = lang.checksumLabel;
+    downloadLinksContainer.appendChild(chk);
+}
 
 //=====================================
 //         The Image Gallery
