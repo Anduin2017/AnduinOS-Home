@@ -197,27 +197,18 @@ function renderDownloadLinks({ version, latest }, langCode) {
     downloadLinksContainer.innerHTML = '';
 
     const base = `https://download.anduinos.com/${version}/${latest}/AnduinOS-${latest}-${lang.code}`;
+    appendLink(`${base}.torrent`,   lang.torrentLabel, 'btn-primary');
+    appendLink(`${base}.iso`,       lang.directLabel, 'btn-outline-primary');
+    appendLink(`${base}.sha256`,    lang.checksumLabel, 'btn-outline-primary');
+}
 
-    const torrent = document.createElement('a');
-    torrent.href        = `${base}.torrent`;
-    torrent.target      = '_blank';
-    torrent.className   = 'btn btn-primary btn-lg btn-pill';
-    torrent.textContent = lang.torrentLabel;
-    downloadLinksContainer.appendChild(torrent);
-
-    const iso = document.createElement('a');
-    iso.href        = `${base}.iso`;
-    iso.target      = '_blank';
-    iso.className   = 'btn btn-outline-primary btn-lg btn-pill';
-    iso.textContent = lang.directLabel;
-    downloadLinksContainer.appendChild(iso);
-
-    const chk = document.createElement('a');
-    chk.href        = `${base}.sha256`;
-    chk.target      = '_blank';
-    chk.className   = 'btn btn-outline-primary btn-lg btn-pill';
-    chk.textContent = lang.checksumLabel;
-    downloadLinksContainer.appendChild(chk);
+function appendLink(href, label, btnClass) {
+    const a = document.createElement('a');
+    a.href      = href;
+    a.target    = '_blank';
+    a.className = `btn btn-lg btn-pill ${btnClass}`;
+    a.textContent = label;
+    downloadLinksContainer.appendChild(a);
 }
 
 //=====================================
