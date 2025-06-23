@@ -14,9 +14,11 @@
     <meta name="author" content="Anduin Xue">
     <title>@ViewData["Title"] - AnduinOS</title>
     <link rel="canonical" href="@(context.Request.Scheme)://@(context.Request.Host)@(context.Request.Path)" />
-    <link rel="shortcut icon" href="/favicon.svg">
-    <link href="~/node_modules/@@aiursoft/uistack/dist/css/app.css" rel="stylesheet" asp-append-version="true">
-    <link href="~/css/site.css" rel="stylesheet" asp-append-version="true">
+    <link rel="shortcut icon" href="./favicon.svg">
+    <link rel="stylesheet" href="~/node_modules/@@aiursoft/uistack/dist/css/app.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <link rel="alternate" type="application/rss+xml" title="AnduinOS on Mastodon" href="https://mastodon.social/@AnduinOS.rss" />
+    <link rel="alternate" type="application/atom+xml" title="AnduinOS Releases" href="https://github.com/Anduin2017/AnduinOS/releases.atom" />
     @await RenderSectionAsync("styles", required: false)
 </head>
 
