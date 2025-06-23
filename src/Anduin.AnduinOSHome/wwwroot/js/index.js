@@ -153,12 +153,16 @@ const languages = [
 
 const languageSelect= document.getElementById('language-select');
 const downloadModalEl          = document.getElementById('download-modal');
+const downloadModalDescription = document.getElementById('download-modal-description');
 const downloadLinksContainer   = document.getElementById('download-links-container');
+const downloadModalDescriptionText = downloadModalDescription.textContent;
 downloadModalEl.addEventListener('show.bs.modal', event => {
     const btn = event.relatedTarget;
     const version       = btn.dataset.version;
     const latest        = btn.dataset.latest;
     const size          = btn.dataset.size;
+
+    downloadModalDescription.textContent = `${downloadModalDescriptionText} (${size})`;
 
     if (!languageSelect.options.length) {
         languages.forEach(lang => {
