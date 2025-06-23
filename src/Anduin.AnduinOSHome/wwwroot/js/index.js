@@ -159,7 +159,6 @@ downloadModalEl.addEventListener('show.bs.modal', event => {
     const version       = btn.dataset.version;
     const latest        = btn.dataset.latest;
     const size          = btn.dataset.size;
-    const supportTorrent = btn.dataset.supportTorrent.toLowerCase() === 'true';
 
     if (!languageSelect.options.length) {
         languages.forEach(lang => {
@@ -171,27 +170,25 @@ downloadModalEl.addEventListener('show.bs.modal', event => {
     }
 
     languageSelect.onchange = () => {
-        renderDownloadLinks({ version, latest, supportTorrent }, languageSelect.value);
+        renderDownloadLinks({ version, latest }, languageSelect.value);
     };
 
     const initialLang = languageSelect.value || languages[0].code;
-    renderDownloadLinks({ version, latest, supportTorrent }, initialLang);
+    renderDownloadLinks({ version, latest }, initialLang);
 });
 
-function renderDownloadLinks({ version, latest, supportTorrent }, langCode) {
+function renderDownloadLinks({ version, latest }, langCode) {
     const lang = languages.find(l => l.code === langCode);
     downloadLinksContainer.innerHTML = '';
 
     const base = `https://download.anduinos.com/${version}/${latest}/AnduinOS-${latest}-${lang.code}`;
 
-    if (supportTorrent) {
-        const t = document.createElement('a');
-        t.href        = `${base}.torrent`;
-        t.target      = '_blank';
-        t.className   = 'btn btn-primary btn-lg btn-pill';
-        t.textContent = lang.torrentLabel;
-        downloadLinksContainer.appendChild(t);
-    }
+    const torrent = document.createElement('a');
+    torrent.href        = `${base}.torrent`;
+    torrent.target      = '_blank';
+    torrent.className   = 'btn btn-primary btn-lg btn-pill';
+    torrent.textContent = lang.torrentLabel;
+    downloadLinksContainer.appendChild(torrent);
 
     const iso = document.createElement('a');
     iso.href        = `${base}.iso`;

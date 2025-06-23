@@ -48,7 +48,4 @@ public class VersionInfo
 
     [JsonPropertyName("notRecommended")]
     public required bool NotRecommended { get; set; }
-
-    [JsonPropertyName("supportTorrent")]
-    public required bool SupportTorrent { get; set; }
 }
