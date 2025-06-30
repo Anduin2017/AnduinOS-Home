@@ -327,5 +327,47 @@
   <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
     <value>...se você está pensando em recuperar sua privacidade e migrar para o Linux, o Anduin OS é o lugar perfeito para começar sua jornada. É limpo, é simples e a transição é suave. O Anduin OS não foi projetado para os nerds de tecnologia. Foi projetado especificamente para VOCÊ. Faça a mudança. Você não vai se arrepender.</value>
   </data>
+  <data name="packages" xml:space="preserve">
+    <value>pacotes</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Recomendado</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Lançado em</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>Última versão</value>
+  </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>Inclui:</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>Use o Flatpak para aplicativos gráficos.</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Recomendado para usuários que precisam de uma versão estável de longo prazo e em hardware mais antigo.</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Suporte até</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Após o download, você pode querer aprender como</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>gravar a ISO em um pendrive</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>verificar a soma de verificação</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>Para baixar o AnduinOS, selecione a edição correta abaixo:</value>
+  </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>Usando flatpak para aplicativos gráficos.</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

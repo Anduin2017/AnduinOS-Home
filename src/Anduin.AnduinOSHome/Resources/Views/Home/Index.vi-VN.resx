@@ -330,5 +330,47 @@
   <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
     <value>...nếu bạn đang cân nhắc lấy lại quyền riêng tư và chuyển sang Linux, Anduin OS là điểm khởi đầu hoàn hảo cho hành trình của bạn. Nó sạch sẽ, đơn giản và quá trình chuyển đổi diễn ra mượt mà. Anduin OS không được thiết kế cho dân công nghệ. Nó được thiết kế đặc biệt cho BẠN. Hãy chuyển đổi. Bạn sẽ không hối tiếc đâu.</value>
   </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Phát hành vào</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Hỗ trợ đến</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Được đề xuất</value>
+  </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>Bao gồm:</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>Phiên bản mới nhất</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Được khuyến nghị cho người dùng cần một phiên bản ổn định lâu dài và chạy trên phần cứng cũ.</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>gói</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>Sử dụng flatpak cho các ứng dụng đồ họa.</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Sau khi tải xuống, bạn có thể muốn tìm hiểu cách để</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>kiểm tra checksum</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>ghi file ISO vào ổ USB</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>Để tải xuống AnduinOS, vui lòng chọn phiên bản phù hợp bên dưới:</value>
+  </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>Sử dụng flatpak cho các ứng dụng đồ họa.</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

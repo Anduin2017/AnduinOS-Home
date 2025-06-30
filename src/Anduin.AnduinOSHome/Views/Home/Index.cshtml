@@ -1,4 +1,5 @@
 @using Anduin.AnduinOSHome.Models
+@using Microsoft.AspNetCore.Localization
 @using Microsoft.Extensions.Options
 @inject IOptions<List<VersionInfo>> Versions
 @{
@@ -17,18 +18,28 @@
     // Select a random slogan
     var random = new Random().Next(0, slogans.Length);
     var randomSlogan = Localizer[slogans[random]].Value;
+
+    // Get latest version information
     var visibleVersions = Versions.Value.Where(v => v.IsVisible).ToArray();
     var lastestVersion = visibleVersions.LastOrDefault()?.Latest;
+
+    // Get current Culture.
+    var currentCulture = ViewContext.HttpContext.Features
+        .Get<IRequestCultureFeature>()?
+        .RequestCulture.Culture.Name.ToLower().Trim().Replace('-', '_');
 }
+
 @section scripts {
     <script src="~/js/index.js" asp-append-version="true" defer></script>
 }
 
 <!-- Ad Banner -->
-<div class="alert alert-dismissible fade show text-center mb-0 pt-2 pb-2 border-0 rounded-0 text-white" role="alert" style="background-color: #2a4b77;">
+<div class="alert alert-dismissible fade show text-center mb-0 pt-2 pb-2 border-0 rounded-0 text-white" role="alert"
+     style="background-color: #2a4b77;">
     <div class="container">
         <strong class="text-white">@Localizer["Special Thanks!"]</strong>
-        @Localizer["The AnduinOS server is proudly sponsored by"] <a href="https://voxihost.pl/" class="alert-link text-white">@Localizer["Voxihost"]</a>, @Localizer["a provider of top-tier hosting services"].
+        @Localizer["The AnduinOS server is proudly sponsored by"] <a href="https://voxihost.pl/"
+                                                                     class="alert-link text-white">@Localizer["Voxihost"]</a>, @Localizer["a provider of top-tier hosting services"].
         <a href="https://voxihost.pl/" class="alert-link ms-2">@Localizer["Sign up today!"]</a>
     </div>
     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" style="padding: .8rem"></button>
@@ -161,11 +172,13 @@
         <div class="row">
             <div class="col-md-12 col-xl-10 col-xxl-10 mx-auto">
                 <div class="mb-4 text-center">
-                    <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Versions"]</span>
+                    <span
+                        class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Versions"]</span>
                     <h2 class="h1">@Localizer["Choose your AnduinOS version"]</h2>
                     <p class="text-muted fs-lg">@Localizer["AnduinOS is available in"] <a
                             href="https://docs.anduinos.com/VERSIONS.html">@Localizer["two version branches"]</a>: @Localizer["LTS and Standard"].
-                        @Localizer["The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features."]</p>
+                        @Localizer["The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features."]
+                    </p>
                 </div>
                 <div class="row py-4">
                     @foreach (var version in visibleVersions)
@@ -180,7 +193,7 @@
                                         <h5>@version.Codename</h5>
                                         <span class="@(version.Recommended ? "display-2" : "display-5")">
                                             @version.Version
-                                        </span><br />
+                                        </span><br/>
                                         <span>@version.Type</span>
                                     </div>
 
@@ -196,13 +209,7 @@
                                         </li>
                                         @if (!string.IsNullOrEmpty(version.AdditionalText))
                                         {
-                                            <li style="display: none;">
-                                                <p>
-                                                    @Localizer["Recommended for users need a stable long-term version and on older hardware."]
-                                                    @Localizer["Use flatpak for graphical applications."]
-                                                </p>
-                                            </li>
-                                            <li class="mb-2">@version.AdditionalText</li>
+                                            <li class="mb-2">@Localizer[version.AdditionalText]</li>
                                         }
                                         @if (version.Recommended)
                                         {
@@ -221,6 +228,7 @@
                                                 data-bs-target="#download-modal"
                                                 data-version="@version.Version"
                                                 data-latest="@version.Latest"
+                                                data-prefered-language="@currentCulture"
                                                 data-size="@version.Size">
                                             @Localizer["Download"]
                                         </button>
@@ -243,7 +251,8 @@
                 <div class="row">
                     <div class="col-lg-10 col-xl-9 mx-auto">
                         <div class="mb-4">
-                            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Usage"]</span>
+                            <span
+                                class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Usage"]</span>
                             <h2 class="h1 mb-3">@Localizer["With AnduinOS, you can do more"]</h2>
                             <p class="text-muted fs-lg">
                                 @Localizer["Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It's up to you."]
@@ -261,7 +270,8 @@
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/steam_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
                              alt="Steam Playing Games on AnduinOS"/>
-                        <h4 class="mt-3">@Localizer["Gaming"] <sup><small class="badge badge-subtle-primary">@Localizer["With Steam"]</small></sup></h4>
+                        <h4 class="mt-3">@Localizer["Gaming"] <sup><small
+                                    class="badge badge-subtle-primary">@Localizer["With Steam"]</small></sup></h4>
                     </div>
                     <div class="col-md-4 py-3">
                         <img gallery src="scs/build_comp.webp" class="img-fluid rounded-3 landing-img" loading="lazy"
@@ -317,7 +327,7 @@
                             </div>
                             <div class="ps-3">
                                 <h5 class="mb-1 mt-2">Johnathon Horner</h5><small
-                                                                    class="d-block text-muted h5 fw-normal">@Localizer["Composer, Producer, and Audio Engineer"]</small>
+                                    class="d-block text-muted h5 fw-normal">@Localizer["Composer, Producer, and Audio Engineer"]</small>
                             </div>
                         </div>
                         <p class="lead mb-2">@Localizer["...if you're considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It's clean, it's simple, and the transition is seamless. Anduin OS wasn't designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won't regret it."]</p>
@@ -569,7 +579,8 @@
                         <div id="collapseThree" class="collapse" aria-labelledby="faqThree"
                              data-bs-parent="#accordionFaq">
                             <div class="card-body py-3">
-                                @Localizer["You have access to AnduinOS online support services via GitHub Discussions. Please contact us at"] <a href="https://github.com/Anduin2017/AnduinOS/discussions">@Localizer["here"]</a>
+                                @Localizer["You have access to AnduinOS online support services via GitHub Discussions. Please contact us at"] <a
+                                    href="https://github.com/Anduin2017/AnduinOS/discussions">@Localizer["here"]</a>
                                 @Localizer["for any questions."]
                             </div>
                         </div>
@@ -588,7 +599,9 @@
                                 <a href="https://news.anduinos.com/post/2025/5/6/story-behind-anduinos-a-letter-from-anduin"
                                    target="_blank">@Localizer["Read more"]</a>.
                                 <br><br>
-                                @Localizer["AnduinOS works based on donations from users. We are grateful for your support. And you can"] <a href="https://www.paypal.com/paypalme/anduinxue2017" target="_blank">@Localizer["donate"]</a>
+                                @Localizer["AnduinOS works based on donations from users. We are grateful for your support. And you can"] <a
+                                    href="https://www.paypal.com/paypalme/anduinxue2017"
+                                    target="_blank">@Localizer["donate"]</a>
                                 @Localizer["to us via PayPal."]
                             </div>
                         </div>
@@ -605,7 +618,8 @@
                             <div class="card-body py-3">
                                 @Localizer["Please contact us with email at"] <a
                                     href="mailto:anduin@aiursoft.com">anduin@aiursoft.com</a>
-                                @Localizer["for any questions. Please join our"] <a href="https://rvlt.gg/dPwPs8e6">@Localizer["Revolt channel"]</a>
+                                @Localizer["for any questions. Please join our"] <a
+                                    href="https://rvlt.gg/dPwPs8e6">@Localizer["Revolt channel"]</a>
                                 @Localizer["for community support."]
                             </div>
                         </div>
@@ -653,7 +667,8 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body m-3">
-                <p id="download-modal-description" class="mb-0">@Localizer["To download AnduinOS, select the correct edition below:"]</p>
+                <p id="download-modal-description"
+                   class="mb-0">@Localizer["To download AnduinOS, select the correct edition below:"]</p>
                 <hr>
                 <div class="mb-3">
                     <label for="language-select" class="form-label">@Localizer["Language"]</label>
@@ -663,13 +678,19 @@
                     <!-- Dynamic insert download links -->
                 </div>
                 <div class="mt-3">
-                    <p class="text-muted">@Localizer["By downloading, you agree to our"] <a asp-controller="Home" asp-action="Terms">@Localizer["Terms of Service"]</a>
-                        @Localizer["and"] <a asp-controller="Home" asp-action="Privacy">@Localizer["Privacy Policy"]</a>.</p>
+                    <p class="text-muted">
+                        @Localizer["By downloading, you agree to our"]
+                        <a asp-controller="Home" asp-action="Terms">@Localizer["Terms of Service"]</a>
+                        @Localizer["and"]
+                        <a asp-controller="Home" asp-action="Privacy">@Localizer["Privacy Policy"]</a>
+                        @Localizer["."]
+                    </p>
                     <p class="text-muted">
                         @Localizer["After downloading, you may want to learn how to"]
                         <a href="https://docs.anduinos.com/Install/Download-AnduinOS.html">@Localizer["verify the checksum"]</a>
                         @Localizer["and"]
-                        <a href="https://docs.anduinos.com/Install/Burn-A-USB-Stick.html">@Localizer["burn the ISO to a USB drive"].</a>
+                        <a href="https://docs.anduinos.com/Install/Burn-A-USB-Stick.html">@Localizer["burn the ISO to a USB drive"]</a>
+                        @Localizer["."]
                     </p>
                 </div>
             </div>

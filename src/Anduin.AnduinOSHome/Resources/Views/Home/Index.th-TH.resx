@@ -327,5 +327,47 @@
   <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
     <value>...หากคุณกำลังคิดที่จะกู้คืนความเป็นส่วนตัวและเปลี่ยนมาใช้ Linux Anduin OS คือจุดเริ่มต้นที่สมบูรณ์แบบสำหรับการเดินทางของคุณ มันสะอาด เรียบง่าย และการเปลี่ยนผ่านเป็นไปอย่างราบรื่น Anduin OS ไม่ได้ออกแบบมาสำหรับนักเทคโนโลยี มันถูกออกแบบมาเฉพาะสำหรับคุณ เปลี่ยนมาใช้เลย คุณจะไม่เสียใจ</value>
   </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>แนะนำ</value>
+  </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>ประกอบด้วย:</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>เวอร์ชันล่าสุด</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>สนับสนุนจนถึง</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>ใช้ Flatpak สำหรับแอปพลิเคชันแบบกราฟิก</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>แนะนำสำหรับผู้ใช้ที่ต้องการเวอร์ชันระยะยาวที่เสถียรและใช้งานบนฮาร์ดแวร์รุ่นเก่า</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>แพ็คเกจ</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>วางจำหน่ายเมื่อ</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>ตรวจสอบค่าแฮช</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>เขียน ISO ลงไดรฟ์ USB</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>หากต้องการดาวน์โหลด AnduinOS โปรดเลือกเวอร์ชันที่ถูกต้องด้านล่าง:</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>หลังจากดาวน์โหลด คุณอาจต้องการเรียนรู้วิธี</value>
+  </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>ใช้ Flatpak สำหรับแอปพลิเคชันแบบกราฟิก</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

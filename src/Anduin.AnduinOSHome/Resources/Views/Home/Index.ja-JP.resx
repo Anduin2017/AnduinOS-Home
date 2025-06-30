@@ -330,5 +330,47 @@
   <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
     <value>プライバシーを取り戻し、Linuxに切り替えようと考えているなら、Anduin OSはその旅を始めるのに最適な場所です。クリーンでシンプル、そして移行はシームレス。Anduin OSは技術オタクのために設計されたのではありません。それは特別に「あなた」のために設計されました。切り替えてみてください。後悔することはないでしょう。</value>
   </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>含まれるもの:</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>おすすめ</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>サポート終了日</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>リリース日</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>グラフィカルアプリケーションにはFlatpakを使用してください。</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>パッケージ</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>安定した長期サポートバージョンを必要とするユーザーや古いハードウェアを使用しているユーザーにおすすめです。</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>最新バージョン</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>チェックサムを検証する</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>ダウンロード後、以下の方法を学ぶことをお勧めします：</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>AnduinOSをダウンロードするには、以下の正しいエディションを選択してください：</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>ISOをUSBドライブに書き込む</value>
+  </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>グラフィカルアプリケーションにFlatpakを使用しています。</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

@@ -327,5 +327,47 @@
   <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
     <value>...если вы задумываетесь о возврате приватности и переходе на Linux, Anduin OS — идеальное место для начала вашего пути. Это чистая, простая система с плавным переходом. Anduin OS создавалась не для гиков. Она создана специально для ВАС. Сделайте шаг. Вы не пожалеете.</value>
   </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>Включает:</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Поддержка до</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Выпущен</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Рекомендуется</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>пакеты</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>Последняя версия</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Рекомендуется для пользователей, которым нужна стабильная долгосрочная версия и которые используют старое оборудование.</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>Используйте Flatpak для графических приложений.</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>проверить контрольную сумму</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>записать ISO-образ на USB-накопитель</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>Чтобы скачать AnduinOS, выберите подходящую версию ниже:</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>После загрузки вы можете узнать, как</value>
+  </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>Использование Flatpak для графических приложений.</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
 
 </root>

@@ -1,3 +1,7 @@
+@{
+    var context = ViewContext.HttpContext;
+}
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,7 +13,7 @@
           content="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows. AnduinOS uses apt to manage system-wide packages and uses flatpak to manage graphical applications."/>
     <meta name="author" content="Anduin Xue">
     <title>@ViewData["Title"] - AnduinOS</title>
-    <link rel="canonical" href="https://www.anduinos.com"/>
+    <link rel="canonical" href="@(context.Request.Scheme)://@(context.Request.Host)@(context.Request.Path)" />
     <link rel="shortcut icon" href="/favicon.svg">
     <link href="~/node_modules/@@aiursoft/uistack/dist/css/app.css" rel="stylesheet" asp-append-version="true">
     <link href="~/css/site.css" rel="stylesheet" asp-append-version="true">
