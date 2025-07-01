@@ -32,4 +32,13 @@ public class HomeController(IOptions<List<VersionInfo>> versions) : Controller
     {
         return View();
     }
+
+/*
+    [Route("/thankyou.html")]
+    public IActionResult Thankyou()
+    {
+        return View();
+    }
+*/
+
 }

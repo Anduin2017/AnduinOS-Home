@@ -208,6 +208,7 @@ function appendLink(href, label, btnClass) {
     a.target    = '_blank';
     a.className = `btn btn-lg btn-pill ${btnClass}`;
     a.textContent = label;
+    a.addEventListener("click", function(e){setTimeout(() => {top.location.href = "thankyou.html";}, 500);});
     downloadLinksContainer.appendChild(a);
 }
 
