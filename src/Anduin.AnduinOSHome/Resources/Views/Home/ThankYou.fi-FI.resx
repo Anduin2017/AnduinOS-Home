@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="!" xml:space="preserve">
+    <value>!</value>
+  </data>
+  <data name="and" xml:space="preserve">
+    <value>ja</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="Thank you for downloading" xml:space="preserve">
+    <value>Kiitos, että latasit</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>vahvista tarkistussumma</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>polta ISO-kuva USB-tikulle</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Latauksen jälkeen saatat haluta oppia, miten</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>Jos olet uusi AnduinOS-käyttäjä, saatat haluta myös tutustua</value>
+  </data>
+  <data name="System requirement" xml:space="preserve">
+    <value>Järjestelmävaatimukset</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>Mitä seuraavaksi?</value>
+  </data>
+  <data name="Documentation" xml:space="preserve">
+    <value>Dokumentaatio</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Tiedot</value>
+  </data>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>Nauti uudesta käyttöjärjestelmästäsi!</value>
+  </data>
+  <data name="Report a problem" xml:space="preserve">
+    <value>Ilmoita ongelmasta</value>
+  </data>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>Tutustu dokumentaatioon, saatat löytää sieltä vastauksia kysymyksiisi.</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>Lahjoita</value>
+  </data>
+  <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
+    <value>Jotain ei toimi? Sinulla ehdotus? Kirjoita siitä keskusteluun.</value>
+  </data>
+  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
+    <value>Tunnetko anteliaisuutta? AnduinOS toimii käyttäjien lahjoituksilla. Olemme kiitollisia tuestasi.</value>
+  </data>
+
+</root>

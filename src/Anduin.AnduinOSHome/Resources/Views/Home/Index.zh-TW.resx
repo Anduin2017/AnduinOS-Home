@@ -372,5 +372,8 @@
   <data name="." xml:space="preserve">
     <value>。</value>
   </data>
+  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
+    <value>AnduinOS 由用戶捐款資助。我們感謝您的支持。您還可以</value>
+  </data>
 
 </root>

@@ -372,5 +372,8 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
+    <value>안두인OS는 사용자들의 기부로 운영됩니다. 여러분의 지원에 감사드립니다. 또한 여러분은</value>
+  </data>
 
 </root>

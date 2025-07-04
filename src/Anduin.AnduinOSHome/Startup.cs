@@ -11,8 +11,6 @@ public class Startup : IWebStartup
 {
     public static readonly Dictionary<string, string> SupportedCultures = new()
     {
-        { "en-US", "English (United States)" },
-        { "en-GB", "English (United Kingdom)" },
         { "zh-CN", "中文 (中国大陆)" },
         { "zh-TW", "中文 (台灣)" },
         { "zh-HK", "中文 (香港)" },
@@ -31,7 +29,14 @@ public class Startup : IWebStartup
         { "nl-NL", "Nederlands (Nederland)" },
         { "sv-SE", "Svenska (Sverige)" },
         { "pl-PL", "Polski (Polska)" },
-        { "tr-TR", "Türkçe (Türkiye)" }
+        { "tr-TR", "Türkçe (Türkiye)" },
+        { "ro-RO", "Română (România)" },
+        { "da-DK", "Dansk (Danmark)" },
+        { "uk-UA", "Українська (Україна)" },
+        { "id-ID", "Bahasa Indonesia (Indonesia)" },
+        { "fi-FI", "Suomi (Suomi)" },
+        { "hi-IN", "हिन्दी (भारत)" },
+        { "el-GR", "Ελληνικά (Ελλάδα)" }
     };
 
     public void ConfigureServices(IConfiguration configuration, IWebHostEnvironment environment, IServiceCollection services)
