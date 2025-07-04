@@ -333,5 +333,26 @@
   <data name="Close" xml:space="preserve">
     <value>Închide</value>
   </data>
+  <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>Nicio telemetrie deloc! Alege &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; pentru a-ți recâștiga confidențialitatea.</value>
+  </data>
+  <data name="Today is the best day for you to switch to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Astăzi este cea mai bună zi pentru a trece la &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Descoperă puterea computerului tău, alege &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Tot ceea ce faci pe Ubuntu, poți să faci și pe &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 a fost lansat pe 2024.09.01</value>
+  </data>
+  <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
+    <value>Trecerea la &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; va fi cea mai bună decizie pe care ai luat-o vreodată</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; este baza de pachete Ubuntu + experiența aplicațiilor &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt;</value>
+  </data>
 
 </root>

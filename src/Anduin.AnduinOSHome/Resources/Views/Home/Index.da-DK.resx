@@ -333,5 +333,26 @@
   <data name="Close" xml:space="preserve">
     <value>Luk</value>
   </data>
+  <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Udnyt din computers fulde potentiale, vælg &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 er udgivet den 2024.09.01</value>
+  </data>
+  <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
+    <value>At skifte til &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; vil være den bedste beslutning, du nogensinde har taget</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Alt hvad du kan gøre på Ubuntu, kan du også gøre på &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="Today is the best day for you to switch to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>I dag er den bedste dag for dig at skifte til &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; er Ubuntus pakkegrundlag + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt;-appoplevelse</value>
+  </data>
+  <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>Ingen telemetri overhovedet! Vælg &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; for at genvinde din privatliv.</value>
+  </data>
 
 </root>
