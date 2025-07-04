@@ -26,7 +26,7 @@
                             .Get<IRequestCultureFeature>()?
                             .RequestCulture.Culture.Name;
                     }
-                    <form asp-controller="Culture" asp-action="Set" method="post" class="d-inline">
+                    <form asp-controller="Culture" asp-action="Set" method="post" class="d-inline" asp-route-returnUrl="@(Context.Request.Path + Context.Request.QueryString)">
                         <select name="culture" onchange="this.form.submit()" class="form-select form-select-sm w-auto">
                             @foreach (var culture in Startup.SupportedCultures)
                             {
