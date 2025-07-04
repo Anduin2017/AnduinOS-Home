@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Terms of Service" xml:space="preserve">
+    <value>Brugsbetingelser</value>
+  </data>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. Ændringer af vilkår</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Sidst opdateret: 10. maj 2025</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. Acceptering af vilkår</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>Din fortsatte brug af hjemmesiden eller tjenesterne efter ændringer udgør accept af de nye vilkår.</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>Hvis du ikke er enig i nogen del af disse vilkår, må du ikke bruge hjemmesiden eller tjenesterne.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>Vi forbeholder os retten til at opdatere eller ændre disse vilkår til enhver tid uden forudgående varsel.</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>Ved at tilgå og bruge AnduinOS hjemmesiden (&quot;Website&quot;) og alle relaterede tjenester, herunder men ikke begrænset til dokumentation, downloads og fællesskabsdiskussioner (&quot;Services&quot;), accepterer du at være bundet af disse Servicevilkår (&quot;Terms&quot;).</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. Brug af hjemmeside og tjenester</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>Du accepterer specifikt ikke at:</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>Vi opfordrer dig til at gennemgå disse vilkår regelmæssigt.</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>Du accepterer at bruge Hjemmesiden og Tjenesterne udelukkende til lovlige formål og i overensstemmelse med alle gældende love og regler.</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>Forsøg på at opnå uautoriseret adgang til systemer eller data.</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>Upload, distribuer eller overføre malware, virus eller skadelig kode.</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>Misbruge, angribe eller overbelaste Hjemmesiden, serverne eller Tjenesterne.</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>Brug hjemmesiden eller tjenesterne til enhver form for svigagtig, ulovlig eller skadelig aktivitet.</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. Intellektuel Ejendom</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>Vi forbeholder os retten til at begrænse eller ophæve adgangen for brugere, der overtræder disse vilkår.</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS er et gratis og open-source projekt distribueret under</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>Selvom softwaren er open-source, kan websitets design, brandingmaterialer og andet ikke-softwareindhold være omfattet af særlige immaterielle rettigheder.</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. Tredjepartslinks og indhold</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>Du må ikke kopiere, reproducere eller distribuere ikke-kode-elementer fra hjemmesiden uden eksplicit tilladelse.</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. Fraskrivelse af garantier</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>Adgang til tredjepartsressourcer sker på eget ansvar.</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>Webstedet, tjenesterne og AnduinOS-softwaren leveres</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>Webstedet og tjenesterne kan indeholde links til tredjeparts websteder eller tjenester, som ikke ejes eller kontrolleres af os.</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>Vi er ikke ansvarlige for indholdet, politikkerne eller praksis på tredjepartssider.</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>&quot;som den er&quot; og &quot;som tilgængelig,&quot;</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>Egnethed til et bestemt formål</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Nøjagtighed</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>Vi fraskriver udtrykkeligt alle garantier, herunder men ikke begrænset til:</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>Pålidelighed</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>uden nogen form for garanti, hverken udtrykkelig eller underforstået.</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>Ikke-krænkelse</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>Tilgængelighed eller sikkerhed for Hjemmesiden, Tjenesterne eller softwaren</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>Brug af AnduinOS og hjemmesiden sker helt og holdent på eget ansvar.</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. Begrænsning af ansvar</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>Indirekte, tilfældige, særlige, følgeskader eller strafferetlige erstatninger;</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>Tab af fortjeneste, indtægter, data eller goodwill;</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>I det omfang, loven tillader det, er vi ikke ansvarlige for nogen:</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. Ophør</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>Skader som følge af din brug af (eller manglende evne til at bruge) hjemmesiden, tjenesterne eller AnduinOS-softwaren.</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. Gældende ret</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. Kontaktoplysninger</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>Vi forbeholder os retten til at ophøre eller suspendere din adgang til Hjemmesiden eller Tjenesterne med det samme, uden varsel, for adfærd, som vi mener krænker disse Vilkår eller er skadelig for andre brugere, os eller tredjeparter.</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>Hvis du har spørgsmål vedrørende disse servicevilkår, bedes du kontakte:</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>Disse vilkår er styret af og tolket i overensstemmelse med lovene i den jurisdiktion, hvor webstedets operatør er bosiddende, uden hensyntagen til dens lovkonfliktprincipper.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub-diskussioner</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Fællesskab:</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. Ansvarsfraskrivelse vedrørende modificerede versioner</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>vi er kun ansvarlige for de versioner, der officielt distribueres gennem vores officielle kanaler,</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOS er et gratis og open-source projekt, der er distribueret under GNU General Public License v3.0 (GPL-v3).</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Selvom enhver lovligt kan erhverve, modificere og videreuddele kopier af softwaren i henhold til licensens vilkår,</value>
+  </data>
+  <data name="including:" xml:space="preserve">
+    <value>herunder:</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>Hvis du får AnduinOS fra en anden kilde end de officielle kanaler nævnt ovenfor,</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>Vi støtter ikke, verificerer eller yder support til nogen uofficielle eller tredjeparts modificerede versioner af AnduinOS.</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>du gør dette udelukkende på egen risiko.</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>Vi fraskriver os ethvert ansvar for skade, tab eller sikkerhedssårbarhed forårsaget af uofficielle eller modificerede versioner af AnduinOS.</value>
+  </data>
+
+</root>
