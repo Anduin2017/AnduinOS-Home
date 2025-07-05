@@ -11,6 +11,8 @@ public class Startup : IWebStartup
 {
     public static readonly Dictionary<string, string> SupportedCultures = new()
     {
+        { "en-US", "English (United States)" },
+        { "en-GB", "English (United Kingdom)" },
         { "zh-CN", "中文 (中国大陆)" },
         { "zh-TW", "中文 (台灣)" },
         { "zh-HK", "中文 (香港)" },
