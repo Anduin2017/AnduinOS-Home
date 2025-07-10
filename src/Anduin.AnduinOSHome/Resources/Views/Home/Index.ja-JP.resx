@@ -375,5 +375,8 @@
   <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
     <value>AnduinOSはユーザーの寄付によって運営されています。ご支援に心から感謝申し上げます。また、あなたは</value>
   </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...これは非常に素晴らしいです。Windowsから移行する可能性のあるユーザーにとって、私が試した中で最もフレンドリーなLinuxディストリビューションの1つと言えるでしょう。たった1人で構築されたとは思えないほど、その完成度には驚かされます。</value>
+  </data>
 
 </root>

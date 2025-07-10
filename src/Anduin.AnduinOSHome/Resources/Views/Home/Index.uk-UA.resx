@@ -354,5 +354,8 @@
   <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
     <value>Перехід на &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; буде найкращим рішенням, яке ви коли-небудь приймали.</value>
   </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...це досить вражаюче. Це також, можливо, один із найдружніших дистрибутивів Linux, які я коли-небудь пробував, особливо для тих, хто переходить з Windows. Вражає, наскільки він хороший, враховуючи, що його створила одна людина.</value>
+  </data>
 
 </root>

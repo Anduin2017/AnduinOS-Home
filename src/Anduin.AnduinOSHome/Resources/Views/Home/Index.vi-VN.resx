@@ -375,5 +375,8 @@
   <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
     <value>AnduinOS được tài trợ bởi sự đóng góp của người dùng. Chúng tôi vô cùng biết ơn sự hỗ trợ của bạn. Và bạn có thể</value>
   </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...nó thực sự rất ấn tượng. Đây cũng có lẽ là một trong những bản phân phối Linux thân thiện nhất mà tôi từng thử nghiệm, đặc biệt dành cho những người đang chuyển từ Windows sang. Được xây dựng bởi một người duy nhất, thật đáng kinh ngạc khi nó tốt đến vậy.</value>
+  </data>
 
 </root>

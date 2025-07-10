@@ -354,5 +354,8 @@
   <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
     <value>अपने कंप्यूटर की शक्ति को उजागर करें, &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; चुनें</value>
   </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...यह काफी शानदार है। जब Windows से आने वाले लोगों की बात आती है, तो यह संभवतः मेरे द्वारा आजमाए गए सबसे दोस्ताना Linux डिस्ट्रो में से एक है। इसे एक व्यक्ति ने बनाया है, और यह कितना अच्छा है, यह देखकर काफी आश्चर्य होता है।</value>
+  </data>
 
 </root>

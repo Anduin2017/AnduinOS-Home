@@ -354,5 +354,8 @@
   <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
     <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; este baza de pachete Ubuntu + experiența aplicațiilor &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt;</value>
   </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...este destul de spectaculos. Este, de asemenea, posibil să fie una dintre cele mai prietenoase distribuții Linux pe care le-am încercat pentru cei care trec de la Windows. Construită de o singură persoană, este uimitor cât de bună este.</value>
+  </data>
 
 </root>
