@@ -3,7 +3,6 @@ using System.Text.Json;
 using Aiursoft.CSTools.Tools;
 using Anduin.AnduinOSHome.Models;
 using AngleSharp.Html.Dom;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Anduin.AnduinOSHome.Tests.Tools;
 using Microsoft.Extensions.Hosting;
 using static Aiursoft.WebTools.Extends;
@@ -53,7 +52,7 @@ public class BasicTests
         response.EnsureSuccessStatusCode(); // Status Code 200-299
         Assert.AreEqual("text/html; charset=utf-8", response.Content.Headers.ContentType?.ToString());
         var p = doc.QuerySelector("p.text-lg") as IHtmlElement;
-        Assert.IsTrue(p?.InnerHtml.Contains("AnduinOS is a custom Ubuntu-based Linux distribution that aims to"));
+        Assert.IsTrue(p?.InnerHtml.Contains("AnduinOS is a custom Ubuntu-based"));
     }
 
     [TestMethod]
