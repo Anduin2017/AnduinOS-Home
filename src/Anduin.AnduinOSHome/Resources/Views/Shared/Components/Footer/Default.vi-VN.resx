@@ -57,5 +57,8 @@
   <data name="Source Code" xml:space="preserve">
     <value>Mã nguồn</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Trạng thái dịch vụ</value>
+  </data>
 
 </root>

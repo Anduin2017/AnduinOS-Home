@@ -57,5 +57,8 @@
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
     <value>AnduinOS - una distribución personalizada de Linux basada en Ubuntu que busca facilitar la transición de desarrolladores desde Windows a Linux manteniendo hábitos operativos y flujos de trabajo familiares.</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Estado del Servicio</value>
+  </data>
 
 </root>

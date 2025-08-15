@@ -57,5 +57,8 @@
   <data name="Reference" xml:space="preserve">
     <value>參考</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>服務狀態</value>
+  </data>
 
 </root>

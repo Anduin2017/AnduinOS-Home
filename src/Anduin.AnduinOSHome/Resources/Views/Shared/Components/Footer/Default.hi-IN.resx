@@ -57,5 +57,8 @@
   <data name="Privacy Policy" xml:space="preserve">
     <value>गोपनीयता नीति</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>सेवा स्थिति</value>
+  </data>
 
 </root>

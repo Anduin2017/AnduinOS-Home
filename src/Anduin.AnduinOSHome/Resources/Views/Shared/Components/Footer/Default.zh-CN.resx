@@ -60,5 +60,8 @@
   <data name="Social" xml:space="preserve">
     <value>社交</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>服务状态</value>
+  </data>
 
 </root>

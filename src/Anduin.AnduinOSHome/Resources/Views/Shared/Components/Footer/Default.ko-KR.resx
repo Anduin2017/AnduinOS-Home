@@ -57,5 +57,8 @@
   <data name="Community" xml:space="preserve">
     <value>커뮤니티</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>서비스 상태</value>
+  </data>
 
 </root>

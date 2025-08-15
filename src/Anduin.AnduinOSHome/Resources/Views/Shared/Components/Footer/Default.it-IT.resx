@@ -57,5 +57,8 @@
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Stato del Servizio</value>
+  </data>
 
 </root>

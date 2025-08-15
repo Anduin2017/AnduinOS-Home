@@ -57,5 +57,8 @@
   <data name="Social" xml:space="preserve">
     <value>اجتماعي</value>
   </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>حالة الخدمة</value>
+  </data>
 
 </root>
