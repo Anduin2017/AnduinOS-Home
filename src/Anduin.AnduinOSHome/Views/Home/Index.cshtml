@@ -27,11 +27,42 @@
     var currentCulture = ViewContext.HttpContext.Features
         .Get<IRequestCultureFeature>()?
         .RequestCulture.Culture.Name.ToLower().Trim().Replace('-', '_');
+
+    // Donate link.
+    var donateLink = currentCulture == "zh_cn" ?
+        "/img/pay_anduin.png" :
+        "https://www.paypal.com/paypalme/anduinxue2017";
 }
 
 @section scripts {
     <script src="~/js/index.js" asp-append-version="true" defer></script>
 }
+
+@* The following section is for localizer to auto localize. Not for actual rendering. *@
+@* <div style="display: none;"> *@
+@*     <p> *@
+@*         @Localizer["No telemetry at all! Choose <span class='text-primary'>AnduinOS</span> to regain your privacy"] *@
+@*     </p> *@
+@*     <p> *@
+@*         @Localizer["Today is the best day for you to switch to <span class='text-primary'>AnduinOS</span>"] *@
+@*     </p> *@
+@*     <p> *@
+@*         @Localizer["<span class='text-primary'>AnduinOS</span> is Ubuntu's package base + <span class='text-primary'>Flatpak</span> app experience"] *@
+@*     </p> *@
+@*     <p> *@
+@*         @Localizer["Everything you do on Ubuntu, you can do it on <span class='text-primary'>AnduinOS</span>"] *@
+@*     </p> *@
+@*     <p> *@
+@*         @Localizer["Reveal the power of your computer, choose <span class='text-primary'>AnduinOS</span>"] *@
+@*     </p> *@
+@*     <p> *@
+@*         @Localizer["Transitioning to <span class='text-primary'>AnduinOS</span> will be the best decision you've ever made"] *@
+@*     </p> *@
+@*     <p> *@
+@*         @Localizer["<span class='text-primary'>AnduinOS</span> 1.0 is released on 2024.09.01"] *@
+@*     </p> *@
+@* *@
+@* </div> *@
 
 <!-- Ad Banner -->
 <div class="alert alert-dismissible fade show text-center mb-0 pt-2 pb-2 border-0 rounded-0 text-white" role="alert"
@@ -176,7 +207,7 @@
                         class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Versions"]</span>
                     <h2 class="h1">@Localizer["Choose your AnduinOS version"]</h2>
                     <p class="text-muted fs-lg">@Localizer["AnduinOS is available in"] <a
-                            href="https://docs.anduinos.com/VERSIONS.html">@Localizer["two version branches"]</a>: @Localizer["LTS and Standard"].
+                            href="https://docs.anduinos.com/VERSIONS.html">@Localizer["two version branches"]</a>: @Localizer["LTS and Standard"]@Localizer["."]
                         @Localizer["The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features."]
                     </p>
                 </div>
@@ -469,10 +500,10 @@
                 <div class="d-flex align-items-start py-3">
                     <div class="flex-grow-1">
                         <h4 class="mt-0">
-                            <a href="https://distrowatch.com/table.php?distribution=anduin"
-                               target="_blank">DistroWatch</a>
+                            <a href="https://www.windowscentral.com/software-apps/a-microsoft-engineer-made-a-linux-distro-thats-like-a-comfort-blanket-to-ex-windows-users"
+                               target="_blank">Windows Central</a>
                         </h4>
-                        <p class="fs-lg">@Localizer["...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell."]</p>
+                        <p class="fs-lg">@Localizer["...it's pretty spectacular. It's also quite possibly one of the friendliest Linux distros I've tried when it comes to folks who may well be moving over from Windows. Built by one person, it's pretty astonishing how good it is."]</p>
                     </div>
                 </div>
             </div>
@@ -600,7 +631,7 @@
                                    target="_blank">@Localizer["Read more"]</a>.
                                 <br><br>
                                 @Localizer["AnduinOS is funded by user donations. We are grateful for your support. And you can"] <a
-                                    href="https://www.paypal.com/paypalme/anduinxue2017"
+                                    href="@donateLink"
                                     target="_blank">@Localizer["donate"]</a>
                                 @Localizer["to us via PayPal."]
                             </div>

@@ -372,5 +372,11 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
+    <value>안두인OS는 사용자들의 기부로 운영됩니다. 여러분의 지원에 감사드립니다. 또한 여러분은</value>
+  </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...꽤나 놀랍습니다. 또한 Windows에서 넘어오는 사용자들을 위해 제가 사용해 본 Linux 배포판 중 가장 친절한 배포판 중 하나일 것입니다. 한 사람이 만든 것치고는 정말 놀라울 정도로 훌륭합니다.</value>
+  </data>
 
 </root>

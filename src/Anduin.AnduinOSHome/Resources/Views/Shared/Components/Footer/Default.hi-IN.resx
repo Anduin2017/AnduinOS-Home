@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Resources" xml:space="preserve">
+    <value>संसाधन</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>समाचार</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>कानूनी</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>सोर्स कोड</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>समुदाय</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>दस्तावेज़</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>संदर्भ</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>ओपन सोर्स</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>लाइसेंस</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS - एक कस्टम Ubuntu-आधारित Linux डिस्ट्रीब्यूशन जिसका उद्देश्य डेवलपर्स को Windows से Linux में संक्रमण को सुगम बनाना है, परिचित ऑपरेशनल आदतों और वर्कफ़्लो को बनाए रखकर।</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>सेवा की शर्तें</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>सोशल</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>गोपनीयता नीति</value>
+  </data>
+
+</root>

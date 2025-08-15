@@ -31,7 +31,14 @@ public class Startup : IWebStartup
         { "nl-NL", "Nederlands (Nederland)" },
         { "sv-SE", "Svenska (Sverige)" },
         { "pl-PL", "Polski (Polska)" },
-        { "tr-TR", "Türkçe (Türkiye)" }
+        { "tr-TR", "Türkçe (Türkiye)" },
+        { "ro-RO", "Română (România)" },
+        { "da-DK", "Dansk (Danmark)" },
+        { "uk-UA", "Українська (Україна)" },
+        { "id-ID", "Bahasa Indonesia (Indonesia)" },
+        { "fi-FI", "Suomi (Suomi)" },
+        { "hi-IN", "हिन्दी (भारत)" },
+        { "el-GR", "Ελληνικά (Ελλάδα)" }
     };
 
     public void ConfigureServices(IConfiguration configuration, IWebHostEnvironment environment, IServiceCollection services)

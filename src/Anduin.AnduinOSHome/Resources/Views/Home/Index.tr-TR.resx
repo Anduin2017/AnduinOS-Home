@@ -369,5 +369,11 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
+    <value>AnduinOS kullanıcı bağışlarıyla finanse edilmektedir. Desteğiniz için minnettarız. Ve siz de</value>
+  </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...oldukça etkileyici. Windows&apos;tan geçiş yapmayı düşünen kullanıcılar için denediğim en kullanıcı dostu Linux dağıtımlarından biri olabilir. Tek bir kişi tarafından geliştirilmiş olmasına rağmen bu kadar iyi olması gerçekten şaşırtıcı.</value>
+  </data>
 
 </root>

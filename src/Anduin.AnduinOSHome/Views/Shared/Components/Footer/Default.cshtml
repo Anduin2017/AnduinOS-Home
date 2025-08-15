@@ -26,7 +26,7 @@
                             .Get<IRequestCultureFeature>()?
                             .RequestCulture.Culture.Name;
                     }
-                    <form asp-controller="Culture" asp-action="Set" method="post" class="d-inline">
+                    <form asp-controller="Culture" asp-action="Set" method="post" class="d-inline" asp-route-returnUrl="@(Context.Request.Path + Context.Request.QueryString)">
                         <select name="culture" onchange="this.form.submit()" class="form-select form-select-sm w-auto">
                             @foreach (var culture in Startup.SupportedCultures)
                             {
@@ -122,6 +122,11 @@
                         <i class="fa-brands fa-reddit"></i>
                         <a href="https://reddit.com/r/AnduinOS/" class="text-white-50" rel="me"
                            target="_blank">Reddit (Unofficial)</a>
+                    </li>
+                    <li class="mt-2">
+                        <i class="fa-brands fa-discord"></i>
+                        <a href="https://discord.com/invite/b2N3aB7Ndv" class="text-white-50" rel="me"
+                           target="_blank">Discord (Unofficial)</a>
                     </li>
                 </ul>
             </div>

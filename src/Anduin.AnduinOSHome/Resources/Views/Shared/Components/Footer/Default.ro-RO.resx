@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Resources" xml:space="preserve">
+    <value>Resurse</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Documentație</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referințe</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Informații legale</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>Comunitate</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Știri</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Cod sursă</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS - o distribuție Linux personalizată bazată pe Ubuntu, care urmărește să faciliteze tranziția dezvoltatorilor de la Windows la Linux prin menținerea unor obiceiuri și fluxuri de lucru operaționale familiare.</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>Licență</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Termeni și condiții</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Social</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Politica de Confidențialitate</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Sursă Deschisă</value>
+  </data>
+
+</root>

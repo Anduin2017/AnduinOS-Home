@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="Sign up today!" xml:space="preserve">
+    <value>Εγγραφείτε σήμερα!</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Ανοιχτού Κώδικα</value>
+  </data>
+  <data name="Special Thanks!" xml:space="preserve">
+    <value>Ιδιαίτερες Ευχαριστίες!</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Δωρεάν</value>
+  </data>
+  <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+    <value>Ο διακομιστής AnduinOS χορηγείται με υπερηφάνεια από</value>
+  </data>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Άδεια GPL-v3</value>
+  </data>
+  <data name="a provider of top-tier hosting services" xml:space="preserve">
+    <value>ένας πάροχος υπηρεσιών φιλοξενίας υψηλότερης ποιότητας</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Λόγοι</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Έγγραφα</value>
+  </data>
+  <data name="All versions" xml:space="preserve">
+    <value>Όλες οι εκδόσεις</value>
+  </data>
+  <data name="Change Log" xml:space="preserve">
+    <value>Αρχείο Αλλαγών</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Λήψη</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>Το AnduinOS είναι μια προσαρμοσμένη διανομή Linux βασισμένη στο Ubuntu, που στοχεύει να διευκολύνει τους προγραμματιστές στη μετάβαση από τα Windows στο Linux, διατηρώντας γνώριμες συνήθειες λειτουργίας και ροές εργασίας.</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Γιατί να επιλέξετε το AnduinOS;</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Έτοιμο προς χρήση</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Μικρότερη εικόνα, φιλική διεπαφή, ακατανίκητη απόδοση, ασφαλές και ασφαλές.</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Root και απορρήτο</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Φιλικό περιβάλλον</value>
+  </data>
+  <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>Το αρχείο ISO έχει μόνο 2.0GB σε μέγεθος. Παρόμοια με το Ubuntu, είναι απλό στην εγκατάσταση και μπορεί να καλύψει τις καθημερινές σας ανάγκες χωρίς πρόσθετες ρυθμίσεις ή περίπλοκες διαδικασίες.</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Οικολογική τελειότητα</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>Η ιδιωτικότητα δεν είναι πλέον προαιρετική. Είναι απαραίτητη. Το AnduinOS σχεδιάστηκε για να μην συλλέγει τίποτα από εσάς. Δεν σας παρακολουθούμε. Δεν σας προφιλάρουμε. Δεν σας στοχεύουμε. Παραμένετε ανώνυμοι στο σύστημα.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>Το AnduinOS βασίζεται στη βάση πακέτων του Ubuntu. Είναι συμβατό με τα περισσότερα από τα πακέτου apt του Ubuntu. Είναι μια τέλεια συνδυασμός εμπειρίας και οικολογίας.</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Σε κοντέινερ</value>
+  </data>
+  <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>Το περιβάλλον επιφάνειας εργασίας που βασίζεται στο GNOME διαθέτει όμορφες διεπαφές και αλληλεπιδράσεις ανθρώπου-υπολογιστή που ταιριάζουν στις συνήθειες των χρηστών, επιτρέποντάς σας να ξεκινήσετε γρήγορα με το AnduinOS χωρίς υψηλό κόστος εκμάθησης.</value>
+  </data>
+  <data name="Versions" xml:space="preserve">
+    <value>Εκδόσεις</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Οι γραφικές εφαρμογές εγκαθίστανται μέσω του Flatpak και παραμένουν χωριστές από το βασικό σύστημα (Από την έκδοση 1.3). Επιτρέπουν επίσης λεπτομερή έλεγχο των δικαιωμάτων τους.</value>
+  </data>
+  <data name="AnduinOS is available in" xml:space="preserve">
+    <value>Το AnduinOS είναι διαθέσιμο σε</value>
+  </data>
+  <data name="LTS and Standard" xml:space="preserve">
+    <value>LTS και Standard</value>
+  </data>
+  <data name="two version branches" xml:space="preserve">
+    <value>δύο κλάδοι εκδόσεων</value>
+  </data>
+  <data name="Choose your AnduinOS version" xml:space="preserve">
+    <value>Επιλέξτε την έκδοση του AnduinOS σας</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>Το AnduinOS είναι ένα έργο ανοικτού κώδικα. Σύμφωνα με την άδεια GPL-v3, μπορείτε να δείτε τον πηγαίο κώδικα, να τον τροποποιήσετε και να τον αναδιανείμετε. Είναι δωρεάν και θα παραμείνει πάντα δωρεάν.</value>
+  </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>Περιλαμβάνει:</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>πακέτα</value>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>Χρήση</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Κυκλοφόρησε στις</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>Τελευταία έκδοση</value>
+  </data>
+  <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
+    <value>Η έκδοση LTS συνιστάται για χρήστες που χρειάζονται σταθερή υποστήριξη μακροπρόθεσμα, ενώ η Standard έκδοση συνιστάται για χρήστες με νεότερες συσκευές που θέλουν να εξερευνήσουν τις τελευταίες λειτουργίες.</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Υποστήριξη έως</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Συνιστάται</value>
+  </data>
+  <data name="With AnduinOS, you can do more" xml:space="preserve">
+    <value>Με το AnduinOS, μπορείτε να κάνετε περισσότερα</value>
+  </data>
+  <data name="Gaming" xml:space="preserve">
+    <value>Παιχνίδια</value>
+  </data>
+  <data name="Browsing" xml:space="preserve">
+    <value>Περιήγηση</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It&apos;s up to you." xml:space="preserve">
+    <value>Ό,τι κάνετε στο Ubuntu, μπορείτε να το κάνετε και στο AnduinOS. Μπορείτε να το χρησιμοποιήσετε ως καθημερινό λειτουργικό σύστημα, ως περιβάλλον ανάπτυξης, ως διακομιστή ή ως εργαλείο μάθησης. Εξαρτάται από εσάς.</value>
+  </data>
+  <data name="With Steam" xml:space="preserve">
+    <value>Με το Steam</value>
+  </data>
+  <data name="Build" xml:space="preserve">
+    <value>Δημιουργία</value>
+  </data>
+  <data name="Editing" xml:space="preserve">
+    <value>Επεξεργασία</value>
+  </data>
+  <data name="Work" xml:space="preserve">
+    <value>Εργασία</value>
+  </data>
+  <data name="Reviews" xml:space="preserve">
+    <value>Κριτικές</value>
+  </data>
+  <data name="Serve" xml:space="preserve">
+    <value>Εξυπηρέτηση</value>
+  </data>
+  <data name="Composer, Producer, and Audio Engineer" xml:space="preserve">
+    <value>Συνθέτης, Παραγωγός και Ηχολήπτης</value>
+  </data>
+  <data name="Designer" xml:space="preserve">
+    <value>Σχεδιαστής</value>
+  </data>
+  <data name="Here&apos;s what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
+    <value>Αυτά έχουν να πουν μερικοί από τους 2000+ χρήστες μας για τη δουλειά με το AnduinOS.</value>
+  </data>
+  <data name="Lead Developer" xml:space="preserve">
+    <value>Κύριος Προγραμματιστής</value>
+  </data>
+  <data name="What users are saying" xml:space="preserve">
+    <value>Τι λένε οι χρήστες</value>
+  </data>
+  <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can&apos;t miss. Trust me!!!" xml:space="preserve">
+    <value>Το AnduinOS έχει ένα καθαρό, όμορφο μοντέρνο σχέδιο, φιλικό προς τον χρήστη περιβάλλον, και ανάμεσα σε τόσες διανομές, είναι η επιλογή που δεν μπορείς να χάσεις. Εμπιστεύσου με!!!</value>
+  </data>
+  <data name="Developer" xml:space="preserve">
+    <value>Προγραμματιστής</value>
+  </data>
+  <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
+    <value>Το AnduinOS έδωσε νέα ζωή στο Surface Go μου, το οποίο πριν θεωρούσα άχρηστο. Εκπληκτικά, λειτουργεί πολύ πιο ομαλά από τα Windows. Όλες οι λειτουργίες δουλεύουν τέλεια!</value>
+  </data>
+  <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
+    <value>...αν σκέφτεστε να ανακτήσετε το απόρρητό σας και να μεταβείτε στο Linux, το Anduin OS είναι το ιδανικό σημείο για να ξεκινήσετε το ταξίδι σας. Είναι καθαρό, είναι απλό και η μετάβαση είναι απρόσκοπτη. Το Anduin OS δεν σχεδιάστηκε για τον τεχνολογικό φαντασμένο. Σχεδιάστηκε ειδικά για ΕΣΑΣ. Κάντε την αλλαγή. Δεν θα το μετανιώσετε.</value>
+  </data>
+  <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
+    <value>Το AnduinOS έχει απλοποιήσει σημαντικά τη ζωή και τις εργασιακές μου διαδικασίες, ενισχύοντας τη θέση του ως η προτιμώμενη μου διανομή Linux για καθημερινή χρήση!</value>
+  </data>
+  <data name="AnduinOS is your final Linux distribution! It&apos;s built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
+    <value>Το AnduinOS είναι η τελική σας διανομή Linux! Αποτελείται για προγραμματιστές και είναι ελαφριά αλλά εξακολουθεί να είναι ισχυρή. Με τα καλά δομημένα θέματα και τις συντομεύσεις της, οι χρήστες των Windows μπορούν να μεταβούν ομαλά στο AnduinOS και να ξεχάσουν τη ρύθμιση του συστήματός σας.</value>
+  </data>
+  <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
+    <value>...Δεν πρέπει να ξεχνάμε ότι πρόκειται για εικόνα 1,8 GB. Μου ανέβασε τη διάθεση... Πραγματικά πιστεύω ότι αξίζει μια εγκατάσταση, σίγουρα ο χρόνος θα δείξει.</value>
+  </data>
+  <data name="Frequently asked questions" xml:space="preserve">
+    <value>Συχνές ερωτήσεις</value>
+  </data>
+  <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
+    <value>Το λειτουργικό σύστημα συνεχίζει να εστιάζει στην ευκολία χρήσης, ειδικά για τους χρήστες που προέρχονται από τα Windows.</value>
+  </data>
+  <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
+    <value>Το Linux αποτελεί μια καλή επιλογή για να διατηρείτε τους υπολογιστές σας σε λειτουργία, και αν θέλετε κάτι που μοιάζει με τα Windows, τότε αξίζει να δοκιμάσετε το AnduinOS.</value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>Συχνές Ερωτήσεις</value>
+  </data>
+  <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It&apos;s intuitive, simple to use, and well-designed." xml:space="preserve">
+    <value>Στην πραγματικότητα, αυτή είναι μία από εκείνες τις διανομές &quot;ρύθμισε-και-ξέχασε&quot; που κάνουν τη χρήση του Linux απόλαυση. Είναι διαισθητική, απλή στη χρήση και καλά σχεδιασμένη.</value>
+  </data>
+  <data name="Here are some of the answers you might be looking for." xml:space="preserve">
+    <value>Ακολουθούν μερικές από τις απαντήσεις που ίσως ψάχνετε.</value>
+  </data>
+  <data name="Is it free to use AnduinOS?" xml:space="preserve">
+    <value>Είναι δωρεάν η χρήση του AnduinOS;</value>
+  </data>
+  <data name="Is there any support included?" xml:space="preserve">
+    <value>Υπάρχει κάποια υποστήριξη που περιλαμβάνεται;</value>
+  </data>
+  <data name="How can I search for solutions to problems?" xml:space="preserve">
+    <value>Πώς μπορώ να αναζητήσω λύσεις σε προβλήματα;</value>
+  </data>
+  <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
+    <value>Τι είδους εφαρμογές μπορώ να εκτελέσω στο AnduinOS;</value>
+  </data>
+  <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>Ναι, το AnduinOS είναι δωρεάν για χρήση. Είναι ένα έργο ανοικτού κώδικα που ακολουθεί την άδεια GPL-v3. Μπορείτε να δείτε τον πηγαίο κώδικα, να τον τροποποιήσετε και να τον αναδιανείμετε. Είναι δωρεάν και θα παραμείνει πάντα δωρεάν.</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>εδώ</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
+    <value>Το AnduinOS βασίζεται στη βάση πακέτων του Ubuntu. Οποιοδήποτε λογισμικό που εκτελείται στο Ubuntu μπορεί να εκτελεστεί και στο AnduinOS. Μπορείτε να εκτελέσετε μια ποικιλία εφαρμογών, συμπεριλαμβανομένων, αλλά όχι περιορισμένων σε: εφαρμογές Linux, εφαρμογές web και ακόμη και εφαρμογές Windows χρησιμοποιώντας το Wine.</value>
+  </data>
+  <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
+    <value>Το AnduinOS χρησιμοποιεί το Flatpak για τη διαχείριση γραφικών εφαρμογών. Το Flatpak είναι ένα λογισμικό εργαλείο για την ανάπτυξη λογισμικού, την εικονικοποίηση εφαρμογών και τη διαχείριση πακέτων. Σας επιτρέπει να εκτελείτε εφαρμογές σε ένα περιβάλλον sandbox, το οποίο μπορεί να βοηθήσει στη βελτίωση της ασφάλειας και της σταθερότητας.</value>
+  </data>
+  <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
+    <value>Στο Ask Ubuntu, μπορείτε να αναζητήσετε και να ρωτήσετε για πολύ συχνά προβλήματα. Οι λύσεις για σχεδόν όλα τα προβλήματα του AnduinOS είναι πανομοιότυπες με αυτές του Ubuntu. Μπορείτε να βασιστείτε εξ ολοκλήρου στην τεκμηρίωση και την εμπειρογνωμοσύνη του Ubuntu για να επιλύσετε προβλήματα με το AnduinOS.</value>
+  </data>
+  <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
+    <value>Έχετε πρόσβαση στις υπηρεσίες online υποστήριξης του AnduinOS μέσω των GitHub Discussions. Επικοινωνήστε μαζί μας στο</value>
+  </data>
+  <data name="for any questions." xml:space="preserve">
+    <value>για οποιεσδήποτε ερωτήσεις.</value>
+  </data>
+  <data name="Who is behind AnduinOS?" xml:space="preserve">
+    <value>Ποιος είναι πίσω από το AnduinOS;</value>
+  </data>
+  <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
+    <value>Το AnduinOS είναι ένα μη κερδοσκοπικό έργο που δημιουργήθηκε στον ελεύθερο χρόνο, συντηρείται αποκλειστικά μέσω δωρεών και δεν υποστηρίζεται από καμία εταιρεία ή εθνική κυβέρνηση.</value>
+  </data>
+  <data name="Read more" xml:space="preserve">
+    <value>Διαβάστε περισσότερα</value>
+  </data>
+  <data name="donate" xml:space="preserve">
+    <value>δωρίστε</value>
+  </data>
+  <data name="to us via PayPal." xml:space="preserve">
+    <value>σε μας μέσω PayPal.</value>
+  </data>
+  <data name="Please contact us with email at" xml:space="preserve">
+    <value>Παρακαλούμε επικοινωνήστε μαζί μας μέσω email στο</value>
+  </data>
+  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
+    <value>Το AnduinOS χρηματοδοτείται από δωρεές χρηστών. Είμαστε ευγνώμονες για την υποστήριξή σας. Και μπορείτε να</value>
+  </data>
+  <data name="for any questions. Please join our" xml:space="preserve">
+    <value>για οποιεσδήποτε ερωτήσεις. Παρακαλούμε ελάτε στην</value>
+  </data>
+  <data name="Revolt channel" xml:space="preserve">
+    <value>Κανάλι Revolt</value>
+  </data>
+  <data name="How can I contact the AnduinOS team?" xml:space="preserve">
+    <value>Πώς μπορώ να επικοινωνήσω με την ομάδα του AnduinOS;</value>
+  </data>
+  <data name="for community support." xml:space="preserve">
+    <value>για υποστήριξη από την κοινότητα.</value>
+  </data>
+  <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
+    <value>Ελάτε στην κοινότητά μας και συμμετέχετε στο AnduinOS!</value>
+  </data>
+  <data name="Join Discussions" xml:space="preserve">
+    <value>Συμμετοχή σε Συζητήσεις</value>
+  </data>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>Κατεβάστε το AnduinOS</value>
+  </data>
+  <data name="Join Revolt channel" xml:space="preserve">
+    <value>Εγγραφείτε στο κανάλι Revolt</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>Για να κατεβάσετε το AnduinOS, επιλέξτε τη σωστή έκδοση παρακάτω:</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Όροι Υπηρεσίας</value>
+  </data>
+  <data name="By downloading, you agree to our" xml:space="preserve">
+    <value>Με τη λήψη, συμφωνείτε με τους</value>
+  </data>
+  <data name="and" xml:space="preserve">
+    <value>και</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Γλώσσα</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Πολιτική Απορρήτου</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>επαληθεύστε το checksum</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Μετά τη λήψη, ίσως θέλετε να μάθετε πώς να</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Κλείσιμο</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>καταγράψτε το ISO σε μια μονάδα USB</value>
+  </data>
+  <data name="Today is the best day for you to switch to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Σήμερα είναι η καλύτερη μέρα για να αλλάξετε στο &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>Καθόλου τηλεμετρία! Επιλέξτε το &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; για να ανακτήσετε την ιδιωτικότητά σας</value>
+  </data>
+  <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
+    <value>Η μετάβαση στο &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; θα είναι η καλύτερη απόφαση που έχετε πάρει ποτέ.</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+    <value>Το &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 κυκλοφορεί στις 2024.09.01</value>
+  </data>
+  <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Αποκαλύψτε τη δύναμη του υπολογιστή σας, επιλέξτε &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Ό,τι κάνεις στο Ubuntu, μπορείς να το κάνεις και στο &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+    <value>Το &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; βασίζεται στα πακέτα του Ubuntu + την εμπειρία εφαρμογών &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt;</value>
+  </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...είναι πραγματικά εντυπωσιακό. Είναι επίσης πιθανότατα μία από τις πιο φιλικές διανομές Linux που έχω δοκιμάσει όσον αφορά άτομα που μπορεί να μετακινούνται από τα Windows. Δημιουργημένο από ένα άτομο, είναι πραγματικά εκπληκτικό το πόσο καλό είναι.</value>
+  </data>
+
+</root>

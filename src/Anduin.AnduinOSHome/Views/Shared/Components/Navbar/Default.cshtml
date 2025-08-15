@@ -1,5 +1,16 @@
-@* Navigation bar section *@
+@using Microsoft.AspNetCore.Localization
 
+@* Navigation bar section *@
+@{
+    var currentCulture = ViewContext.HttpContext.Features
+        .Get<IRequestCultureFeature>()?
+        .RequestCulture.Culture.Name.ToLower().Trim().Replace('-', '_');
+
+    // Donate link.
+    var donateLink = currentCulture == "zh_cn" ?
+        "/img/pay_anduin.png" :
+        "https://www.paypal.com/paypalme/anduinxue2017";
+}
 <nav class="navbar navbar-expand-md navbar-dark bg-dark landing-navbar">
     <div class="container">
         <a class="navbar-brand landing-brand text-white" asp-controller="Home" asp-action="Index">
@@ -34,9 +45,9 @@
         </ul>
         <a href="https://download.anduinos.com/" target="_blank"
            class="btn btn-lg btn-success btn-pill my-2 my-sm-0 ms-3">
-            <i class="fa-solid fa-download"></i>@Localizer["Download"] AnduinOS</a>
-        <a href="https://www.paypal.com/paypalme/anduinxue2017" target="_blank" rel="noreferer"
+            <i class="fa-solid fa-download me-1"></i>@Localizer["Download"] AnduinOS</a>
+        <a href="@donateLink" target="_blank" rel="noreferer"
            class="btn btn-lg btn-primary btn-pill my-2 my-sm-0 ms-3">
-            <i class="fa-solid fa-money-bill"></i>@Localizer["Donate"]</a>
+            <i class="fa-solid fa-money-bill me-1"></i>@Localizer["Donate"]</a>
     </div>
 </nav>
