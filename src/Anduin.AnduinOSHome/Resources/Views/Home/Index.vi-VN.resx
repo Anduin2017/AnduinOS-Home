@@ -378,5 +378,8 @@
   <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
     <value>...nó thực sự rất ấn tượng. Đây cũng có lẽ là một trong những bản phân phối Linux thân thiện nhất mà tôi từng thử nghiệm, đặc biệt dành cho những người đang chuyển từ Windows sang. Được xây dựng bởi một người duy nhất, thật đáng kinh ngạc khi nó tốt đến vậy.</value>
   </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS là một bản phân phối Linux tùy chỉnh dựa trên Ubuntu, mang đến trải nghiệm quen thuộc và dễ sử dụng cho bất kỳ ai chuyển sang sử dụng Linux.</value>
+  </data>
 
 </root>

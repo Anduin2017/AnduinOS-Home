@@ -375,5 +375,8 @@
   <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
     <value>...oldukça etkileyici. Windows&apos;tan geçiş yapmayı düşünen kullanıcılar için denediğim en kullanıcı dostu Linux dağıtımlarından biri olabilir. Tek bir kişi tarafından geliştirilmiş olmasına rağmen bu kadar iyi olması gerçekten şaşırtıcı.</value>
   </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS, Linux&apos;e geçen herkes için tanıdık ve kullanımı kolay bir deneyim sunan, Ubuntu tabanlı özel bir Linux dağıtımıdır.</value>
+  </data>
 
 </root>

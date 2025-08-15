@@ -60,5 +60,8 @@
   <data name="Service Status" xml:space="preserve">
     <value>Trạng thái dịch vụ</value>
   </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - một bản phân phối Linux tùy chỉnh dựa trên Ubuntu, mang đến trải nghiệm quen thuộc và dễ sử dụng cho bất kỳ ai chuyển sang sử dụng Linux.</value>
+  </data>
 
 </root>
