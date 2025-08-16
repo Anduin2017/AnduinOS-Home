@@ -1,9 +1,9 @@
 using System.Diagnostics.CodeAnalysis;
-using System.Text.Json;
 using Aiursoft.CSTools.Tools;
 using Anduin.AnduinOSHome.Models;
 using AngleSharp.Html.Dom;
 using Anduin.AnduinOSHome.Tests.Tools;
+using Newtonsoft.Json;
 using Microsoft.Extensions.Hosting;
 using static Aiursoft.WebTools.Extends;
 
@@ -88,7 +88,7 @@ public class BasicTests
         response.EnsureSuccessStatusCode(); // Status Code 200-299
         var json = await response.Content.ReadAsStringAsync();
 
-        var versions = JsonSerializer.Deserialize<List<VersionInfo>>(json);
+        var versions = JsonConvert.DeserializeObject<List<VersionInfo>>(json);
         if (versions == null)
         {
             Assert.Fail();
