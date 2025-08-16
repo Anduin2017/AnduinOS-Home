@@ -89,7 +89,12 @@ public class BasicTests
         var json = await response.Content.ReadAsStringAsync();
 
         var versions = JsonSerializer.Deserialize<List<VersionInfo>>(json);
-        Assert.IsTrue(versions?.Count > 0);
+        if (versions == null)
+        {
+            Assert.Fail();
+            return;
+        }
+        Assert.IsTrue(versions.Count > 0);
         Assert.AreEqual(versions.First().Version, "1.0");
         Assert.IsFalse(versions.First().IsVisible);
         Assert.IsFalse(versions.First().LargeCard);
