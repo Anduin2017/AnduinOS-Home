@@ -30,7 +30,7 @@ public class StartsWithAcceptLanguageProvider : RequestCultureProvider
                      where supported.StartsWith(pureLang, StringComparison.OrdinalIgnoreCase)
                      select new ProviderCultureResult(supported, supported))
             {
-                return Task.FromResult(result);
+                return Task.FromResult<ProviderCultureResult?>(result);
             }
         }
 
