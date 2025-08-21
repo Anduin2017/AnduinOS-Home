@@ -63,5 +63,8 @@
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - eine benutzerdefinierte, Ubuntu-basierte Linux-Distribution, die ein vertrautes und benutzerfreundliches Erlebnis für alle bietet, die zu Linux wechseln.</value>
   </data>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(von der Community betrieben)</value>
+  </data>
 
 </root>

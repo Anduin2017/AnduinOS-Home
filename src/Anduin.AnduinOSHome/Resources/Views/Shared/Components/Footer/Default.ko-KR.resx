@@ -63,5 +63,8 @@
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - 리눅스로 전환하는 모든 사용자에게 친숙하고 사용하기 쉬운 경험을 제공하는 Ubuntu 기반의 맞춤형 리눅스 배포판입니다.</value>
   </data>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(커뮤니티 운영)</value>
+  </data>
 
 </root>

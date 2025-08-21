@@ -66,5 +66,8 @@
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - 一款基于Ubuntu定制的Linux发行版，为转向Linux的用户提供熟悉且易用的体验。</value>
   </data>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>（由社区运营）</value>
+  </data>
 
 </root>
