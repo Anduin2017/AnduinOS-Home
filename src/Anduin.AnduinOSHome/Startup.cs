@@ -12,7 +12,6 @@ public class Startup : IWebStartup
         services.AddLibraryDependencies();
 
         services.Configure<List<VersionInfo>>(configuration.GetSection("Versions"));
-        services.AddLocalization(options => options.ResourcesPath = "Resources");
         services
             .AddControllersWithViews()
             .AddApplicationPart(typeof(Startup).Assembly)
