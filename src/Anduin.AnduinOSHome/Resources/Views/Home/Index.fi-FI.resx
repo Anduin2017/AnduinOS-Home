@@ -360,5 +360,11 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS on räätälöity Ubuntuun perustuva Linux-jakelu, joka tarjoaa tutun ja helppokäyttöisen kokemuksen kaikille Linuxiin siirtyville.</value>
   </data>
+  <data name="Using flatpak for graphical applications." xml:space="preserve">
+    <value>Graafisten sovellusten asentamiseen käytetään Flatpakia.</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Suositellaan käyttäjille, jotka tarvitsevat vakaan pitkäaikaistuen version ja käyttävät vanhempaa laitteistoa.</value>
+  </data>
 
 </root>

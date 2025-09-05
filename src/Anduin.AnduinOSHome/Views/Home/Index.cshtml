@@ -29,9 +29,7 @@
         .RequestCulture.Culture.Name.ToLower().Trim().Replace('-', '_');
 
     // Donate link.
-    var donateLink = currentCulture == "zh_cn" ?
-        "/img/pay_anduin.png" :
-        "https://www.paypal.com/paypalme/anduinxue2017";
+    var donateLink = currentCulture == "zh_cn" ? "/img/pay_anduin.png" : "https://www.paypal.com/paypalme/anduinxue2017";
 }
 
 @section scripts {
@@ -39,6 +37,10 @@
 }
 
 @* The following section is for localizer to auto localize. Not for actual rendering. *@
+@* <p> *@
+@*     @Localizer["Using flatpak for graphical applications."] *@
+@*     @Localizer["Recommended for users need a stable long-term version and on older hardware."] *@
+@* </p> *@
 @* <div style="display: none;"> *@
 @*     <p> *@
 @*         @Localizer["No telemetry at all! Choose <span class='text-primary'>AnduinOS</span> to regain your privacy"] *@
