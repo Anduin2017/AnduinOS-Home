@@ -21,6 +21,9 @@ public class UpgradeController(
             return NotFound();
         }
 
+        // Set client timeout to 15 seconds.
+        httpClient.Timeout = TimeSpan.FromSeconds(15);
+
         var upgradeContent = await cacheService.RunWithCache($"upgrade-content-{branch}", () =>
             retryEngine.RunWithRetry(async i => // i starts with 1.
             {
