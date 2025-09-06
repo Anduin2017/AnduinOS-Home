@@ -10,7 +10,9 @@ public class Startup : IWebStartup
     public void ConfigureServices(IConfiguration configuration, IWebHostEnvironment environment, IServiceCollection services)
     {
         services.AddLibraryDependencies();
+        services.AddHttpClient();
 
+        services.Configure<List<string>>(configuration.GetSection("UpgradeScriptEndpoints"));
         services.Configure<List<VersionInfo>>(configuration.GetSection("Versions"));
         services
             .AddControllersWithViews()
