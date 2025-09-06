@@ -34,8 +34,8 @@ public class UpgradeController(
                 var response = await httpClient.GetAsync(endpointToTry.Replace("{Branch}", branch));
                 response.EnsureSuccessStatusCode();
                 return await response.Content.ReadAsStringAsync();
-            })
-        );
+            }, attempts: 6)
+        , cachedMinutes: _ => TimeSpan.FromMinutes(10));
         return Content(upgradeContent, "application/json");
     }
 }
