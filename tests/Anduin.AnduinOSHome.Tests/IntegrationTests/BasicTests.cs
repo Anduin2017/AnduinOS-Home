@@ -105,4 +105,31 @@ public class BasicTests
         Assert.IsTrue(versions.Last().LargeCard);
         Assert.IsTrue(versions.Last().Recommended);
     }
+
+    [TestMethod]
+    [DataRow("1.3")]
+    [DataRow("1.2")]
+    [DataRow("1.1")]
+    [DataRow("1.0")]
+    public async Task GetUpgrade(string branch)
+    {
+        var response = await _http.GetAsync(_endpointUrl + "/upgrade/" + branch);
+        response.EnsureSuccessStatusCode(); // Status Code 200-299
+        var json = await response.Content.ReadAsStringAsync();
+        Assert.IsTrue(json.Contains(branch));
+    }
+
+    [TestMethod]
+    public async Task GetUpgradeNotFound()
+    {
+        var response = await _http.GetAsync(_endpointUrl + "/upgrade/1.33");
+        try
+        {
+            response.EnsureSuccessStatusCode(); // Status Code 200-299
+            Assert.Fail();
+        }
+        catch (HttpRequestException)
+        {
+        }
+    }
 }
