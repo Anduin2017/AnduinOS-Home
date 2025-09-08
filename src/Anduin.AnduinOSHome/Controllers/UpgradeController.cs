@@ -39,6 +39,7 @@ public class UpgradeController(
                 return await response.Content.ReadAsStringAsync();
             }, attempts: 6)
         , cachedMinutes: _ => TimeSpan.FromMinutes(10));
-        return Content(upgradeContent, "application/json");
+        // content type is bash.
+        return Content(upgradeContent, "application/x-sh");
     }
 }
