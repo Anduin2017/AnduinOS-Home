@@ -85,3 +85,67 @@ nav.navbar{
         transform: none !important;
     }
 }
+
+/*App Wall*/
+
+.app-wall-container {
+    position: relative;
+    height: 650px;
+    overflow: hidden;
+    background-color: #feffff;
+    border-radius: 1rem;
+}
+
+.app-wall-scroller {
+    display: flex;
+    flex-direction: column;
+    animation: scroll-vertical 60s linear infinite;
+}
+
+.app-wall-container:hover .app-wall-scroller {
+    animation-play-state: paused;
+}
+
+.app-wall-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+    gap: 1.3rem;
+    padding: 1.3rem;
+}
+
+.app-wall-grid img {
+    height: 72px;
+    width: 72px;
+    object-fit: contain;
+    opacity: 0.2;
+    transition: all 0.3s ease;
+}
+
+.app-wall-foreground {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    max-width: 960px;
+    z-index: 10;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 3rem;
+    border-radius: 1rem;
+    background-color: rgba(255, 255, 255, 0.3);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.1);
+}
+
+@keyframes scroll-vertical {
+     from {
+         transform: translateY(0);
+     }
+     to {
+         transform: translateY(-50%);
+     }
+ }

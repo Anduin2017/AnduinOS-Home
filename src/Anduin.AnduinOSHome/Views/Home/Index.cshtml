@@ -14,6 +14,48 @@
         "Transitioning to <span class='text-primary'>AnduinOS</span> will be the best decision you've ever made",
         "<span class='text-primary'>AnduinOS</span> 1.0 is released on 2024.09.01",
     };
+    var appWallIcons = new[]
+    {
+        "7zip.svg", "brave.svg", "chromium.svg", "firefox.svg", "google-chrome.svg",
+        "microsoft-edge.svg", "opera.svg", "vivaldi.svg", "waterfox.svg", "discord.svg",
+        "element-desktop.svg", "signal-desktop.svg", "skype.svg", "slack.svg", "telegram.svg",
+        "thunderbird.svg", "whatsapp.svg", "Zoom.svg", "dingtalk.svg", "anki.svg",
+        "calibre-gui.svg", "joplin.svg", "libreoffice.svg", "libreoffice-calc.svg",
+        "libreoffice-impress.svg", "libreoffice-writer.svg", "logseq.svg", "notion.svg",
+        "obsidian.svg", "okular.svg", "simplenote.svg", "todoist.svg", "typora.svg",
+        "wps-office-wpsmain.svg", "zotero.svg", "xmind.svg", "android-studio.svg", "atom.svg",
+        "clion.svg", "docker.svg", "git.svg", "github.svg", "gitkraken.svg", "goland.svg",
+        "insomnia.svg", "java.svg", "jupyter.svg", "neovim.svg", "postman.svg", "pycharm.svg",
+        "python.svg", "qtcreator.svg", "rider.svg", "rstudio.svg", "rubymine.svg",
+        "sublime-text.svg", "vim.svg", "visualstudiocode.svg", "webstorm.svg", "audacity.svg",
+        "blender.svg", "darktable.svg", "figma.svg", "gimp.svg", "inkscape.svg", "kdenlive.svg",
+        "kodi.svg", "musescore.svg", "obs.svg", "openshot.svg", "shotcut.svg",
+        "spotify-client.svg", "vlc.svg", "0ad.svg", "dolphin-emu.svg", "dosbox.svg",
+        "dota2.svg", "heroic.svg", "minecraft.svg",
+        "org.prismlauncher.PrismLauncher.svg", "retroarch.svg", "steam.svg", "yuzu.svg",
+        "alacritty.svg", "bleachbit.svg", "bitwarden.svg", "deja-dup.svg", "etcher.svg",
+        "file-roller.svg", "filezilla.svg", "flameshot.svg", "gparted.svg", "keepassxc.svg",
+        "qbittorrent.svg", "syncthing-gtk.svg", "transmission.svg", "veracrypt.svg",
+        "virtualbox.svg", "virt-manager.svg", "wireshark.svg", "wps-office-kingsoft.svg",
+        "qq.svg", "qqmusic.svg", "dropbox.svg", "anydesk.svg", "teamviewer.svg", "wechat.svg",
+        "baidunetdisk.svg", "remmina.svg", "idea.svg", "eclipse.svg", "freecad.svg", "godot.svg",
+        "calligrakrita.svg", "lmms.svg", "simplescreenrecorder.svg", "deluge.svg",
+        "timeshift.svg", "vmware-workstation.svg", "unetbootin.svg", "google-earth.svg",
+        "lastpass.svg", "ardour.svg", "audacious.svg", "baobab.svg", "bcompare.svg",
+        "caffeine.svg", "cheese.svg", "clementine.svg", "codeblocks.svg",
+        "datagrip.svg", "dbeaver.svg", "digikam.svg", "emacs.svg", "factorio.svg",
+        "flatseal.svg", "geany.svg", "gnome-boxes.svg", "gnucash-icon.svg", "hb-icon.svg",
+        "k3b.svg", "kicad.svg", "masterpdfeditor.svg", "meld.svg", "mpv.svg",
+        "mysql-workbench.svg", "pidgin.svg", "rhythmbox.svg",
+        "scribus.svg", "abiword.svg", "aegisub.svg", "amule.svg", "anbox.svg",
+        "arduino.svg", "barrier.svg", "bauh.svg", "bitwig-studio.svg", "clash-verge.svg",
+        "deadbeef.svg", "dia.svg", "draw-io.svg", "easytag.svg", "freetube.svg",
+        "fritzing.svg", "gns3.svg", "gpodder.svg", "gufw.svg", "jami.svg", "jellyfin.svg",
+        "krusader_user.svg", "librecad.svg", "liferea.svg", "localsend.svg", "mixxx.svg",
+        "pgadmin.svg", "qgis.svg", "scummvm.svg", "stacer.svg", "vscodium.svg"
+    };
+    var ran = new Random();
+    appWallIcons = appWallIcons.OrderBy(_ => ran.Next()).ToArray();
 
     // Select a random slogan
     var random = new Random().Next(0, slogans.Length);
@@ -338,8 +380,44 @@
     <img class="iglmodal-content" id="iglmodal-img" alt="Image preview" src="#"/>
 </div>
 
+@* App wall section *@
+<section class="bg-white">
+    <div class="container-fluid">
+        <div class="app-wall-container">
+            <div class="app-wall-foreground">
+                <div class="col-lg-10 col-xl-9 mx-auto">
+                    <div class="mb-4">
+                        <h2 class="h1 mb-3">@Localizer["A Universe of Applications at Your Fingertips."]</h2>
+                        <p class="text-muted fs-lg">
+                            @Localizer["Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away."]
+                            <a href="https://flathub.org/apps" target="_blank">@Localizer["Start exploring on Flathub now"]</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="app-wall-scroller">
+                <div class="app-wall-grid">
+                    @foreach (var icon in appWallIcons)
+                    {
+                        <img src="~/img/apps/@icon" alt="@icon.Replace(".svg", "")" loading="lazy"/>
+                    }
+                </div>
+
+                <div class="app-wall-grid" aria-hidden="true">
+                    @foreach (var icon in appWallIcons)
+                    {
+                        <img src="~/img/apps/@icon" alt="@icon.Replace(".svg", "")" loading="lazy"/>
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
 @* User reviews section *@
-<section class="py-6 bg-white">
+<section class="py-6">
     <div class="container-fluid">
         <div class="mb-5 text-center">
             <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Reviews"]</span>
@@ -495,7 +573,7 @@
 </section>
 
 @* Media reviews section *@
-<section class="py-6">
+<section class="py-6 bg-white">
     <div class="container">
         <div class="row text-start">
             <div class="col-12 col-md-3">
@@ -547,7 +625,7 @@
 </section>
 
 @* FAQ section *@
-<section class="py-5 bg-white">
+<section class="py-5">
     <div class="container">
         <div class="mb-5 text-center">
             <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["FAQ"]</span>

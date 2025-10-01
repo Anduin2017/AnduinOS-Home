@@ -372,5 +372,14 @@
   <data name="Join Stoat channel" xml:space="preserve">
     <value>Συμμετέχετε στο κανάλι Stoat</value>
   </data>
+  <data name="A Universe of Applications at Your Fingertips." xml:space="preserve">
+    <value>Ένας Σύμπαν Εφαρμογών στα Χέρια σας.</value>
+  </data>
+  <data name="Start exploring on Flathub now" xml:space="preserve">
+    <value>Ξεκινήστε την εξερεύνηση στο Flathub τώρα</value>
+  </data>
+  <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
+    <value>Τα περισσότερα από τα λογισμικά που χρησιμοποιείτε λειτουργούν άψογα στο AnduinOS, μαζί με χιλιάδες ισχυρές, δωρεάν και ανοιχτού κώδικα εναλλακτικές. Το AnduinOS παρέχει άμεση, ενσωματωμένη πρόσβαση στις τεράστιες βιβλιοθήκες του Flatpak και του Ubuntu, κάνοντας την ιδανική ροή εργασίας σας μόνο ένα κλικ μακριά.</value>
+  </data>
 
 </root>

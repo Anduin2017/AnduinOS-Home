@@ -372,5 +372,14 @@
   <data name="Stoat channel" xml:space="preserve">
     <value>saluran Stoat</value>
   </data>
+  <data name="A Universe of Applications at Your Fingertips." xml:space="preserve">
+    <value>Semesta Aplikasi di Ujung Jari Anda.</value>
+  </data>
+  <data name="Start exploring on Flathub now" xml:space="preserve">
+    <value>Mulai jelajahi di Flathub sekarang</value>
+  </data>
+  <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
+    <value>Sebagian besar perangkat lunak yang Anda andalkan berjalan sempurna di AnduinOS, bersama dengan ribuan alternatif yang kuat, gratis, dan sumber terbuka. AnduinOS menyediakan akses instan dan terintegrasi ke perpustakaan besar Flatpak dan Ubuntu, membuat alur kerja ideal Anda hanya sejauh satu klik.</value>
+  </data>
 
 </root>

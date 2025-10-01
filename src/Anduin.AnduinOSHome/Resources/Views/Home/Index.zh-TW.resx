@@ -387,5 +387,17 @@
   <data name="Stoat channel" xml:space="preserve">
     <value>Stoat 頻道</value>
   </data>
+  <data name="Start exploring on Flathub now" xml:space="preserve">
+    <value>立即開始在 Flathub 上探索</value>
+  </data>
+  <data name="A Universe of Applications at Your Fingertips." xml:space="preserve">
+    <value>觸手可及的應用程式宇宙。</value>
+  </data>
+  <data name="Most of the software you rely on is already here on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. With instant access to the massive libraries of Flatpak and Ubuntu, your perfect workflow is just a click away." xml:space="preserve">
+    <value>您所依賴的大多數軟體都已內建於 AnduinOS 中，同時還有數千種強大、免費且開源的替代方案。透過即時存取 Flatpak 與 Ubuntu 的龐大軟體庫，您理想的工作流程僅需點擊即可實現。</value>
+  </data>
+  <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
+    <value>您所依賴的大多數軟體都能在 AnduinOS 上完美運行，同時還有數千個強大、免費且開源的替代方案。AnduinOS 提供即時、整合的 Flatpak 與 Ubuntu 龐大程式庫存取，讓您理想的工作流程僅需點擊即可實現。</value>
+  </data>
 
 </root>
