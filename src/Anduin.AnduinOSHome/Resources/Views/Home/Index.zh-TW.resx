@@ -381,5 +381,11 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS 是一款基於 Ubuntu 的客製化 Linux 發行版，為轉換至 Linux 的使用者提供熟悉且易於上手的操作體驗。</value>
   </data>
+  <data name="Join Stoat channel" xml:space="preserve">
+    <value>加入 Stoat 頻道</value>
+  </data>
+  <data name="Stoat channel" xml:space="preserve">
+    <value>Stoat 頻道</value>
+  </data>
 
 </root>

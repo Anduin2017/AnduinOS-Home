@@ -366,5 +366,11 @@
   <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
     <value>Рекомендується для користувачів, яким потрібна стабільна довгострокова версія та які використовують старіше обладнання.</value>
   </data>
+  <data name="Stoat channel" xml:space="preserve">
+    <value>Канал Stoat</value>
+  </data>
+  <data name="Join Stoat channel" xml:space="preserve">
+    <value>Приєднатися до каналу Stoat</value>
+  </data>
 
 </root>

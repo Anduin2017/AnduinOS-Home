@@ -378,5 +378,11 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS é uma distribuição Linux personalizada baseada no Ubuntu que oferece uma experiência familiar e fácil de usar para quem está migrando para o Linux.</value>
   </data>
+  <data name="Stoat channel" xml:space="preserve">
+    <value>Canal do Stoat</value>
+  </data>
+  <data name="Join Stoat channel" xml:space="preserve">
+    <value>Entre no canal do Stoat</value>
+  </data>
 
 </root>
