@@ -360,7 +360,7 @@
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS adalah distribusi Linux berbasis Ubuntu yang menawarkan pengalaman familiar dan mudah digunakan bagi siapa pun yang beralih ke Linux.</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Menggunakan flatpak untuk aplikasi grafis.</value>
   </data>
   <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">

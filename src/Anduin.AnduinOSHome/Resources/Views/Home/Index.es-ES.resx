@@ -363,7 +363,7 @@
   <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
     <value>Para descargar AnduinOS, selecciona la edición correcta a continuación:</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Uso de Flatpak para aplicaciones gráficas.</value>
   </data>
   <data name="." xml:space="preserve">

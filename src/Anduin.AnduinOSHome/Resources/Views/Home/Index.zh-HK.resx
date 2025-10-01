@@ -366,7 +366,7 @@
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>將ISO燒錄到USB驅動器</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>使用 flatpak 安裝圖形應用程式。</value>
   </data>
   <data name="." xml:space="preserve">

@@ -366,7 +366,7 @@
   <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
     <value>Để tải xuống AnduinOS, vui lòng chọn phiên bản phù hợp bên dưới:</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Sử dụng flatpak cho các ứng dụng đồ họa.</value>
   </data>
   <data name="." xml:space="preserve">

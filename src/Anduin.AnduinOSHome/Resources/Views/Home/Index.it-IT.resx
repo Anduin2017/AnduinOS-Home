@@ -363,7 +363,7 @@
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>masterizzare l&apos;ISO su una chiavetta USB</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Utilizzo di Flatpak per le applicazioni grafiche.</value>
   </data>
   <data name="." xml:space="preserve">

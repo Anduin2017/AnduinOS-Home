@@ -366,7 +366,7 @@
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>ISOをUSBドライブに書き込む</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>グラフィカルアプリケーションにFlatpakを使用しています。</value>
   </data>
   <data name="." xml:space="preserve">

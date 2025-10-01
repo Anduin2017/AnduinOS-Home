@@ -366,7 +366,7 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>다운로드 후에는 다음 방법을 배우고 싶을 수 있습니다.</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>그래픽 애플리케이션에 Flatpak 사용.</value>
   </data>
   <data name="." xml:space="preserve">

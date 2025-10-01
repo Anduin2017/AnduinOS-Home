@@ -363,7 +363,7 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>หลังจากดาวน์โหลด คุณอาจต้องการเรียนรู้วิธี</value>
   </data>
-  <data name="Using flatpak for graphical applications." xml:space="preserve">
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>ใช้ Flatpak สำหรับแอปพลิเคชันแบบกราฟิก</value>
   </data>
   <data name="." xml:space="preserve">
