@@ -87,6 +87,35 @@ nav.navbar{
 }
 
 /*App Wall*/
+.app-icon-wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app-icon-wrapper::after {
+    content: attr(data-name);
+    position: absolute;
+    bottom: 100%;
+    margin-bottom: 8px;
+    background-color: #313539;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 6px 12px;
+    border-radius: 6px;
+    white-space: nowrap;
+    opacity: 0;
+    transform: translateY(5px);
+    pointer-events: none;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.app-icon-wrapper:hover::after {
+    opacity: .5;
+    transform: translateY(0);
+}
 
 .app-wall-container {
     position: relative;
