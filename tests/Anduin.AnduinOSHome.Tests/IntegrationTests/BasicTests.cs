@@ -100,10 +100,11 @@ public class BasicTests
         Assert.IsFalse(versions.First().LargeCard);
         Assert.IsFalse(versions.First().Recommended);
 
-        Assert.AreEqual(versions.Last().Version, "1.4");
-        Assert.IsTrue(versions.Last().IsVisible);
-        Assert.IsTrue(versions.Last().LargeCard);
-        Assert.IsTrue(versions.Last().Recommended);
+        var version1_3 = versions[3];
+        Assert.AreEqual(version1_3.Version, "1.3");
+        Assert.IsTrue(version1_3.IsVisible);
+        Assert.IsTrue(version1_3.LargeCard);
+        Assert.IsTrue(version1_3.Recommended);
     }
 
     [TestMethod]
