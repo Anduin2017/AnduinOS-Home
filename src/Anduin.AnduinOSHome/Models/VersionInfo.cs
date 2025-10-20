@@ -48,4 +48,7 @@ public class VersionInfo
 
     [JsonPropertyName("notRecommended")]
     public required bool NotRecommended { get; set; }
+
+    [JsonPropertyName("additionalLanguageSupport")]
+    public required string[]? AdditionalLanguageSupport { get; set; }
 }

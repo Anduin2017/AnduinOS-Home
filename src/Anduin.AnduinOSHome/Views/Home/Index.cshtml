@@ -411,8 +411,12 @@
                 <div class="row py-4">
                     @foreach (var version in visibleVersions)
                     {
-                        var sm = 12 / visibleVersions.Count();
-                        var divClass = $"col-sm-{sm}";
+                            var sm = 12 / visibleVersions.Count();
+                            var divClass = $"col-sm-{sm}";
+
+                            var additionalLangs = (version.AdditionalLanguageSupport != null && version.AdditionalLanguageSupport.Length > 0)
+                                ? string.Join(",", version.AdditionalLanguageSupport)
+                                : "";
                         <div class="@divClass mb-5 mb-md-0">
                             <div class="card text-center h-100 @(version.LargeCard ? "middle-card" : "")">
                                 <div class="card-body d-flex flex-column"
@@ -459,7 +463,8 @@
                                                 data-version="@version.Version"
                                                 data-latest="@version.Latest"
                                                 data-prefered-language="@currentCulture"
-                                                data-size="@version.Size">
+                                                data-size="@version.Size"
+                                                data-additional-langs="@additionalLangs">
                                             @Localizer["Download"]
                                         </button>
                                     </div>

@@ -1,7 +1,7 @@
 //=====================================
 //         The Download page
 //=====================================
-const languages = [
+const allLanguages = [
     {
         code: "en_US",
         name: "English (United States)",
@@ -149,6 +149,18 @@ const languages = [
         torrentLabel: "Torrent",
         directLabel: "Doğrudan İndirme (HTTP)",
     },
+    {
+        code: "ro_RO",
+        name: "Română",
+        checksumLabel: "Sumă de control",
+        torrentLabel: "Torrent",
+        directLabel: "Descărcare directă (HTTP)",
+    }
+];
+const defaultLanguageCodes = [
+    "en_US", "en_GB", "zh_CN", "zh_TW", "zh_HK", "ja_JP", "ko_KR", "vi_VN",
+    "th_TH", "de_DE", "fr_FR", "es_ES", "ru_RU", "it_IT", "pt_PT", "pt_BR",
+    "ar_SA", "nl_NL", "sv_SE", "pl_PL", "tr_TR"
 ];
 
 const languageSelect= document.getElementById('language-select');
@@ -163,37 +175,48 @@ downloadModalEl.addEventListener('show.bs.modal', event => {
     const size          = btn.dataset.size;
     const preferred = btn.dataset.preferedLanguage || '';
 
+    const additionalLangsRaw = btn.dataset.additionalLangs || '';
+    const additionalLangs = additionalLangsRaw.split(',').filter(Boolean); // e.g., ['ro_RO'] or []
+
     downloadModalDescription.textContent = `${downloadModalDescriptionText} (${size})`;
 
-    if (!languageSelect.options.length) {
-        languages.forEach(lang => {
-            const opt = document.createElement('option');
-            opt.value       = lang.code;
-            opt.textContent = lang.name;
-            languageSelect.appendChild(opt);
-        });
-    }
+    const allowedLanguageCodes = new Set([...defaultLanguageCodes, ...additionalLangs]);
+
+    const languagesToShow = allLanguages.filter(lang => allowedLanguageCodes.has(lang.code));
+
+    languageSelect.innerHTML = '';
+    languagesToShow.forEach(lang => {
+        const opt = document.createElement('option');
+        opt.value       = lang.code;
+        opt.textContent = lang.name;
+        languageSelect.appendChild(opt);
+    });
 
     const prefLower = preferred.toLowerCase();
-    const matches = languages
+    const matches = languagesToShow
         .map(lang => lang.code)
         .filter(code => code.toLowerCase().startsWith(prefLower))
         .sort((a, b) => b.length - a.length);
 
     languageSelect.value = matches.length
         ? matches[0]
-        : 'en_US';
+        : languagesToShow.length > 0 ? languagesToShow[0].code : 'en_US';
 
     languageSelect.onchange = () => {
         renderDownloadLinks({ version, latest }, languageSelect.value);
     };
 
-    const initialLang = languageSelect.value || languages[0].code;
+    const initialLang = languageSelect.value || (languagesToShow.length > 0 ? languagesToShow[0].code : 'en_US');
     renderDownloadLinks({ version, latest }, initialLang);
 });
 
 function renderDownloadLinks({ version, latest }, langCode) {
-    const lang = languages.find(l => l.code === langCode);
+    const lang = allLanguages.find(l => l.code === langCode);
+    if (!lang) {
+        console.error(`Language code ${langCode} not found in allLanguages array.`);
+        return;
+    }
+
     downloadLinksContainer.innerHTML = '';
 
     const base = `https://download.anduinos.com/${version}/${latest}/AnduinOS-${latest}-${lang.code}`;
