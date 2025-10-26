@@ -273,5 +273,83 @@
   <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
     <value>所有系統操作、配置及用戶活動均於您嘅裝置上本地執行（&quot;local execution&quot;）。</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS 更新服務</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>本地執行意味著 AnduinOS 的大多數功能和服務都在</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. 必要的網絡連接與第三方服務</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>此連接對於保持系統安全及更新至關重要。如同任何標準 HTTPS 連接，此過程將會向我們的伺服器暴露你的 IP 地址。</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>為檢查及下載系統更新，AnduinOS 會連接到我們的更新端點位於</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>，除下文詳述的特定、由用戶啟動的功能或必要服務外。</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>除非您明確操作或為必要功能，否則不會有任何數據離開您的電腦。</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>雖然 AnduinOS 設計以本地操作為先，但部分功能仍需網絡連接才能運作。這些連接並非用於遙測，但確實涉及與外部伺服器的通訊，這是該等服務運作無可避免的要求，並會暴露你的 IP 地址。</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS 包含「SimpleWeather」GNOME 擴充功能以提供當前天氣狀況。</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather 擴充功能</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>我哋嘅團隊已經審查過呢個擴充功能嘅源始碼</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>私隱聲明</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>並確認它不包含任何遙測功能。</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>我們無法控制……的私隱慣例</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>根據你的IP地址來確定你的位置。</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>然而，為咗正常運作，呢個擴充功能必須從第三方服務擷取位置同天氣資料。當中包括連接到</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. 上游軟件與私隱考量</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. 開源保障你的自由</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>或任何其使用嘅天氣數據供應商。連接至呢啲服務必然會將你嘅 IP 地址暴露俾佢哋。</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>當你嘅系統檢查軟件更新時（例如使用</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>這包括使用由第三方機構（例如大學及企業）營運的 Ubuntu 官方軟件儲存庫及鏡像站。</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>此外，部分上游組件可能設有獨立的數據收集機制。</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. 如何處理潛在的 Ubuntu 遙測數據</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>)，系統會連接到這些外部伺服器。此過程對系統安全至關重要，但會將你的 IP 地址暴露給你所連接的儲存庫鏡像站運營者。</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. 責任聲明</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. 聯絡資料</value>
+  </data>
 
 </root>

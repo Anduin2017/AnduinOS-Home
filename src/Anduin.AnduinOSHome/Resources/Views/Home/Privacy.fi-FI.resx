@@ -261,5 +261,83 @@
   <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
     <value>Jos sinulla on kysyttävää tästä tietosuojalausekkeesta tai AnduinOS:n tietosuojakäytännöistä, ota yhteyttä:</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS-päivityspalvelu</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Välttämättömät verkkoyhteydet &amp; kolmannen osapuolen palvelut</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Mikään data ei poistu laitteeltasi ilman nimenomaista toimintasi tai välttämättömän toiminnallisuuden vuoksi.</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, lukuun ottamatta alla tarkemmin kuvattuja tiettyjä käyttäjän aloittamia ominaisuuksia tai välttämättömiä palveluita.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather-laajennus</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Paikallinen suorittaminen tarkoittaa, että suurin osa AnduinOS:n ominaisuuksista ja palveluista toteutetaan</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Tarkistaakseen ja ladatakseen järjestelmäpäivityksiä, AnduinOS muodostaa yhteyden päivityspalvelimellemme osoitteessa</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Tietosuojalausunto</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Tämä yhteys on välttämätön järjestelmäsi turvallisuuden ja ajantasaisuuden ylläpitämiseksi. Kuten missä tahansa tavallisessa HTTPS-yhteydessä, tämä prosessi paljastaa IP-osoitteesi palvelimellemme.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Tiimimme on tarkistanut tämän laajennuksen lähdekoodin</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Vaikka AnduinOS on suunniteltu paikallisesti toimivaksi, tietyt ominaisuudet vaativat verkkoyhteyden toimiakseen. Nämä yhteydet eivät käytetä telemetriaan, mutta ne sisältävät kommunikaatiota ulkoisten palvelimien kanssa, mikä on väistämätön vaatimus näiden palveluiden toiminnalle ja paljastaa IP-osoitteesi.</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>ja vahvisti, että se ei sisällä mitään telemetriaa.</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS sisältää &apos;SimpleWeather&apos;-GNOME-laajennuksen, joka tarjoaa ajankohtaiset sääolotiedot.</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>määrittää sijaintisi IP-osoitteesi perusteella.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>Kuitenkin, toimiakseen laajennuksen on haettava sijainti- ja säädataa kolmansien osapuolten palveluista. Tämä sisältää yhteyden muodostamisen</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Emme voi valvoa tietosuojakäytäntöjä</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Avoin Lähdekoodi Takaa Vapautesi</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>tai sen sääpalveluntarjoajia, joita se käyttää. Näihin palveluihin yhteyden muodostaminen paljastaa IP-osoitteesi välttämättä heille.</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Ylävirtaisen ohjelmiston ja tietosuojaan liittyvät huomiot</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Kun järjestelmäsi tarkistaa ohjelmistopäivityksiä (esim. käyttämällä</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Tämä sisältää Ubuntun virallisten ohjelmistovarantojen ja peilipalvelimien käytön, joita ylläpitävät kolmannen osapuolen organisaatiot (kuten yliopistot ja yritykset).</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Vastuun Selvittäminen</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Lisäksi joillakin ylävirran komponenteilla voi olla itsenäisiä tietojenkeruumechanismeja.</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Yhteystiedot</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), se yhdistää näihin ulkoisiin palvelimiin. Tämä prosessi on välttämätön järjestelmän turvallisuuden kannalta, mutta paljastaa IP-osoitteesi käyttämäsi repository-mirrorin ylläpitäjille.</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Kuinka käsitellä mahdollista Ubuntun tietomittaukseen liittyvää toimintaa</value>
+  </data>
 
 </root>

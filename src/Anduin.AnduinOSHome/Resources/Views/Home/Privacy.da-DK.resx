@@ -261,5 +261,83 @@
   <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
     <value>Hvis du har spørgsmål vedrørende denne privatpolitik eller AnduinOS&apos;s privatlivspraksis, bedes du kontakte:</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS Opdateringstjeneste</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Ingen data forlader din maskine uden din eksplicitte handling eller for essentiel funktionalitet.</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Essentielle Netværksforbindelser og Tredjepartstjenester</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, med undtagelse af specifikke, brugerinitierede funktioner eller essentielle tjenester beskrevet nedenfor.</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>For at søge efter og downloade systemopdateringer, forbinder AnduinOS til vores opdateringsendepunkt på</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Denne forbindelse er essentiel for at holde dit system sikkert og opdateret. Som med enhver standard HTTPS-forbindelse vil denne proces eksponere din IP-adresse for vores server.</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Lokal udførelse betyder, at de fleste funktioner og tjenester i AnduinOS udføres</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather-udvidelsen</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS inkluderer &apos;SimpleWeather&apos; GNOME-udvidelsen for at give aktuelle vejrudsigter.</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>for at bestemme din placering baseret på din IP-adresse.</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>og bekræftede, at den ikke indeholder telemetri.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Vores team har gennemgået kildekoden til denne udvidelse</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>For at fungere, skal udvidelsen dog hente positions- og vejrdata fra tredjepartstjenester. Dette indebærer forbindelse til</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Opdateret sidst: 10. maj 2025</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Selvom AnduinOS er designet til lokal-først drift, kræver visse funktioner netværksadgang for at fungere. Disse forbindelser bruges ikke til telemetri, men de involverer kommunikation med eksterne servere, hvilket er et uundgåeligt krav for, at disse tjenester kan operere, og vil eksponere din IP-adresse.</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Vi kan ikke kontrollere privatlivspraksisser for</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Open Source garanterer din frihed</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Overstrømssoftware og privatlivsovervejelser</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>eller nogen vejrdataudbydere, den bruger. Forbindelse til disse tjenester vil nødvendigvis eksponere din IP-adresse over for dem.</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Håndtering af potentiel Ubuntu-telemetri</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Når dit system søger efter softwareopdateringer (f.eks. ved brug af</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Desuden kan nogle upstream-komponenter have uafhængige dataindsamlingsmekanismer.</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), opretter den forbindelse til disse eksterne servere. Denne proces er afgørende for systemsikkerheden, men vil eksponere din IP-adresse for operatørerne af den repository-spejl, du er forbundet til.</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Klargøring af ansvar</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Dette omfatter brugen af Ubuntus officielle software-arkiv og spejlsider, som drives af tredjepartsorganisationer (såsom universiteter og virksomheder).</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Kontaktoplysninger</value>
+  </data>
 
 </root>

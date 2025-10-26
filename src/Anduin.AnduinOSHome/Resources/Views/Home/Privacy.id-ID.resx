@@ -261,5 +261,83 @@
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>Diskusi GitHub AnduinOS</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>Layanan Pembaruan AnduinOS</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Eksekusi lokal berarti sebagian besar fitur dan layanan AnduinOS dilakukan</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Koneksi Jaringan Esensial &amp; Layanan Pihak Ketiga</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Untuk memeriksa dan mengunduh pembaruan sistem, AnduinOS terhubung ke titik akhir pembaruan kami di</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Tidak ada data yang meninggalkan mesin Anda tanpa tindakan eksplisit dari Anda atau untuk fungsionalitas penting.</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Koneksi ini penting untuk menjaga sistem Anda tetap aman dan terkini. Seperti halnya koneksi HTTPS standar lainnya, proses ini akan memaparkan alamat IP Anda ke server kami.</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, dengan pengecualian fitur spesifik yang diinisiasi pengguna atau layanan penting yang dijelaskan di bawah ini.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>Ekstensi SimpleWeather</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Tim kami telah meninjau kode sumber ekstensi ini</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Pernyataan Privasi</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>dan mengonfirmasi bahwa ekstensi ini tidak mengandung telemetri.</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS menyertakan ekstensi GNOME &apos;SimpleWeather&apos; untuk menyediakan kondisi cuaca terkini.</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>untuk menentukan lokasi Anda berdasarkan alamat IP Anda.</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Meskipun AnduinOS dirancang untuk operasi yang mengutamakan lokal, fitur-fitur tertentu memerlukan akses jaringan untuk berfungsi. Koneksi ini tidak digunakan untuk telemetri, tetapi melibatkan komunikasi dengan server eksternal, yang merupakan persyaratan yang tidak dapat dihindari agar layanan-layanan ini dapat beroperasi dan akan memaparkan alamat IP Anda.</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Kami tidak dapat mengontrol praktik privasi dari</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>Namun, untuk berfungsi, ekstensi ini harus mengambil data lokasi dan cuaca dari layanan pihak ketiga. Hal ini termasuk menghubungkan ke</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Sumber Terbuka Menjamin Kebebasan Anda</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>atau penyedia data cuaca apa pun yang digunakannya. Terhubung ke layanan-layanan ini akan secara otomatis memaparkan alamat IP Anda kepada mereka.</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Ketika sistem Anda memeriksa pembaruan perangkat lunak (misalnya, menggunakan</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Selain itu, beberapa komponen hulu mungkin memiliki mekanisme pengumpulan data yang independen.</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Perangkat Lunak Hulu dan Pertimbangan Privasi</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Cara Menangani Telemetri Ubuntu yang Berpotensi</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Hal ini mencakup penggunaan repositori perangkat lunak resmi dan mirror Ubuntu, yang dioperasikan oleh organisasi pihak ketiga (seperti universitas dan perusahaan).</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), sistem akan terhubung ke server-server eksternal ini. Proses ini penting untuk keamanan sistem tetapi akan memaparkan alamat IP Anda kepada operator cermin repositori yang Anda hubungi.</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Klarifikasi Tanggung Jawab</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Informasi Kontak</value>
+  </data>
 
 </root>

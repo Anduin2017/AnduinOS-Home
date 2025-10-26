@@ -270,5 +270,83 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>안두인OS 업데이트 서비스</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. 필수 네트워크 연결 및 타사 서비스</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>로컬 실행은 AnduinOS의 대부분의 기능과 서비스가 수행됨을 의미합니다</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, 아래에 상세히 설명된 특정 사용자 개시 기능 또는 필수 서비스를 제외하고.</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>시스템 업데이트를 확인하고 다운로드하기 위해, AnduinOS는 당사의 업데이트 엔드포인트에 연결됩니다.</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>사용자의 명시적인 조치 없이 또는 필수 기능을 위해 사용자의 데이터가 기기를 벗어나지 않습니다.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather 확장 프로그램</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>이 연결은 시스템을 안전하게 유지하고 최신 상태로 업데이트하는 데 필수적입니다. 모든 표준 HTTPS 연결과 마찬가지로, 이 과정에서 귀하의 IP 주소가 당사 서버에 노출됩니다.</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS는 현재 날씨 정보를 제공하기 위해 &apos;SimpleWeather&apos; GNOME 확장 기능을 포함합니다.</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>개인정보 처리방침</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>저희 팀은 이 확장 기능의 소스 코드를 검토했습니다</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>텔레메트리가 포함되어 있지 않음을 확인했습니다.</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>AnduinOS는 로컬 퍼스트(local-first) 운영을 위해 설계되었지만, 특정 기능들은 정상적으로 작동하기 위해 네트워크 접속이 필요합니다. 이러한 연결은 원격 측정(telemetry)에 사용되지 않지만, 외부 서버와의 통신을 수반하며, 이는 해당 서비스들이 운영되기 위해 피할 수 없는 요구사항이고 귀하의 IP 주소를 노출시킬 것입니다.</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>귀하의 IP 주소를 기반으로 위치를 확인하기 위해</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>그러나 해당 확장 기능이 작동하려면 제3자 서비스에서 위치 및 날씨 데이터를 검색해야 합니다. 여기에는 다음에 연결하는 것이 포함됩니다.</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. 업스트림 소프트웨어 및 개인정보 보호 고려사항</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. 오픈 소스가 보장하는 자유</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>해당 서비스들의 개인정보 처리 방침은 저희가 통제할 수 없습니다.</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>여기에는 Ubuntu의 공식 소프트웨어 저장소 및 미러 사용이 포함되며, 이들은 대학 및 기업과 같은 제3자 조직에서 운영합니다.</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>시스템이 소프트웨어 업데이트를 확인할 때(예:</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>또는 이 서비스가 사용하는 기상 데이터 제공업체의 개인정보 보호 관행도 통제할 수 없습니다. 이러한 서비스에 연결하면 필연적으로 귀하의 IP 주소가 해당 업체에 노출됩니다.</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. 잠재적인 Ubuntu 원격 측정 처리 방법</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. 책임 소재 명확화</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>또한 일부 상류 구성 요소에는 독립적인 데이터 수집 메커니즘이 있을 수 있습니다.</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. 연락처 정보</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), 이 외부 서버에 연결됩니다. 이 과정은 시스템 보안에 필수적이지만, 귀하의 IP 주소가 연결된 저장소 미러 운영자에게 노출될 수 있습니다.</value>
+  </data>
 
 </root>

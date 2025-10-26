@@ -261,5 +261,83 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>، باستثناء الميزات المحددة التي يبدأها المستخدم أو الخدمات الأساسية الموضحة أدناه.</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>٣. الاتصالات الشبكية الأساسية والخدمات الخارجية</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>خدمة تحديث AnduinOS</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>للتحقق من تحديثات النظام وتنزيلها، يتصل AnduinOS بنقطة النهاية للتحديثات الخاصة بنا على</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>لا تترك أي بيانات جهازك دون إجراء صريح منك أو للوظائف الأساسية.</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>يعني التنفيذ المحلي أن معظم ميزات وخدمات AnduinOS تُنفَّذ</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>امتداد SimpleWeather</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>هذا الاتصال أساسي للحفاظ على نظامك آمنًا ومُحدَّثًا. كما هو الحال مع أي اتصال HTTPS قياسي، ستكشف هذه العملية عنوان IP الخاص بك لخادمنا.</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>على الرغم من أن AnduinOS مصمم للعمل المحلي أولاً، إلا أن بعض الميزات تتطلب الوصول إلى الشبكة لتعمل. هذه الاتصالات لا تُستخدم لجمع البيانات عن بُعد، لكنها تتضمن التواصل مع خوادم خارجية، وهو متطلب لا مفر منه لتشغيل هذه الخدمات وسيكشف عن عنوان IP الخاص بك.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>لقد راجع فريقنا الكود المصدري لهذا الامتداد</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>بيان الخصوصية</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>وتأكدنا من أنها لا تحتوي على أيّ تتبع.</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>يتضمن AnduinOS إضافة GNOME المسماة &apos;SimpleWeather&apos; لتوفير أحوال الطقس الحالية.</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. البرامج الأم واعتبارات الخصوصية</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>لتحديد موقعك بناءً على عنوان IP الخاص بك.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>ومع ذلك، لكي تعمل، يجب على الامتداد استرداد بيانات الموقع والطقس من خدمات الطرف الثالث. وهذا يشمل الاتصال بـ</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>لا يمكننا التحكم في ممارسات الخصوصية الخاصة بـ</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. المصادر المفتوحة تضمن حريتك</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>أو أي مزودي بيانات الطقس الذي يستخدمه. الاتصال بهذه الخدمات سيعرض عنوان IP الخاص بك لهم بالضرورة.</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>يشمل ذلك استخدام مستودعات برامج Ubuntu الرسمية ومراياها، التي تُدار من قبل مؤسسات خارجية (مثل الجامعات والشركات).</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. كيفية التعامل مع إمكانية جمع بيانات Ubuntu</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>عندما يتحقق نظامك من وجود تحديثات للبرامج (مثل استخدام</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. توضيح المسؤولية</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. معلومات الاتصال</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>)، فإنه يتصل بهذه الخوادم الخارجية. هذه العملية ضرورية لأمن النظام ولكنها ستعرض عنوان IP الخاص بك لمشغلي مرآة المستودع المتصلين بها.</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>إضافة إلى ذلك، قد تمتلك بعض المكونات الأم آليات مستقلة لجمع البيانات.</value>
+  </data>
 
 </root>

@@ -261,5 +261,83 @@
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>AnduinOS GitHub चर्चाएँ</value>
   </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. आवश्यक नेटवर्क कनेक्शन और तृतीय-पक्ष सेवाएँ</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS अपडेट सेवा</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>स्थानीय निष्पादन का अर्थ है कि AnduinOS की अधिकांश सुविधाएँ और सेवाएँ संचालित की जाती हैं</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>सिस्टम अपडेट की जांच करने और उन्हें डाउनलोड करने के लिए, AnduinOS हमारे अपडेट एंडपॉइंट से जुड़ता है</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, नीचे दिए गए विशिष्ट, उपयोगकर्ता-प्रारंभित सुविधाओं या आवश्यक सेवाओं को छोड़कर।</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>आपकी स्पष्ट कार्रवाई या आवश्यक कार्यक्षमता के बिना आपके मशीन से कोई डेटा बाहर नहीं जाता है।</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>सरलमौसम एक्सटेंशन</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>गोपनीयता विवरण</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>यह कनेक्शन आपके सिस्टम को सुरक्षित और अद्यतित रखने के लिए आवश्यक है। किसी भी मानक HTTPS कनेक्शन की तरह, इस प्रक्रिया में आपका IP पता हमारे सर्वर के सामने प्रकट हो जाएगा।</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>हमारी टीम ने इस एक्सटेंशन के सोर्स कोड की समीक्षा की है</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>और पुष्टि की कि इसमें कोई टेलीमेट्री नहीं है।</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS वर्तमान मौसम की स्थिति प्रदान करने के लिए &apos;SimpleWeather&apos; GNOME एक्सटेंशन शामिल करता है।</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>आपके आईपी पते के आधार पर आपका स्थान निर्धारित करने के लिए।</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>हम की गोपनीयता प्रथाओं पर नियंत्रण नहीं रख सकते</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. ओपन सोर्स आपकी स्वतंत्रता की गारंटी है</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>हालाँकि, कार्य करने के लिए, एक्सटेंशन को तृतीय-पक्ष सेवाओं से स्थान और मौसम डेटा प्राप्त करना होगा। इसमें निम्नलिखित से कनेक्ट करना शामिल है</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>हालांकि AnduinOS को लोकल-फर्स्ट ऑपरेशन के लिए डिज़ाइन किया गया है, लेकिन कुछ विशेषताओं को कार्य करने के लिए नेटवर्क एक्सेस की आवश्यकता होती है। ये कनेक्शन टेलीमेट्री के लिए उपयोग नहीं किए जाते हैं, लेकिन इनमें बाहरी सर्वरों के साथ संचार शामिल होता है, जो इन सेवाओं के संचालन के लिए एक अनिवार्य आवश्यकता है और यह आपके IP पते को उजागर करेगा।</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. अपस्ट्रीम सॉफ़्टवेयर और गोपनीयता संबंधी विचार</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>जब आपका सिस्टम सॉफ़्टवेयर अपडेट के लिए जाँच करता है (उदाहरण के लिए,</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. जिम्मेदारी स्पष्टीकरण</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>या उसके द्वारा उपयोग किए जाने वाले किसी भी मौसम डेटा प्रदाता। इन सेवाओं से कनेक्ट होने पर आपका आईपी पता उन्हें अवश्य ही प्रकट हो जाएगा।</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. संभावित Ubuntu टेलीमेट्री को कैसे संभालें</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. संपर्क जानकारी</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>इसके अतिरिक्त, कुछ अपस्ट्रीम घटकों के पास स्वतंत्र डेटा संग्रहण तंत्र हो सकते हैं।</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), यह इन बाहरी सर्वरों से जुड़ता है। यह प्रक्रिया सिस्टम सुरक्षा के लिए आवश्यक है, लेकिन इससे आपका आईपी पता उस रिपॉजिटरी मिरर के ऑपरेटर्स को प्रकट हो जाएगा जिससे आप जुड़े हैं।</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>इसमें Ubuntu की आधिकारिक सॉफ़्टवेयर रिपॉजिटरीज़ और मिरर का उपयोग शामिल है, जिन्हें तृतीय-पक्ष संगठनों (जैसे विश्वविद्यालयों और निगमों) द्वारा संचालित किया जाता है।</value>
+  </data>
 
 </root>

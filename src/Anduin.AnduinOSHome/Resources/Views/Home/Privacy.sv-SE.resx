@@ -261,5 +261,83 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS uppdateringstjänst</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Inga data lämnar din maskin utan din explicita åtgärd eller för essentiell funktionalitet.</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, med undantag för specifika, användarinitierade funktioner eller väsentliga tjänster som beskrivs nedan.</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Nödvändiga nätverksanslutningar och tjänster från tredje part</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Lokal exekvering innebär att de flesta funktioner och tjänster i AnduinOS utförs</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>För att söka efter och ladda ner systemuppdateringar ansluter AnduinOS till vår uppdateringsändpunkt på</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Denna anslutning är avgörande för att hålla ditt system säkert och uppdaterat. Precis som med vilken standard HTTPS-anslutning som helst kommer denna process att exponera din IP-adress för vår server.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather-tillägget</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Integritetspolicy</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>och bekräftade att den inte innehåller någon telemetri.</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Även om AnduinOS är utformat för lokalförsta drift kräver vissa funktioner nätverksåtkomst för att fungera. Dessa anslutningar används inte för telemetri, men de innebär kommunikation med externa servrar, vilket är ett oundvikligt krav för att dessa tjänster ska kunna fungera och kommer att exponera din IP-adress.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Vårt team har granskat källkoden för detta tillägg</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS inkluderar tillägget &quot;SimpleWeather&quot; för GNOME för att tillhandahålla aktuella väderförhållanden.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>För att fungera måste dock tillägget hämta plats- och väderdata från tredjepartstjänster. Detta innebär anslutning till</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>för att bestämma din plats baserat på din IP-adress.</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Vi kan inte kontrollera integritetspraxis för</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Öppen källkod garanterar din frihet</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Uppströmsprogramvara och integritetshänsyn</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>När ditt system söker efter programuppdateringar (t.ex. med</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>eller några väderdataleverantörer som den använder. Anslutning till dessa tjänster kommer nödvändigtvis att exponera din IP-adress för dem.</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Hantering av potentiell Ubuntu-telemetri</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Detta inkluderar användningen av Ubuntus officiella programvarudatabaser och speglar, som drivs av tredjepartsorganisationer (såsom universitet och företag).</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Kontaktinformation</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Dessutom kan vissa överordnade komponenter ha oberoende datainsamlingsmekanismer.</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Klargörande av ansvar</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), ansluter den till dessa externa servrar. Denna process är avgörande för systemsäkerheten men kommer att exponera din IP-adress för operatörerna av den förvarosspegel du är ansluten till.</value>
+  </data>
 
 </root>

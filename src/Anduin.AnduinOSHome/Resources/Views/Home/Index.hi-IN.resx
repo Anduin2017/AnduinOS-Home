@@ -381,5 +381,8 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>आप जिन अधिकांश सॉफ़्टवेयर पर निर्भर हैं, वे AnduinOS पर बिल्कुल सही चलते हैं, साथ ही हज़ारों शक्तिशाली, मुफ़्त और ओपन-सोर्स विकल्प भी उपलब्ध हैं। AnduinOS, Flatpak और Ubuntu के विशाल पुस्तकालयों तक तत्काल, एकीकृत पहुंच प्रदान करता है, जिससे आपका आदर्श वर्कफ़्लो बस एक क्लिक दूर है।</value>
   </data>
+  <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>कोई टेलीमेट्री एकीकृत नहीं! अपनी गोपनीयता पुनः प्राप्त करने के लिए &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; चुनें</value>
+  </data>
 
 </root>

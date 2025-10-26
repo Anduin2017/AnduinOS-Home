@@ -261,5 +261,83 @@
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Execução local significa que a maioria dos recursos e serviços do AnduinOS são executados</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Conexões de Rede Essenciais e Serviços de Terceiros</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Nenhum dado deixa sua máquina sem sua ação explícita ou para funcionalidades essenciais.</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>Serviço de Atualização do AnduinOS</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, com exceção de funcionalidades específicas iniciadas pelo usuário ou serviços essenciais detalhados abaixo.</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Esta conexão é essencial para manter seu sistema seguro e atualizado. Como em qualquer conexão HTTPS padrão, este processo exporá seu endereço IP ao nosso servidor.</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Para verificar e baixar atualizações do sistema, o AnduinOS conecta-se ao nosso endpoint de atualização em</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>Extensão SimpleWeather</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Embora o AnduinOS seja projetado para operação local-first, certos recursos exigem acesso à rede para funcionar. Essas conexões não são usadas para telemetria, mas envolvem comunicação com servidores externos, o que é um requisito inevitável para que esses serviços operem e irá expor seu endereço IP.</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>O AnduinOS inclui a extensão do GNOME &apos;SimpleWeather&apos; para fornecer as condições climáticas atuais.</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>e confirmamos que ele não contém telemetria.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Nossa equipe revisou o código-fonte desta extensão</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Declaração de Privacidade</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>para determinar sua localização com base no seu endereço IP.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>No entanto, para funcionar, a extensão deve recuperar dados de localização e clima de serviços de terceiros. Isso inclui conectar-se a</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Não podemos controlar as práticas de privacidade de</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Software de Terceiros e Considerações de Privacidade</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. O Código Aberto Garante a Sua Liberdade</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Quando seu sistema verifica se há atualizações de software (por exemplo, usando</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Isso inclui o uso dos repositórios e mirrors oficiais de software do Ubuntu, que são operados por organizações de terceiros (como universidades e corporações).</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>ou de qualquer provedor de dados meteorológicos que ele utilize. Conectar-se a esses serviços necessariamente exporá seu endereço IP a eles.</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), ele se conecta a esses servidores externos. Este processo é essencial para a segurança do sistema, mas exporá seu endereço IP aos operadores do espelho de repositório ao qual você está conectado.</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Esclarecimento de Responsabilidades</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Como Lidar com a Possível Telemetria do Ubuntu</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Além disso, alguns componentes de upstream podem ter mecanismos independentes de coleta de dados.</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Informações de Contato</value>
+  </data>
 
 </root>

@@ -270,5 +270,83 @@
   <data name="Email:" xml:space="preserve">
     <value>Email:</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>Dịch vụ Cập nhật AnduinOS</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Kết Nối Mạng Thiết Yếu &amp; Dịch Vụ Bên Thứ Ba</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Không có dữ liệu nào rời khỏi máy của bạn nếu không có hành động rõ ràng từ bạn hoặc vì chức năng thiết yếu.</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Thực thi cục bộ có nghĩa là hầu hết các tính năng và dịch vụ của AnduinOS được thực hiện</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Để kiểm tra và tải xuống các bản cập nhật hệ thống, AnduinOS kết nối đến điểm cuối cập nhật của chúng tôi tại</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, ngoại trừ các tính năng cụ thể do người dùng khởi xướng hoặc các dịch vụ thiết yếu được nêu chi tiết bên dưới.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>Tiện ích SimpleWeather</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Kết nối này là cần thiết để giữ cho hệ thống của bạn được bảo mật và cập nhật. Giống như bất kỳ kết nối HTTPS tiêu chuẩn nào, quá trình này sẽ để lộ địa chỉ IP của bạn cho máy chủ của chúng tôi.</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Tuyên bố Bảo mật</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS bao gồm tiện ích mở rộng GNOME &apos;SimpleWeather&apos; để cung cấp thông tin thời tiết hiện tại.</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>và xác nhận rằng nó không chứa bất kỳ thu thập dữ liệu nào.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Đội ngũ của chúng tôi đã xem xét mã nguồn của tiện ích mở rộng này</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>để xác định vị trí của bạn dựa trên địa chỉ IP của bạn.</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Mặc dù AnduinOS được thiết kế để hoạt động theo hướng ưu tiên cục bộ, một số tính năng nhất định vẫn cần truy cập mạng để hoạt động. Các kết nối này không được sử dụng cho việc thu thập dữ liệu từ xa, nhưng chúng có liên quan đến việc giao tiếp với các máy chủ bên ngoài, đây là một yêu cầu không thể tránh khỏi để các dịch vụ này vận hành và sẽ tiết lộ địa chỉ IP của bạn.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>Tuy nhiên, để hoạt động, tiện ích mở rộng phải truy xuất dữ liệu vị trí và thời tiết từ các dịch vụ của bên thứ ba. Điều này bao gồm việc kết nối đến</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Chúng tôi không thể kiểm soát các hoạt động bảo mật của</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Mã Nguồn Mở Đảm Bảo Quyền Tự Do Của Bạn</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Phần Mềm Thượng Nguồn và Các Vấn Đề Về Quyền Riêng Tư</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>hoặc bất kỳ nhà cung cấp dữ liệu thời tiết nào mà nó sử dụng. Việc kết nối với các dịch vụ này chắc chắn sẽ để lộ địa chỉ IP của bạn cho họ.</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Khi hệ thống của bạn kiểm tra các bản cập nhật phần mềm (ví dụ: sử dụng</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Ngoài ra, một số thành phần upstream có thể có cơ chế thu thập dữ liệu độc lập.</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Điều này bao gồm việc sử dụng các kho phần mềm chính thức và gương phản chiếu của Ubuntu, vốn được vận hành bởi các tổ chức bên thứ ba (như trường đại học và tập đoàn).</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Cách Xử Lý Tính Năng Thu Thập Dữ Liệu Tiềm Ẩn Từ Ubuntu</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Thông Tin Liên Hệ</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), nó sẽ kết nối đến các máy chủ bên ngoài này. Quá trình này rất cần thiết cho bảo mật hệ thống nhưng sẽ để lộ địa chỉ IP của bạn cho các nhà điều hành của gương kho lưu trữ mà bạn đang kết nối đến.</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Làm Rõ Trách Nhiệm</value>
+  </data>
 
 </root>

@@ -261,5 +261,83 @@
   <data name="Control:" xml:space="preserve">
     <value>Control:</value>
   </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, a excepción de funciones específicas iniciadas por el usuario o servicios esenciales detallados a continuación.</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>Servicio de Actualización de AnduinOS</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Conexiones de Red Esenciales y Servicios de Terceros</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>La ejecución local significa que la mayoría de las funciones y servicios de AnduinOS se realizan</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Ningún dato abandona su máquina sin su acción explícita o para funcionalidad esencial.</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Esta conexión es esencial para mantener su sistema seguro y actualizado. Como con cualquier conexión HTTPS estándar, este proceso expondrá su dirección IP a nuestro servidor.</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Para comprobar y descargar actualizaciones del sistema, AnduinOS se conecta a nuestro punto de enlace de actualización en</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Declaración de Privacidad</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS incluye la extensión de GNOME &apos;SimpleWeather&apos; para proporcionar las condiciones meteorológicas actuales.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>Extensión SimpleWeather</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Nuestro equipo ha revisado el código fuente de esta extensión</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Aunque AnduinOS está diseñado para operar con prioridad local, ciertas funciones requieren acceso a la red para funcionar. Estas conexiones no se utilizan para telemetría, pero implican comunicación con servidores externos, lo cual es un requisito inevitable para que estos servicios operen y expondrá su dirección IP.</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>y confirmamos que no contiene telemetría.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>Sin embargo, para funcionar, la extensión debe obtener datos de ubicación y meteorológicos de servicios de terceros. Esto incluye conectarse a</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. El Código Abierto Garantiza Tu Libertad</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>No podemos controlar las prácticas de privacidad de</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>para determinar su ubicación basándose en su dirección IP.</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>ni de ninguno de los proveedores de datos meteorológicos que este utilice. La conexión a estos servicios necesariamente expondrá tu dirección IP a ellos.</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Software de Origen y Consideraciones de Privacidad</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Esto incluye el uso de los repositorios de software oficiales y los mirrors de Ubuntu, los cuales son operados por organizaciones de terceros (como universidades y corporaciones).</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Cuando tu sistema comprueba si hay actualizaciones de software (por ejemplo, usando</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Aclaración de Responsabilidades</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Además, algunos componentes ascendentes pueden tener mecanismos de recopilación de datos independientes.</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Cómo Gestionar la Posible Telemetría de Ubuntu</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Información de Contacto</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), se conecta a estos servidores externos. Este proceso es esencial para la seguridad del sistema, pero expondrá su dirección IP a los operadores del espejo del repositorio al que esté conectado.</value>
+  </data>
 
 </root>

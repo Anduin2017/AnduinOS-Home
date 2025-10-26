@@ -261,5 +261,83 @@
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>AnduinOS GitHub Discussions</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS Update Service</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Local execution means that most features and services of AnduinOS are performed</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Essential Network Connections &amp; Third-Party Services</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>To check for and download system updates, AnduinOS connects to our update endpoint at</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>No data leaves your machine without your explicit action or for essential functionality.</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, with the exception of specific, user-initiated features or essential services detailed below.</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server.</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Privacy Statement</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather Extension</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>and confirmed it contains no telemetry.</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Whilst AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Our team has reviewed the source code of this extension</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions.</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>to determine your location based on your IP address.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Open Source Guarantees Your Freedom</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>We cannot control the privacy practices of</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Upstream Software and Privacy Considerations</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them.</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>When your system checks for software updates (for example, using</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. How to Handle Potential Ubuntu Telemetry</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Furthermore, some upstream components may have independent data collection mechanisms.</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organisations (such as universities and corporations).</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to.</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Contact Information</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Clarification of Responsibility</value>
+  </data>
 
 </root>

@@ -270,5 +270,83 @@
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>AnduinOS GitHub Discussions</value>
   </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS アップデートサービス</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>ローカル実行とは、AnduinOSのほとんどの機能とサービスが実行されることを意味します</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>、以下で詳細を説明する特定のユーザー主導の機能または必須サービスを除きます。</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. 必須のネットワーク接続とサードパーティサービス</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>ユーザーの明示的な操作、または必須機能のための場合を除き、お使いのマシンからデータが外部に送信されることはありません。</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>システム更新を確認およびダウンロードするために、AnduinOSは当社のアップデートエンドポイントに接続します。</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>この接続は、システムを安全かつ最新の状態に保つために不可欠です。標準的なHTTPS接続と同様に、このプロセスによりお客様のIPアドレスが当社サーバーに公開されます。</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>プライバシーステートメント</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOSには現在の気象状況を提供するために「SimpleWeather」GNOME拡張機能が含まれています。</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather 拡張機能</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>当チームはこの拡張機能のソースコードを確認しました</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>また、テレメトリーが含まれていないことを確認しました。</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>AnduinOSはローカルファーストの動作を目指して設計されていますが、特定の機能は動作にネットワークアクセスを必要とします。これらの接続はテレメトリーには使用されませんが、外部サーバーとの通信を伴います。これはこれらのサービスが動作するための不可欠な要件であり、あなたのIPアドレスが公開されることになります。</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>あなたのIPアドレスに基づいて位置情報を特定するため。</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>ただし、この拡張機能が動作するためには、位置情報と天気データをサードパーティサービスから取得する必要があります。これには以下のサイトへの接続が含まれます。</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. オープンソースが保証するあなたの自由</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>またはそれが利用する気象データプロバイダー。これらのサービスに接続すると、必然的にあなたのIPアドレスがそれらに公開されます。</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>当社は、～のプライバシー慣行を制御することはできません</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. 上流ソフトウェアとプライバシーに関する考慮事項</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>システムがソフトウェア更新を確認する際（例：</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>これには、Ubuntuの公式ソフトウェアリポジトリおよびミラー（大学や企業などの第三者の組織によって運営されているもの）の使用が含まれます。</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>)、システムはこれらの外部サーバーに接続します。このプロセスはシステムセキュリティに不可欠ですが、接続先のリポジトリミラーの管理者にあなたのIPアドレスが開示されます。</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>さらに、一部の上流コンポーネントには、独立したデータ収集メカニズムが含まれている可能性があります。</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. お問い合わせ</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. 責任の明確化</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Ubuntu テレメトリーの取り扱い方法</value>
+  </data>
 
 </root>
