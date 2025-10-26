@@ -7,6 +7,8 @@ using Newtonsoft.Json;
 using Microsoft.Extensions.Hosting;
 using static Aiursoft.WebTools.Extends;
 
+[assembly:DoNotParallelize]
+
 namespace Anduin.AnduinOSHome.Tests.IntegrationTests;
 
 [TestClass]
@@ -94,14 +96,14 @@ public class BasicTests
             Assert.Fail();
             return;
         }
-        Assert.IsTrue(versions.Count > 0);
-        Assert.AreEqual(versions.First().Version, "1.0");
+        Assert.IsNotEmpty(versions);
+        Assert.AreEqual("1.0", versions.First().Version);
         Assert.IsFalse(versions.First().IsVisible);
         Assert.IsFalse(versions.First().LargeCard);
         Assert.IsFalse(versions.First().Recommended);
 
         var version1_3 = versions[3];
-        Assert.AreEqual(version1_3.Version, "1.3");
+        Assert.AreEqual("1.3", version1_3.Version);
     }
 
     [TestMethod]
@@ -114,7 +116,7 @@ public class BasicTests
         var response = await _http.GetAsync(_endpointUrl + "/upgrade/" + branch);
         response.EnsureSuccessStatusCode(); // Status Code 200-299
         var json = await response.Content.ReadAsStringAsync();
-        Assert.IsTrue(json.Contains(branch));
+        Assert.Contains(branch, json);
     }
 
     [TestMethod]
