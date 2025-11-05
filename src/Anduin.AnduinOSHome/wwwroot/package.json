@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@aiursoft/uistack": "^1.0.3"
+    "@aiursoft/uistack": "^1.0.3",
+    "dropify": "^0.2.2"
   }
 }
