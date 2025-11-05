@@ -1,4 +1,4 @@
-# Anduin Code of Conduct
+# Aiursoft Code of Conduct
 
 ## Our Pledge
 
@@ -8,13 +8,13 @@ We are committed to creating a positive and inclusive environment where all part
 
 ## Our Principles
 
-To ensure that the software we develop aligns with the Anduin Principles and serves all users equally well, we uphold the following:
+To ensure that the software we develop aligns with the Aiursoft Principles and serves all users equally well, we uphold the following:
 
 1. **Offline Functionality**  
    Any compiled artifacts of the software must be capable of performing their full functions without requiring an internet connection.
 
-2. **Local Compilation in Anduin**  
-   The source code of the software must be capable of being compiled locally within Anduin's infrastructure without requiring an internet connection.
+2. **Local Compilation in Aiursoft**  
+   The source code of the software must be capable of being compiled locally within Aiursoft's infrastructure without requiring an internet connection.
 
 3. **Third-Party Local Compilation**  
    The source code of the software must be capable of being compiled locally by third-party developers with an internet connection.
@@ -51,7 +51,7 @@ This Code of Conduct applies within all project spaces, and it also applies in p
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [anduin@anduin.com]. All complaints will be reviewed and investigated promptly and fairly. Maintainers are obligated to respect the privacy and security of the reporter of any incident.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [anduin@aiursoft.com]. All complaints will be reviewed and investigated promptly and fairly. Maintainers are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Acknowledgement
 
