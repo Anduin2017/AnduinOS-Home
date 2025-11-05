@@ -2,10 +2,9 @@ using Anduin.AnduinOSHome.Authorization;
 using Anduin.AnduinOSHome.Services;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.WebTools.Attributes;
+using Anduin.AnduinOSHome.Models.SystemViewModels;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Anduin.AnduinOSHome.Models.SystemViewModels;
-using IndexViewModel = Anduin.AnduinOSHome.Models.HomeViewModels.IndexViewModel;
 
 namespace Anduin.AnduinOSHome.Controllers;
 

@@ -1,9 +1,8 @@
-using Anduin.AnduinOSHome.Models.DashboardViewModels;
 using Anduin.AnduinOSHome.Services;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.WebTools.Attributes;
+using Anduin.AnduinOSHome.Models.DashboardViewModels;
 using Microsoft.AspNetCore.Mvc;
-using IndexViewModel = Anduin.AnduinOSHome.Models.HomeViewModels.IndexViewModel;
 
 namespace Anduin.AnduinOSHome.Controllers;
 
