@@ -3,7 +3,7 @@ ARG PROJ_NAME="Anduin.AnduinOSHome"
 
 # ============================
 # Prepare NPM Environment
-FROM hub.anduin.com/node:21-alpine AS npm-env
+FROM hub.aiursoft.com/node:21-alpine AS npm-env
 ARG CSPROJ_PATH
 WORKDIR /src
 COPY . .
@@ -13,7 +13,7 @@ RUN npm install --prefix "${CSPROJ_PATH}wwwroot" --loglevel verbose
 
 # ============================
 # Prepare Building Environment
-FROM hub.anduin.com/anduin/internalimages/dotnet AS build-env
+FROM hub.aiursoft.com/aiursoft/internalimages/dotnet AS build-env
 ARG CSPROJ_PATH
 ARG PROJ_NAME
 WORKDIR /src
@@ -25,7 +25,7 @@ RUN cp -r ${CSPROJ_PATH}/wwwroot/* /app/wwwroot
 
 # ============================
 # Prepare Runtime Environment
-FROM hub.anduin.com/anduin/internalimages/dotnet
+FROM hub.aiursoft.com/aiursoft/internalimages/dotnet
 ARG PROJ_NAME
 WORKDIR /app
 COPY --from=build-env /app .
