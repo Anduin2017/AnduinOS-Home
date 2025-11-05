@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Thank you for downloading" xml:space="preserve">
+    <value>다운로드해 주셔서 감사합니다</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="!" xml:space="preserve">
+    <value>!</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>다운로드 후에는 다음 방법을 배우고 싶을 수 있습니다.</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>체크섬 확인</value>
+  </data>
+  <data name="and" xml:space="preserve">
+    <value>그리고</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>ISO를 USB 드라이브에 구우세요</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>AnduinOS를 처음 사용하신다면, 다음 내용도 확인해 보시는 것을 권장합니다.</value>
+  </data>
+  <data name="System requirement" xml:space="preserve">
+    <value>시스템 요구 사항</value>
+  </data>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>새로운 OS를 즐겨보세요!</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>정보</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>다음은 무엇인가요?</value>
+  </data>
+  <data name="Documentation" xml:space="preserve">
+    <value>문서</value>
+  </data>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>문서를 확인해 보세요. 답을 찾을 수 있을 거예요.</value>
+  </data>
+  <data name="Report a problem" xml:space="preserve">
+    <value>문제 신고</value>
+  </data>
+  <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
+    <value>작동하지 않는 부분이 있나요? 제안할 사항이 있나요? 토론에 게시해 주세요.</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>기부</value>
+  </data>
+  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
+    <value>마음이 넉넉하신가요? AnduinOS는 사용자들의 기부로 운영됩니다. 여러분의 지원에 감사드립니다.</value>
+  </data>
+
+</root>

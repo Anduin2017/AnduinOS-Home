@@ -18,47 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Community" xml:space="preserve">
+      <data name="Service Status" xml:space="preserve">
+    <value>Dienststatus</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Neuigkeiten</value>
+  </data>
+  <data name="Community" xml:space="preserve">
     <value>Community</value>
   </data>
-  <data name="Project" xml:space="preserve">
-    <value>Projekt</value>
-  </data>
-  <data name="Get Started" xml:space="preserve">
-    <value>Erste Schritte</value>
-  </data>
-  <data name="Report an Issue" xml:space="preserve">
-    <value>Ein Problem melden</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Ressourcen</value>
-  </data>
-  <data name="Documentation" xml:space="preserve">
+  <data name="Document" xml:space="preserve">
     <value>Dokumentation</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referenzen</value>
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Quellcode</value>
   </data>
-  <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
-    <value>Aiursoft Template - Eine moderne, funktionsreiche und hochgradig erweiterbare Grundlage für Ihre nächste Webanwendung.</value>
+  <data name="Resources" xml:space="preserve">
+    <value>Ressourcen</value>
   </data>
-  <data name="Contributions" xml:space="preserve">
-    <value>Beiträge</value>
-  </data>
-  <data name="Social" xml:space="preserve">
-    <value>Soziales</value>
-  </data>
-  <data name="Aiursoft" xml:space="preserve">
-    <value>Aiursoft</value>
-  </data>
-  <data name="Github" xml:space="preserve">
-    <value>GitHub</value>
-  </data>
-  <data name="Licence" xml:space="preserve">
+  <data name="License" xml:space="preserve">
     <value>Lizenz</value>
   </data>
-  <data name="Legal" xml:space="preserve">
+  <data name="Legals" xml:space="preserve">
     <value>Rechtliches</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Open Source</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Soziale Medien</value>
+  </data>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(Wird von der Community betrieben)</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Datenschutzerklärung</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS – eine benutzerdefinierte, Ubuntu-basierte Linux-Distribution, die ein vertrautes und benutzerfreundliches Erlebnis für alle bietet, die zu Linux wechseln.</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Nutzungsbedingungen</value>
   </data>
 
 </root>

@@ -1,0 +1,171 @@
+@{
+    ViewData["Title"] = "Privacy Statement";
+}
+
+<vc:marketing-navbar></vc:marketing-navbar>
+<div class="container mt-5">
+    <main role="main" class="pb-3">
+       <div class="row">
+          <div class="col-md-12">
+             <h1 class="text-center">@Localizer["Privacy Statement"]</h1>
+             <p class="text-center">
+                <em>@Localizer["Last updated: May 10, 2025"]</em>
+             </p>
+          </div>
+          <div class="col-md-12">
+             <h2 id="introduction">@Localizer["Introduction"]</h2>
+             <p>@Localizer["AnduinOS is a free and open-source Linux distribution based on Ubuntu."]<br>@Localizer["We are committed to protecting your privacy."]<br>@Localizer["This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components."]</p>
+             <hr>
+             <h2 id="1-data-collection-by-anduinos">@Localizer["1. Data Collection by AnduinOS"]</h2>
+             <p>
+                <strong>@Localizer["AnduinOS itself does not collect, transmit, or store any user data."]</strong>
+             </p>
+             <ul>
+                <li>@Localizer["All system operations, configurations, and user activities take place locally on your own device (\"local execution\")."]</li>
+                <li>@Localizer["AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms."]</li>
+                <li>@Localizer["There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information."]</li>
+             </ul>
+             <p>@Localizer["Thus, AnduinOS is fundamentally privacy-preserving by design."]</p>
+             <hr>
+             <h2 id="2-why-local-execution-matters">@Localizer["2. Why Local Execution Matters"]</h2>
+             <p>@Localizer["Local execution means that most features and services of AnduinOS are performed"]<strong>@Localizer["entirely on your computer"]</strong>@Localizer[", with the exception of specific, user-initiated features or essential services detailed below."]<br>@Localizer["This ensures:"]</p>
+             <ul>
+                <li>
+                   <strong>@Localizer["Control:"]</strong>@Localizer["You retain complete control over your personal data."]</li>
+                <li>
+                   <strong>@Localizer["Transparency:"]</strong>@Localizer["No data leaves your machine without your explicit action or for essential functionality."]</li>
+                <li>
+                   <strong>@Localizer["Security:"]</strong>@Localizer["Reducing external communications limits exposure to interception or exploitation risks."]</li>
+             </ul>
+             <p>@Localizer["In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users."]</p>
+
+             <hr>
+             <h2 id="3-essential-network-connections">@Localizer["3. Essential Network Connections & Third-Party Services"]</h2>
+             <p>@Localizer["While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address."]
+
+             <h4>@Localizer["AnduinOS Update Service"]</h4>
+             <p>@Localizer["To check for and download system updates, AnduinOS connects to our update endpoint at"] <code>https://www.anduinos.com/upgrade/</code>. @Localizer["This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server."]</p>
+
+             <h4>@Localizer["SimpleWeather Extension"]</h4>
+             <p>@Localizer["AnduinOS includes the 'SimpleWeather' GNOME extension to provide current weather conditions."]<br>@Localizer["Our team has reviewed the source code of this extension"] (<a href="https://github.com/romanlefler/SimpleWeather">@Localizer["source"]</a>) @Localizer["and confirmed it contains no telemetry."]</p>
+             <p>@Localizer["However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to"] <code>https://ipinfo.io/json</code> @Localizer["to determine your location based on your IP address."]<br>@Localizer["We cannot control the privacy practices of"] <code>ipinfo.io</code> @Localizer["or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them."]</p>
+
+
+             <hr>
+             <h2 id="4-open-source-guarantees-your-freedom">@Localizer["4. Open Source Guarantees Your Freedom"]</h2>
+             <p>@Localizer["AnduinOS is distributed under the"]<a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3.0 (GPL-v3)</a>@Localizer["."]<br>@Localizer["This license guarantees:"]</p>
+             <ul>
+                <li>
+                   <strong>@Localizer["Freedom to inspect:"]</strong>@Localizer["You can review the source code to verify there are no hidden tracking mechanisms."]</li>
+                <li>
+                   <strong>@Localizer["Freedom to modify:"]</strong>@Localizer["You can adjust the code to suit your needs, including removing any components you distrust."]</li>
+                <li>
+                   <strong>@Localizer["Freedom to redistribute:"]</strong>@Localizer["You can share AnduinOS, either modified or unmodified, under the same license terms."]</li>
+             </ul>
+             <p>
+                <strong>@Localizer["The open nature of AnduinOS empowers users to independently verify that the system respects their privacy."]</strong>
+                <br>@Localizer["There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu."]</p>
+
+             <hr>
+             <h2 id="5-upstream-software-and-privacy-considerations">@Localizer["5. Upstream Software and Privacy Considerations"]</h2>
+             <p>@Localizer["While AnduinOS itself does not collect any data,"]<strong> @Localizer["it integrates a wide range of upstream open-source software"] </strong>@Localizer["originating from Ubuntu, Debian, GNOME, Flathub, and other sources."]<br>@Localizer["(Some examples and references can be found"]<a href="https://gitlab.aiursoft.com/anduin/anduinos/-/blob/1.5/OSS.md?ref_type=heads"> @Localizer["here"]</a>).</p>
+
+             <p>@Localizer["This includes the use of Ubuntu's official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)."]<br>@Localizer["When your system checks for software updates (e.g., using"] <code>apt</code>@Localizer["), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to."]</p>
+
+             <p>@Localizer["Additionally, some upstream components may have independent data collection mechanisms."]<br>@Localizer["Notably:"]</p>
+             <ul>
+                <li>
+                   <strong>Canonical Ltd.</strong>@Localizer["(Ubuntu's developer) may collect certain system information for statistics and diagnostics purposes via tools like:"]<ul>
+                      <li>
+                         <code>ubuntu-report</code>
+                      </li>
+                      <li>
+                         <code>popularity-contest</code>
+                      </li>
+                      <li>@Localizer["Snap store background services (if Snap is manually installed by users)"]</li>
+                   </ul>
+                </li>
+             </ul>
+             <p>@Localizer["We strongly recommend users review Canonical's"]<a href="https://ubuntu.com/legal/data-privacy">@Localizer["Privacy Policy"]</a>@Localizer["for details."]</p>
+             <p>@Localizer["AnduinOS does"]<strong>@Localizer["not"]</strong>@Localizer["modify, enhance, or introduce additional telemetry into these upstream components."]<br>@Localizer["It merely redistributes them in their original, unmodified state."]</p>
+
+             <hr>
+             <h2 id="6-how-to-handle-potential-ubuntu-telemetry">@Localizer["6. How to Handle Potential Ubuntu Telemetry"]</h2>
+             <p>
+                <strong>@Localizer["AnduinOS does not preinstall any telemetry-related packages"]</strong>@Localizer["such as:"]</p>
+             <ul>
+                <li>
+                   <code>popularity-contest</code>
+                </li>
+                <li>
+                   <code>ubuntu-report</code>
+                </li>
+                <li>
+                   <code>apport</code>
+                </li>
+                <li>
+                   <code>whoopsie</code>
+                </li>
+                <li>@Localizer["Snap daemon"]</li>
+                <li>@Localizer["Canonical Livepatch service"]</li>
+             </ul>
+             <p>@Localizer["Thus, by default,"]<strong>@Localizer["AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting"]</strong>@Localizer["."]</p>
+             <p>@Localizer["However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced."]</p>
+             <p>@Localizer["To ensure full opt-out, you can review and, if necessary, remove these packages using:"]</p>
+             <p>
+                <code class="lang-bash">sudo apt remove popularity-contest ubuntu-report apport whoopsie</code>
+             </p>
+             <p>
+                <strong>@Localizer["Explanation:"]</strong>
+             </p>
+             <ul>
+                <li>
+                   <strong>
+                      <code>popularity-contest</code>
+                   </strong>@Localizer[": Periodically submits anonymous package usage statistics."]</li>
+                <li>
+                   <strong>
+                      <code>ubuntu-report</code>
+                   </strong>@Localizer[": Collects basic hardware and software details at installation time."]</li>
+                <li>
+                   <strong>
+                      <code>apport</code> &amp; <code>whoopsie</code>
+                   </strong>@Localizer[": Automated error reporting services."]</li>
+             </ul>
+             <blockquote>
+                <p>
+                   <strong>@Localizer["Note:"]</strong>@Localizer["If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required."]</p>
+             </blockquote>
+             <p>
+                <strong>@Localizer["AnduinOS is committed to keeping your installation clean and telemetry-free by default."]</strong>
+             </p>
+
+             <hr>
+             <h2 id="7-responsibility-clarification">@Localizer["7. Responsibility Clarification"]</h2>
+             <ul>
+                <li>
+                   <strong>@Localizer["AnduinOS is a community-driven, non-profit project"]</strong>@Localizer["maintained in spare time by volunteers."]</li>
+                <li>
+                   <strong>@Localizer["AnduinOS does not have a data collection infrastructure"]</strong>@Localizer["and does not share any information with governments, corporations, or any third parties."]</li>
+                <li>
+                   <strong>@Localizer["For privacy concerns related to third-party applications,"]</strong>@Localizer["please refer to their respective upstream privacy policies."]</li>
+             </ul>
+
+             <hr>
+             <h2 id="8-contact-information">@Localizer["8. Contact Information"]</h2>
+             <p>@Localizer["If you have any questions regarding this Privacy Statement or AnduinOS's privacy practices, please contact:"]</p>
+             <ul>
+                <li>
+                   <strong>@Localizer["Email:"]</strong>
+                   <a href="mailto:anduin@aiursoft.com">anduin@aiursoft.com</a>
+                </li>
+                <li>
+                   <strong>@Localizer["Community:"]</strong>
+                   <a href="https://github.com/Anduin2017/AnduinOS/discussions">@Localizer["AnduinOS GitHub Discussions"]</a>
+                </li>
+             </ul>
+          </div>
+       </div>
+    </main>
+</div>
+<vc:marketing-footer></vc:marketing-footer>

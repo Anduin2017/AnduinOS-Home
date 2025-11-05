@@ -37,7 +37,7 @@
     <value>Bildens bredd är för stor (max {{ value }}px).</value>
   </data>
   <data name="The image width is too small ({{ value }}px min)." xml:space="preserve">
-    <value>Bildbredden är för liten (minst {{ value }}px).</value>
+    <value>Bildens bredd är för liten (minst {{ value }}px).</value>
   </data>
   <data name="The image height is too small ({{ value }}px min)." xml:space="preserve">
     <value>Bildhöjden är för liten ({{ value }}px min).</value>

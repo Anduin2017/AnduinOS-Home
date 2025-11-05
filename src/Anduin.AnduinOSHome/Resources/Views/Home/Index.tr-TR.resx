@@ -18,206 +18,383 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Welcome" xml:space="preserve">
-    <value>Hoş Geldiniz</value>
+      <data name="Special Thanks!" xml:space="preserve">
+    <value>Özel Teşekkürler!</value>
   </data>
-  <data name="This is a template project" xml:space="preserve">
-    <value>Bu bir şablon projedir</value>
+  <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+    <value>AnduinOS sunucusu gururla sponsor edilmiştir</value>
   </data>
-  <data name="RBAC Authorization" xml:space="preserve">
-    <value>RBAC Yetkilendirmesi</value>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
   </data>
-  <data name="Hello World!" xml:space="preserve">
-    <value>Merhaba Dünya!</value>
+  <data name="a provider of top-tier hosting services" xml:space="preserve">
+    <value>birinci sınıf hosting hizmetleri sağlayıcısı</value>
   </data>
-  <data name="Multiple Database Support" xml:space="preserve">
-    <value>Çoklu Veritabanı Desteği</value>
-  </data>
-  <data name="OpenID Connect Integration" xml:space="preserve">
-    <value>OpenID Connect Entegrasyonu</value>
-  </data>
-  <data name="Why use the Aiursoft Template?" xml:space="preserve">
-    <value>Neden Aiursoft Template Kullanmalısınız?</value>
-  </data>
-  <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
-    <value>Herhangi bir OpenID Connect sağlayıcısıyla sorunsuz bir şekilde entegre olun, otomatik rol senkronizasyonu ile.</value>
-  </data>
-  <data name="A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
-    <value>Modern, zengin özelliklere sahip ve bir sonraki web uygulamanız için oldukça genişletilebilir bir temel.</value>
-  </data>
-  <data name="Easily switch between providers like SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
-    <value>SQLite, MySQL, SQL Server gibi sağlayıcılar ile testler için kullanılan bellek içi veritabanı arasında kolayca geçiş yapın.</value>
-  </data>
-  <data name="Dynamic Navigation Bar" xml:space="preserve">
-    <value>Dinamik Gezinti Çubuğu</value>
-  </data>
-  <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
-    <value>Gezinme çubuğu, kullanıcı rollerine ve izinlerine göre otomatik olarak ayarlanır.</value>
-  </data>
-  <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
-    <value>İnce taneli izin yönetimi için yerleşik bir Rol Tabanlı Erişim Kontrolü (RBAC) sistemi.</value>
-  </data>
-  <data name="Comprehensive Documentation" xml:space="preserve">
-    <value>Kapsamlı Dokümantasyon</value>
-  </data>
-  <data name="AI-Powered Translations" xml:space="preserve">
-    <value>Yapay Zeka Destekli Çeviriler</value>
-  </data>
-  <data name="Built-in User Management" xml:space="preserve">
-    <value>Dahili Kullanıcı Yönetimi</value>
-  </data>
-  <data name="Automatic, AI-driven translation into 28 languages for global reach." xml:space="preserve">
-    <value>Küresel erişim için 28 dile otomatik, yapay zeka destekli çeviri.</value>
-  </data>
-  <data name="Includes extensive documentation and practical examples to get you started quickly." xml:space="preserve">
-    <value>Kapsamlı belgeler ve hızlı bir şekilde başlamanızı sağlayacak pratik örnekler içerir.</value>
-  </data>
-  <data name="Automatic Dependency Injection" xml:space="preserve">
-    <value>Otomatik Bağımlılık Enjeksiyonu</value>
-  </data>
-  <data name="Integrated File Management" xml:space="preserve">
-    <value>Entegre Dosya Yönetimi</value>
-  </data>
-  <data name="A complete solution for user authentication and profile management right out of the box." xml:space="preserve">
-    <value>Kutudan çıkar çıkmaz kullanıma hazır, kullanıcı kimlik doğrulama ve profil yönetimi için eksiksiz bir çözüm.</value>
-  </data>
-  <data name="All dependencies are automatically registered and always available via constructor injection." xml:space="preserve">
-    <value>Tüm bağımlılıklar otomatik olere kaydedilir ve constructor injection yoluyla her zaman kullanılabilir.</value>
-  </data>
-  <data name="Responsive Design" xml:space="preserve">
-    <value>Duyarlı Tasarım</value>
-  </data>
-  <data name="Automatic Dark Mode" xml:space="preserve">
-    <value>Otomatik Karanlık Mod</value>
-  </data>
-  <data name="A fully responsive layout that looks great on both desktop and mobile devices." xml:space="preserve">
-    <value>Hem masaüstü hem de mobil cihazlarda harika görünen tamamen duyarlı bir düzen.</value>
-  </data>
-  <data name="Features a built-in file management system with automatic avatar compression." xml:space="preserve">
-    <value>Otomatik avatar sıkıştırmalı, dahili bir dosya yönetim sistemi özelliği sunar.</value>
-  </data>
-  <data name="Dockerized for Deployment" xml:space="preserve">
-    <value>Docker ile Dağıtıma Hazır</value>
-  </data>
-  <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
-    <value>Basitleştirilmiş, tutarlı ve güvenilir dağıtımlar için tam Docker desteği ile birlikte gelir.</value>
-  </data>
-  <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
-    <value>Kullanıcının sistem ayarlarına otomatik olarak uyum sağlayan akıllı karanlık mod.</value>
-  </data>
-  <data name="Read the document" xml:space="preserve">
-    <value>Belgeyi okuyun</value>
-  </data>
-  <data name="Start a new project" xml:space="preserve">
-    <value>Yeni bir proje başlat</value>
-  </data>
-  <data name="This is a template project, where we start the voyager..." xml:space="preserve">
-    <value>Bu, yolculuğa başladığımız bir şablon projedir...</value>
-  </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>Açık Kaynak</value>
-  </data>
-  <data name="Usage" xml:space="preserve">
-    <value>Kullanım</value>
-  </data>
-  <data name="Features" xml:space="preserve">
-    <value>Özellikler</value>
-  </data>
-  <data name="MIT Licence" xml:space="preserve">
-    <value>MIT Lisansı</value>
-  </data>
-  <data name="Go to dashboard" xml:space="preserve">
-    <value>Panele git</value>
+  <data name="Sign up today!" xml:space="preserve">
+    <value>Bugün kaydolun!</value>
   </data>
   <data name="Free" xml:space="preserve">
     <value>Ücretsiz</value>
   </data>
-  <data name="faster" xml:space="preserve">
-    <value>daha hızlı</value>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>GPL-v3 Lisansı</value>
   </data>
-  <data name="Build your next big thing," xml:space="preserve">
-    <value>Bir sonraki büyük projenizi oluşturun,</value>
+  <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>Hiç telemetri yok! Gizliliğinizi geri kazanmak için &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;&apos;u seçin</value>
   </data>
-  <data name="Achieve more with Aiursoft Template" xml:space="preserve">
-    <value>Aiursoft Template ile daha fazlasını başarın</value>
+  <data name="Today is the best day for you to switch to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Bugün &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;&apos;a geçmeniz için en iyi gün</value>
   </data>
-  <data name="Dashboard Website" xml:space="preserve">
-    <value>Kontrol Paneli Web Sitesi</value>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; Ubuntu&apos;nun paket tabanı + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; uygulama deneyimi</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Ubuntu&apos;da yaptığınız her şeyi &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;&apos;ta da yapabilirsiniz</value>
+  </data>
+  <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Bilgisayarınızın gücünü ortaya çıkarın, &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;&apos;u seçin</value>
+  </data>
+  <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;&apos;a geçiş yaptığınız en iyi karar olacak</value>
+  </data>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0, 2024.09.01 tarihinde yayınlandı</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
+    <value>AnduinOS, tanıdık operasyonel alışkanlıkları ve iş akışlarını koruyarak geliştiricilerin Windows&apos;tan Linux&apos;a geçişini kolaylaştırmayı amaçlayan özel bir Ubuntu tabanlı Linux dağıtımıdır.</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>İndir</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Dokümantasyon</value>
+  </data>
+  <data name="All versions" xml:space="preserve">
+    <value>Tüm sürümler</value>
+  </data>
+  <data name="Change Log" xml:space="preserve">
+    <value>Değişiklik Günlüğü</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Nedenler</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Neden AnduinOS&apos;u seçmelisiniz?</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Daha küçük imaj, kullanıcı dostu arayüz, rakipsiz performans, güvenli ve emniyetli.</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Kullanıma hazır</value>
+  </data>
+  <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>ISO sadece 2.0GB boyutunda. Ubuntu&apos;ya benzer şekilde kurulumu basittir ve ek yapılandırma veya karmaşık işlemler olmadan günlük ihtiyaçlarınızı karşılayabilir.</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Kullanıcı dostu arayüz</value>
+  </data>
+  <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>GNOME tabanlı masaüstü ortamı, kullanıcı alışkanlıklarına uygun güzel arayüzlere ve insan-bilgisayar etkileşimlerine sahiptir, fazla öğrenme maliyeti olmadan AnduinOS&apos;a hızlıca başlamanıza olanak tanır.</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Kök erişim ve gizlilik</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>Gizlilik artık isteğe bağlı değil. Temel bir gerekliliktir. AnduinOS sizden hiçbir şey toplamayacak şekilde tasarlanmıştır. Sizi takip etmiyoruz. Profilinizi çıkarmıyoruz. Sizi hedef almıyoruz. Sistem için anonim kalıyorsunuz.</value>
+  </data>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Ekolojik mükemmellik</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS Ubuntu&apos;nun paket tabanına dayanır. Ubuntu&apos;dan gelen apt paketlerinin çoğuyla uyumludur. Deneyim ve ekolojinin mükemmel bir kombinasyonudur.</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Açık kaynak</value>
+  </data>
+  <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>AnduinOS açık kaynaklı bir projedir. GPL-v3 lisansını takiben kaynak kodunu görüntüleyebilir, değiştirebilir ve yeniden dağıtabilirsiniz. Ücretsizdir ve her zaman ücretsiz kalacaktır.</value>
+  </data>
+  <data name="Containerized" xml:space="preserve">
+    <value>Konteynerleştirilmiş</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Grafik uygulamalar Flatpak aracılığıyla kurulur ve kendilerini temel sistemden ayrı tutar (1.3&apos;ten beri). Ayrıca izinleri üzerinde ayrıntılı kontrol sağlarlar.</value>
+  </data>
+  <data name="Versions" xml:space="preserve">
+    <value>Sürümler</value>
+  </data>
+  <data name="Choose your AnduinOS version" xml:space="preserve">
+    <value>AnduinOS sürümünüzü seçin</value>
+  </data>
+  <data name="AnduinOS is available in" xml:space="preserve">
+    <value>AnduinOS şu sürümlerde mevcuttur</value>
+  </data>
+  <data name="two version branches" xml:space="preserve">
+    <value>iki sürüm dalı</value>
+  </data>
+  <data name="LTS and Standard" xml:space="preserve">
+    <value>LTS ve Standart</value>
+  </data>
+  <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
+    <value>LTS sürümü istikrarlı uzun vadeli destek ihtiyacı olan kullanıcılar için önerilirken, Standart sürüm daha yeni cihazları olan ve en son özellikleri keşfetmek isteyen kullanıcılar için önerilir.</value>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>Kullanım</value>
+  </data>
+  <data name="With AnduinOS, you can do more" xml:space="preserve">
+    <value>AnduinOS ile daha fazlasını yapabilirsiniz</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It&apos;s up to you." xml:space="preserve">
+    <value>Ubuntu&apos;da yaptığınız her şeyi AnduinOS&apos;ta da yapabilirsiniz. Günlük işletim sistemi, geliştirme ortamı, sunucu veya öğrenme aracı olarak kullanabilirsiniz. Karar sizin.</value>
+  </data>
+  <data name="Browsing" xml:space="preserve">
+    <value>Tarama</value>
+  </data>
+  <data name="Gaming" xml:space="preserve">
+    <value>Oyun</value>
+  </data>
+  <data name="With Steam" xml:space="preserve">
+    <value>Steam ile</value>
+  </data>
+  <data name="Build" xml:space="preserve">
+    <value>Geliştirme</value>
+  </data>
+  <data name="Work" xml:space="preserve">
+    <value>Çalışma</value>
+  </data>
+  <data name="Serve" xml:space="preserve">
+    <value>Sunucu</value>
+  </data>
+  <data name="Editing" xml:space="preserve">
+    <value>Düzenleme</value>
   </data>
   <data name="Reviews" xml:space="preserve">
     <value>İncelemeler</value>
   </data>
-  <data name="Music Tools" xml:space="preserve">
-    <value>Müzik Araçları</value>
+  <data name="What users are saying" xml:space="preserve">
+    <value>Kullanıcılar ne diyor</value>
   </data>
-  <data name="What our developers say" xml:space="preserve">
-    <value>Geliştiricilerimizin Görüşleri</value>
+  <data name="Here&apos;s what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
+    <value>2000+ kullanıcımızdan bazılarının AnduinOS ile çalışma hakkında söyledikleri.</value>
   </data>
-  <data name="Markdown To HTML" xml:space="preserve">
-    <value>Markdown&apos;dan HTML&apos;e</value>
+  <data name="Designer" xml:space="preserve">
+    <value>Tasarımcı</value>
   </data>
-  <data name="Use it as a foundation for your SaaS, a backend for your mobile app, a corporate website, or a personal blog. The possibilities are endless." xml:space="preserve">
-    <value>Onu SaaS&apos;ınız için bir temel, mobil uygulamanız için bir arka uç, bir kurumsal web sitesi veya kişisel bir blog olarak kullanın. Olanaklar sonsuzdur.</value>
+  <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can&apos;t miss. Trust me!!!" xml:space="preserve">
+    <value>AnduinOS temiz, güzel modern tasarımı, kullanıcı dostu arayüzü ile birçok dağıtım arasında kaçıramayacağınız bir seçim. Bana güvenin!!!</value>
   </data>
-  <data name="Here&apos;s what developers from our community have to say." xml:space="preserve">
-    <value>Topluluğumuzdaki geliştiricilerin söyledikleri.</value>
+  <data name="Lead Developer" xml:space="preserve">
+    <value>Baş Geliştirici</value>
   </data>
-  <data name="Anduin" xml:space="preserve">
-    <value>Anduin</value>
+  <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
+    <value>AnduinOS, daha önce işe yaramaz olduğunu düşündüğüm Surface Go&apos;ma yeni bir hayat verdi. Şaşırtıcı bir şekilde Windows&apos;tan çok daha akıcı çalışıyor. Tüm özellikler mükemmel çalışıyor!</value>
   </data>
-  <data name="Frequently asked questions" xml:space="preserve">
-    <value>Sıkça Sorulan Sorular</value>
+  <data name="Developer" xml:space="preserve">
+    <value>Geliştirici</value>
   </data>
-  <data name="Technical Lead" xml:space="preserve">
-    <value>Teknik Lider</value>
+  <data name="AnduinOS is your final Linux distribution! It&apos;s built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
+    <value>AnduinOS son Linux dağıtımınız! Geliştiriciler için yapılmış ve hafif olmasına rağmen güçlü. İyi yapılandırılmış temaları ve kısayolları ile Windows kullanıcıları AnduinOS&apos;a sorunsuz geçiş yapabilir ve sistemi kurma derdini unutabilir.</value>
+  </data>
+  <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
+    <value>AnduinOS hayatımı ve iş süreçlerimi derinlemesine kolaylaştırdı, günlük kullanım için tercih ettiğim Linux dağıtımı pozisyonunu sağlamlaştırdı!</value>
+  </data>
+  <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
+    <value>...1.8 GB&apos;lık bir imaj olduğunu unutmamalıyız. Moralimi yükseltti... Gerçekten kurulmayı hak ettiğini düşünüyorum, zaman gösterecek.</value>
+  </data>
+  <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It&apos;s intuitive, simple to use, and well-designed." xml:space="preserve">
+    <value>Aslında bu, Linux kullanımını zevkli hale getiren &quot;kur-ve-unut&quot; dağıtımlarından biri. Sezgisel, kullanımı kolay ve iyi tasarlanmış.</value>
+  </data>
+  <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
+    <value>İşletim sistemi, özellikle Windows&apos;tan geçen kullanıcılar için kullanım kolaylığına odaklanmaya devam ediyor.</value>
+  </data>
+  <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
+    <value>Linux bilgisayarları çalışır durumda tutmak için iyi bir seçenek ve Windows&apos;a benzer görünen bir şey istiyorsanız, AnduinOS&apos;a göz atmaya değer.</value>
   </data>
   <data name="FAQ" xml:space="preserve">
     <value>SSS</value>
   </data>
-  <data name="Is it free to use Aiursoft Template?" xml:space="preserve">
-    <value>Aiursoft Template&apos;ı kullanmak ücretsiz mi?</value>
+  <data name="Frequently asked questions" xml:space="preserve">
+    <value>Sıkça sorulan sorular</value>
   </data>
   <data name="Here are some of the answers you might be looking for." xml:space="preserve">
-    <value>İşte aradığınız cevaplardan bazıları.</value>
+    <value>Aradığınız cevaplardan bazıları burada.</value>
   </data>
-  <data name="What do I need to get started?" xml:space="preserve">
-    <value>Başlamak için neye ihtiyacım var?</value>
+  <data name="Is it free to use AnduinOS?" xml:space="preserve">
+    <value>AnduinOS&apos;u kullanmak ücretsiz mi?</value>
   </data>
-  <data name="Aiursoft Template is our definitive choice for enterprise projects! It&apos;s built for developers and is lightweight yet powerful. We can skip all the boilerplate for authentication and user management." xml:space="preserve">
-    <value>Aiursoft Template, kurumsal projeler için nihai tercihimizdir! Geliştiriciler için tasarlandı, hafif ama güçlüdür. Kimlik doğrulama ve kullanıcı yönetimi için gerekli tüm standart kodlardan kurtulabiliriz.</value>
+  <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
+    <value>Evet, AnduinOS kullanımı ücretsizdir. GPL-v3 lisansını takip eden açık kaynaklı bir projedir. Kaynak kodunu görüntüleyebilir, değiştirebilir ve yeniden dağıtabilirsiniz. Ücretsizdir ve her zaman ücretsiz kalacaktır.</value>
   </data>
-  <data name="How do I deploy my application?" xml:space="preserve">
-    <value>Uygulamamı nasıl dağıtırım?</value>
+  <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
+    <value>AnduinOS&apos;ta ne tür uygulamalar çalıştırabilirim?</value>
   </data>
-  <data name="How can I get support?" xml:space="preserve">
-    <value>Nasıl destek alabilirim?</value>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
+    <value>AnduinOS Ubuntu&apos;nun paket tabanına dayanır. Ubuntu&apos;da çalışan herhangi bir yazılım AnduinOS&apos;ta da çalışabilir. Linux uygulamaları, web uygulamaları ve hatta Wine kullanarak Windows uygulamaları dahil olmak üzere çeşitli uygulamalar çalıştırabilirsiniz.</value>
   </data>
-  <data name="Yes, Aiursoft Template is completely free and open-source under the MIT License. You can use it for personal and commercial projects without any cost." xml:space="preserve">
-    <value>Evet, Aiursoft Template MIT Lisansı altında tamamen ücretsiz ve açık kaynaklıdır. Kişisel ve ticari projelerinizde hiçbir ücret ödemeden kullanabilirsiniz.</value>
+  <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
+    <value>AnduinOS grafik uygulamaları yönetmek için Flatpak kullanır. Flatpak yazılım dağıtımı, uygulama sanallaştırması ve paket yönetimi için bir yazılım yardımcı programıdır. Uygulamaları korumalı bir ortamda çalıştırmanıza olanak tanır, bu da güvenlik ve kararlılığı artırmaya yardımcı olabilir.</value>
   </data>
-  <data name="Discussions page" xml:space="preserve">
-    <value>Tartışmalar sayfası</value>
+  <data name="How can I search for solutions to problems?" xml:space="preserve">
+    <value>Sorunlara çözüm nasıl arayabilirim?</value>
   </data>
-  <data name="You&apos;ll need the .NET 9 SDK, npm and your favorite IDE, like Visual Studio or JetBrains Rider. You can find the full setup guide in our documentation." xml:space="preserve">
-    <value>.NET 9 SDK&apos;ye, npm&apos;ye ve Visual Studio veya JetBrains Rider gibi favori IDE&apos;nize ihtiyacınız olacak. Tüm kurulum kılavuzunu belgelerimizde bulabilirsiniz.</value>
+  <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
+    <value>Ask Ubuntu&apos;da çok yaygın sorunları arayabilir ve sorabilirsiniz. AnduinOS sorunlarının neredeyse tümünün çözümleri Ubuntu ile aynıdır. AnduinOS ile ilgili sorunları çözmek için tamamen Ubuntu&apos;nun dokümantasyonuna ve uzmanlığına güvenebilirsiniz.</value>
   </data>
-  <data name="You can get community support via GitHub Discussions. Please visit our" xml:space="preserve">
-    <value>GitHub Tartışmaları aracılığıyla topluluk desteği alabilirsiniz. Lütfen bizim</value>
+  <data name="Is there any support included?" xml:space="preserve">
+    <value>Herhangi bir destek dahil mi?</value>
   </data>
-  <data name="Join our community and start building today!" xml:space="preserve">
-    <value>Topluluğumuza katılın ve hemen bugün inşa etmeye başlayın!</value>
+  <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
+    <value>GitHub Discussions aracılığıyla AnduinOS çevrimiçi destek hizmetlerine erişiminiz var. Lütfen bize şuradan ulaşın</value>
   </data>
-  <data name="for any inquiries or to report issues." xml:space="preserve">
-    <value>her türlü soru veya sorun bildirimi için.</value>
+  <data name="here" xml:space="preserve">
+    <value>buradan</value>
   </data>
-  <data name="Start a New Project" xml:space="preserve">
-    <value>Yeni Bir Proje Başlat</value>
+  <data name="for any questions." xml:space="preserve">
+    <value>herhangi bir soru için.</value>
+  </data>
+  <data name="Who is behind AnduinOS?" xml:space="preserve">
+    <value>AnduinOS&apos;un arkasında kim var?</value>
+  </data>
+  <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
+    <value>AnduinOS boş zamanlarda geliştirilen, sadece bağışlarla sürdürülen ve herhangi bir şirket veya ulusal hükümet tarafından desteklenmeyen kar amacı gütmeyen bir projedir.</value>
+  </data>
+  <data name="Read more" xml:space="preserve">
+    <value>Daha fazla oku</value>
+  </data>
+  <data name="AnduinOS works based on donations from users. We are grateful for your support. And you can" xml:space="preserve">
+    <value>AnduinOS kullanıcılardan gelen bağışlarla çalışır. Desteğiniz için minnettarız. Ve şöyle yapabilirsiniz</value>
+  </data>
+  <data name="donate" xml:space="preserve">
+    <value>bağış yapın</value>
+  </data>
+  <data name="to us via PayPal." xml:space="preserve">
+    <value>PayPal aracılığıyla bize.</value>
+  </data>
+  <data name="How can I contact the AnduinOS team?" xml:space="preserve">
+    <value>AnduinOS ekibiyle nasıl iletişime geçebilirim?</value>
+  </data>
+  <data name="Please contact us with email at" xml:space="preserve">
+    <value>Lütfen şu e-posta adresinden bize ulaşın</value>
+  </data>
+  <data name="for any questions. Please join our" xml:space="preserve">
+    <value>herhangi bir soru için. Lütfen bizim</value>
+  </data>
+  <data name="Revolt channel" xml:space="preserve">
+    <value>Revolt kanalımıza</value>
+  </data>
+  <data name="for community support." xml:space="preserve">
+    <value>topluluk desteği için katılın.</value>
+  </data>
+  <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
+    <value>Topluluğumuza katılın ve AnduinOS ile ilgilenin!</value>
+  </data>
+  <data name="Join Revolt channel" xml:space="preserve">
+    <value>Revolt kanalına katıl</value>
   </data>
   <data name="Join Discussions" xml:space="preserve">
-    <value>Tartışmalara Katıl</value>
+    <value>Tartışmalara katıl</value>
   </data>
-  <data name="The template is built for easy deployment. It includes full Docker support, so you can containerize your app and run it anywhere. You can also deploy it directly to IIS, Azure App Service, or any server that supports ASP.NET Core." xml:space="preserve">
-    <value>Şablon, kolay dağıtım için oluşturulmuştur. Tam Docker desteği içerir, böylece uygulamanızı konteynerleştirip her yerde çalıştırabilirsiniz. Ayrıca doğrudan IIS, Azure App Service veya ASP.NET Core destekleyen herhangi bir sunucuya dağıtabilirsiniz.</value>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>AnduinOS&apos;u İndir</value>
+  </data>
+  <data name="Select the correct edition below:" xml:space="preserve">
+    <value>Aşağıdan doğru sürümü seçin:</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Dil</value>
+  </data>
+  <data name="By downloading, you agree to our" xml:space="preserve">
+    <value>İndirerek bizim</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Hizmet Şartlarımızı</value>
+  </data>
+  <data name="and" xml:space="preserve">
+    <value>ve</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Gizlilik Politikamızı</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Kapat</value>
+  </data>
+  <data name="Composer, Producer, and Audio Engineer" xml:space="preserve">
+    <value>Bestekâr, Yapımcı ve Ses Mühendisi</value>
+  </data>
+  <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
+    <value>...eğer gizliliğinizi geri almayı ve Linux&apos;a geçmeyi düşünüyorsanız, Anduin OS yolculuğunuza başlamak için mükemmel bir yerdir. Temiz, basit ve geçiş sorunsuzdur. Anduin OS teknoloji meraklıları için tasarlanmadı. Özellikle SİZİN için tasarlandı. Geçiş yapın. Pişman olmayacaksınız.</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Destek süresi</value>
+  </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>İçerir:</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Önerilen</value>
+  </data>
+  <data name="Use flatpak for graphical applications." xml:space="preserve">
+    <value>Grafik uygulamalar için flatpak kullanın.</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>paketler</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Yayınlanma tarihi</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Kararlı bir uzun vadeli sürüme ihtiyaç duyan ve eski donanıma sahip kullanıcılar için önerilir.</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>En son sürüm</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>AnduinOS&apos;u indirmek için aşağıdan doğru sürümü seçin:</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>İndirdikten sonra, nasıl yapılacağını öğrenmek isteyebilirsiniz</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>sağlama toplamını doğrulayın</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>ISO&apos;yu bir USB sürücüsüne yazın</value>
+  </data>
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
+    <value>Grafik uygulamalar için flatpak kullanımı.</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
+    <value>AnduinOS kullanıcı bağışlarıyla finanse edilmektedir. Desteğiniz için minnettarız. Ve siz de</value>
+  </data>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...oldukça etkileyici. Windows&apos;tan geçiş yapmayı düşünen kullanıcılar için denediğim en kullanıcı dostu Linux dağıtımlarından biri olabilir. Tek bir kişi tarafından geliştirilmiş olmasına rağmen bu kadar iyi olması gerçekten şaşırtıcı.</value>
+  </data>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS, Linux&apos;e geçen herkes için tanıdık ve kullanımı kolay bir deneyim sunan, Ubuntu tabanlı özel bir Linux dağıtımıdır.</value>
+  </data>
+  <data name="Stoat channel" xml:space="preserve">
+    <value>Stoat kanalı</value>
+  </data>
+  <data name="Join Stoat channel" xml:space="preserve">
+    <value>Stoat kanalına katılın</value>
+  </data>
+  <data name="A Universe of Applications at Your Fingertips." xml:space="preserve">
+    <value>Parmaklarınızın Ucunda Bir Uygulama Evreni.</value>
+  </data>
+  <data name="Start exploring on Flathub now" xml:space="preserve">
+    <value>Flathub&apos;de hemen keşfe başlayın</value>
+  </data>
+  <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
+    <value>Güvendiğiniz yazılımların çoğu AnduinOS&apos;ta kusursuz çalışır ve binlerce güçlü, ücretsiz, açık kaynak alternatifle yan yana gelir. AnduinOS, Flatpak ve Ubuntu&apos;nun devasa kütüphanelerine anında, entegre erişim sağlayarak mükemmel iş akışınızı sadece bir tık uzağınıza getirir.</value>
+  </data>
+  <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>Hiçbir telemetri entegre edilmemiştir! Gizliliğinizi geri kazanmak için &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;&apos;u seçin</value>
   </data>
 
 </root>

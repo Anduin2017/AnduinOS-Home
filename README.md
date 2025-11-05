@@ -1,21 +1,19 @@
-# AnduinOSHome - A sample project
+# AnduinOS Home
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://gitlab.anduin.com/anduin/anduinOSHome/-/blob/master/LICENSE)
-[![Pipeline stat](https://gitlab.anduin.com/anduin/anduinOSHome/badges/master/pipeline.svg)](https://gitlab.anduin.com/anduin/anduinOSHome/-/pipelines)
-[![Test Coverage](https://gitlab.anduin.com/anduin/anduinOSHome/badges/master/coverage.svg)](https://gitlab.anduin.com/anduin/anduinOSHome/-/pipelines)
-[![ManHours](https://manhours.anduin.com/r/gitlab.anduin.com/anduin/anduinOSHome.svg)](https://gitlab.anduin.com/anduin/anduinOSHome/-/commits/master?ref_type=heads)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2FanduinOSHome.anduin.com)](https://anduinOSHome.anduin.com)
-[![Docker](https://img.shields.io/docker/pulls/anduin/anduinOSHome.svg)](https://hub.docker.com/r/anduin/anduinOSHome)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://gitlab.aiursoft.com/anduin/AnduinOS-Home/-/blob/master/LICENSE)
+[![Pipeline stat](https://gitlab.aiursoft.com/anduin/AnduinOS-Home/badges/master/pipeline.svg)](https://gitlab.aiursoft.com/anduin/AnduinOS-Home/-/pipelines)
+[![Test Coverage](https://gitlab.aiursoft.com/anduin/AnduinOS-Home/badges/master/coverage.svg)](https://gitlab.aiursoft.com/anduin/AnduinOS-Home/-/pipelines)
+[![ManHours](https://manhours.aiursoft.com/r/gitlab.aiursoft.com/anduin/anduinos-home.svg)](https://gitlab.aiursoft.com/anduin/AnduinOS-Home/-/commits/master?ref_type=heads)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.anduinos.com%2F)](https://www.anduinos.com)
+[![Docker](https://img.shields.io/docker/pulls/anduin2019/anduinos-home.svg)](https://hub.docker.com/r/anduin2019/anduinos-home)
 
-AnduinOSHome is a sample project.
+AnduinOS-Home is the home page of AnduinOS, which is an Ubuntu based operating system. It hosts as the home page of the website, including downloading ISO files, read document and join community.
 
 ![screenshot](./screenshot.png)
 
-Default user name is `admin@default.com` and default password is `admin123`.
-
 ## Try
 
-Try a running AnduinOSHome [here](https://anduinOSHome.anduin.com).
+Try a running AnduinOS-Home [here](https://www.anduinos.com/).
 
 ## Run in Ubuntu
 
@@ -24,13 +22,13 @@ The following script will install\update this app on your Ubuntu server. Support
 On your Ubuntu server, run the following command:
 
 ```bash
-curl -sL https://gitlab.anduin.com/anduin/anduinOSHome/-/raw/master/install.sh | sudo bash
+curl -sL https://gitlab.aiursoft.com/anduin/anduinos-home/-/raw/master/install.sh | sudo bash
 ```
 
 Of course it is suggested that append a custom port number to the command:
 
 ```bash
-curl -sL https://gitlab.anduin.com/anduin/anduinOSHome/-/raw/master/install.sh | sudo bash -s 8080
+curl -sL https://gitlab.aiursoft.com/anduin/anduinos-home/-/raw/master/install.sh | sudo bash -s 8080
 ```
 
 It will install the app as a systemd service, and start it automatically. Binary files will be located at `/opt/apps`. Service files will be located at `/etc/systemd/system`.

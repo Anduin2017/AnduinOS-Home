@@ -18,23 +18,26 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Aiursoft Template" xml:space="preserve">
-    <value>Aiursoft Template</value>
+      <data name="Donate" xml:space="preserve">
+    <value>Lahjoita</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Uutiset</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Yhteisö</value>
   </data>
-  <data name="Documentation" xml:space="preserve">
-    <value>Dokumentaatio</value>
+  <data name="Install" xml:space="preserve">
+    <value>Asenna</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Dokumentit</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Lataa</value>
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Lähdekoodi</value>
-  </data>
-  <data name="Try the dashboard" xml:space="preserve">
-    <value>Kokeile kojelautaa</value>
-  </data>
-  <data name="GitHub" xml:space="preserve">
-    <value>GitHub</value>
   </data>
 
 </root>

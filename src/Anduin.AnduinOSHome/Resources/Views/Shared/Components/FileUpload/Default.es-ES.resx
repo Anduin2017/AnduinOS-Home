@@ -22,31 +22,31 @@
     <value>Eliminar</value>
   </data>
   <data name="Ooops, something wrong happended." xml:space="preserve">
-    <value>Vaya, algo salió mal.</value>
+    <value>¡Uy! Algo salió mal.</value>
   </data>
-  <data name="Drag and drop or click to replace" xml:space="preserve">
-    <value>Arrastra y suelta o haz clic para reemplazar</value>
+  <data name="The file size is too big ({{ value }} max)." xml:space="preserve">
+    <value>El tamaño del archivo es demasiado grande ({{ value }} máximo).</value>
   </data>
   <data name="Drag and drop a file here or click" xml:space="preserve">
     <value>Arrastra y suelta un archivo aquí o haz clic</value>
   </data>
-  <data name="The file size is too big ({{ value }} max)." xml:space="preserve">
-    <value>El tamaño del archivo es demasiado grande (máx. {{ value }}).</value>
+  <data name="Drag and drop or click to replace" xml:space="preserve">
+    <value>Arrastra y suelta o haz clic para reemplazar</value>
+  </data>
+  <data name="The image height is too small ({{ value }}px min)." xml:space="preserve">
+    <value>La altura de la imagen es demasiado pequeña ({{ value }}px mín.).</value>
   </data>
   <data name="The image width is too big ({{ value }}px max)." xml:space="preserve">
-    <value>El ancho de la imagen es demasiado grande ({{ value }}px máx).</value>
+    <value>El ancho de la imagen es demasiado grande ({{ value }}px máx.).</value>
   </data>
   <data name="The image width is too small ({{ value }}px min)." xml:space="preserve">
     <value>El ancho de la imagen es demasiado pequeño (mín. {{ value }}px).</value>
-  </data>
-  <data name="The image height is too small ({{ value }}px min)." xml:space="preserve">
-    <value>La altura de la imagen es demasiado pequeña (mínimo {{ value }}px).</value>
   </data>
   <data name="The image format is not allowed ({{ value }} only)." xml:space="preserve">
     <value>El formato de imagen no está permitido (solo {{ value }}).</value>
   </data>
   <data name="The image height is too big ({{ value }}px max)." xml:space="preserve">
-    <value>La altura de la imagen es demasiado grande (máximo {{ value }}px).</value>
+    <value>La altura de la imagen es demasiado grande ({{ value }}px máximo).</value>
   </data>
   <data name="The file is not allowed ({{ value }} only)." xml:space="preserve">
     <value>El archivo no está permitido (solo {{ value }}).</value>

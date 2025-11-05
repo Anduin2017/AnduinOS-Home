@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>Zgadzasz się korzystać z Witryny i Usług wyłącznie w celach zgodnych z prawem oraz w zgodzie z obowiązującymi przepisami i regulacjami.</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>Wyraźnie zgadzasz się nie:</value>
+  </data>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. Modyfikacje warunków</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>Kontynuowanie korzystania z Witryny lub Usług po wprowadzeniu zmian oznacza akceptację nowych Warunków.</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>Zachęcamy do okresowego przeglądania niniejszych Warunków.</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Regulamin serwisu</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>Nadużywać, atakować lub przeciążać Witryny, serwerów lub Usług.</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>Korzystając z witryny AnduinOS („Witryna”) oraz wszelkich powiązanych usług, w tym, ale nie ograniczając się do dokumentacji, pobierania i dyskusji społecznościowych („Usługi”), zgadzasz się być związany niniejszymi Warunkami świadczenia usług („Warunki”).</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Ostatnia aktualizacja: 10 maja 2025</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. Korzystanie z witryny i usług</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. Akceptacja Regulaminu</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>Próba uzyskania nieautoryzowanego dostępu do systemów lub danych.</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>Przesyłać, rozpowszechniać lub przekazywać jakiekolwiek złośliwe oprogramowanie, wirusy lub szkodliwy kod.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>Zastrzegamy sobie prawo do aktualizacji lub modyfikacji niniejszych Warunków w dowolnym momencie bez wcześniejszego powiadomienia.</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>Jeśli nie zgadzasz się z jakąkolwiek częścią niniejszych Warunków, nie możesz korzystać z Witryny ani Usług.</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>Wykorzystywać Witryny lub Usług do jakichkolwiek oszukańczych, nielegalnych lub złośliwych działań.</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. Własność intelektualna</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>Zastrzegamy sobie prawo do ograniczenia lub zakończenia dostępu dla użytkowników, którzy naruszają niniejsze Warunki.</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>Chociaż oprogramowanie jest open-source, projekt strony internetowej, materiały brandingowe oraz inne treści niebędące oprogramowaniem mogą podlegać odrębnym prawom własności intelektualnej.</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>Korzystanie z zasobów stron trzecich odbywa się na własne ryzyko.</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>Nie ponosimy odpowiedzialności za treści, zasady ani praktyki jakichkolwiek witryn stron trzecich.</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>Witryna i Usługi mogą zawierać linki do stron lub usług osób trzecich, które nie są przez nas posiadane ani kontrolowane.</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. Linki i treści stron trzecich</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>Witryna, Usługi oraz oprogramowanie AnduinOS są dostarczane</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. Wyłączenie gwarancji</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>Nie wolno kopiować, reprodukować ani rozpowszechniać elementów niebędących kodem strony internetowej bez wyraźnego zezwolenia.</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS to darmowy i otwartoźródłowy projekt rozpowszechniany na podstawie</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>bez jakichkolwiek gwarancji, zarówno wyraźnych, jak i dorozumianych.</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>&quot;takie, jak jest&quot; i &quot;takie, jak dostępne&quot;,</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>Nienaruszanie praw</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>Przydatność do określonego celu</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>W maksymalnym zakresie dozwolonym przez prawo, nie ponosimy odpowiedzialności za jakiekolwiek:</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. Zakończenie</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>Stanowczo odrzucamy wszelkie gwarancje, w tym, ale nie ograniczając się do:</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>Utrata zysków, przychodów, danych lub dobrej woli;</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. Ograniczenie odpowiedzialności</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>Szkody pośrednie, przypadkowe, szczególne, wynikowe lub odszkodowawcze;</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>Korzystanie z AnduinOS i strony internetowej odbywa się wyłącznie na własne ryzyko.</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Dokładność</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>Dostępność lub bezpieczeństwo Witryny, Usług lub oprogramowania</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>Niezawodność</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>Niniejsze Warunki są regulowane i interpretowane zgodnie z prawem jurysdykcji, w której znajduje się operator Witryny, bez uwzględnienia zasad kolizyjnych tego prawa.</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>Jeśli masz jakiekolwiek pytania dotyczące niniejszych Warunków świadczenia usług, skontaktuj się z:</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>Szkody wynikające z korzystania (lub braku możliwości korzystania) z Witryny, Usług lub oprogramowania AnduinOS.</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. Prawo właściwe</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Społeczność:</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. Dane kontaktowe</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>Dyskusje na GitHubie AnduinOS</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>Zastrzegamy sobie prawo do natychmiastowego, bez uprzedzenia, zakończenia lub zawieszenia dostępu do Witryny lub Usług w przypadku zachowania, które naszym zdaniem narusza niniejsze Warunki lub jest szkodliwe dla innych użytkowników, nas lub osób trzecich.</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. Zastrzeżenia dotyczące zmodyfikowanych wersji</value>
+  </data>
+  <data name=", including:" xml:space="preserve">
+    <value>, w tym:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
+    <value>ponosimy wyłączną odpowiedzialność za wersje oficjalnie dystrybuowane przez nasze oficjalne kanały.</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOS to darmowy projekt open-source dystrybuowany na licencji GNU General Public License v3.0 (GPL-v3).</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
+    <value>Chociaż każdy może legalnie uzyskać, modyfikować i rozpowszechniać kopie oprogramowania na warunkach licencji,</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>Nie popieramy, nie weryfikujemy ani nie wspieramy żadnych nieoficjalnych ani zmodyfikowanych przez osoby trzecie wersji AnduinOS.</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>robisz to całkowicie na własne ryzyko.</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>Jeśli uzyskasz AnduinOS z jakiegokolwiek źródła innego niż oficjalne kanały wymienione powyżej,</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>Zrzekamy się wszelkiej odpowiedzialności za jakiekolwiek szkody, uszkodzenia, straty lub luki w zabezpieczeniach spowodowane przez nieoficjalne lub zmodyfikowane wersje AnduinOS.</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="including:" xml:space="preserve">
+    <value>w tym:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>ponosimy wyłącznie za wersje oficjalnie dystrybuowane przez nasze oficjalne kanały,</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Chociaż każdy może legalnie uzyskać, modyfikować i rozpowszechniać kopie oprogramowania na warunkach licencji,</value>
+  </data>
+
+</root>

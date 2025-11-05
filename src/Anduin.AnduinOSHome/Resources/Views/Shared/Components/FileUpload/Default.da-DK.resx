@@ -22,34 +22,34 @@
     <value>Fjern</value>
   </data>
   <data name="Ooops, something wrong happended." xml:space="preserve">
-    <value>Ups, der skete noget galt.</value>
-  </data>
-  <data name="The image width is too small ({{ value }}px min)." xml:space="preserve">
-    <value>Billedets bredde er for lille (minimum {{ value }}px).</value>
-  </data>
-  <data name="The file size is too big ({{ value }} max)." xml:space="preserve">
-    <value>Filstørrelsen er for stor (maks. {{ value }}).</value>
-  </data>
-  <data name="The image height is too small ({{ value }}px min)." xml:space="preserve">
-    <value>Billedhøjden er for lille (minimum {{ value }}px).</value>
-  </data>
-  <data name="The image width is too big ({{ value }}px max)." xml:space="preserve">
-    <value>Billedets bredde er for stor (maks. {{ value }}px).</value>
+    <value>Ups, der skete en fejl.</value>
   </data>
   <data name="Drag and drop a file here or click" xml:space="preserve">
-    <value>Træk og slip en fil her, eller klik</value>
+    <value>Træk og slip en fil her eller klik</value>
   </data>
   <data name="Drag and drop or click to replace" xml:space="preserve">
     <value>Træk og slip, eller klik for at erstatte</value>
   </data>
+  <data name="The file size is too big ({{ value }} max)." xml:space="preserve">
+    <value>Filstørrelsen er for stor (maks. {{ value }}).</value>
+  </data>
+  <data name="The image width is too big ({{ value }}px max)." xml:space="preserve">
+    <value>Billedets bredde er for stor (maks. {{ value }}px).</value>
+  </data>
+  <data name="The image width is too small ({{ value }}px min)." xml:space="preserve">
+    <value>Billedets bredde er for lille (mindst {{ value }}px).</value>
+  </data>
+  <data name="The image height is too small ({{ value }}px min)." xml:space="preserve">
+    <value>Billedets højde er for lille (minimum {{ value }}px).</value>
+  </data>
   <data name="The image format is not allowed ({{ value }} only)." xml:space="preserve">
     <value>Billedformatet er ikke tilladt (kun {{ value }}).</value>
   </data>
-  <data name="The image height is too big ({{ value }}px max)." xml:space="preserve">
-    <value>Billedhøjden er for stor (maks. {{ value }}px).</value>
-  </data>
   <data name="The file is not allowed ({{ value }} only)." xml:space="preserve">
     <value>Filen er ikke tilladt (kun {{ value }}).</value>
+  </data>
+  <data name="The image height is too big ({{ value }}px max)." xml:space="preserve">
+    <value>Billedets højde er for stor (maks. {{ value }}px).</value>
   </data>
 
 </root>

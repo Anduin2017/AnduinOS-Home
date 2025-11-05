@@ -9,6 +9,7 @@ using Anduin.AnduinOSHome.Services.Authentication;
 using Anduin.AnduinOSHome.Sqlite;
 using Aiursoft.UiStack.Layout;
 using Aiursoft.UiStack.Navigation;
+using Anduin.AnduinOSHome.Models;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
@@ -21,6 +22,8 @@ public class Startup : IWebStartup
     {
         // AppSettings.
         services.Configure<AppSettings>(configuration.GetSection("AppSettings"));
+        services.Configure<List<string>>(configuration.GetSection("UpgradeScriptEndpoints"));
+        services.Configure<List<VersionInfo>>(configuration.GetSection("Versions"));
 
         // Relational database
         var (connectionString, dbType, allowCache) = configuration.GetDbSettings();

@@ -1,5 +1,6 @@
 using Aiursoft.CSTools.Attributes;
 using Aiursoft.CSTools.Tools;
+using Aiursoft.WebTools.Attributes;
 using Anduin.AnduinOSHome.Services;
 using Anduin.AnduinOSHome.Services.FileStorage;
 using Microsoft.AspNetCore.Mvc;
@@ -9,6 +10,7 @@ namespace Anduin.AnduinOSHome.Controllers;
 /// <summary>
 /// This controller is used to handle file operations like upload and download.
 /// </summary>
+[LimitPerMin]
 public class FilesController(
     ImageProcessingService imageCompressor,
     ILogger<FilesController> logger,

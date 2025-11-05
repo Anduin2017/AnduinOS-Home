@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="AnduinOS is a free and open-source Linux distribution based on Ubuntu." xml:space="preserve">
+    <value>AnduinOS is een gratis en open-source Linux-distributie gebaseerd op Ubuntu.</value>
+  </data>
+  <data name="Local execution means that all features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Lokale uitvoering betekent dat alle functies en diensten van AnduinOS worden uitgevoerd</value>
+  </data>
+  <data name="AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms." xml:space="preserve">
+    <value>AnduinOS bevat geen telemetrie, analyses, advertenties, tracking of mechanismen voor gedragsprofilering.</value>
+  </data>
+  <data name="Introduction" xml:space="preserve">
+    <value>Inleiding</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
+    <value>Alle systeembewerkingen, configuraties en gebruikersactiviteiten vinden plaatselijk plaats op uw eigen apparaat (&quot;lokale uitvoering&quot;).</value>
+  </data>
+  <data name="2. Why Local Execution Matters" xml:space="preserve">
+    <value>2. Waarom lokale uitvoering belangrijk is</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Laatst bijgewerkt: 10 mei 2025</value>
+  </data>
+  <data name="AnduinOS itself does not collect, transmit, or store any user data." xml:space="preserve">
+    <value>AnduinOS zelf verzamelt, verstuurt of slaat geen gebruikersgegevens op.</value>
+  </data>
+  <data name="We are committed to protecting your privacy." xml:space="preserve">
+    <value>Wij zijn toegewijd aan het beschermen van uw privacy.</value>
+  </data>
+  <data name="1. Data Collection by AnduinOS" xml:space="preserve">
+    <value>1. Gegevensverzameling door AnduinOS</value>
+  </data>
+  <data name="Thus, AnduinOS is fundamentally privacy-preserving by design." xml:space="preserve">
+    <value>Daarom is AnduinOS van fundamentele aard privacybeschermend door ontwerp.</value>
+  </data>
+  <data name=", without requiring communication with any external servers owned by us or third parties." xml:space="preserve">
+    <value>, zonder communicatie met externe servers van ons of derden nodig te hebben.</value>
+  </data>
+  <data name="There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information." xml:space="preserve">
+    <value>Er zijn geen verborgen achtergrondprocessen of netwerkcommunicaties die door het systeem worden gestart met als doel gebruikersinformatie te verzamelen.</value>
+  </data>
+  <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
+    <value>Dit document legt uit hoe AnduinOS omgaat met gebruikersgegevens, verduidelijkt het technische ontwerp met betrekking tot privacy en schetst overwegingen met betrekking tot upstream-componenten.</value>
+  </data>
+  <data name="entirely on your computer" xml:space="preserve">
+    <value>volledig op uw computer</value>
+  </data>
+  <data name="Privacy Statement" xml:space="preserve">
+    <value>Privacyverklaring</value>
+  </data>
+  <data name="Security:" xml:space="preserve">
+    <value>Beveiliging:</value>
+  </data>
+  <data name="This ensures:" xml:space="preserve">
+    <value>Dit zorgt ervoor:</value>
+  </data>
+  <data name="Freedom to inspect:" xml:space="preserve">
+    <value>Vrijheid om te inspecteren:</value>
+  </data>
+  <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>3. Open Source garandeert uw vrijheid</value>
+  </data>
+  <data name="Transparency:" xml:space="preserve">
+    <value>Transparantie:</value>
+  </data>
+  <data name="This license guarantees:" xml:space="preserve">
+    <value>Deze licentie garandeert:</value>
+  </data>
+  <data name="Reducing external communications limits exposure to interception or exploitation risks." xml:space="preserve">
+    <value>Het verminderen van externe communicatie beperkt de blootstelling aan risico&apos;s van interceptie of misbruik.</value>
+  </data>
+  <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
+    <value>In een wereld waar remote telemetrie alomtegenwoordig is geworden, minimaliseert AnduinOS bewust externe afhankelijkheden om gebruikers te beschermen.</value>
+  </data>
+  <data name="You retain complete control over your personal data." xml:space="preserve">
+    <value>U behoudt volledige controle over uw persoonlijke gegevens.</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action." xml:space="preserve">
+    <value>Er worden geen gegevens van uw machine verzonden zonder uw uitdrukkelijke handeling.</value>
+  </data>
+  <data name="Control:" xml:space="preserve">
+    <value>Beheer:</value>
+  </data>
+  <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
+    <value>Je kunt de code aanpassen aan je behoeften, inclusief het verwijderen van componenten die je niet vertrouwt.</value>
+  </data>
+  <data name="Freedom to modify:" xml:space="preserve">
+    <value>Vrijheid om aan te passen:</value>
+  </data>
+  <data name="AnduinOS is distributed under the" xml:space="preserve">
+    <value>AnduinOS wordt verspreid onder de</value>
+  </data>
+  <data name="Freedom to redistribute:" xml:space="preserve">
+    <value>Vrijheid om te herdistribueren:</value>
+  </data>
+  <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
+    <value>U kunt de broncode bekijken om te verifiëren dat er geen verborgen volgmechanismen zijn.</value>
+  </data>
+  <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
+    <value>Je kunt AnduinOS delen, zowel aangepast als ongewijzigd, onder dezelfde licentievoorwaarden.</value>
+  </data>
+  <data name="The open nature of AnduinOS empowers users to independently verify that the system respects their privacy." xml:space="preserve">
+    <value>De open aard van AnduinOS stelt gebruikers in staat om zelfstandig te verifiëren dat het systeem hun privacy respecteert.</value>
+  </data>
+  <data name="There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu." xml:space="preserve">
+    <value>Er zijn geen propriëtaire blobs of gesloten modules buiten de upstream-afhankelijkheden die expliciet van Ubuntu zijn overgenomen.</value>
+  </data>
+  <data name="it integrates a wide range of upstream open-source software" xml:space="preserve">
+    <value>het integreert een breed scala aan upstream open-source software</value>
+  </data>
+  <data name="Notably:" xml:space="preserve">
+    <value>Met name:</value>
+  </data>
+  <data name="(Some examples and references can be found" xml:space="preserve">
+    <value>(Enkele voorbeelden en referenties zijn te vinden</value>
+  </data>
+  <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>4. Upstreamsoftware en privacyoverwegingen</value>
+  </data>
+  <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
+    <value>Hoewel AnduinOS zelf geen gegevens verzamelt,</value>
+  </data>
+  <data name="Some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Sommige upstream-componenten kunnen onafhankelijke mechanismen voor gegevensverzameling hebben.</value>
+  </data>
+  <data name="We strongly recommend users review Canonical&apos;s" xml:space="preserve">
+    <value>Wij raden gebruikers ten zeerste aan om Canonical&apos;s</value>
+  </data>
+  <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
+    <value>afkomstig van Ubuntu, Debian, GNOME, Flathub en andere bronnen.</value>
+  </data>
+  <data name="for details." xml:space="preserve">
+    <value>voor meer details.</value>
+  </data>
+  <data name="(Ubuntu&apos;s developer) may collect certain system information for statistics and diagnostics purposes via tools like:" xml:space="preserve">
+    <value>(De ontwikkelaar van Ubuntu) kan bepaalde systeeminformatie verzamelen voor statistische en diagnostische doeleinden via tools zoals:</value>
+  </data>
+  <data name="Snap store background services (if Snap is manually installed by users)" xml:space="preserve">
+    <value>Achtergrondservices van de Snap Store (indien Snap handmatig door gebruikers is geïnstalleerd)</value>
+  </data>
+  <data name="not" xml:space="preserve">
+    <value>niet</value>
+  </data>
+  <data name="AnduinOS does" xml:space="preserve">
+    <value>AnduinOS doet</value>
+  </data>
+  <data name="5. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>5. Omgaan met mogelijke Ubuntu-telemetrie</value>
+  </data>
+  <data name="It merely redistributes them in their original, unmodified state." xml:space="preserve">
+    <value>Het verdeelt ze alleen maar in hun oorspronkelijke, ongewijzigde staat.</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Privacybeleid</value>
+  </data>
+  <data name="modify, enhance, or introduce additional telemetry into these upstream components." xml:space="preserve">
+    <value>wijzigen, verbeteren of extra telemetrie toevoegen aan deze upstream-componenten.</value>
+  </data>
+  <data name="Snap daemon" xml:space="preserve">
+    <value>Snap-daemon</value>
+  </data>
+  <data name="Explanation:" xml:space="preserve">
+    <value>Toelichting:</value>
+  </data>
+  <data name="Canonical Livepatch service" xml:space="preserve">
+    <value>Canonical Livepatch-service</value>
+  </data>
+  <data name=": Collects basic hardware and software details at installation time." xml:space="preserve">
+    <value>Verzamelt basisinformatie over hardware en software tijdens de installatie.</value>
+  </data>
+  <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
+    <value>Echter, als je handmatig pakketten installeert vanuit Ubuntu-repositories of bepaalde Ubuntu-specifieke functies inschakelt, kunnen sommige van deze telemetriemechanismen worden geïntroduceerd.</value>
+  </data>
+  <data name="Thus, by default," xml:space="preserve">
+    <value>Daarom, standaard,</value>
+  </data>
+  <data name=": Automated error reporting services." xml:space="preserve">
+    <value>Geautomatiseerde foutrapportageservices.</value>
+  </data>
+  <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
+    <value>Om volledige uitschrijving te garanderen, kunt u deze pakketten controleren en indien nodig verwijderen met:</value>
+  </data>
+  <data name=": Periodically submits anonymous package usage statistics." xml:space="preserve">
+    <value>Dient periodiek anonieme pakketgebruiksstatistieken in.</value>
+  </data>
+  <data name="AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting" xml:space="preserve">
+    <value>AnduinOS neemt niet deel aan systeemrapportage, het indienen van gebruiksstatistieken of geautomatiseerde crashrapportage.</value>
+  </data>
+  <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
+    <value>AnduinOS is toegewijd aan het standaard schoon en telemetrie-vrij houden van je installatie.</value>
+  </data>
+  <data name="AnduinOS does not preinstall any telemetry-related packages" xml:space="preserve">
+    <value>AnduinOS installeert standaard geen telemetrie-gerelateerde pakketten.</value>
+  </data>
+  <data name="If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required." xml:space="preserve">
+    <value>Als deze pakketten niet zijn geïnstalleerd (zoals het geval is bij een schone AnduinOS-installatie), is geen actie vereist.</value>
+  </data>
+  <data name="6. Responsibility Clarification" xml:space="preserve">
+    <value>6. Verduidelijking van verantwoordelijkheden</value>
+  </data>
+  <data name="For privacy concerns related to third-party applications," xml:space="preserve">
+    <value>Voor privacyzorgen met betrekking tot applicaties van derden,</value>
+  </data>
+  <data name="Note:" xml:space="preserve">
+    <value>Opmerking:</value>
+  </data>
+  <data name="maintained in spare time by volunteers." xml:space="preserve">
+    <value>worden in hun vrije tijd onderhouden door vrijwilligers.</value>
+  </data>
+  <data name="and does not share any information with governments, corporations, or any third parties." xml:space="preserve">
+    <value>en deelt geen informatie met overheden, bedrijven of andere derde partijen.</value>
+  </data>
+  <data name="AnduinOS is a community-driven, non-profit project" xml:space="preserve">
+    <value>AnduinOS is een door de gemeenschap gedreven, non-profit project.</value>
+  </data>
+  <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
+    <value>Mocht u vragen hebben over deze Privacyverklaring of de privacypraktijken van AnduinOS, neem dan contact op met:</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub Discussies</value>
+  </data>
+  <data name="7. Contact Information" xml:space="preserve">
+    <value>7. Contactgegevens</value>
+  </data>
+  <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
+    <value>raadpleeg de respectieve privacybeleidsdocumenten van de upstream-bronnen.</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Gemeenschap:</value>
+  </data>
+  <data name="such as:" xml:space="preserve">
+    <value>zoals:</value>
+  </data>
+  <data name="AnduinOS does not have a data collection infrastructure" xml:space="preserve">
+    <value>AnduinOS heeft geen infrastructuur voor gegevensverzameling</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>hier</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>AnduinOS-updateservice</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Lokale uitvoering betekent dat de meeste functies en diensten van AnduinOS worden uitgevoerd</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Om te controleren op en om systeemupdates te downloaden, verbindt AnduinOS met ons update-eindpunt op</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Er verlaat geen gegevens uw computer zonder uw uitdrukkelijke handeling of voor essentiële functionaliteit.</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, met uitzondering van specifieke, door de gebruiker geïnitieerde functies of essentiële diensten die hieronder worden beschreven.</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Essentiële Netwerkverbindingen &amp; Diensten van Derden</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Deze verbinding is essentieel om uw systeem beveiligd en up-to-date te houden. Net als bij elke standaard HTTPS-verbinding zal dit proces uw IP-adres blootstellen aan onze server.</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>en hebben bevestigd dat het geen telemetrie bevat.</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Dit proces zal uw IP-adres blootstellen aan onze server.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather-extensie</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>om uw locatie te bepalen op basis van uw IP-adres.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Ons team heeft de broncode van deze extensie beoordeeld</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS bevat de &apos;SimpleWeather&apos; GNOME-extensie om huidige weersomstandigheden te tonen.</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Hoewel AnduinOS is ontworpen voor lokaal-eerst gebruik, vereisen bepaalde functies netwerktoegang om te functioneren. Deze verbindingen worden niet gebruikt voor telemetrie, maar ze brengen wel communicatie met externe servers met zich mee, wat een onvermijdelijke vereiste is voor de werking van deze diensten en uw IP-adres zal blootleggen.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>Om te functioneren moet de extensie echter locatie- en weergegevens ophalen van derde partijen. Dit omvat verbinding maken met</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Open Source garandeert uw vrijheid</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Wij hebben geen controle over de privacypraktijken van</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Wanneer uw systeem controleert op software-updates (bijvoorbeeld met</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>of welke weersgegevensleveranciers het ook gebruikt. Verbinding maken met deze diensten zal uw IP-adres noodzakelijkerwijs aan hen blootstellen.</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Bovenstroomse Software en Privacyoverwegingen</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Dit omvat het gebruik van Ubuntu&apos;s officiële softwarepakketbronnen en mirrors, die worden beheerd door derde partijen (zoals universiteiten en bedrijven).</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Daarnaast kunnen sommige upstream-componenten onafhankelijke mechanismen voor gegevensverzameling hebben.</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), maakt het verbinding met deze externe servers. Dit proces is essentieel voor de systeembeveiliging, maar zal uw IP-adres blootstellen aan de beheerders van de repository-mirror waarmee u verbonden bent.</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Omgaan met mogelijke Ubuntu-telemetrie</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Verduidelijking van Verantwoordelijkheden</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Contactgegevens</value>
+  </data>
+
+</root>

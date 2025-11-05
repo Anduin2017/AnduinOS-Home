@@ -22,7 +22,7 @@
     <value>移除</value>
   </data>
   <data name="Ooops, something wrong happended." xml:space="preserve">
-    <value>哎呀，發生錯誤了。</value>
+    <value>糟糕，發生錯誤。</value>
   </data>
   <data name="Drag and drop or click to replace" xml:space="preserve">
     <value>拖放或點擊以替換</value>
@@ -30,26 +30,26 @@
   <data name="The file size is too big ({{ value }} max)." xml:space="preserve">
     <value>檔案大小過大（最大 {{ value }}）。</value>
   </data>
+  <data name="The image width is too small ({{ value }}px min)." xml:space="preserve">
+    <value>圖片寬度太小 (最小 {{ value }}px)。</value>
+  </data>
   <data name="The image height is too small ({{ value }}px min)." xml:space="preserve">
-    <value>圖片高度過小（至少需 {{ value }} 像素）。</value>
+    <value>圖片高度過小 (最小 {{ value }}px)。</value>
   </data>
   <data name="Drag and drop a file here or click" xml:space="preserve">
-    <value>拖曳檔案至此處或點擊上傳</value>
+    <value>拖放檔案至此處，或點擊選取</value>
   </data>
   <data name="The image width is too big ({{ value }}px max)." xml:space="preserve">
     <value>圖片寬度過大（最大 {{ value }} 像素）。</value>
   </data>
-  <data name="The image width is too small ({{ value }}px min)." xml:space="preserve">
-    <value>圖片寬度過小（至少需 {{ value }} 像素）。</value>
-  </data>
-  <data name="The image format is not allowed ({{ value }} only)." xml:space="preserve">
-    <value>不支援此圖片格式（僅允許 {{ value }}）。</value>
-  </data>
   <data name="The image height is too big ({{ value }}px max)." xml:space="preserve">
-    <value>圖片高度過大（最大 {{ value }}px）。</value>
+    <value>圖片高度過大（最大 {{ value }} 像素）。</value>
   </data>
   <data name="The file is not allowed ({{ value }} only)." xml:space="preserve">
-    <value>不允許此檔案類型（僅允許 {{ value }}）。</value>
+    <value>不允許此檔案（僅允許 {{ value }}）。</value>
+  </data>
+  <data name="The image format is not allowed ({{ value }} only)." xml:space="preserve">
+    <value>不允許此圖片格式 (僅允許 {{ value }})。</value>
   </data>
 
 </root>

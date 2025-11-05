@@ -18,47 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Resources" xml:space="preserve">
+      <data name="Community" xml:space="preserve">
+    <value>Comunidade</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
     <value>Recursos</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Documentação</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Notícias</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referência</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Status do Serviço</value>
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Código Fonte</value>
   </data>
-  <data name="Project" xml:space="preserve">
-    <value>Projeto</value>
-  </data>
-  <data name="Documentation" xml:space="preserve">
-    <value>Documentação</value>
-  </data>
-  <data name="Report an Issue" xml:space="preserve">
-    <value>Reportar um Problema</value>
-  </data>
-  <data name="Get Started" xml:space="preserve">
-    <value>Começar</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Comunidade</value>
-  </data>
-  <data name="Licence" xml:space="preserve">
+  <data name="License" xml:space="preserve">
     <value>Licença</value>
   </data>
-  <data name="Social" xml:space="preserve">
-    <value>Redes Sociais</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - uma distribuição Linux personalizada baseada em Ubuntu que oferece uma experiência familiar e fácil de usar para qualquer pessoa migrando para o Linux.</value>
   </data>
-  <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
-    <value>Aiursoft Template - Uma base moderna, rica em recursos e altamente extensível para sua próxima aplicação web.</value>
+  <data name="Open Source" xml:space="preserve">
+    <value>Código Aberto</value>
   </data>
-  <data name="Contributions" xml:space="preserve">
-    <value>Contribuições</value>
-  </data>
-  <data name="Legal" xml:space="preserve">
+  <data name="Legals" xml:space="preserve">
     <value>Jurídico</value>
   </data>
-  <data name="Aiursoft" xml:space="preserve">
-    <value>Aiursoft</value>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Política de Privacidade</value>
   </data>
-  <data name="Github" xml:space="preserve">
-    <value>GitHub</value>
+  <data name="Social" xml:space="preserve">
+    <value>Social</value>
+  </data>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(Gerenciado pela comunidade)</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Termos de Serviço</value>
   </data>
 
 </root>

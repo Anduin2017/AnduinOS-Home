@@ -18,23 +18,26 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="GitHub" xml:space="preserve">
-    <value>GitHub</value>
-  </data>
-  <data name="Documentation" xml:space="preserve">
-    <value>ドキュメント</value>
+      <data name="Donate" xml:space="preserve">
+    <value>寄付</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>コミュニティ</value>
   </data>
+  <data name="News" xml:space="preserve">
+    <value>ニュース</value>
+  </data>
+  <data name="Install" xml:space="preserve">
+    <value>インストール</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>ドキュメント</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>ソースコード</value>
   </data>
-  <data name="Try the dashboard" xml:space="preserve">
-    <value>ダッシュボードを試す</value>
-  </data>
-  <data name="Aiursoft Template" xml:space="preserve">
-    <value>Aiursoft テンプレート</value>
+  <data name="Download" xml:space="preserve">
+    <value>ダウンロード</value>
   </data>
 
 </root>

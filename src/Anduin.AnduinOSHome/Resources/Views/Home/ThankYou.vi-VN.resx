@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Thank you for downloading" xml:space="preserve">
+    <value>Cảm ơn bạn đã tải xuống</value>
+  </data>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
+  </data>
+  <data name="!" xml:space="preserve">
+    <value>!</value>
+  </data>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Sau khi tải xuống, bạn có thể muốn tìm hiểu cách để</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>kiểm tra checksum</value>
+  </data>
+  <data name="and" xml:space="preserve">
+    <value>và</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>ghi file ISO vào USB</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>Nếu bạn mới làm quen với AnduinOS, bạn cũng có thể muốn xem qua</value>
+  </data>
+  <data name="System requirement" xml:space="preserve">
+    <value>Yêu cầu hệ thống</value>
+  </data>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>Chúc bạn trải nghiệm hệ điều hành mới thật vui!</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Thông tin</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>Bước tiếp theo là gì?</value>
+  </data>
+  <data name="Documentation" xml:space="preserve">
+    <value>Tài liệu</value>
+  </data>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>Hãy xem tài liệu, bạn có thể tìm thấy câu trả lời ở đó.</value>
+  </data>
+  <data name="Report a problem" xml:space="preserve">
+    <value>Báo cáo sự cố</value>
+  </data>
+  <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
+    <value>Gặp sự cố? Có đề xuất? Hãy đăng thảo luận về nó.</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>Quyên góp</value>
+  </data>
+  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
+    <value>Bạn muốn đóng góp? AnduinOS hoạt động dựa trên sự hỗ trợ từ người dùng. Chúng tôi vô cùng biết ơn sự giúp đỡ của bạn.</value>
+  </data>
+
+</root>

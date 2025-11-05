@@ -1,11 +1,14 @@
 {
-  "name": "wwwroot",
+  "name": "anduinos-home",
   "version": "1.0.0",
-  "description": "This is a server side application. This package is used to host the static files.",
-  "author": "Anduin Xue",
-  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "dependencies": {
-    "@aiursoft/uistack": "^1.0.8",
-    "dropify": "^0.2.2"
+    "@aiursoft/uistack": "^1.0.3"
   }
 }

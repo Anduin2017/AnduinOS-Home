@@ -1,3 +1,4 @@
+using Aiursoft.WebTools.Attributes;
 using Anduin.AnduinOSHome.Models.ManageViewModels;
 using Microsoft.AspNetCore.Mvc;
 
@@ -6,6 +7,7 @@ namespace Anduin.AnduinOSHome.Controllers;
 /// <summary>
 /// This controller is used to handle theme related actions like switch theme.
 /// </summary>
+[LimitPerMin]
 public class ThemeController : ControllerBase
 {
     public const string ThemeCookieKey = "prefer-dark";

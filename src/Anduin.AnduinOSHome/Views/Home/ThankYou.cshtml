@@ -1,0 +1,83 @@
+@{
+    ViewData["Title"] = "Thank you for downloading AnduinOS!";
+}
+
+<vc:marketing-navbar></vc:marketing-navbar>
+
+
+@* Main content section *@
+<section class="landing-intro text-bg-dark pt-5 pt-lg-6 pb-5 pb-lg-7">
+    <div class="landing-intro-content container h-100">
+        <div class="row align-items-center h-100">
+            <div class="col-lg-7 mx-auto">
+                <h1 id="main-slogan" class="my-4 text-white" style="font-size: 3rem;">
+                    @Localizer["Thank you for downloading"]
+                    <span class='text-primary'>@Localizer["AnduinOS"]</span>
+                    @Localizer["!"]
+                </h1>
+                <p class="text-lg text-white-50">
+                    @Localizer["After downloading, you may want to learn how to"]
+                    <a href="https://docs.anduinos.com/Install/Download-AnduinOS.html">@Localizer["verify the checksum"]</a>
+                    @Localizer["and"]
+                    <a href="https://docs.anduinos.com/Install/Burn-A-USB-Stick.html">@Localizer["burn the ISO to a USB drive"]</a>@Localizer["."]
+                </p>
+                <p class="text-lg text-white-50">
+                    @Localizer["If you are new to AnduinOS, you may also want to check out the"]
+                    <a href="https://docs.anduinos.com/Install/System-Requirements.html">@Localizer["System requirement"]</a>@Localizer["."]
+                </p>
+                <p class="text-lg text-white-90">@Localizer["Enjoy your new OS!"]</p>
+            </div>
+            <div class="col-lg-5 d-none d-lg-flex mx-auto text-center">
+                <div class="landing-intro-screenshot">
+                    <img src="sc.webp" alt="AnduinOS Main screenshot" class="img-fluid"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@* Features section *@
+<section class="py-6">
+    <div class="container">
+        <div class="mb-5 text-center">
+            <span class="text-uppercase text-primary text-sm fw-medium mb-1 d-block">@Localizer["Information"]</span>
+            <h2 class="h1">@Localizer["What's next?"]</h2>
+        </div>
+        <div class="row text-start">
+            <div class="col-12 col-md-4">
+                <div class="d-flex align-items-start py-3">
+                    <div class="landing-feature">
+                        <i data-lucide="book-text"></i>
+                    </div>
+                    <div class="flex-grow-1">
+                        <h4 class="mt-0"><a href="https://docs.anduinos.com/">@Localizer["Documentation"]</a></h4>
+                        <p class="fs-lg">@Localizer["Take a look at documentation, you may find your answers there."]</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="d-flex align-items-start py-3">
+                    <div class="landing-feature">
+                        <i data-lucide="life-buoy"></i>
+                    </div>
+                    <div class="flex-grow-1">
+                        <h4 class="mt-0"><a href="https://github.com/Anduin2017/AnduinOS/discussions">@Localizer["Report a problem"]</a></h4>
+                        <p class="fs-lg">@Localizer["Something not working? Have a suggestion? Post about it to discussion."]</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-4">
+                <div class="d-flex align-items-start py-3">
+                    <div class="landing-feature">
+                        <i data-lucide="hand-coins"></i>
+                    </div>
+                    <div class="flex-grow-1">
+                        <h4 class="mt-0"><a href="https://www.paypal.com/paypalme/anduinxue2017">@Localizer["Donate"]</a></h4>
+                        <p class="fs-lg">@Localizer["Feeling generous? AnduinOS works based on donations from users. We are grateful for your support."]</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<vc:marketing-footer></vc:marketing-footer>

@@ -18,47 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Project" xml:space="preserve">
-    <value>Έργο</value>
-  </data>
-  <data name="Report an Issue" xml:space="preserve">
-    <value>Αναφορά Προβλήματος</value>
-  </data>
-  <data name="Documentation" xml:space="preserve">
+      <data name="Document" xml:space="preserve">
     <value>Τεκμηρίωση</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Κοινότητα</value>
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Πηγαίος Κώδικας</value>
   </data>
-  <data name="Get Started" xml:space="preserve">
-    <value>Ξεκινήστε</value>
+  <data name="Service Status" xml:space="preserve">
+    <value>Κατάσταση Υπηρεσίας</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>Κοινότητα</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Νέα</value>
   </data>
   <data name="Resources" xml:space="preserve">
     <value>Πόροι</value>
   </data>
-  <data name="Contributions" xml:space="preserve">
-    <value>Συνεισφορές</value>
+  <data name="Reference" xml:space="preserve">
+    <value>Αναφορές</value>
   </data>
-  <data name="Legal" xml:space="preserve">
-    <value>Νομικά</value>
-  </data>
-  <data name="Licence" xml:space="preserve">
+  <data name="License" xml:space="preserve">
     <value>Άδεια</value>
   </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Όροι Παροχής Υπηρεσιών</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Ανοιχτός Κώδικας</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Πολιτική Απορρήτου</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Νομικά</value>
+  </data>
   <data name="Social" xml:space="preserve">
-    <value>Κοινωνικά</value>
+    <value>Κοινωνικά Δίκτυα</value>
   </data>
-  <data name="Github" xml:space="preserve">
-    <value>Github</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>Το AnduinOS - μια προσαρμοσμένη διανομή Linux βασισμένη στο Ubuntu που προσφέρει μια οικεία και εύχρηστη εμπειρία για όσους μεταβαίνουν στο Linux.</value>
   </data>
-  <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
-    <value>Aiursoft Template - Ένα σύγχρονο, πλούσιο σε λειτουργίες και ιδιαίτερα επεκτάσιμο θεμέλιο για την επόμενη εφαρμογή σας web.</value>
-  </data>
-  <data name="Aiursoft" xml:space="preserve">
-    <value>Aiursoft</value>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(Διαχειρίζεται η κοινότητα)</value>
   </data>
 
 </root>

@@ -18,47 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Documentation" xml:space="preserve">
-    <value>เอกสารประกอบ</value>
+      <data name="Reference" xml:space="preserve">
+    <value>เอกสารอ้างอิง</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>ข่าว</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>สถานะการให้บริการ</value>
   </data>
   <data name="Resources" xml:space="preserve">
     <value>ทรัพยากร</value>
   </data>
-  <data name="Report an Issue" xml:space="preserve">
-    <value>รายงานปัญหา</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>โครงการ</value>
-  </data>
-  <data name="Get Started" xml:space="preserve">
-    <value>เริ่มต้นใช้งาน</value>
-  </data>
   <data name="Community" xml:space="preserve">
     <value>ชุมชน</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>เอกสาร</value>
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>ซอร์สโค้ด</value>
   </data>
-  <data name="Github" xml:space="preserve">
-    <value>GitHub</value>
+  <data name="Legals" xml:space="preserve">
+    <value>ข้อกำหนดทางกฎหมาย</value>
   </data>
-  <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
-    <value>Aiursoft Template - พื้นฐานที่ทันสมัย อุดมไปด้วยคุณสมบัติ และขยายได้สูงสำหรับเว็บแอปพลิเคชันถัดไปของคุณ</value>
+  <data name="License" xml:space="preserve">
+    <value>สัญญาอนุญาต</value>
   </data>
-  <data name="Legal" xml:space="preserve">
-    <value>ข้อกฎหมาย</value>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>นโยบายความเป็นส่วนตัว</value>
   </data>
   <data name="Social" xml:space="preserve">
     <value>โซเชียล</value>
   </data>
-  <data name="Contributions" xml:space="preserve">
-    <value>การมีส่วนร่วม</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - ระบบปฏิบัติการลินุกซ์ที่ปรับแต่งมาจาก Ubuntu ซึ่งมอบประสบการณ์ที่คุ้นเคยและใช้งานง่ายสำหรับทุกคนที่กำลังย้ายมาใช้ลินุกซ์</value>
   </data>
-  <data name="Licence" xml:space="preserve">
-    <value>ใบอนุญาต</value>
+  <data name="Open Source" xml:space="preserve">
+    <value>โอเพนซอร์ส</value>
   </data>
-  <data name="Aiursoft" xml:space="preserve">
-    <value>Aiursoft</value>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>ข้อกำหนดในการให้บริการ</value>
+  </data>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(ดำเนินการโดยชุมชน)</value>
   </data>
 
 </root>

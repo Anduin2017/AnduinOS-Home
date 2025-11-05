@@ -3,6 +3,7 @@ using Anduin.AnduinOSHome.Entities;
 using Anduin.AnduinOSHome.Models.UsersViewModels;
 using Anduin.AnduinOSHome.Services;
 using Aiursoft.UiStack.Navigation;
+using Aiursoft.WebTools.Attributes;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authorization;
@@ -14,6 +15,7 @@ namespace Anduin.AnduinOSHome.Controllers;
 /// This controller is used to handle users related actions like create, edit, delete, etc.
 /// </summary>
 [Authorize]
+[LimitPerMin]
 public class UsersController(
     RoleManager<IdentityRole> roleManager,
     UserManager<User> userManager,

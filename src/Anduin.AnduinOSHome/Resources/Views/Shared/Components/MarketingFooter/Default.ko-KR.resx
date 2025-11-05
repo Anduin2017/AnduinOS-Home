@@ -21,44 +21,47 @@
       <data name="Resources" xml:space="preserve">
     <value>리소스</value>
   </data>
-  <data name="Documentation" xml:space="preserve">
-    <value>문서</value>
-  </data>
-  <data name="Project" xml:space="preserve">
-    <value>프로젝트</value>
-  </data>
-  <data name="Report an Issue" xml:space="preserve">
-    <value>문제 신고</value>
-  </data>
   <data name="Source Code" xml:space="preserve">
     <value>소스 코드</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>뉴스</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>커뮤니티</value>
   </data>
-  <data name="Get Started" xml:space="preserve">
-    <value>시작하기</value>
+  <data name="Reference" xml:space="preserve">
+    <value>참조</value>
   </data>
-  <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
-    <value>Aiursoft Template - 현대적이고 기능이 풍부하며 확장성이 뛰어난 웹 애플리케이션 기반 플랫폼입니다.</value>
+  <data name="Document" xml:space="preserve">
+    <value>문서</value>
   </data>
-  <data name="Legal" xml:space="preserve">
-    <value>법적</value>
+  <data name="Service Status" xml:space="preserve">
+    <value>서비스 상태</value>
   </data>
-  <data name="Contributions" xml:space="preserve">
-    <value>기여</value>
-  </data>
-  <data name="Github" xml:space="preserve">
-    <value>GitHub</value>
-  </data>
-  <data name="Licence" xml:space="preserve">
+  <data name="License" xml:space="preserve">
     <value>라이선스</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>오픈 소스</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>법적 정보</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>안두인OS - 리눅스로 전환하는 모든 사용자에게 익숙하고 사용하기 쉬운 경험을 제공하는 Ubuntu 기반의 맞춤형 리눅스 배포판입니다.</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>개인정보처리방침</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>이용약관</value>
   </data>
   <data name="Social" xml:space="preserve">
     <value>소셜</value>
   </data>
-  <data name="Aiursoft" xml:space="preserve">
-    <value>Aiursoft</value>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(커뮤니티 운영)</value>
   </data>
 
 </root>

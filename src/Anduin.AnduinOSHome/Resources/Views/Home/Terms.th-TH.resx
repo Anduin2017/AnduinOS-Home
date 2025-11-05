@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Terms of Service" xml:space="preserve">
+    <value>ข้อกำหนดในการให้บริการ</value>
+  </data>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. การแก้ไขข้อกำหนด</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. การยอมรับข้อกำหนด</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>การที่คุณยังคงใช้เว็บไซต์หรือบริการต่อไปหลังจากการเปลี่ยนแปลงใด ๆ ถือเป็นการยอมรับข้อกำหนดใหม่</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>อัปเดตล่าสุด: 10 พฤษภาคม 2025</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>ใช้เว็บไซต์หรือบริการเพื่อกิจกรรมที่ฉ้อโกง ผิดกฎหมาย หรือเป็นอันตราย</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>ขอแนะนำให้คุณทบทวนข้อกำหนดเหล่านี้เป็นระยะ</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>ใช้ในทางที่ผิด โจมตี หรือทำให้เว็บไซต์ เซิร์ฟเวอร์ หรือบริการทำงานหนักเกินไป</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. การใช้เว็บไซต์และบริการ</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>คุณตกลงโดยเฉพาะว่าจะไม่:</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>หากคุณไม่เห็นด้วยกับข้อกำหนดใดๆ ในส่วนนี้ คุณจะต้องไม่ใช้เว็บไซต์หรือบริการ</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>พยายามเข้าถึงระบบหรือข้อมูลโดยไม่ได้รับอนุญาต</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>คุณตกลงที่จะใช้เว็บไซต์และบริการเฉพาะเพื่อวัตถุประสงค์ที่ถูกต้องตามกฎหมายและเป็นไปตามกฎหมายและระเบียบข้อบังคับที่เกี่ยวข้องทั้งหมด</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>เราขอสงวนสิทธิ์ในการอัปเดตหรือแก้ไขข้อกำหนดเหล่านี้ได้ตลอดเวลาโดยไม่ต้องแจ้งให้ทราบล่วงหน้า</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>อัปโหลด แจกจ่าย หรือส่งมอบมัลแวร์ ไวรัส หรือโค้ดที่เป็นอันตรายใดๆ</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>เราขอสงวนสิทธิ์ในการจำกัดหรือยกเลิกการเข้าถึงสำหรับผู้ใช้ที่ละเมิดข้อกำหนดเหล่านี้</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS เป็นโครงการฟรีและโอเพนซอร์สที่เผยแพร่ภายใต้</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>คุณไม่อนุญาตให้คัดลอก ทำซ้ำ หรือแจกจ่ายองค์ประกอบที่ไม่ใช่โค้ดของเว็บไซต์โดยไม่ได้รับอนุญาตอย่างชัดเจน</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>เว็บไซต์และบริการอาจรวมถึงลิงก์ไปยังเว็บไซต์หรือบริการของบุคคลที่สามที่เราไม่ได้เป็นเจ้าของหรือควบคุม</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. ลิงก์และเนื้อหาของบุคคลที่สาม</value>
+  </data>
+  <data name="GNU General Public License v3.0 (GPL-v3)" xml:space="preserve">
+    <value>สัญญาอนุญาตสาธารณะทั่วไปของ GNU รุ่น 3.0 (GPL-v3)</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>ในขณะที่ซอฟต์แวร์เป็นโอเพนซอร์ส แต่การออกแบบเว็บไซต์ วัสดุสร้างแบรนด์ และเนื้อหาอื่นๆ ที่ไม่ใช่ซอฟต์แวร์อาจอยู่ภายใต้สิทธิ์ในทรัพย์สินทางปัญญาที่แยกต่างหาก</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>การเข้าถึงทรัพยากรของบุคคลที่สามเป็นความเสี่ยงของคุณเอง</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>ความเหมาะสมสำหรับวัตถุประสงค์เฉพาะ</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. ทรัพย์สินทางปัญญา</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>เราไม่รับผิดชอบต่อเนื้อหา นโยบาย หรือแนวทางปฏิบัติของเว็บไซต์บุคคลที่สามใดๆ</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. ข้อปฏิเสธความรับผิดชอบในการรับประกัน</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>ความแม่นยำ</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>เราปฏิเสธการรับประกันใด ๆ ทั้งสิ้นอย่างชัดเจน รวมแต่ไม่จำกัดเฉพาะ</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>เว็บไซต์ บริการ และซอฟต์แวร์ AnduinOS มีให้บริการ</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>โดยไม่มีข้อรับประกันใด ๆ ทั้งสิ้น ไม่ว่าจะเป็นข้อรับประกันที่แสดงไว้ชัดเจนหรือโดยนัย</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>ไม่ละเมิดสิทธิ์</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>ความน่าเชื่อถือ</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. การจำกัดความรับผิดชอบ</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>ความพร้อมใช้งานหรือความปลอดภัยของเว็บไซต์ บริการ หรือซอฟต์แวร์</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>การสูญเสียกำไร รายได้ ข้อมูล หรือความนิยม;</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>ความเสียหายทางอ้อม, เฉพาะหน้า, เฉพาะกิจ, ตามมา, หรือเพื่อลงโทษ;</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>ตามขอบเขตสูงสุดที่กฎหมายอนุญาต เราจะไม่รับผิดชอบต่อ:</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>การใช้ AnduinOS และเว็บไซต์นี้เป็นความเสี่ยงของคุณเองโดยสมบูรณ์</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. การสิ้นสุด</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>อีเมล:</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>หากคุณมีข้อสงสัยใดๆ เกี่ยวกับข้อกำหนดในการให้บริการเหล่านี้ กรุณาติดต่อ:</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. ข้อจำกัดความรับผิดชอบเกี่ยวกับเวอร์ชันที่ถูกปรับเปลี่ยน</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>ข้อกำหนดเหล่านี้อยู่ภายใต้และตีความตามกฎหมายของเขตอำนาจศาลที่ผู้ดำเนินการเว็บไซต์ตั้งอยู่ โดยไม่คำนึงถึงหลักกฎหมายขัดแย้ง</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>เราขอสงวนสิทธิ์ในการระงับหรือยกเลิกการเข้าถึงเว็บไซต์หรือบริการของคุณได้ทันที โดยไม่ต้องแจ้งล่วงหน้า สำหรับพฤติกรรมที่เราเชื่อว่าฝ่าฝืนข้อกำหนดเหล่านี้หรือเป็นอันตรายต่อผู้ใช้อื่น เรา หรือบุคคลที่สาม</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>ชุมชน:</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. กฎหมายที่ใช้บังคับ</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. ข้อมูลติดต่อ</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>ความเสียหายที่เกิดจากการใช้งาน (หรือไม่สามารถใช้งาน) เว็บไซต์ บริการ หรือซอฟต์แวร์ AnduinOS</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
+    <value>แม้ว่าทุกคนจะสามารถรับ ดัดแปลง และแจกจ่ายซอฟต์แวร์นี้ได้อย่างถูกกฎหมายภายใต้เงื่อนไขของสัญญาอนุญาต</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
+    <value>เรารับผิดชอบเฉพาะเวอร์ชันที่แจกจ่ายอย่างเป็นทางการผ่านช่องทางของเราเท่านั้น</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOS เป็นโครงการฟรีและโอเพนซอร์ส ที่เผยแพร่ภายใต้สัญญาอนุญาต GNU General Public License v3.0 (GPL-v3)</value>
+  </data>
+  <data name=", including:" xml:space="preserve">
+    <value>รวมถึง:</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>เราไม่สนับสนุน ตรวจสอบ หรือให้การช่วยเหลือกับเวอร์ชันที่ถูกดัดแปลงโดยบุคคลที่สามหรือเวอร์ชันที่ไม่เป็นทางการของ AnduinOS</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>คุณดำเนินการดังกล่าวโดยรับความเสี่ยงทั้งหมดด้วยตนเอง</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>หากคุณได้รับ AnduinOS จากแหล่งอื่นนอกเหนือจากช่องทางทางการที่ระบุไว้ข้างต้น</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>เราขอยกเว้นความรับผิดชอบใด ๆ สำหรับความเสียหาย ความสูญเสีย หรือช่องโหว่ด้านความปลอดภัยที่เกิดจากเวอร์ชันที่ไม่เป็นทางการหรือเวอร์ชันที่ถูกดัดแปลงของ AnduinOS</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>&quot;ตามที่มี&quot; และ &quot;ตามที่มีให้บริการ&quot;</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>เมื่อคุณเข้าถึงและใช้เว็บไซต์ AnduinOS (&quot;เว็บไซต์&quot;) และบริการที่เกี่ยวข้องใดๆ รวมถึงแต่ไม่จำกัดเพียงเอกสารประกอบ การดาวน์โหลด และการสนทนาชุมชน (&quot;บริการ&quot;) คุณตกลงที่จะผูกพันตามข้อกำหนดการให้บริการเหล่านี้ (&quot;ข้อกำหนด&quot;)</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub Discussions</value>
+  </data>
+  <data name="including:" xml:space="preserve">
+    <value>รวมถึง:</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>เรารับผิดชอบเฉพาะเวอร์ชันที่แจกจ่ายอย่างเป็นทางการผ่านช่องทางทางการของเราเท่านั้น</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>ในขณะที่ทุกคนสามารถได้รับ แก้ไข และแจกจ่ายสำเนาของซอฟต์แวร์ได้อย่างถูกกฎหมายภายใต้เงื่อนไขของสัญญาอนุญาต</value>
+  </data>
+
+</root>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>最終更新日: 2025年5月10日</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>これらの利用規約を定期的に確認することをお勧めします。</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>利用規約</value>
+  </data>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. 利用規約の変更</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>本規約のいずれかの部分に同意できない場合、WebsiteまたはServicesを利用してはなりません。</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>特に、以下の行為を行わないことに同意するものとします：</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. ウェブサイトおよびサービスの利用</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>システムまたはデータへの不正アクセスを試みること。</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>マルウェア、ウイルス、または有害なコードをアップロード、配布、または送信すること。</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>変更後に引き続き本ウェブサイトまたはサービスをご利用いただくことは、新しい利用規約の承諾とみなされます。</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>本ウェブサイトおよびサービスを、適用法令および規制に準拠した合法的な目的でのみ使用することに同意します。</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>本規約に違反したユーザーのアクセスを制限または終了する権利を当社は留保します。</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>本ウェブサイトまたはサービスを不正、違法、または悪意のある活動に使用しないこと。</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. 利用規約の承諾</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>。</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. 知的財産</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>当社は、事前の通知なしにいつでもこれらの利用規約を更新または変更する権利を留保します。</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>本ウェブサイト、サーバー、またはサービスを悪用、攻撃、または過負荷させる行為。</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. 保証の免責</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>本ソフトウェアはオープンソースですが、ウェブサイトのデザイン、ブランディング資料、およびその他の非ソフトウェアコンテンツは別の知的財産権の対象となる場合があります。</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>明示的な許可なしに、本ウェブサイトの非コード要素を複製、再生、または配布することは禁止されています。</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>本ウェブサイト、サービス、およびAnduinOSソフトウェアは提供されます</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>当社は、第三者のサイトのコンテンツ、ポリシー、または慣行について一切の責任を負いません。</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>明示または黙示を問わず、いかなる保証もなしに。</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>当社のウェブサイトおよびサービスには、当社が所有または管理していない第三者のウェブサイトやサービスへのリンクが含まれる場合があります。</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOSは、以下のライセンスのもとで配布される無料のオープンソースプロジェクトです。</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. サードパーティのリンクとコンテンツ</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>特定の目的に対する適合性</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>第三者のリソースへのアクセスは自己責任で行ってください。</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>正確性</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>当社は、明示的に一切の保証を否認します。これには以下に限定されませんが：</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>ウェブサイト、サービス、またはソフトウェアの可用性またはセキュリティ</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. 責任の制限</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>AnduinOSおよび本ウェブサイトの利用は、完全に自己責任で行われるものとします。</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>信頼性</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>本ウェブサイト、サービス、またはAnduinOSソフトウェアの使用（または使用不能）に起因する損害。</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. 準拠法</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>利益、収益、データ、または信用の損失;</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>権利侵害なし</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>間接的、付随的、特別、結果的、または懲罰的損害賠償;</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>法律で認められる最大限の範囲において、当社は以下のいかなるものに対しても責任を負わないものとします：</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>本利用規約に関するご質問がある場合は、以下までご連絡ください：</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>メール:</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>本規約は、ウェブサイト運営者の所在する管轄区域の法律に従って解釈され、その法域の抵触法原則を考慮せずに適用されます。</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. お問い合わせ先</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. 契約の終了</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>当社は、本規約に違反すると当社が判断する行為、または他のユーザー、当社、または第三者に有害と判断する行為に対して、事前の通知なしに、直ちにウェブサイトまたはサービスへのアクセスを終了または停止する権利を留保します。</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
+    <value>当社が公式チャネルを通じて正式に配布するバージョンのみに責任を負います。</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOSは、GNU General Public License v3.0（GPL-v3）のもとで配布されている無料のオープンソースプロジェクトです。</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. 改変版に関する免責事項</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>上記の公式チャンネル以外のソースからAnduinOSを入手した場合、</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>当社は、AnduinOSの非公式またはサードパーティ製改変版を一切承認、検証、またはサポートしません。</value>
+  </data>
+  <data name=", including:" xml:space="preserve">
+    <value>、以下を含む：</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub ディスカッション</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>コミュニティ:</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>当社は、非公式または改変されたバージョンのAnduinOSによって引き起こされるいかなる損害、損失、またはセキュリティ脆弱性についても責任を負いません。</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
+    <value>本ソフトウェアはライセンス条項に基づき、誰でも合法的に取得、改変、および再配布が可能ですが、</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>完全に自己責任で行うことになります。</value>
+  </data>
+  <data name="\&quot;as is\&quot; and \&quot;as available,\&quot;" xml:space="preserve">
+    <value>「現状有姿」および「利用可能な状態」</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (\&quot;Website\&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (\&quot;Services\&quot;), you agree to be bound by these Terms of Service (\&quot;Terms\&quot;)." xml:space="preserve">
+    <value>AnduinOSウェブサイト（「ウェブサイト」）および関連サービス（ドキュメント、ダウンロード、コミュニティディスカッションなどに限定されない「サービス」）にアクセスし利用することにより、あなたは本利用規約（「規約」）に拘束されることに同意するものとします。</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>「現状有姿のまま」および「利用可能な状態で」</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>AnduinOSウェブサイト（「本ウェブサイト」）および関連サービス（ドキュメント、ダウンロード、コミュニティディスカッションなどを含むがこれらに限定されない「本サービス」）にアクセスし利用することにより、あなたは本利用規約（「本規約」）に拘束されることに同意するものとします。</value>
+  </data>
+  <data name="including:" xml:space="preserve">
+    <value>以下を含む:</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>本ソフトウェアはライセンス条項に基づき、誰でも合法的に入手、改変、および再配布することができますが、</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>当社が公式チャネルを通じて正式に配布するバージョンのみに責任を負います。</value>
+  </data>
+
+</root>

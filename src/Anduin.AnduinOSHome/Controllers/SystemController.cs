@@ -1,9 +1,11 @@
 using Anduin.AnduinOSHome.Authorization;
 using Anduin.AnduinOSHome.Services;
 using Aiursoft.UiStack.Navigation;
+using Aiursoft.WebTools.Attributes;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Anduin.AnduinOSHome.Models.SystemViewModels;
+using IndexViewModel = Anduin.AnduinOSHome.Models.HomeViewModels.IndexViewModel;
 
 namespace Anduin.AnduinOSHome.Controllers;
 
@@ -11,6 +13,7 @@ namespace Anduin.AnduinOSHome.Controllers;
 /// This controller is used to handle system related actions like shutdown.
 /// </summary>
 [Authorize]
+[LimitPerMin]
 public class SystemController(ILogger<SystemController> logger) : Controller
 {
     [Authorize(Policy = AppPermissionNames.CanViewSystemContext)]

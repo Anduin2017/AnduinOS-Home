@@ -18,47 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Documentation" xml:space="preserve">
-    <value>Documentație</value>
-  </data>
-  <data name="Get Started" xml:space="preserve">
-    <value>Începeți</value>
-  </data>
-  <data name="Community" xml:space="preserve">
+      <data name="Community" xml:space="preserve">
     <value>Comunitate</value>
   </data>
   <data name="Resources" xml:space="preserve">
     <value>Resurse</value>
   </data>
-  <data name="Project" xml:space="preserve">
-    <value>Proiect</value>
-  </data>
   <data name="Source Code" xml:space="preserve">
     <value>Cod Sursă</value>
   </data>
-  <data name="Report an Issue" xml:space="preserve">
-    <value>Raportează o Problemă</value>
+  <data name="News" xml:space="preserve">
+    <value>Știri</value>
   </data>
-  <data name="Legal" xml:space="preserve">
-    <value>Legal</value>
+  <data name="Document" xml:space="preserve">
+    <value>Documentație</value>
   </data>
-  <data name="Licence" xml:space="preserve">
-    <value>Licență</value>
+  <data name="Reference" xml:space="preserve">
+    <value>Referințe</value>
   </data>
-  <data name="Aiursoft Template - A modern, feature-rich, and highly extensible foundation for your next web application." xml:space="preserve">
-    <value>Aiursoft Template - O bază modernă, bogată în funcționalități și extrem de extensibilă pentru următoarea ta aplicație web.</value>
+  <data name="Service Status" xml:space="preserve">
+    <value>Starea Serviciilor</value>
   </data>
-  <data name="Contributions" xml:space="preserve">
-    <value>Contribuții</value>
-  </data>
-  <data name="Github" xml:space="preserve">
-    <value>GitHub</value>
-  </data>
-  <data name="Aiursoft" xml:space="preserve">
-    <value>Aiursoft</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - o distribuție Linux personalizată, bazată pe Ubuntu, care oferă o experiență familiară și ușor de utilizat pentru oricine trece la Linux.</value>
   </data>
   <data name="Social" xml:space="preserve">
-    <value>Social</value>
+    <value>Sociale</value>
+  </data>
+  <data name="(Running by community)" xml:space="preserve">
+    <value>(Gestionat de comunitate)</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Informații legale</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Politica de Confidențialitate</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>Licență</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Sursă Deschisă</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Termenii și condițiile</value>
   </data>
 
 </root>

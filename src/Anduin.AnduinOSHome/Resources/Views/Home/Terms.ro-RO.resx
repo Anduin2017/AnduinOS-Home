@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Terms of Service" xml:space="preserve">
+    <value>Termeni și Condiții</value>
+  </data>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. Acceptarea Termenilor</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Ultima actualizare: 10 mai 2025</value>
+  </data>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. Modificări ale Termenilor</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>Utilizarea continuată a Site-ului sau a Serviciilor după orice modificare constituie acceptarea noilor Termeni.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>Ne rezervăm dreptul de a actualiza sau modifica acești Termeni în orice moment, fără notificare prealabilă.</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>Dacă nu sunteți de acord cu orice parte din acești Termeni, nu aveți dreptul să utilizați Site-ul sau Serviciile.</value>
+  </data>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>Prin accesarea și utilizarea site-ului AnduinOS (&quot;Website&quot;) și a oricăror servicii conexe, inclusiv dar fără a se limita la documentație, descărcări și discuții comunitare (&quot;Services&quot;), sunteți de acord să fiți legat de acești Termeni de Serviciu (&quot;Terms&quot;).</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>Vi se recomandă să revizuiți periodic acești Termeni.</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. Utilizarea Site-ului și a Serviciilor</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>Sunteți de acord în mod expres să nu:</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>Sunteți de acord să utilizați Site-ul și Serviciile doar în scopuri legale și în conformitate cu toate legile și reglementările aplicabile.</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>Abuzați, atacați sau suprasolicitați Website-ul, serverele sau Serviciile.</value>
+  </data>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>Încercarea de a obține acces neautorizat la sisteme sau date.</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>Încărcați, distribuiți sau transmiteți orice malware, viruși sau cod dăunător.</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. Proprietate intelectuală</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>Utilizați Site-ul sau Serviciile pentru orice activități frauduloase, ilegale sau malicioase.</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS este un proiect gratuit și open-source distribuit sub licența</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>Ne rezervăm dreptul de a restricționa sau de a încheia accesul pentru utilizatorii care încalcă acești Termeni.</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>Deși software-ul este open-source, designul Website-ului, materialele de branding și alte conținuturi care nu sunt software pot fi supuse unor drepturi de proprietate intelectuală separate.</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>Nu aveți dreptul să copiați, reproduceți sau distribuiți elementele non-cod ale Site-ului fără permisiune explicită.</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>Nu suntem responsabili pentru conținutul, politicile sau practicile site-urilor terțe.</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. Excluderea garanțiilor</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>Accesarea resurselor terților se face pe propriul risc.</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>Site-ul și Serviciile pot include linkuri către site-uri sau servicii ale unor terțe părți care nu sunt deținute sau controlate de noi.</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>Site-ul, Serviciile și software-ul AnduinOS sunt furnizate</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. Link-uri și conținut de la terți</value>
+  </data>
+  <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
+    <value>&quot;așa cum este&quot; și &quot;așa cum este disponibil&quot;,</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>Aptitudine pentru un scop specific</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Acuratețe</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>fără nicio garanție de orice fel, fie expresă sau implicită.</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>Neviolarea drepturilor de proprietate intelectuală</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>Excludem în mod expres toate garanțiile, inclusiv, dar fără a se limita la:</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>Fiabilitate</value>
+  </data>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>Disponibilitatea sau securitatea Website-ului, Serviciilor sau software-ului</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>Utilizarea AnduinOS și a Site-ului web se face în întregime pe propriul risc.</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. Limitarea răspunderii</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>Pierderea profiturilor, a veniturilor, a datelor sau a reputației;</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>Daune indirecte, accidentale, speciale, consecvente sau punitive;</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>În măsura maximă permisă de lege, nu vom fi răspunzători pentru niciun:</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>Daune rezultate din utilizarea (sau incapacitatea de a utiliza) Website-ul, Serviciile sau software-ul AnduinOS.</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. Încheiere</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. Legea aplicabilă</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>Ne rezervăm dreptul de a încheia sau suspenda imediat accesul dumneavoastră la Website sau Servicii, fără preaviz, pentru comportamente pe care le considerăm că încalcă acești Termeni sau sunt dăunătoare altor utilizatori, nouă sau terților.</value>
+  </data>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. Informații de contact</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Comunitate:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>Prezentele Termeni sunt guvernate și interpretate în conformitate cu legile jurisdicției în care operatorul Website-ului își are sediul, fără a lua în considerare principiile sale privind conflictul de legi.</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>Dacă aveți întrebări referitoare la acești Termeni de Serviciu, vă rugăm să ne contactați:</value>
+  </data>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. Excluderea responsabilității pentru versiunile modificate</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>Discuții GitHub AnduinOS</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
+    <value>AnduinOS este un proiect gratuit și open-source distribuit sub licența GNU General Public License v3.0 (GPL-v3).</value>
+  </data>
+  <data name="including:" xml:space="preserve">
+    <value>inclusiv:</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Deși oricine poate obține, modifica și redistribui legal copii ale software-ului în conformitate cu termenii licenței,</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>noi suntem responsabili doar pentru versiunile distribuite oficial prin canalele noastre oficiale,</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>Nu aprobăm, nu verificăm și nu oferim suport pentru versiunile neoficiale sau modificate de terți ale AnduinOS.</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>o faci în întregime pe propriul risc.</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>Dacă obțineți AnduinOS de la orice altă sursă în afară de canalele oficiale enumerate mai sus,</value>
+  </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>Declinăm orice responsabilitate pentru orice prejudiciu, daune, pierderi sau vulnerabilități de securitate cauzate de versiunile neoficiale sau modificate ale AnduinOS.</value>
+  </data>
+
+</root>

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Privacy Statement" xml:space="preserve">
+    <value>隐私声明</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>最后更新：2025年5月10日</value>
+  </data>
+  <data name="Introduction" xml:space="preserve">
+    <value>简介</value>
+  </data>
+  <data name="AnduinOS is a free and open-source Linux distribution based on Ubuntu." xml:space="preserve">
+    <value>AnduinOS 是一个基于 Ubuntu 的免费开源 Linux 发行版。</value>
+  </data>
+  <data name="We are committed to protecting your privacy." xml:space="preserve">
+    <value>我们致力于保护您的隐私。</value>
+  </data>
+  <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
+    <value>本文档阐述了AnduinOS如何处理用户数据，阐明其隐私相关的技术设计，并概述与上游组件相关的注意事项。</value>
+  </data>
+  <data name="1. Data Collection by AnduinOS" xml:space="preserve">
+    <value>1. AnduinOS 的数据收集</value>
+  </data>
+  <data name="AnduinOS itself does not collect, transmit, or store any user data." xml:space="preserve">
+    <value>AnduinOS本身不会收集、传输或存储任何用户数据。</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
+    <value>所有系统操作、配置及用户活动均在您自己的设备本地执行（&quot;local execution&quot;）。</value>
+  </data>
+  <data name="AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms." xml:space="preserve">
+    <value>AnduinOS不包含任何遥测、分析、广告、追踪或行为分析机制。</value>
+  </data>
+  <data name="There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information." xml:space="preserve">
+    <value>系统不会出于收集用户信息的目的而启动任何隐藏的后台进程或网络通信。</value>
+  </data>
+  <data name="Thus, AnduinOS is fundamentally privacy-preserving by design." xml:space="preserve">
+    <value>因此，AnduinOS从设计上就是本质上保护隐私的。</value>
+  </data>
+  <data name="2. Why Local Execution Matters" xml:space="preserve">
+    <value>2. 本地执行的重要性</value>
+  </data>
+  <data name="entirely on your computer" xml:space="preserve">
+    <value>完全在您的计算机上</value>
+  </data>
+  <data name="Local execution means that all features and services of AnduinOS are performed" xml:space="preserve">
+    <value>本地执行意味着AnduinOS的所有功能和服务均在本地完成</value>
+  </data>
+  <data name=", without requiring communication with any external servers owned by us or third parties." xml:space="preserve">
+    <value>，无需与我们或第三方拥有的任何外部服务器进行通信。</value>
+  </data>
+  <data name="This ensures:" xml:space="preserve">
+    <value>这确保了：</value>
+  </data>
+  <data name="Control:" xml:space="preserve">
+    <value>控制权：</value>
+  </data>
+  <data name="You retain complete control over your personal data." xml:space="preserve">
+    <value>您完全掌握个人数据的控制权。</value>
+  </data>
+  <data name="Transparency:" xml:space="preserve">
+    <value>透明度：</value>
+  </data>
+  <data name="Security:" xml:space="preserve">
+    <value>安全性：</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action." xml:space="preserve">
+    <value>未经您的明确操作，数据不会离开您的设备。</value>
+  </data>
+  <data name="Reducing external communications limits exposure to interception or exploitation risks." xml:space="preserve">
+    <value>减少外部通信可降低遭受拦截或恶意利用的风险。</value>
+  </data>
+  <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
+    <value>在远程遥测技术无处不在的当今世界，AnduinOS刻意减少外部依赖以保护用户。</value>
+  </data>
+  <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>3. 开源保障您的自由</value>
+  </data>
+  <data name="AnduinOS is distributed under the" xml:space="preserve">
+    <value>AnduinOS 遵循</value>
+  </data>
+  <data name="GNU General Public License v3.0 (GPL-v3)" xml:space="preserve">
+    <value>GNU通用公共许可证v3.0（GPL-v3）</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>。</value>
+  </data>
+  <data name="This license guarantees:" xml:space="preserve">
+    <value>该许可证保证：</value>
+  </data>
+  <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
+    <value>您可以审查源代码以验证其中不存在任何隐藏的跟踪机制。</value>
+  </data>
+  <data name="Freedom to inspect:" xml:space="preserve">
+    <value>审查自由：</value>
+  </data>
+  <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
+    <value>您可以根据自身需求调整代码，包括移除任何您不信任的组件。</value>
+  </data>
+  <data name="Freedom to modify:" xml:space="preserve">
+    <value>修改自由：</value>
+  </data>
+  <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
+    <value>您可以在相同的许可条款下分享AnduinOS，无论是否经过修改。</value>
+  </data>
+  <data name="Freedom to redistribute:" xml:space="preserve">
+    <value>自由再分发：</value>
+  </data>
+  <data name="The open nature of AnduinOS empowers users to independently verify that the system respects their privacy." xml:space="preserve">
+    <value>AnduinOS的开源特性使用户能够独立验证该系统是否尊重其隐私。</value>
+  </data>
+  <data name="There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu." xml:space="preserve">
+    <value>除明确继承自Ubuntu的上游依赖项外，不存在任何专有二进制闭源模块。</value>
+  </data>
+  <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>4. 上游软件与隐私注意事项</value>
+  </data>
+  <data name="it integrates a wide range of upstream open-source software" xml:space="preserve">
+    <value>它集成了大量上游开源软件</value>
+  </data>
+  <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
+    <value>尽管AnduinOS本身不收集任何数据，</value>
+  </data>
+  <data name="(Some examples and references can be found" xml:space="preserve">
+    <value>（部分示例和参考资料可在此处查看</value>
+  </data>
+  <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
+    <value>源自 Ubuntu、Debian、GNOME、Flathub 及其他上游项目。</value>
+  </data>
+  <data name=")." xml:space="preserve">
+    <value>）。</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>此处</value>
+  </data>
+  <data name="Notably:" xml:space="preserve">
+    <value>值得注意的是：</value>
+  </data>
+  <data name="Some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>部分上游组件可能具备独立的数据收集机制。</value>
+  </data>
+  <data name="(Ubuntu&apos;s developer) may collect certain system information for statistics and diagnostics purposes via tools like:" xml:space="preserve">
+    <value>(Ubuntu的开发者)可能通过以下工具收集特定系统信息用于统计和诊断目的：</value>
+  </data>
+  <data name="ubuntu-report" xml:space="preserve">
+    <value>Ubuntu 系统报告</value>
+  </data>
+  <data name="popularity-contest" xml:space="preserve">
+    <value>人气竞赛</value>
+  </data>
+  <data name="Snap store background services (if Snap is manually installed by users)" xml:space="preserve">
+    <value>Snap商店后台服务（如用户手动安装Snap）</value>
+  </data>
+  <data name="We strongly recommend users review Canonical&apos;s" xml:space="preserve">
+    <value>我们强烈建议用户查阅 Canonical 的</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>隐私政策</value>
+  </data>
+  <data name="for details." xml:space="preserve">
+    <value>详情请参阅。</value>
+  </data>
+  <data name="AnduinOS does" xml:space="preserve">
+    <value>AnduinOS 不会</value>
+  </data>
+  <data name="not" xml:space="preserve">
+    <value>不</value>
+  </data>
+  <data name="modify, enhance, or introduce additional telemetry into these upstream components." xml:space="preserve">
+    <value>修改、增强或向这些上游组件引入额外的遥测功能。</value>
+  </data>
+  <data name="5. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>5. 如何处理潜在的Ubuntu遥测功能</value>
+  </data>
+  <data name="It merely redistributes them in their original, unmodified state." xml:space="preserve">
+    <value>它仅以原始未修改的状态重新分发这些组件。</value>
+  </data>
+  <data name="AnduinOS does not preinstall any telemetry-related packages" xml:space="preserve">
+    <value>AnduinOS 不会预装任何与遥测相关的软件包。</value>
+  </data>
+  <data name="such as:" xml:space="preserve">
+    <value>例如：</value>
+  </data>
+  <data name="Snap daemon" xml:space="preserve">
+    <value>Snap守护进程</value>
+  </data>
+  <data name="Canonical Livepatch service" xml:space="preserve">
+    <value>Canonical Livepatch 服务</value>
+  </data>
+  <data name="Thus, by default," xml:space="preserve">
+    <value>因此，默认情况下，</value>
+  </data>
+  <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
+    <value>然而，如果您手动从Ubuntu软件仓库安装软件包或启用某些Ubuntu特有的功能，可能会引入部分遥测机制。</value>
+  </data>
+  <data name="AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting" xml:space="preserve">
+    <value>AnduinOS 不参与任何系统报告、使用统计提交或自动崩溃报告。</value>
+  </data>
+  <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
+    <value>为确保完全退出，您可以通过以下命令检查并在必要时移除这些软件包：</value>
+  </data>
+  <data name="remove" xml:space="preserve">
+    <value>移除</value>
+  </data>
+  <data name="popularity-contest ubuntu-report apport whoopsie `" xml:space="preserve">
+    <value>popularity-contest ubuntu-report apport whoopsie</value>
+  </data>
+  <data name="Explanation:" xml:space="preserve">
+    <value>说明：</value>
+  </data>
+  <data name=": Periodically submits anonymous package usage statistics." xml:space="preserve">
+    <value>定期提交匿名软件包使用统计数据。</value>
+  </data>
+  <data name=": Collects basic hardware and software details at installation time." xml:space="preserve">
+    <value>在安装时收集基本的硬件和软件信息。</value>
+  </data>
+  <data name=": Automated error reporting services." xml:space="preserve">
+    <value>自动错误报告服务。</value>
+  </data>
+  <data name="Note:" xml:space="preserve">
+    <value>注意：</value>
+  </data>
+  <data name="If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required." xml:space="preserve">
+    <value>若这些软件包未被安装（如全新安装的AnduinOS系统），则无需采取任何操作。</value>
+  </data>
+  <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
+    <value>AnduinOS 致力于默认保持您的安装纯净且无遥测功能。</value>
+  </data>
+  <data name="6. Responsibility Clarification" xml:space="preserve">
+    <value>6. 责任声明</value>
+  </data>
+  <data name="AnduinOS is a community-driven, non-profit project" xml:space="preserve">
+    <value>AnduinOS 是一个由社区驱动、非盈利性质的项目。</value>
+  </data>
+  <data name="AnduinOS does not have a data collection infrastructure" xml:space="preserve">
+    <value>AnduinOS不具备数据收集基础设施</value>
+  </data>
+  <data name="maintained in spare time by volunteers." xml:space="preserve">
+    <value>由志愿者在业余时间维护。</value>
+  </data>
+  <data name="For privacy concerns related to third-party applications," xml:space="preserve">
+    <value>对于第三方应用相关的隐私问题，</value>
+  </data>
+  <data name="and does not share any information with governments, corporations, or any third parties." xml:space="preserve">
+    <value>并且不会与任何政府、企业或第三方共享信息。</value>
+  </data>
+  <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
+    <value>请参阅各自上游隐私政策。</value>
+  </data>
+  <data name="7. Contact Information" xml:space="preserve">
+    <value>7. 联系信息</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>电子邮件：</value>
+  </data>
+  <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
+    <value>如对本隐私声明或AnduinOS的隐私实践有任何疑问，请联系：</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>社区：</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub 讨论区</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (\&quot;local execution\&quot;)." xml:space="preserve">
+    <value>所有系统操作、配置及用户活动均在您本地设备上完成（即“本地执行”）。</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>安杜因操作系统更新服务</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>，除下文详述的特定用户主动启用的功能或必要服务外。</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. 必要的网络连接与第三方服务</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>本地执行意味着 AnduinOS 的大多数功能和服务都在</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>未经您的明确操作或为实现基本功能，任何数据都不会离开您的设备。</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>为检查并下载系统更新，AnduinOS 会连接到我们的更新端点：</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>此连接对于保持系统安全与更新至关重要。与任何标准HTTPS连接一样，此过程会将您的IP地址暴露给我们的服务器。</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>我们的团队已审核此扩展的源代码</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>隐私声明</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>尽管AnduinOS设计为本地优先运行，但某些功能需要网络访问才能正常工作。这些连接并非用于遥测数据收集，但确实涉及与外部服务器的通信，这是这些服务运行不可避免的要求，并且会暴露您的IP地址。</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather 扩展</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>并确认其不含任何遥测功能。</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS 包含 &apos;SimpleWeather&apos; GNOME 扩展以提供当前天气状况。</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>我们无法控制</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. 开源保障您的自由</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>根据您的IP地址来确定您的位置。</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>然而，该扩展功能需要从第三方服务获取位置和天气数据才能正常运行，这包括连接至</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. 上游软件与隐私考量</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>或其使用的任何天气数据提供商。连接这些服务将不可避免地使您的IP地址暴露给它们。</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>当您的系统检查软件更新时（例如，使用</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. 如何处理潜在的 Ubuntu 遥测</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. 责任声明</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. 联系信息</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>此外，某些上游组件可能具有独立的数据收集机制。</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>这包括使用由第三方组织（如大学和企业）运营的Ubuntu官方软件仓库和镜像源。</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>），系统会连接至这些外部服务器。此过程对系统安全至关重要，但会将您的IP地址暴露给您所连接的软件仓库镜像运营商。</value>
+  </data>
+
+</root>

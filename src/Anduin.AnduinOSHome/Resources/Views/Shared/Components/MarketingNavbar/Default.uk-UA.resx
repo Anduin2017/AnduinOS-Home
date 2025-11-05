@@ -18,14 +18,11 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="GitHub" xml:space="preserve">
-    <value>GitHub</value>
+      <data name="Donate" xml:space="preserve">
+    <value>Пожертвувати</value>
   </data>
-  <data name="Aiursoft Template" xml:space="preserve">
-    <value>Шаблон Aiursoft</value>
-  </data>
-  <data name="Documentation" xml:space="preserve">
-    <value>Документація</value>
+  <data name="Install" xml:space="preserve">
+    <value>Встановити</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Спільнота</value>
@@ -33,8 +30,14 @@
   <data name="Source Code" xml:space="preserve">
     <value>Вихідний код</value>
   </data>
-  <data name="Try the dashboard" xml:space="preserve">
-    <value>Спробуйте панель керування</value>
+  <data name="News" xml:space="preserve">
+    <value>Новини</value>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Документи</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Завантажити</value>
   </data>
 
 </root>

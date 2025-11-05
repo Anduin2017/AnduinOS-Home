@@ -1,3 +1,4 @@
+using Aiursoft.WebTools.Attributes;
 using Anduin.AnduinOSHome.Configuration;
 using Anduin.AnduinOSHome.Entities;
 using Anduin.AnduinOSHome.Models.AccountViewModels;
@@ -15,6 +16,7 @@ namespace Anduin.AnduinOSHome.Controllers;
 /// <summary>
 /// This controller is used to handle account related actions like login, register, log off.
 /// </summary>
+[LimitPerMin]
 public class AccountController(
     IStringLocalizer<AccountController> localizer,
     IOptions<AppSettings> appSettings,

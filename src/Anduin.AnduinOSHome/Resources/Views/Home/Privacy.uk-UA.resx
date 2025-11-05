@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+      <data name="Introduction" xml:space="preserve">
+    <value>Вступ</value>
+  </data>
+  <data name="Privacy Statement" xml:space="preserve">
+    <value>Заява про конфіденційність</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Останнє оновлення: 10 травня 2025 року</value>
+  </data>
+  <data name="1. Data Collection by AnduinOS" xml:space="preserve">
+    <value>1. Збір даних AnduinOS</value>
+  </data>
+  <data name="We are committed to protecting your privacy." xml:space="preserve">
+    <value>Ми докладаємо всіх зусиль для захисту вашої конфіденційності.</value>
+  </data>
+  <data name="AnduinOS itself does not collect, transmit, or store any user data." xml:space="preserve">
+    <value>Сама система AnduinOS не збирає, не передає та не зберігає жодних даних користувачів.</value>
+  </data>
+  <data name="AnduinOS is a free and open-source Linux distribution based on Ubuntu." xml:space="preserve">
+    <value>AnduinOS — це безкоштовний дистрибутив Linux з відкритим кодом, заснований на Ubuntu.</value>
+  </data>
+  <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
+    <value>У цьому документі пояснюється, як AnduinOS обробляє дані користувачів, роз’яснюється його технічний дизайн щодо конфіденційності та описуються аспекти, пов’язані з використанням сторонніх компонентів.</value>
+  </data>
+  <data name="entirely on your computer" xml:space="preserve">
+    <value>повністю на вашому комп’ютері</value>
+  </data>
+  <data name="2. Why Local Execution Matters" xml:space="preserve">
+    <value>2. Чому важливе локальне виконання</value>
+  </data>
+  <data name="Thus, AnduinOS is fundamentally privacy-preserving by design." xml:space="preserve">
+    <value>Отже, AnduinOS є принципово орієнтованим на захист приватності за своєю суттю.</value>
+  </data>
+  <data name="AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms." xml:space="preserve">
+    <value>AnduinOS не містить жодних механізмів телеметрії, аналітики, реклами, відстеження чи профілювання поведінки.</value>
+  </data>
+  <data name="There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information." xml:space="preserve">
+    <value>У системі немає прихованих фонових процесів чи мережевих з’єднань, ініційованих для збору інформації про користувача.</value>
+  </data>
+  <data name="Local execution means that all features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Локальне виконання означає, що всі функції та сервіси AnduinOS виконуються</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
+    <value>Усі системні операції, налаштування та дії користувачів виконуються локально на вашому пристрої (&quot;локальне виконання&quot;).</value>
+  </data>
+  <data name=", without requiring communication with any external servers owned by us or third parties." xml:space="preserve">
+    <value>, не потребуючи зв’язку із зовнішніми серверами, що належать нам чи третім сторонам.</value>
+  </data>
+  <data name="Control:" xml:space="preserve">
+    <value>Контроль:</value>
+  </data>
+  <data name="You retain complete control over your personal data." xml:space="preserve">
+    <value>Ви зберігаєте повний контроль над своїми персональними даними.</value>
+  </data>
+  <data name="Security:" xml:space="preserve">
+    <value>Безпека:</value>
+  </data>
+  <data name="Transparency:" xml:space="preserve">
+    <value>Прозорість:</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action." xml:space="preserve">
+    <value>Жодні дані не залишають ваш пристрій без вашого явного дії.</value>
+  </data>
+  <data name="This ensures:" xml:space="preserve">
+    <value>Це забезпечує:</value>
+  </data>
+  <data name="Reducing external communications limits exposure to interception or exploitation risks." xml:space="preserve">
+    <value>Зменшення зовнішньої комунікації обмежує ризики перехоплення або використання даних.</value>
+  </data>
+  <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>3. Відкрите ПЗ гарантує вашу свободу</value>
+  </data>
+  <data name="AnduinOS is distributed under the" xml:space="preserve">
+    <value>AnduinOS поширюється за умовами</value>
+  </data>
+  <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
+    <value>У світі, де віддалена телеметрія стала повсюдною, AnduinOS навмисно мінімізує зовнішні залежності, щоб захистити користувачів.</value>
+  </data>
+  <data name="Freedom to inspect:" xml:space="preserve">
+    <value>Свобода перевіряти:</value>
+  </data>
+  <data name="This license guarantees:" xml:space="preserve">
+    <value>Ця ліцензія гарантує:</value>
+  </data>
+  <data name="Freedom to modify:" xml:space="preserve">
+    <value>Свобода модифікувати:</value>
+  </data>
+  <data name="." xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="Freedom to redistribute:" xml:space="preserve">
+    <value>Свобода поширення:</value>
+  </data>
+  <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
+    <value>Ви можете змінити код відповідно до своїх потреб, включаючи видалення будь-яких компонентів, яким ви не довіряєте.</value>
+  </data>
+  <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
+    <value>Ви можете переглянути вихідний код, щоб переконатися, що в ньому немає прихованих механізмів відстеження.</value>
+  </data>
+  <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>4. Вихідне програмне забезпечення та аспекти конфіденційності</value>
+  </data>
+  <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
+    <value>Ви можете поширювати AnduinOS, модифіковану чи ні, на тих самих умовах ліцензії.</value>
+  </data>
+  <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
+    <value>Хоча сама система AnduinOS не збирає жодних даних,</value>
+  </data>
+  <data name="The open nature of AnduinOS empowers users to independently verify that the system respects their privacy." xml:space="preserve">
+    <value>Відкрита природа AnduinOS надає користувачам можливість самостійно перевірити, що система поважає їхню приватність.</value>
+  </data>
+  <data name="There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu." xml:space="preserve">
+    <value>У системі немає власницьких блобів або закритих модулів, окрім залежностей, які явно успадковані від Ubuntu.</value>
+  </data>
+  <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
+    <value>які походять з Ubuntu, Debian, GNOME, Flathub та інших джерел.</value>
+  </data>
+  <data name="(Some examples and references can be found" xml:space="preserve">
+    <value>(Деякі приклади та посилання можна знайти</value>
+  </data>
+  <data name="it integrates a wide range of upstream open-source software" xml:space="preserve">
+    <value>воно інтегрує широкий спектр відкритого програмного забезпечення з вищих рівнів</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>тут</value>
+  </data>
+  <data name="Notably:" xml:space="preserve">
+    <value>Зокрема:</value>
+  </data>
+  <data name="Some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Деякі компоненти зі сторони постачальників можуть мати незалежні механізми збору даних.</value>
+  </data>
+  <data name="(Ubuntu&apos;s developer) may collect certain system information for statistics and diagnostics purposes via tools like:" xml:space="preserve">
+    <value>(Розробник Ubuntu) може збирати певну системну інформацію для статистичних та діагностичних цілей за допомогою таких інструментів, як:</value>
+  </data>
+  <data name="Snap store background services (if Snap is manually installed by users)" xml:space="preserve">
+    <value>Фонові служби Snap store (якщо Snap встановлено користувачем вручну)</value>
+  </data>
+  <data name="for details." xml:space="preserve">
+    <value>для деталей.</value>
+  </data>
+  <data name="AnduinOS does" xml:space="preserve">
+    <value>AnduinOS робить</value>
+  </data>
+  <data name="We strongly recommend users review Canonical&apos;s" xml:space="preserve">
+    <value>Настійно рекомендуємо користувачам ознайомитися з політикою конфіденційності Canonical</value>
+  </data>
+  <data name="not" xml:space="preserve">
+    <value>не</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Політика конфіденційності</value>
+  </data>
+  <data name="modify, enhance, or introduce additional telemetry into these upstream components." xml:space="preserve">
+    <value>змінювати, покращувати або додавати додаткову телеметрію до цих вихідних компонентів.</value>
+  </data>
+  <data name="It merely redistributes them in their original, unmodified state." xml:space="preserve">
+    <value>Він лише поширює їх у їхньому оригінальному, незміненому стані.</value>
+  </data>
+  <data name="such as:" xml:space="preserve">
+    <value>наприклад:</value>
+  </data>
+  <data name="Snap daemon" xml:space="preserve">
+    <value>Демон Snap</value>
+  </data>
+  <data name="Canonical Livepatch service" xml:space="preserve">
+    <value>Служба Canonical Livepatch</value>
+  </data>
+  <data name="AnduinOS does not preinstall any telemetry-related packages" xml:space="preserve">
+    <value>AnduinOS не встановлює заздалегідь жодних пакетів, пов’язаних із телеметрією.</value>
+  </data>
+  <data name="Thus, by default," xml:space="preserve">
+    <value>Отже, за замовчуванням,</value>
+  </data>
+  <data name="5. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>5. Як обробляти потенційну телеметрію Ubuntu</value>
+  </data>
+  <data name="AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting" xml:space="preserve">
+    <value>AnduinOS не бере участі у жодних звітах про систему, надсиланні статистики використання чи автоматичному звітуванні про збої.</value>
+  </data>
+  <data name="Explanation:" xml:space="preserve">
+    <value>Пояснення:</value>
+  </data>
+  <data name="Note:" xml:space="preserve">
+    <value>Примітка:</value>
+  </data>
+  <data name=": Collects basic hardware and software details at installation time." xml:space="preserve">
+    <value>Збирає основні відомості про апаратне та програмне забезпечення під час встановлення.</value>
+  </data>
+  <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
+    <value>Щоб повністю відмовитися, ви можете перевірити та, за необхідності, видалити ці пакети за допомогою:</value>
+  </data>
+  <data name=": Periodically submits anonymous package usage statistics." xml:space="preserve">
+    <value>Періодично надсилає анонімну статистику використання пакетів.</value>
+  </data>
+  <data name=": Automated error reporting services." xml:space="preserve">
+    <value>Автоматизовані служби звітування про помилки.</value>
+  </data>
+  <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
+    <value>Однак, якщо ви вручну встановлюєте пакети з репозиторіїв Ubuntu або активуєте певні специфічні функції Ubuntu, деякі з цих механізмів телеметрії можуть бути додані.</value>
+  </data>
+  <data name="6. Responsibility Clarification" xml:space="preserve">
+    <value>6. Уточнення відповідальності</value>
+  </data>
+  <data name="If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required." xml:space="preserve">
+    <value>Якщо ці пакети не встановлені (як у випадку з чистою установкою AnduinOS), жодних дій не потрібно.</value>
+  </data>
+  <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
+    <value>AnduinOS прагне забезпечити, щоб ваша установка за замовчуванням залишалася чистою та без телеметрії.</value>
+  </data>
+  <data name="maintained in spare time by volunteers." xml:space="preserve">
+    <value>підтримується у вільний час волонтерами.</value>
+  </data>
+  <data name="AnduinOS is a community-driven, non-profit project" xml:space="preserve">
+    <value>AnduinOS — це некомерційний проект, створений спільнотою.</value>
+  </data>
+  <data name="AnduinOS does not have a data collection infrastructure" xml:space="preserve">
+    <value>AnduinOS не має інфраструктури для збору даних.</value>
+  </data>
+  <data name="and does not share any information with governments, corporations, or any third parties." xml:space="preserve">
+    <value>і не передає жодної інформації урядам, корпораціям чи будь-яким третім сторонам.</value>
+  </data>
+  <data name="For privacy concerns related to third-party applications," xml:space="preserve">
+    <value>Щодо питань конфіденційності, пов’язаних із сторонніми додатками,</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Електронна пошта:</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Спільнота:</value>
+  </data>
+  <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
+    <value>будь ласка, зверніться до відповідних політик конфіденційності вихідних компонентів.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>Обговорення AnduinOS на GitHub</value>
+  </data>
+  <data name="7. Contact Information" xml:space="preserve">
+    <value>7. Контактна інформація</value>
+  </data>
+  <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
+    <value>Якщо у вас виникли запитання щодо цієї Політики конфіденційності або практик захисту даних AnduinOS, будь ласка, зв&apos;яжіться з нами:</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>Служба оновлення AnduinOS</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Необхідні мережеві з’єднання та сторонні сервіси</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Локальне виконання означає, що більшість функцій та сервісів AnduinOS виконуються</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Щоб перевірити наявність та завантажити системні оновлення, AnduinOS підключається до нашої кінцевої точки оновлення за адресою</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Жодні дані не залишають ваш пристрій без вашої прямої дії або задля необхідної функціональності.</value>
+  </data>
+  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, за винятком конкретних функцій, ініційованих користувачем, або основних служб, детально описаних нижче.</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>Розширення SimpleWeather</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Це з’єднання є необхідним для забезпечення безпеки та актуальності вашої системи. Як і будь-яке стандартне HTTPS-з’єднання, цей процес розкриє вашу IP-адресу для нашого сервера.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Наша команда проаналізувала вихідний код цього розширення</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS включає розширення GNOME &apos;SimpleWeather&apos; для надання поточної інформації про погоду.</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>і підтвердили, що він не містить телеметрії.</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>За замовчуванням</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Хоча AnduinOS розроблена для роботи в першу чергу локально, окремі функції потребують доступу до мережі для своєї роботи. Ці з’єднання не використовуються для телеметрії, але вони дійсно включають комунікацію зі зовнішніми серверами, що є невід’ємною вимогою для функціонування цих служб і призведе до розкриття вашої IP-адреси.</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>для визначення вашого місцезнаходження на основі вашої IP-адреси.</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Ми не можемо контролювати політику конфіденційності</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>Однак для функціонування розширення має отримувати дані про місцезнаходження та погоду від сторонніх сервісів. Це включає підключення до</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Відкритий код гарантує вашу свободу</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Програмне забезпечення від розробників та аспекти конфіденційності</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>або будь-яких інших постачальників погодних даних, яких вони використовують. Підключення до цих служб неминуче розкриє вашу IP-адресу перед ними.</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Як впоратися з потенційною телеметрією Ubuntu</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Коли ваша система перевіряє наявність оновлень програмного забезпечення (наприклад, використовуючи</value>
+  </data>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Крім того, деякі компоненти з вихідного коду можуть мати незалежні механізми збору даних.</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Контактна інформація</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Це включає використання офіційних репозиторіїв програмного забезпечення Ubuntu та дзеркал, якими керують сторонні організації (наприклад, університети та корпорації).</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Уточнення відповідальності</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), він підключається до цих зовнішніх серверів. Цей процес є важливим для безпеки системи, але він розкриє вашу IP-адресу операторам дзеркала репозиторію, до якого ви підключені.</value>
+  </data>
+
+</root>
