@@ -6,6 +6,7 @@
 [![ManHours](https://manhours.aiursoft.com/r/gitlab.aiursoft.com/anduin/anduinos-home.svg)](https://gitlab.aiursoft.com/anduin/AnduinOS-Home/-/commits/master?ref_type=heads)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.anduinos.com%2F)](https://www.anduinos.com)
 [![Docker](https://img.shields.io/docker/pulls/anduin2019/anduinos-home.svg)](https://hub.docker.com/r/anduin2019/anduinos-home)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnduin2017%2FAnduinOS-Home.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnduin2017%2FAnduinOS-Home?ref=badge_shield)
 
 AnduinOS-Home is the home page of AnduinOS, which is an Ubuntu based operating system. It hosts as the home page of the website, including downloading ISO files, read document and join community.
 
@@ -79,3 +80,7 @@ There are many ways to contribute to the project: logging bugs, submitting pull 
 Even if you with push rights on the repository, you should create a personal fork and create feature branches there when you need them. This keeps the main repository clean and your workflow cruft out of sight.
 
 We're also interested in your feedback on the future of this project. You can submit a suggestion or feature request through the issue tracker. To make this process more effective, we're asking that these include more information to help define them more clearly.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAnduin2017%2FAnduinOS-Home.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAnduin2017%2FAnduinOS-Home?ref=badge_large)
