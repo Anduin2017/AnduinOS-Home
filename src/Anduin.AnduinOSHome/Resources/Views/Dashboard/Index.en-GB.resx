@@ -39,7 +39,7 @@
   <data name="Welcome" xml:space="preserve">
     <value>Welcome</value>
   </data>
-   <data name="OpenID Connect Integration" xml:space="preserve">
+  <data name="OpenID Connect Integration" xml:space="preserve">
     <value>OpenID Connect Integration</value>
   </data>
   <data name="RBAC Authorization" xml:space="preserve">
@@ -107,6 +107,9 @@
   </data>
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>Smart dark mode that automatically adapts to the user&apos;s system settings.</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Start a new project</value>
   </data>
 
 </root>

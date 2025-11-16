@@ -71,7 +71,7 @@ public class ViewModelArgsInjector(
         UiStackLayoutViewModel toInject)
     {
         toInject.PageTitle = localizer[toInject.PageTitle ?? "View"];
-        toInject.AppName = localizer["AnduinOS"];
+        toInject.AppName = "AnduinOS";
         toInject.Theme = UiTheme.Light;
         toInject.SidebarTheme = UiSidebarTheme.Default;
         toInject.Layout = UiLayout.Fluid;
@@ -84,13 +84,13 @@ public class ViewModelArgsInjector(
     {
         var preferDarkTheme = context.Request.Cookies[ThemeController.ThemeCookieKey] == true.ToString();
         toInject.PageTitle = localizer[toInject.PageTitle ?? "View"];
-        toInject.AppName = localizer["AnduinOS"];
+        toInject.AppName = "AnduinOS";
         toInject.Theme = preferDarkTheme ? UiTheme.Dark : UiTheme.Light;
         toInject.SidebarTheme = preferDarkTheme ? UiSidebarTheme.Dark : UiSidebarTheme.Default;
         toInject.Layout = UiLayout.Fluid;
         toInject.FooterMenu = new FooterMenuViewModel
         {
-            AppBrand = new Link { Text = localizer["AnduinOS"], Href = "https://gitlab.aiursoft.com/anduin/anduinos-home" },
+            AppBrand = new Link { Text = "AnduinOS", Href = "https://gitlab.aiursoft.com/anduin/anduinos-home" },
             Links =
             [
                 new Link { Text = localizer["Home"], Href = "/" },
@@ -161,7 +161,7 @@ public class ViewModelArgsInjector(
         {
             SideLogo = new SideLogoViewModel
             {
-                AppName = localizer["AnduinOS"],
+                AppName = "AnduinOS",
                 LogoUrl = "/logo.svg",
                 Href = "/"
             },

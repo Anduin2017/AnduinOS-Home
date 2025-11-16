@@ -27,7 +27,7 @@
   <data name="Multiple Database Support" xml:space="preserve">
     <value>Understøttelse af flere databaser</value>
   </data>
-   <data name="Welcome" xml:space="preserve">
+  <data name="Welcome" xml:space="preserve">
     <value>Velkommen</value>
   </data>
   <data name="This is a template project, where we start the voyager..." xml:space="preserve">
@@ -107,6 +107,9 @@
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>Kommer med fuld Docker-understøttelse til forenklede, konsistente og pålidelige installationer.</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Start et nyt projekt</value>
   </data>
 
 </root>

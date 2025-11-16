@@ -27,7 +27,7 @@
   <data name="Hello World!" xml:space="preserve">
     <value>Xin chào Thế giới!</value>
   </data>
-   <data name="Multiple Database Support" xml:space="preserve">
+  <data name="Multiple Database Support" xml:space="preserve">
     <value>Hỗ trợ Đa Cơ sở Dữ liệu</value>
   </data>
   <data name="Why use the Aiursoft Template?" xml:space="preserve">
@@ -107,6 +107,9 @@
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>Đi kèm với hỗ trợ Docker đầy đủ để triển khai đơn giản, nhất quán và đáng tin cậy.</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Bắt đầu một dự án mới</value>
   </data>
 
 </root>

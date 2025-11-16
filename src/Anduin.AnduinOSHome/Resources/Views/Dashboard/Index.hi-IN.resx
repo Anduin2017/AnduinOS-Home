@@ -27,7 +27,7 @@
   <data name="Read the document" xml:space="preserve">
     <value>दस्तावेज़ पढ़ें</value>
   </data>
-   <data name="Why use the Aiursoft Template?" xml:space="preserve">
+  <data name="Why use the Aiursoft Template?" xml:space="preserve">
     <value>Aiursoft टेम्पलेट क्यों उपयोग करें?</value>
   </data>
   <data name="This is a template project, where we start the voyager..." xml:space="preserve">
@@ -107,6 +107,9 @@
   </data>
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>स्मार्ट डार्क मोड जो स्वचालित रूप से उपयोगकर्ता की सिस्टम सेटिंग्स के अनुकूल हो जाता है।</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>नया प्रोजेक्ट शुरू करें</value>
   </data>
 
 </root>

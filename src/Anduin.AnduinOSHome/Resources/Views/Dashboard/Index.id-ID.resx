@@ -24,7 +24,7 @@
   <data name="Welcome" xml:space="preserve">
     <value>Selamat datang</value>
   </data>
-   <data name="Read the document" xml:space="preserve">
+  <data name="Read the document" xml:space="preserve">
     <value>Baca dokumen</value>
   </data>
   <data name="Multiple Database Support" xml:space="preserve">
@@ -107,6 +107,9 @@
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>Dilengkapi dengan dukungan Docker penuh untuk penyebaran yang disederhanakan, konsisten, dan andal.</value>
+  </data>
+  <data name="Start a new project" xml:space="preserve">
+    <value>Mulai proyek baru</value>
   </data>
 
 </root>
