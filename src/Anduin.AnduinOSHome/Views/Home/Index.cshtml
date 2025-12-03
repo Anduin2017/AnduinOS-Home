@@ -224,7 +224,7 @@
         .RequestCulture.Culture.Name.ToLower().Trim().Replace('-', '_');
 
     // Donate link.
-    var donateLink = currentCulture == "zh_cn" ? "/img/pay_anduin.png" : "https://www.paypal.com/paypalme/anduin2025";
+    var donateLink = currentCulture == "zh_cn" ? "/img/pay_anduin.png" : "https://ko-fi.com/anduinxue/goal?g=0";
 }
 
 @* The following section is for localizer to auto localize. Not for actual rendering. *@
@@ -873,7 +873,7 @@
                                 @Localizer["AnduinOS is funded by user donations. We are grateful for your support. And you can"] <a
                                     href="@donateLink"
                                     target="_blank">@Localizer["donate"]</a>
-                                @Localizer["to us via PayPal."]
+                                @Localizer["to us."]
                             </div>
                         </div>
                     </div>
