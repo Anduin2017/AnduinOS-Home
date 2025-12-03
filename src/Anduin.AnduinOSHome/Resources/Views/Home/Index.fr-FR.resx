@@ -396,5 +396,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Aucune télémétrie intégrée ! Choisissez &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; pour retrouver votre vie privée.</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>à nous.</value>
+  </data>
 
 </root>

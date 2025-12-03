@@ -384,5 +384,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Δεν υπάρχει ενσωματωμένη τηλεμετρία! Επιλέξτε &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; για να ανακτήσετε το απόρρητό σας</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>σε εμάς.</value>
+  </data>
 
 </root>

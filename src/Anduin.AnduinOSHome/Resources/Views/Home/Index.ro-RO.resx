@@ -384,5 +384,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Niciun fel de telemetrie integrată! Alege &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; pentru a-ți recâștiga confidențialitatea</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>nouă.</value>
+  </data>
 
 </root>

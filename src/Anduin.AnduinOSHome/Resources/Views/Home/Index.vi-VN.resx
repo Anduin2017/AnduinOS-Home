@@ -402,5 +402,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Không có thu thập dữ liệu tích hợp! Hãy chọn &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; để lấy lại quyền riêng tư của bạn</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>cho chúng tôi.</value>
+  </data>
 
 </root>

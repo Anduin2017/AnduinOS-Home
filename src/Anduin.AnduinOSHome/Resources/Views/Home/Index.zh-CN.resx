@@ -399,5 +399,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>无遥测集成！选择&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;，重获您的隐私</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>给我们。</value>
+  </data>
 
 </root>

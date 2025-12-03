@@ -402,5 +402,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>テレメトリーは一切組み込まれていません！&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;を選んで、あなたのプライバシーを取り戻しましょう。</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>私たちへ。</value>
+  </data>
 
 </root>

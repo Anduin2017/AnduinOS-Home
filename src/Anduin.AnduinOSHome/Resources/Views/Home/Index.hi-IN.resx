@@ -384,5 +384,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>कोई टेलीमेट्री एकीकृत नहीं! अपनी गोपनीयता पुनः प्राप्त करने के लिए &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; चुनें</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>हमारे लिए।</value>
+  </data>
 
 </root>

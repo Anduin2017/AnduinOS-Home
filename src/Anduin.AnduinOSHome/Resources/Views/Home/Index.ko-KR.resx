@@ -402,5 +402,8 @@
   <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>원격 측정이 통합되지 않았습니다! &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;를 선택하여 개인정보를 되찾으세요.</value>
   </data>
+  <data name="to us." xml:space="preserve">
+    <value>저희에게.</value>
+  </data>
 
 </root>
