@@ -5,6 +5,7 @@ namespace Anduin.AnduinOSHome.MySql;
 
 // This class will be scanned by Entity framework during migrations adding. Do NOT delete!
 // On production, real database will respect the appsettings.json.
+// ReSharper disable once UnusedType.Global
 public class MySqlContextFactory : IDesignTimeDbContextFactory<MySqlContext>
 {
     public MySqlContext CreateDbContext(string[] args)
