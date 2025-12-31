@@ -388,4 +388,10 @@
     <value>हमारे लिए।</value>
   </data>
 
+  <data name="Discord channel" xml:space="preserve">
+    <value>Discord channel</value>
+  </data>
+  <data name="Join Discord channel" xml:space="preserve">
+    <value>Join Discord channel</value>
+  </data>
 </root>
