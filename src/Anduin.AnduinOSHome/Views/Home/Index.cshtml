@@ -460,6 +460,8 @@
                                                 data-latest="@version.Latest"
                                                 data-prefered-language="@currentCulture"
                                                 data-size="@version.Size"
+                                                data-support-torrent="@version.SupportTorrent.ToString().ToLower()"
+                                                data-support-https="@version.SupportHttps.ToString().ToLower()"
                                                 data-additional-langs="@additionalLangs">
                                             @Localizer["Download"]
                                         </button>
