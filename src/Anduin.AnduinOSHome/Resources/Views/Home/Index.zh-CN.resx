@@ -402,5 +402,10 @@
   <data name="to us." xml:space="preserve">
     <value>给我们。</value>
   </data>
-
+  <data name="Discord channel" xml:space="preserve">
+    <value>Discord 频道</value>
+  </data>
+  <data name="Join Discord channel" xml:space="preserve">
+    <value>加入 Discord 频道</value>
+  </data>
 </root>
