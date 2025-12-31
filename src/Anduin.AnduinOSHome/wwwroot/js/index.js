@@ -174,6 +174,8 @@ downloadModalEl.addEventListener('show.bs.modal', event => {
     const latest        = btn.dataset.latest;
     const size          = btn.dataset.size;
     const preferred = btn.dataset.preferedLanguage || '';
+    const supportTorrent = btn.dataset.supportTorrent === 'true';
+    const supportHttps   = btn.dataset.supportHttps   === 'true';
 
     const additionalLangsRaw = btn.dataset.additionalLangs || '';
     const additionalLangs = additionalLangsRaw.split(',').filter(Boolean); // e.g., ['ro_RO'] or []
@@ -203,14 +205,14 @@ downloadModalEl.addEventListener('show.bs.modal', event => {
         : languagesToShow.length > 0 ? languagesToShow[0].code : 'en_US';
 
     languageSelect.onchange = () => {
-        renderDownloadLinks({ version, latest }, languageSelect.value);
+        renderDownloadLinks({ version, latest, supportTorrent, supportHttps }, languageSelect.value);
     };
 
     const initialLang = languageSelect.value || (languagesToShow.length > 0 ? languagesToShow[0].code : 'en_US');
-    renderDownloadLinks({ version, latest }, initialLang);
+    renderDownloadLinks({ version, latest, supportTorrent, supportHttps }, initialLang);
 });
 
-function renderDownloadLinks({ version, latest }, langCode) {
+function renderDownloadLinks({ version, latest, supportTorrent, supportHttps }, langCode) {
     const lang = allLanguages.find(l => l.code === langCode);
     if (!lang) {
         console.error(`Language code ${langCode} not found in allLanguages array.`);
@@ -220,8 +222,12 @@ function renderDownloadLinks({ version, latest }, langCode) {
     downloadLinksContainer.innerHTML = '';
 
     const base = `https://download.anduinos.com/${version}/${latest}/AnduinOS-${latest}-${lang.code}`;
-    appendLink(`${base}.torrent`,   lang.torrentLabel, 'btn-primary');
-    appendLink(`${base}.iso`,       lang.directLabel, 'btn-outline-primary');
+    if (supportTorrent) {
+        appendLink(`${base}.torrent`, lang.torrentLabel, 'btn-primary');
+    }
+    if (supportHttps) {
+        appendLink(`${base}.iso`, lang.directLabel, 'btn-outline-primary');
+    }
     appendLink(`${base}.sha256`,    lang.checksumLabel, 'btn-outline-primary');
 }
 

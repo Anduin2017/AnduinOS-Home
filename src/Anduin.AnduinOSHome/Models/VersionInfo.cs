@@ -49,6 +49,12 @@ public class VersionInfo
     [JsonPropertyName("notRecommended")]
     public required bool NotRecommended { get; set; }
 
+    [JsonPropertyName("supportTorrent")]
+    public bool SupportTorrent { get; set; } = true;
+
+    [JsonPropertyName("supportHttps")]
+    public bool SupportHttps { get; set; } = true;
+
     [JsonPropertyName("additionalLanguageSupport")]
     public required string[]? AdditionalLanguageSupport { get; set; }
 }
