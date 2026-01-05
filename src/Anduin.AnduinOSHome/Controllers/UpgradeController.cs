@@ -12,7 +12,8 @@ public class UpgradeController(
     IOptions<List<VersionInfo>> versions,
     HttpClient httpClient,
     IOptions<List<string>> endpoints,
-    RetryEngine retryEngine) : ControllerBase
+    RetryEngine retryEngine,
+    ILogger<UpgradeController> logger) : ControllerBase
 {
     [HttpGet("upgrade/{branch}")]
     public async Task<IActionResult> Get(string branch)
@@ -27,19 +28,32 @@ public class UpgradeController(
         httpClient.Timeout = TimeSpan.FromSeconds(15);
 
         var upgradeContent = await cacheService.RunWithCache($"upgrade-content-{branch}", () =>
-                retryEngine.RunWithRetry(async i => // i starts with 1.
+                retryEngine.RunWithRetry(async _ =>
                 {
-                    // For i = 1,2, try endpoint[0]
-                    // For i = 3,4, try endpoint[1]
-                    var endpointIndex = (i - 1) / 2;
-                    if (endpointIndex >= endpoints.Value.Count)
-                        endpointIndex = endpoints.Value.Count - 1;
+                    // Try each endpoint in order until one succeeds
+                    Exception? lastException = null;
 
-                    var endpointToTry = endpoints.Value[endpointIndex];
-                    var response = await httpClient.GetAsync(endpointToTry.Replace("{Branch}", branch));
-                    response.EnsureSuccessStatusCode();
-                    return await response.Content.ReadAsStringAsync();
-                }, attempts: 6)
+                    foreach (var endpoint in endpoints.Value)
+                    {
+                        try
+                        {
+                            var url = endpoint.Replace("{Branch}", branch);
+                            logger.LogInformation("Attempting to download upgrade script from {Endpoint}", url);
+                            var response = await httpClient.GetAsync(url);
+                            response.EnsureSuccessStatusCode();
+                            logger.LogInformation("Successfully downloaded upgrade script from {Endpoint}", url);
+                            return await response.Content.ReadAsStringAsync();
+                        }
+                        catch (Exception ex)
+                        {
+                            lastException = ex;
+                            logger.LogWarning(ex, "Failed to download upgrade script from {Endpoint}. Trying next endpoint.", endpoint);
+                        }
+                    }
+
+                    // If all endpoints failed, throw the last exception
+                    throw lastException ?? new InvalidOperationException("No endpoints available");
+                }, attempts: 3)
             , cachedMinutes: _ => TimeSpan.FromMinutes(10));
         // content type is bash.
         return Content(upgradeContent, "application/x-sh");
