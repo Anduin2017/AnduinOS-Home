@@ -18,14 +18,11 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Resources" xml:space="preserve">
-    <value>リソース</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>（コミュニティ運営）</value>
   </data>
-  <data name="News" xml:space="preserve">
-    <value>ニュース</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>ソースコード</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - UbuntuベースのカスタムLinuxディストリビューションで、Linuxに移行するすべてのユーザーに親しみやすく使いやすい体験を提供します。</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>コミュニティ</value>
@@ -33,20 +30,14 @@
   <data name="Document" xml:space="preserve">
     <value>ドキュメント</value>
   </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>サービスステータス</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>参考</value>
-  </data>
   <data name="Legals" xml:space="preserve">
     <value>法的表示</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>利用規約</value>
-  </data>
   <data name="License" xml:space="preserve">
     <value>ライセンス</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>ニュース</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>オープンソース</value>
@@ -54,14 +45,23 @@
   <data name="Privacy Policy" xml:space="preserve">
     <value>プライバシーポリシー</value>
   </data>
+  <data name="Reference" xml:space="preserve">
+    <value>参考</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>リソース</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>サービスステータス</value>
+  </data>
   <data name="Social" xml:space="preserve">
     <value>ソーシャル</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>（コミュニティ運営）</value>
+  <data name="Source Code" xml:space="preserve">
+    <value>ソースコード</value>
   </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS - UbuntuベースのカスタムLinuxディストリビューションで、Linuxに移行するすべてのユーザーに親しみやすく使いやすい体験を提供します。</value>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>利用規約</value>
   </data>
 
 </root>

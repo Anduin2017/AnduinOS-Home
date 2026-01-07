@@ -18,14 +18,11 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Source Code" xml:space="preserve">
-    <value>Code source</value>
-  </data>
-  <data name="Community" xml:space="preserve">
+      <data name="Community" xml:space="preserve">
     <value>Communauté</value>
   </data>
-  <data name="News" xml:space="preserve">
-    <value>Actualités</value>
+  <data name="Docs" xml:space="preserve">
+    <value>Documentation</value>
   </data>
   <data name="Donate" xml:space="preserve">
     <value>Faire un don</value>
@@ -33,11 +30,14 @@
   <data name="Download" xml:space="preserve">
     <value>Télécharger</value>
   </data>
-  <data name="Docs" xml:space="preserve">
-    <value>Documentation</value>
-  </data>
   <data name="Install" xml:space="preserve">
     <value>Installer</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Actualités</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Code source</value>
   </data>
 
 </root>

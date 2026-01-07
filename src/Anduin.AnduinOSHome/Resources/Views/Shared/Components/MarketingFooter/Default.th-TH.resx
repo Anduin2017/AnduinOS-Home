@@ -18,17 +18,11 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Reference" xml:space="preserve">
-    <value>เอกสารอ้างอิง</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(ดำเนินการโดยชุมชน)</value>
   </data>
-  <data name="News" xml:space="preserve">
-    <value>ข่าว</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>สถานะการให้บริการ</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>ทรัพยากร</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - ระบบปฏิบัติการลินุกซ์ที่ปรับแต่งมาจาก Ubuntu ซึ่งมอบประสบการณ์ที่คุ้นเคยและใช้งานง่ายสำหรับทุกคนที่กำลังย้ายมาใช้ลินุกซ์</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>ชุมชน</value>
@@ -36,32 +30,38 @@
   <data name="Document" xml:space="preserve">
     <value>เอกสาร</value>
   </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>ซอร์สโค้ด</value>
-  </data>
   <data name="Legals" xml:space="preserve">
     <value>ข้อกำหนดทางกฎหมาย</value>
   </data>
   <data name="License" xml:space="preserve">
     <value>สัญญาอนุญาต</value>
   </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>นโยบายความเป็นส่วนตัว</value>
-  </data>
-  <data name="Social" xml:space="preserve">
-    <value>โซเชียล</value>
-  </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS - ระบบปฏิบัติการลินุกซ์ที่ปรับแต่งมาจาก Ubuntu ซึ่งมอบประสบการณ์ที่คุ้นเคยและใช้งานง่ายสำหรับทุกคนที่กำลังย้ายมาใช้ลินุกซ์</value>
+  <data name="News" xml:space="preserve">
+    <value>ข่าว</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>โอเพนซอร์ส</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>นโยบายความเป็นส่วนตัว</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>เอกสารอ้างอิง</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>ทรัพยากร</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>สถานะการให้บริการ</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>โซเชียล</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>ซอร์สโค้ด</value>
+  </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>ข้อกำหนดในการให้บริการ</value>
-  </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(ดำเนินการโดยชุมชน)</value>
   </data>
 
 </root>

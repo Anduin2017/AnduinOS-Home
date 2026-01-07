@@ -18,8 +18,11 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Source Code" xml:space="preserve">
-    <value>Codice Sorgente</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Gestito dalla comunità)</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - una distribuzione Linux personalizzata basata su Ubuntu che offre un&apos;esperienza familiare e facile da usare per chiunque si avvicini a Linux.</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Community</value>
@@ -27,26 +30,14 @@
   <data name="Document" xml:space="preserve">
     <value>Documentazione</value>
   </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Stato del Servizio</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Notizie</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Risorse</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Riferimenti</value>
-  </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS - una distribuzione Linux personalizzata basata su Ubuntu che offre un&apos;esperienza familiare e facile da usare per chiunque si avvicini a Linux.</value>
+  <data name="Legals" xml:space="preserve">
+    <value>Note legali</value>
   </data>
   <data name="License" xml:space="preserve">
     <value>Licenza</value>
   </data>
-  <data name="Legals" xml:space="preserve">
-    <value>Note legali</value>
+  <data name="News" xml:space="preserve">
+    <value>Notizie</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
@@ -54,14 +45,23 @@
   <data name="Privacy Policy" xml:space="preserve">
     <value>Informativa sulla privacy</value>
   </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Riferimenti</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Risorse</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Stato del Servizio</value>
+  </data>
   <data name="Social" xml:space="preserve">
     <value>Social</value>
   </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Codice Sorgente</value>
+  </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Termini di Servizio</value>
-  </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Gestito dalla comunità)</value>
   </data>
 
 </root>

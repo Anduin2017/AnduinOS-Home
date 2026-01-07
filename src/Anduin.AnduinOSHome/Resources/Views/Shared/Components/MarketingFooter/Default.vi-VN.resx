@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Resources" xml:space="preserve">
-    <value>Tài nguyên</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>Tài liệu</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Tin tức</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Cộng đồng</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Tài liệu tham khảo</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Mã Nguồn</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Trạng thái dịch vụ</value>
-  </data>
-  <data name="License" xml:space="preserve">
-    <value>Giấy phép</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Chính sách Bảo mật</value>
-  </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>Mã Nguồn Mở</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Được vận hành bởi cộng đồng)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - một bản phân phối Linux tùy chỉnh dựa trên Ubuntu, mang đến trải nghiệm quen thuộc và dễ sử dụng cho bất kỳ ai chuyển sang sử dụng Linux.</value>
   </data>
-  <data name="Social" xml:space="preserve">
-    <value>Mạng xã hội</value>
+  <data name="Community" xml:space="preserve">
+    <value>Cộng đồng</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>Điều khoản Dịch vụ</value>
+  <data name="Document" xml:space="preserve">
+    <value>Tài liệu</value>
   </data>
   <data name="Legals" xml:space="preserve">
     <value>Thông tin Pháp lý</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Được vận hành bởi cộng đồng)</value>
+  <data name="License" xml:space="preserve">
+    <value>Giấy phép</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Tin tức</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Mã Nguồn Mở</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Chính sách Bảo mật</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Tài liệu tham khảo</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Tài nguyên</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Trạng thái dịch vụ</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Mạng xã hội</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Mã Nguồn</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Điều khoản Dịch vụ</value>
   </data>
 
 </root>

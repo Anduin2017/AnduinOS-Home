@@ -21,23 +21,23 @@
       <data name="Community" xml:space="preserve">
     <value>Κοινότητα</value>
   </data>
-  <data name="News" xml:space="preserve">
-    <value>Νέα</value>
-  </data>
-  <data name="Download" xml:space="preserve">
-    <value>Λήψη</value>
+  <data name="Docs" xml:space="preserve">
+    <value>Έγγραφα</value>
   </data>
   <data name="Donate" xml:space="preserve">
     <value>Δωρεά</value>
   </data>
+  <data name="Download" xml:space="preserve">
+    <value>Λήψη</value>
+  </data>
   <data name="Install" xml:space="preserve">
     <value>Εγκατάσταση</value>
   </data>
+  <data name="News" xml:space="preserve">
+    <value>Νέα</value>
+  </data>
   <data name="Source Code" xml:space="preserve">
     <value>Πηγαίος Κώδικας</value>
-  </data>
-  <data name="Docs" xml:space="preserve">
-    <value>Έγγραφα</value>
   </data>
 
 </root>

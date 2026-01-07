@@ -18,134 +18,17 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
-    <value>نحتفظ بالحق في تحديث أو تعديل هذه الشروط في أي وقت دون إشعار مسبق.</value>
+      <data name=", including:" xml:space="preserve">
+    <value>، بما في ذلك:</value>
   </data>
-  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
-    <value>نشجعك على مراجعة هذه الشروط بشكل دوري.</value>
-  </data>
-  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
-    <value>توافق على استخدام الموقع والخدمات فقط للأغراض القانونية ووفقًا لجميع القوانين واللوائح المعمول بها.</value>
-  </data>
-  <data name="2. Modifications to Terms" xml:space="preserve">
-    <value>2. تعديل الشروط</value>
-  </data>
-  <data name="You specifically agree not to:" xml:space="preserve">
-    <value>أنت توافق تحديدًا على عدم:</value>
-  </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>شروط الخدمة</value>
-  </data>
-  <data name="1. Acceptance of Terms" xml:space="preserve">
-    <value>1. قبول الشروط</value>
-  </data>
-  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
-    <value>إذا كنت لا توافق على أي جزء من هذه الشروط، فيجب عليك عدم استخدام الموقع أو الخدمات.</value>
-  </data>
-  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
-    <value>تحميل أو توزيع أو نقل أي برامج ضارة أو فيروسات أو أكواد مؤذية.</value>
-  </data>
-  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
-    <value>إساءة استخدام أو مهاجمة أو إثقال كاهل الموقع الإلكتروني أو الخوادم أو الخدمات.</value>
-  </data>
-  <data name="Last updated: May 10, 2025" xml:space="preserve">
-    <value>آخر تحديث: ١٠ مايو ٢٠٢٥</value>
-  </data>
-  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
-    <value>استخدم الموقع أو الخدمات لأي أنشطة احتيالية أو غير قانونية أو ضارة.</value>
-  </data>
-  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
-    <value>محاولة الحصول على وصول غير مصرح به إلى الأنظمة أو البيانات.</value>
-  </data>
-  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
-    <value>استمرارك في استخدام الموقع أو الخدمات بعد أي تغييرات يُعتبر قبولاً للشروط الجديدة.</value>
-  </data>
-  <data name="3. Use of Website and Services" xml:space="preserve">
-    <value>3. استخدام الموقع والخدمات</value>
-  </data>
-  <data name="4. Intellectual Property" xml:space="preserve">
-    <value>4. الملكية الفكرية</value>
-  </data>
-  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
-    <value>AnduinOS هو مشروع مجاني ومفتوح المصدر يتم توزيعه بموجب</value>
-  </data>
-  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
-    <value>باستخدامك موقع AnduinOS (&quot;الموقع&quot;) وأي خدمات مرتبطة به، بما في ذلك على سبيل المثال لا الحصر الوثائق والتنزيلات والمناقشات المجتمعية (&quot;الخدمات&quot;)، فإنك توافق على الالتزام بهذه شروط الخدمة (&quot;الشروط&quot;).</value>
-  </data>
-  <data name="5. Third-Party Links and Content" xml:space="preserve">
-    <value>5. روابط ومحتوى الطرف الثالث</value>
-  </data>
-  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
-    <value>نحتفظ بالحق في تقييد أو إنهاء وصول المستخدمين الذين ينتهكون هذه الشروط.</value>
-  </data>
-  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
-    <value>بينما البرنامج مفتوح المصدر، فإن تصميم الموقع والمواد التسويقية والمحتوى الآخر غير البرمجي قد يخضع لحقوق ملكية فكرية منفصلة.</value>
-  </data>
-  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
-    <value>قد يتضمن الموقع والخدمات روابط لمواقع أو خدمات تابعة لأطراف ثالثة لا نملكها أو نتحكم فيها.</value>
-  </data>
-  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
-    <value>الوصول إلى موارد الطرف الثالث يتم على مسؤوليتك الخاصة.</value>
-  </data>
-  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
-    <value>نحن لسنا مسؤولين عن المحتوى أو السياسات أو الممارسات الخاصة بأي مواقع تابعة لأطراف ثالثة.</value>
-  </data>
-  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
-    <value>يتم توفير الموقع والخدمات وبرنامج AnduinOS</value>
-  </data>
-  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
-    <value>بدون أي ضمانات من أي نوع، سواء كانت صريحة أو ضمنية.</value>
-  </data>
-  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
-    <value>يُعد استخدام AnduinOS والموقع الإلكتروني على مسؤوليتك الخاصة بالكامل.</value>
+  <data name="." xml:space="preserve">
+    <value>.</value>
   </data>
   <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
     <value>&quot;كما هي&quot; و&quot;كما متاحة&quot;</value>
   </data>
-  <data name="7. Limitation of Liability" xml:space="preserve">
-    <value>7. الحد من المسؤولية</value>
-  </data>
-  <data name="Non-infringement" xml:space="preserve">
-    <value>عدم التعدي</value>
-  </data>
-  <data name="Reliability" xml:space="preserve">
-    <value>الموثوقية</value>
-  </data>
-  <data name="Accuracy" xml:space="preserve">
-    <value>الدقة</value>
-  </data>
-  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
-    <value>توفر أو أمان الموقع الإلكتروني، الخدمات، أو البرنامج</value>
-  </data>
-  <data name="Fitness for a particular purpose" xml:space="preserve">
-    <value>الملاءمة لغرض معين</value>
-  </data>
-  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
-    <value>نحن نتنصل صراحة من جميع الضمانات، بما في ذلك على سبيل المثال لا الحصر:</value>
-  </data>
-  <data name="6. Disclaimer of Warranties" xml:space="preserve">
-    <value>6. إخلاء مسؤولية الضمانات</value>
-  </data>
-  <data name="8. Termination" xml:space="preserve">
-    <value>8. الإنهاء</value>
-  </data>
-  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
-    <value>إلى أقصى حد يسمح به القانون، لن نكون مسؤولين عن أي:</value>
-  </data>
-  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
-    <value>خسارة الأرباح، الإيرادات، البيانات، أو السمعة التجارية؛</value>
-  </data>
-  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
-    <value>أضرار غير مباشرة، عرضية، خاصة، تبعية، أو عقابية؛</value>
-  </data>
-  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
-    <value>الأضرار الناتجة عن استخدامك (أو عدم قدرتك على استخدام) الموقع الإلكتروني أو الخدمات أو برنامج AnduinOS.</value>
-  </data>
-  <data name="Community:" xml:space="preserve">
-    <value>المجتمع:</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>البريد الإلكتروني:</value>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. قبول الشروط</value>
   </data>
   <data name="10. Contact Information" xml:space="preserve">
     <value>10. معلومات الاتصال</value>
@@ -153,59 +36,176 @@
   <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
     <value>11. إخلاء مسؤولية بخصوص النسخ المعدلة</value>
   </data>
-  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
-    <value>مناقشات AnduinOS على GitHub</value>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. تعديل الشروط</value>
   </data>
-  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
-    <value>تخضع هذه الشروط وتُفسر وفقًا لقوانين الولاية القضائية التي يقيم فيها مشغل الموقع، دون اعتبار لمبادئ تنازع القوانين.</value>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. استخدام الموقع والخدمات</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. الملكية الفكرية</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. روابط ومحتوى الطرف الثالث</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. إخلاء مسؤولية الضمانات</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. الحد من المسؤولية</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. الإنهاء</value>
   </data>
   <data name="9. Governing Law" xml:space="preserve">
     <value>9. القانون الحاكم</value>
   </data>
-  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
-    <value>إذا كان لديك أي استفسارات بخصوص شروط الخدمة هذه، يرجى التواصل عبر:</value>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>إساءة استخدام أو مهاجمة أو إثقال كاهل الموقع الإلكتروني أو الخوادم أو الخدمات.</value>
   </data>
-  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
-    <value>لا يُسمح لك بنسخ أو استنساخ أو توزيع العناصر غير البرمجية للموقع دون إذن صريح.</value>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>الوصول إلى موارد الطرف الثالث يتم على مسؤوليتك الخاصة.</value>
   </data>
-  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
-    <value>نحتفظ بالحق في إنهاء أو تعليق وصولك إلى الموقع أو الخدمات فورًا، دون إشعار مسبق، في حال أي سلوك نعتقد أنه ينتهك هذه الشروط أو يضر بالمستخدمين الآخرين أو بنا أو بأطراف ثالثة.</value>
+  <data name="Accuracy" xml:space="preserve">
+    <value>الدقة</value>
   </data>
-  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
-    <value>إذا حصلت على AnduinOS من أي مصدر آخر غير القنوات الرسمية المذكورة أعلاه،</value>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>مناقشات AnduinOS على GitHub</value>
+  </data>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS هو مشروع مجاني ومفتوح المصدر يتم توزيعه بموجب</value>
   </data>
   <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
     <value>AnduinOS هو مشروع مجاني ومفتوح المصدر يتم توزيعه تحت رخصة جنو العمومية العامة الإصدار 3.0 (GPL-v3).</value>
   </data>
-  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
-    <value>نحن لا نؤيد أو نتحقق من أو ندعم أي إصدارات غير رسمية أو معدلة من طرف ثالث من AnduinOS.</value>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>محاولة الحصول على وصول غير مصرح به إلى الأنظمة أو البيانات.</value>
   </data>
-  <data name="you do so entirely at your own risk." xml:space="preserve">
-    <value>أنت تفعل ذلك على مسؤوليتك الخاصة بالكامل.</value>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>توفر أو أمان الموقع الإلكتروني، الخدمات، أو البرنامج</value>
   </data>
-  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
-    <value>بينما يحق لأي شخص الحصول على نسخ من البرنامج وتعديلها وإعادة توزيعها بموجب شروط الرخصة،</value>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>باستخدامك موقع AnduinOS (&quot;الموقع&quot;) وأي خدمات مرتبطة به، بما في ذلك على سبيل المثال لا الحصر الوثائق والتنزيلات والمناقشات المجتمعية (&quot;الخدمات&quot;)، فإنك توافق على الالتزام بهذه شروط الخدمة (&quot;الشروط&quot;).</value>
   </data>
-  <data name=", including:" xml:space="preserve">
-    <value>، بما في ذلك:</value>
+  <data name="Community:" xml:space="preserve">
+    <value>المجتمع:</value>
   </data>
-  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
-    <value>نحن نتحمل المسؤولية فقط عن الإصدارات الموزعة رسميًا عبر قنواتنا الرسمية</value>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>الأضرار الناتجة عن استخدامك (أو عدم قدرتك على استخدام) الموقع الإلكتروني أو الخدمات أو برنامج AnduinOS.</value>
   </data>
-  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
-    <value>نحن نتنصل من أي مسؤولية عن أي ضرر أو تلف أو خسارة أو ثغرات أمنية ناتجة عن الإصدارات غير الرسمية أو المعدلة من AnduinOS.</value>
+  <data name="Email:" xml:space="preserve">
+    <value>البريد الإلكتروني:</value>
   </data>
-  <data name="." xml:space="preserve">
-    <value>.</value>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>الملاءمة لغرض معين</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>إذا كنت لا توافق على أي جزء من هذه الشروط، فيجب عليك عدم استخدام الموقع أو الخدمات.</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>إذا كان لديك أي استفسارات بخصوص شروط الخدمة هذه، يرجى التواصل عبر:</value>
+  </data>
+  <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
+    <value>إذا حصلت على AnduinOS من أي مصدر آخر غير القنوات الرسمية المذكورة أعلاه،</value>
   </data>
   <data name="including:" xml:space="preserve">
     <value>بما في ذلك:</value>
   </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>أضرار غير مباشرة، عرضية، خاصة، تبعية، أو عقابية؛</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>آخر تحديث: ١٠ مايو ٢٠٢٥</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>خسارة الأرباح، الإيرادات، البيانات، أو السمعة التجارية؛</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>عدم التعدي</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>الموثوقية</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>شروط الخدمة</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>قد يتضمن الموقع والخدمات روابط لمواقع أو خدمات تابعة لأطراف ثالثة لا نملكها أو نتحكم فيها.</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>يتم توفير الموقع والخدمات وبرنامج AnduinOS</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>تخضع هذه الشروط وتُفسر وفقًا لقوانين الولاية القضائية التي يقيم فيها مشغل الموقع، دون اعتبار لمبادئ تنازع القوانين.</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>إلى أقصى حد يسمح به القانون، لن نكون مسؤولين عن أي:</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>تحميل أو توزيع أو نقل أي برامج ضارة أو فيروسات أو أكواد مؤذية.</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>يُعد استخدام AnduinOS والموقع الإلكتروني على مسؤوليتك الخاصة بالكامل.</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>استخدم الموقع أو الخدمات لأي أنشطة احتيالية أو غير قانونية أو ضارة.</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>نحن لسنا مسؤولين عن المحتوى أو السياسات أو الممارسات الخاصة بأي مواقع تابعة لأطراف ثالثة.</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels" xml:space="preserve">
+    <value>نحن نتحمل المسؤولية فقط عن الإصدارات الموزعة رسميًا عبر قنواتنا الرسمية</value>
+  </data>
   <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
     <value>نحن نتحمل المسؤولية فقط عن الإصدارات الموزعة رسميًا من خلال قنواتنا الرسمية،</value>
   </data>
+  <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
+    <value>نحن نتنصل من أي مسؤولية عن أي ضرر أو تلف أو خسارة أو ثغرات أمنية ناتجة عن الإصدارات غير الرسمية أو المعدلة من AnduinOS.</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>نحن لا نؤيد أو نتحقق من أو ندعم أي إصدارات غير رسمية أو معدلة من طرف ثالث من AnduinOS.</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>نحن نتنصل صراحة من جميع الضمانات، بما في ذلك على سبيل المثال لا الحصر:</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>نحتفظ بالحق في تقييد أو إنهاء وصول المستخدمين الذين ينتهكون هذه الشروط.</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>نحتفظ بالحق في إنهاء أو تعليق وصولك إلى الموقع أو الخدمات فورًا، دون إشعار مسبق، في حال أي سلوك نعتقد أنه ينتهك هذه الشروط أو يضر بالمستخدمين الآخرين أو بنا أو بأطراف ثالثة.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>نحتفظ بالحق في تحديث أو تعديل هذه الشروط في أي وقت دون إشعار مسبق.</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license," xml:space="preserve">
+    <value>بينما يحق لأي شخص الحصول على نسخ من البرنامج وتعديلها وإعادة توزيعها بموجب شروط الرخصة،</value>
+  </data>
   <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
     <value>بينما يُسمح قانونيًا لأي شخص بالحصول على البرنامج وتعديله وإعادة توزيع نسخ منه وفقًا لشروط الرخصة،</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>بينما البرنامج مفتوح المصدر، فإن تصميم الموقع والمواد التسويقية والمحتوى الآخر غير البرمجي قد يخضع لحقوق ملكية فكرية منفصلة.</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>بدون أي ضمانات من أي نوع، سواء كانت صريحة أو ضمنية.</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>توافق على استخدام الموقع والخدمات فقط للأغراض القانونية ووفقًا لجميع القوانين واللوائح المعمول بها.</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>نشجعك على مراجعة هذه الشروط بشكل دوري.</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>أنت تفعل ذلك على مسؤوليتك الخاصة بالكامل.</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>لا يُسمح لك بنسخ أو استنساخ أو توزيع العناصر غير البرمجية للموقع دون إذن صريح.</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>أنت توافق تحديدًا على عدم:</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>استمرارك في استخدام الموقع أو الخدمات بعد أي تغييرات يُعتبر قبولاً للشروط الجديدة.</value>
   </data>
 
 </root>

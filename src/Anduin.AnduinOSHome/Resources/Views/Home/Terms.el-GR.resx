@@ -18,185 +18,185 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Terms of Service" xml:space="preserve">
-    <value>Όροι Χρήσης</value>
-  </data>
-  <data name="2. Modifications to Terms" xml:space="preserve">
-    <value>2. Τροποποιήσεις των Όρων</value>
-  </data>
-  <data name="1. Acceptance of Terms" xml:space="preserve">
-    <value>1. Αποδοχή Όρων</value>
-  </data>
-  <data name="Last updated: May 10, 2025" xml:space="preserve">
-    <value>Τελευταία ενημέρωση: 10 Μαΐου 2025</value>
-  </data>
-  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
-    <value>Εάν δεν συμφωνείτε με οποιοδήποτε μέρος αυτών των Όρων, δεν επιτρέπεται να χρησιμοποιείτε τον Ιστότοπο ή τις Υπηρεσίες.</value>
-  </data>
-  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
-    <value>Η συνεχιζόμενη χρήση της Ιστοσελίδας ή των Υπηρεσιών μετά από οποιεσδήποτε αλλαγές συνιστά αποδοχή των νέων Όρων.</value>
-  </data>
-  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
-    <value>Διατηρούμε το δικαίωμα να ενημερώνουμε ή να τροποποιούμε τους παρόντες Όρους ανά πάσα στιγμή χωρίς προηγούμενη ειδοποίηση.</value>
-  </data>
-  <data name="3. Use of Website and Services" xml:space="preserve">
-    <value>3. Χρήση Ιστότοπου και Υπηρεσιών</value>
-  </data>
-  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
-    <value>Σας ενθαρρύνουμε να εξετάζετε περιοδικά αυτούς τους Όρους.</value>
-  </data>
-  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
-    <value>Με την πρόσβαση και τη χρήση της ιστοσελίδας AnduinOS (&quot;Ιστοσελίδα&quot;) και οποιωνδήποτε σχετικών υπηρεσιών, συμπεριλαμβανομένων αλλά όχι περιορισμένων σε τεκμηρίωση, λήψεις και συζητήσεις κοινότητας (&quot;Υπηρεσίες&quot;), συμφωνείτε να δεσμεύεστε από τους παρόντες Όρους Υπηρεσίας (&quot;Όροι&quot;).</value>
-  </data>
-  <data name="You specifically agree not to:" xml:space="preserve">
-    <value>Συγκεκριμένα συμφωνείτε να μην:</value>
-  </data>
-  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
-    <value>Προσπάθεια απόκτησης μη εξουσιοδοτημένης πρόσβασης σε συστήματα ή δεδομένα.</value>
-  </data>
-  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
-    <value>Συμφωνείτε να χρησιμοποιείτε τον Ιστότοπο και τις Υπηρεσίες μόνο για νόμιμους σκοπούς και σύμφωνα με όλους τους ισχύοντες νόμους και κανονισμούς.</value>
-  </data>
-  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
-    <value>Κατάχρηση, επίθεση ή υπερφόρτωση του Ιστότοπου, των διακομιστών ή των Υπηρεσιών.</value>
-  </data>
-  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
-    <value>Ανεβάστε, διανείμετε ή μεταδώστε οποιοδήποτε κακόβουλο λογισμικό, ιούς ή επιβλαβείς κώδικες.</value>
-  </data>
-  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
-    <value>Χρησιμοποιήστε τον Ιστότοπο ή τις Υπηρεσίες για οποιαδήποτε απάτη, παράνομη ή κακόβουλη δραστηριότητα.</value>
-  </data>
-  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
-    <value>Το AnduinOS είναι ένα δωρεάν και ανοικτού κώδικα έργο που διανέμεται υπό την</value>
-  </data>
-  <data name="4. Intellectual Property" xml:space="preserve">
-    <value>4. Δικαιώματα Πνευματικής Ιδιοκτησίας</value>
-  </data>
-  <data name="." xml:space="preserve">
+      <data name="." xml:space="preserve">
     <value>.</value>
-  </data>
-  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
-    <value>Διατηρούμε το δικαίωμα να περιορίσουμε ή να τερματίσουμε την πρόσβαση για χρήστες που παραβιάζουν τους παρόντες Όρους.</value>
-  </data>
-  <data name="5. Third-Party Links and Content" xml:space="preserve">
-    <value>5. Σύνδεσμοι και Περιεχόμενα Τρίτων</value>
-  </data>
-  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
-    <value>Δεν επιτρέπεται να αντιγράψετε, να αναπαράγετε ή να διανείμετε μη κωδικοποιημένα στοιχεία του Ιστότοπου χωρίς ρητή άδεια.</value>
-  </data>
-  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
-    <value>Ενώ το λογισμικό είναι ανοιχτού κώδικα, ο σχεδιασμός του Ιστότοπου, τα υλικά επωνυμίας και άλλο μη λογισμικό περιεχόμενο ενδέχεται να υπόκεινται σε ξεχωριστά δικαιώματα πνευματικής ιδιοκτησίας.</value>
-  </data>
-  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
-    <value>Ο Ιστότοπος, οι Υπηρεσίες και το λογισμικό AnduinOS παρέχονται</value>
-  </data>
-  <data name="6. Disclaimer of Warranties" xml:space="preserve">
-    <value>6. Αποποίηση Εγγυήσεων</value>
-  </data>
-  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
-    <value>Η πρόσβαση σε πόρους τρίτων γίνεται με δική σας ευθύνη.</value>
-  </data>
-  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
-    <value>Ο Ιστότοπος και οι Υπηρεσίες μπορεί να περιλαμβάνουν συνδέσμους προς ιστότοπους ή υπηρεσίες τρίτων που δεν ανήκουν ή δεν ελέγχονται από εμάς.</value>
   </data>
   <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
     <value>«όπως είναι» και «όπως διατίθεται»,</value>
   </data>
-  <data name="Fitness for a particular purpose" xml:space="preserve">
-    <value>Καταλληλότητα για συγκεκριμένο σκοπό</value>
-  </data>
-  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
-    <value>Δεν φέρουμε ευθύνη για το περιεχόμενο, τις πολιτικές ή τις πρακτικές οποιουδήποτε ιστότοπου τρίτου μέρους.</value>
-  </data>
-  <data name="Non-infringement" xml:space="preserve">
-    <value>Μη παραβίαση</value>
-  </data>
-  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
-    <value>χωρίς καμία εγγύηση οποιουδήποτε είδους, είτε ρητή είτε σιωπηρή.</value>
-  </data>
-  <data name="Accuracy" xml:space="preserve">
-    <value>Ακρίβεια</value>
-  </data>
-  <data name="Reliability" xml:space="preserve">
-    <value>Αξιοπιστία</value>
-  </data>
-  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
-    <value>Αποποιούμαστε ρητά όλες τις εγγυήσεις, συμπεριλαμβανομένων, ενδεικτικά και όχι περιοριστικά, των ακόλουθων:</value>
-  </data>
-  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
-    <value>Διαθεσιμότητα ή ασφάλεια του Ιστότοπου, των Υπηρεσιών ή του λογισμικού</value>
-  </data>
-  <data name="8. Termination" xml:space="preserve">
-    <value>8. Διακοπή</value>
-  </data>
-  <data name="7. Limitation of Liability" xml:space="preserve">
-    <value>7. Περιορισμός Ευθύνης</value>
-  </data>
-  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
-    <value>Στο μέγιστο βαθμό που επιτρέπει ο νόμος, δεν φέρουμε ευθύνη για οποιαδήποτε:</value>
-  </data>
-  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
-    <value>Απώλεια κερδών, εσόδων, δεδομένων ή φήμης·</value>
-  </data>
-  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
-    <value>Η χρήση του AnduinOS και της Ιστοσελίδας γίνεται εξ ολοκλήρου δική σας ευθύνη.</value>
-  </data>
-  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
-    <value>Έμμεσες, τυχαίες, ειδικές, επακόλουθες ή τιμωρητικές ζημίες·</value>
-  </data>
-  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
-    <value>Ζημιές που προκύπτουν από τη χρήση (ή την αδυναμία χρήσης) του Ιστότοπου, των Υπηρεσιών ή του λογισμικού AnduinOS.</value>
-  </data>
-  <data name="9. Governing Law" xml:space="preserve">
-    <value>9. Ισχύον Δίκαιο</value>
-  </data>
-  <data name="Community:" xml:space="preserve">
-    <value>Κοινότητα:</value>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. Αποδοχή Όρων</value>
   </data>
   <data name="10. Contact Information" xml:space="preserve">
     <value>10. Στοιχεία Επικοινωνίας</value>
   </data>
-  <data name="Email:" xml:space="preserve">
-    <value>Ηλεκτρονικό ταχυδρομείο:</value>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. Αποποίηση Ευθυνών για Τροποποιημένες Εκδόσεις</value>
   </data>
-  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
-    <value>Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με τους Όρους Παροχής Υπηρεσιών, παρακαλώ επικοινωνήστε:</value>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. Τροποποιήσεις των Όρων</value>
+  </data>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. Χρήση Ιστότοπου και Υπηρεσιών</value>
+  </data>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. Δικαιώματα Πνευματικής Ιδιοκτησίας</value>
+  </data>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. Σύνδεσμοι και Περιεχόμενα Τρίτων</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. Αποποίηση Εγγυήσεων</value>
+  </data>
+  <data name="7. Limitation of Liability" xml:space="preserve">
+    <value>7. Περιορισμός Ευθύνης</value>
+  </data>
+  <data name="8. Termination" xml:space="preserve">
+    <value>8. Διακοπή</value>
+  </data>
+  <data name="9. Governing Law" xml:space="preserve">
+    <value>9. Ισχύον Δίκαιο</value>
+  </data>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>Κατάχρηση, επίθεση ή υπερφόρτωση του Ιστότοπου, των διακομιστών ή των Υπηρεσιών.</value>
+  </data>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>Η πρόσβαση σε πόρους τρίτων γίνεται με δική σας ευθύνη.</value>
+  </data>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Ακρίβεια</value>
   </data>
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>AnduinOS Συζητήσεις GitHub</value>
   </data>
-  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
-    <value>Οι παρόντες Όροι διέπονται και ερμηνεύονται σύμφωνα με τους νόμους της δικαιοδοσίας όπου εδρεύει ο εκμεταλλευτής του Ιστότοπου, χωρίς να λαμβάνονται υπόψη οι αρχές της σύγκρουσης νόμων.</value>
-  </data>
-  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
-    <value>Διατηρούμε το δικαίωμα να τερματίσουμε ή να αναστείλουμε την πρόσβασή σας στον Ιστότοπο ή στις Υπηρεσίες αμέσως, χωρίς προειδοποίηση, για συμπεριφορά που πιστεύουμε ότι παραβιάζει τους παρόντες Όρους ή είναι επιβλαβής για άλλους χρήστες, εμάς ή τρίτους.</value>
-  </data>
-  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
-    <value>11. Αποποίηση Ευθυνών για Τροποποιημένες Εκδόσεις</value>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>Το AnduinOS είναι ένα δωρεάν και ανοικτού κώδικα έργο που διανέμεται υπό την</value>
   </data>
   <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
     <value>Το AnduinOS είναι ένα δωρεάν και ανοικτού κώδικα έργο που διανέμεται υπό την Άδεια GNU General Public License v3.0 (GPL-v3).</value>
   </data>
-  <data name="including:" xml:space="preserve">
-    <value>συμπεριλαμβανομένων:</value>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>Προσπάθεια απόκτησης μη εξουσιοδοτημένης πρόσβασης σε συστήματα ή δεδομένα.</value>
   </data>
-  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
-    <value>είμαστε υπεύθυνοι μόνο για τις εκδόσεις που διανέμονται επίσημα μέσω των επίσημων καναλιών μας,</value>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>Διαθεσιμότητα ή ασφάλεια του Ιστότοπου, των Υπηρεσιών ή του λογισμικού</value>
   </data>
-  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
-    <value>Ενώ οποιοσδήποτε μπορεί νόμιμα να αποκτήσει, να τροποποιήσει και να αναδιανείμει αντίγραφα του λογισμικού σύμφωνα με τους όρους της άδειας,</value>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>Με την πρόσβαση και τη χρήση της ιστοσελίδας AnduinOS (&quot;Ιστοσελίδα&quot;) και οποιωνδήποτε σχετικών υπηρεσιών, συμπεριλαμβανομένων αλλά όχι περιορισμένων σε τεκμηρίωση, λήψεις και συζητήσεις κοινότητας (&quot;Υπηρεσίες&quot;), συμφωνείτε να δεσμεύεστε από τους παρόντες Όρους Υπηρεσίας (&quot;Όροι&quot;).</value>
   </data>
-  <data name="you do so entirely at your own risk." xml:space="preserve">
-    <value>το κάνετε αποκλειστικά με δική σας ευθύνη.</value>
+  <data name="Community:" xml:space="preserve">
+    <value>Κοινότητα:</value>
   </data>
-  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
-    <value>Δεν εγκρίνουμε, επαληθεύουμε ούτε υποστηρίζουμε καμία ανεπίσημη ή τρίτου μέρους τροποποιημένη έκδοση του AnduinOS.</value>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>Ζημιές που προκύπτουν από τη χρήση (ή την αδυναμία χρήσης) του Ιστότοπου, των Υπηρεσιών ή του λογισμικού AnduinOS.</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Ηλεκτρονικό ταχυδρομείο:</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>Καταλληλότητα για συγκεκριμένο σκοπό</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>Εάν δεν συμφωνείτε με οποιοδήποτε μέρος αυτών των Όρων, δεν επιτρέπεται να χρησιμοποιείτε τον Ιστότοπο ή τις Υπηρεσίες.</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με τους Όρους Παροχής Υπηρεσιών, παρακαλώ επικοινωνήστε:</value>
   </data>
   <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
     <value>Εάν λάβετε το AnduinOS από οποιαδήποτε πηγή εκτός από τα επίσημα κανάλια που αναφέρονται παραπάνω,</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>συμπεριλαμβανομένων:</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>Έμμεσες, τυχαίες, ειδικές, επακόλουθες ή τιμωρητικές ζημίες·</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Τελευταία ενημέρωση: 10 Μαΐου 2025</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>Απώλεια κερδών, εσόδων, δεδομένων ή φήμης·</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>Μη παραβίαση</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>Αξιοπιστία</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Όροι Χρήσης</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>Ο Ιστότοπος και οι Υπηρεσίες μπορεί να περιλαμβάνουν συνδέσμους προς ιστότοπους ή υπηρεσίες τρίτων που δεν ανήκουν ή δεν ελέγχονται από εμάς.</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>Ο Ιστότοπος, οι Υπηρεσίες και το λογισμικό AnduinOS παρέχονται</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>Οι παρόντες Όροι διέπονται και ερμηνεύονται σύμφωνα με τους νόμους της δικαιοδοσίας όπου εδρεύει ο εκμεταλλευτής του Ιστότοπου, χωρίς να λαμβάνονται υπόψη οι αρχές της σύγκρουσης νόμων.</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>Στο μέγιστο βαθμό που επιτρέπει ο νόμος, δεν φέρουμε ευθύνη για οποιαδήποτε:</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>Ανεβάστε, διανείμετε ή μεταδώστε οποιοδήποτε κακόβουλο λογισμικό, ιούς ή επιβλαβείς κώδικες.</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>Η χρήση του AnduinOS και της Ιστοσελίδας γίνεται εξ ολοκλήρου δική σας ευθύνη.</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>Χρησιμοποιήστε τον Ιστότοπο ή τις Υπηρεσίες για οποιαδήποτε απάτη, παράνομη ή κακόβουλη δραστηριότητα.</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>Δεν φέρουμε ευθύνη για το περιεχόμενο, τις πολιτικές ή τις πρακτικές οποιουδήποτε ιστότοπου τρίτου μέρους.</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>είμαστε υπεύθυνοι μόνο για τις εκδόσεις που διανέμονται επίσημα μέσω των επίσημων καναλιών μας,</value>
+  </data>
   <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
     <value>Αποποιούμαστε οποιαδήποτε ευθύνη για οποιαδήποτε βλάβη, ζημία, απώλεια ή ευπάθειες ασφαλείας που προκαλούνται από μη επίσημες ή τροποποιημένες εκδόσεις του AnduinOS.</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>Δεν εγκρίνουμε, επαληθεύουμε ούτε υποστηρίζουμε καμία ανεπίσημη ή τρίτου μέρους τροποποιημένη έκδοση του AnduinOS.</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>Αποποιούμαστε ρητά όλες τις εγγυήσεις, συμπεριλαμβανομένων, ενδεικτικά και όχι περιοριστικά, των ακόλουθων:</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>Διατηρούμε το δικαίωμα να περιορίσουμε ή να τερματίσουμε την πρόσβαση για χρήστες που παραβιάζουν τους παρόντες Όρους.</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>Διατηρούμε το δικαίωμα να τερματίσουμε ή να αναστείλουμε την πρόσβασή σας στον Ιστότοπο ή στις Υπηρεσίες αμέσως, χωρίς προειδοποίηση, για συμπεριφορά που πιστεύουμε ότι παραβιάζει τους παρόντες Όρους ή είναι επιβλαβής για άλλους χρήστες, εμάς ή τρίτους.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>Διατηρούμε το δικαίωμα να ενημερώνουμε ή να τροποποιούμε τους παρόντες Όρους ανά πάσα στιγμή χωρίς προηγούμενη ειδοποίηση.</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Ενώ οποιοσδήποτε μπορεί νόμιμα να αποκτήσει, να τροποποιήσει και να αναδιανείμει αντίγραφα του λογισμικού σύμφωνα με τους όρους της άδειας,</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>Ενώ το λογισμικό είναι ανοιχτού κώδικα, ο σχεδιασμός του Ιστότοπου, τα υλικά επωνυμίας και άλλο μη λογισμικό περιεχόμενο ενδέχεται να υπόκεινται σε ξεχωριστά δικαιώματα πνευματικής ιδιοκτησίας.</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>χωρίς καμία εγγύηση οποιουδήποτε είδους, είτε ρητή είτε σιωπηρή.</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>Συμφωνείτε να χρησιμοποιείτε τον Ιστότοπο και τις Υπηρεσίες μόνο για νόμιμους σκοπούς και σύμφωνα με όλους τους ισχύοντες νόμους και κανονισμούς.</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>Σας ενθαρρύνουμε να εξετάζετε περιοδικά αυτούς τους Όρους.</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>το κάνετε αποκλειστικά με δική σας ευθύνη.</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>Δεν επιτρέπεται να αντιγράψετε, να αναπαράγετε ή να διανείμετε μη κωδικοποιημένα στοιχεία του Ιστότοπου χωρίς ρητή άδεια.</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>Συγκεκριμένα συμφωνείτε να μην:</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>Η συνεχιζόμενη χρήση της Ιστοσελίδας ή των Υπηρεσιών μετά από οποιεσδήποτε αλλαγές συνιστά αποδοχή των νέων Όρων.</value>
   </data>
 
 </root>

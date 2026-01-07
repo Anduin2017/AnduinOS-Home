@@ -18,50 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Thank you for downloading" xml:space="preserve">
-    <value>Tack för att du laddade ner</value>
-  </data>
-  <data name="AnduinOS" xml:space="preserve">
-    <value>AnduinOS</value>
-  </data>
-  <data name="!" xml:space="preserve">
+      <data name="!" xml:space="preserve">
     <value>!</value>
-  </data>
-  <data name="After downloading, you may want to learn how to" xml:space="preserve">
-    <value>Efter nedladdningen kanske du vill lära dig hur du</value>
-  </data>
-  <data name="verify the checksum" xml:space="preserve">
-    <value>verifiera kontrollsumman</value>
-  </data>
-  <data name="and" xml:space="preserve">
-    <value>och</value>
-  </data>
-  <data name="burn the ISO to a USB drive" xml:space="preserve">
-    <value>bränna ISO-filen till en USB-enhet</value>
   </data>
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
-  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
-    <value>Om du är ny till AnduinOS, kanske du också vill kolla in</value>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Efter nedladdningen kanske du vill lära dig hur du</value>
   </data>
-  <data name="System requirement" xml:space="preserve">
-    <value>Systemkrav</value>
+  <data name="and" xml:space="preserve">
+    <value>och</value>
   </data>
-  <data name="Enjoy your new OS!" xml:space="preserve">
-    <value>Njut av ditt nya OS!</value>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
   </data>
-  <data name="Information" xml:space="preserve">
-    <value>Information</value>
-  </data>
-  <data name="What&apos;s next?" xml:space="preserve">
-    <value>Vad händer nu?</value>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>bränna ISO-filen till en USB-enhet</value>
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>Dokumentation</value>
   </data>
-  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
-    <value>Ta en titt på dokumentationen, du hittar kanske svaren där.</value>
+  <data name="Donate" xml:space="preserve">
+    <value>Donera</value>
+  </data>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>Njut av ditt nya OS!</value>
+  </data>
+  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
+    <value>Känner du dig generös? AnduinOS drivs av donationer från användare. Vi är tacksamma för ditt stöd.</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>Om du är ny till AnduinOS, kanske du också vill kolla in</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Information</value>
   </data>
   <data name="Report a problem" xml:space="preserve">
     <value>Rapportera ett problem</value>
@@ -69,11 +60,20 @@
   <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
     <value>Fungerar inte något? Har du ett förslag? Skriv om det i diskussionen.</value>
   </data>
-  <data name="Donate" xml:space="preserve">
-    <value>Donera</value>
+  <data name="System requirement" xml:space="preserve">
+    <value>Systemkrav</value>
   </data>
-  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
-    <value>Känner du dig generös? AnduinOS drivs av donationer från användare. Vi är tacksamma för ditt stöd.</value>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>Ta en titt på dokumentationen, du hittar kanske svaren där.</value>
+  </data>
+  <data name="Thank you for downloading" xml:space="preserve">
+    <value>Tack för att du laddade ner</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>verifiera kontrollsumman</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>Vad händer nu?</value>
   </data>
 
 </root>

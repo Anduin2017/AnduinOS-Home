@@ -18,16 +18,7 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Install" xml:space="preserve">
-    <value>Cài đặt</value>
-  </data>
-  <data name="Download" xml:space="preserve">
-    <value>Tải xuống</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Tin tức</value>
-  </data>
-  <data name="Community" xml:space="preserve">
+      <data name="Community" xml:space="preserve">
     <value>Cộng đồng</value>
   </data>
   <data name="Docs" xml:space="preserve">
@@ -35,6 +26,15 @@
   </data>
   <data name="Donate" xml:space="preserve">
     <value>Ủng hộ</value>
+  </data>
+  <data name="Download" xml:space="preserve">
+    <value>Tải xuống</value>
+  </data>
+  <data name="Install" xml:space="preserve">
+    <value>Cài đặt</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Tin tức</value>
   </data>
   <data name="Source Code" xml:space="preserve">
     <value>Mã Nguồn</value>

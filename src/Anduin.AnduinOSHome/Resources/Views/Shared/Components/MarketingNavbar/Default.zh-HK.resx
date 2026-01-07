@@ -21,17 +21,17 @@
       <data name="Community" xml:space="preserve">
     <value>社群</value>
   </data>
-  <data name="Install" xml:space="preserve">
-    <value>安裝</value>
+  <data name="Docs" xml:space="preserve">
+    <value>說明文件</value>
   </data>
   <data name="Donate" xml:space="preserve">
     <value>捐款</value>
   </data>
-  <data name="Docs" xml:space="preserve">
-    <value>說明文件</value>
-  </data>
   <data name="Download" xml:space="preserve">
     <value>下載</value>
+  </data>
+  <data name="Install" xml:space="preserve">
+    <value>安裝</value>
   </data>
   <data name="News" xml:space="preserve">
     <value>最新消息</value>

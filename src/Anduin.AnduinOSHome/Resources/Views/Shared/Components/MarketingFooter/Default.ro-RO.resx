@@ -18,47 +18,47 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Community" xml:space="preserve">
-    <value>Comunitate</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Resurse</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Cod Sursă</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Știri</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>Documentație</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Referințe</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Starea Serviciilor</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Gestionat de comunitate)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - o distribuție Linux personalizată, bazată pe Ubuntu, care oferă o experiență familiară și ușor de utilizat pentru oricine trece la Linux.</value>
   </data>
-  <data name="Social" xml:space="preserve">
-    <value>Sociale</value>
+  <data name="Community" xml:space="preserve">
+    <value>Comunitate</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Gestionat de comunitate)</value>
+  <data name="Document" xml:space="preserve">
+    <value>Documentație</value>
   </data>
   <data name="Legals" xml:space="preserve">
     <value>Informații legale</value>
   </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Politica de Confidențialitate</value>
-  </data>
   <data name="License" xml:space="preserve">
     <value>Licență</value>
   </data>
+  <data name="News" xml:space="preserve">
+    <value>Știri</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Sursă Deschisă</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Politica de Confidențialitate</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referințe</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Resurse</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Starea Serviciilor</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Sociale</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Cod Sursă</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Termenii și condițiile</value>

@@ -18,38 +18,26 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Reference" xml:space="preserve">
-    <value>Viitteet</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>Dokumentti</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Lähdekoodi</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Yhteisö</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Palvelun tila</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Uutiset</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Resurssit</value>
-  </data>
-  <data name="License" xml:space="preserve">
-    <value>Lisenssi</value>
-  </data>
-  <data name="Legals" xml:space="preserve">
-    <value>Oikeudelliset tiedot</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(yhteisön ylläpitämä)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - mukautettu Ubuntuun perustuva Linux-jakelupaketti, joka tarjoaa tutun ja helppokäyttöisen kokemuksen kaikille Linuxiin siirtyville.</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>Käyttöehdot</value>
+  <data name="Community" xml:space="preserve">
+    <value>Yhteisö</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Dokumentti</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Oikeudelliset tiedot</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>Lisenssi</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Uutiset</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Avoin lähdekoodi</value>
@@ -57,11 +45,23 @@
   <data name="Privacy Policy" xml:space="preserve">
     <value>Tietosuojakäytäntö</value>
   </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Viitteet</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Resurssit</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Palvelun tila</value>
+  </data>
   <data name="Social" xml:space="preserve">
     <value>Sosiaaliset</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(yhteisön ylläpitämä)</value>
+  <data name="Source Code" xml:space="preserve">
+    <value>Lähdekoodi</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Käyttöehdot</value>
   </data>
 
 </root>

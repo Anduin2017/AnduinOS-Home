@@ -18,50 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Thank you for downloading" xml:space="preserve">
-    <value>AnduinOSのダウンロードありがとうございます</value>
-  </data>
-  <data name="AnduinOS" xml:space="preserve">
-    <value>AnduinOS</value>
-  </data>
-  <data name="!" xml:space="preserve">
+      <data name="!" xml:space="preserve">
     <value>！</value>
-  </data>
-  <data name="After downloading, you may want to learn how to" xml:space="preserve">
-    <value>ダウンロード後、以下の方法を学ぶことをおすすめします：</value>
-  </data>
-  <data name="verify the checksum" xml:space="preserve">
-    <value>チェックサムを確認する</value>
-  </data>
-  <data name="and" xml:space="preserve">
-    <value>および</value>
-  </data>
-  <data name="burn the ISO to a USB drive" xml:space="preserve">
-    <value>ISOをUSBドライブに書き込む</value>
   </data>
   <data name="." xml:space="preserve">
     <value>。</value>
   </data>
-  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
-    <value>AnduinOSを初めてお使いの場合は、こちらもご確認ください。</value>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>ダウンロード後、以下の方法を学ぶことをおすすめします：</value>
   </data>
-  <data name="System requirement" xml:space="preserve">
-    <value>システム要件</value>
+  <data name="and" xml:space="preserve">
+    <value>および</value>
   </data>
-  <data name="Enjoy your new OS!" xml:space="preserve">
-    <value>新しいOSをお楽しみください！</value>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
   </data>
-  <data name="Information" xml:space="preserve">
-    <value>情報</value>
-  </data>
-  <data name="What&apos;s next?" xml:space="preserve">
-    <value>次は何をしますか？</value>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>ISOをUSBドライブに書き込む</value>
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>ドキュメンテーション</value>
   </data>
-  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
-    <value>ドキュメントを確認してみてください。答えが見つかるかもしれません。</value>
+  <data name="Donate" xml:space="preserve">
+    <value>寄付</value>
+  </data>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>新しいOSをお楽しみください！</value>
+  </data>
+  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
+    <value>気前が良いですか？AnduinOSはユーザーの寄付によって運営されています。ご支援に心から感謝いたします。</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>AnduinOSを初めてお使いの場合は、こちらもご確認ください。</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>情報</value>
   </data>
   <data name="Report a problem" xml:space="preserve">
     <value>問題を報告</value>
@@ -69,11 +60,20 @@
   <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
     <value>動作しない点やご提案はありますか？ディスカッションに投稿してください。</value>
   </data>
-  <data name="Donate" xml:space="preserve">
-    <value>寄付</value>
+  <data name="System requirement" xml:space="preserve">
+    <value>システム要件</value>
   </data>
-  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
-    <value>気前が良いですか？AnduinOSはユーザーの寄付によって運営されています。ご支援に心から感謝いたします。</value>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>ドキュメントを確認してみてください。答えが見つかるかもしれません。</value>
+  </data>
+  <data name="Thank you for downloading" xml:space="preserve">
+    <value>AnduinOSのダウンロードありがとうございます</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>チェックサムを確認する</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>次は何をしますか？</value>
   </data>
 
 </root>

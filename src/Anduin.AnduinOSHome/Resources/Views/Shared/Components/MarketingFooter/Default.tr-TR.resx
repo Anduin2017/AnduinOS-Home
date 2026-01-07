@@ -18,26 +18,17 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Service Status" xml:space="preserve">
-    <value>Hizmet Durumu</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Topluluk tarafından yürütülür)</value>
   </data>
-  <data name="Document" xml:space="preserve">
-    <value>Belge</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Referans</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Kaynaklar</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - Linux&apos;e geçen herkes için tanıdık ve kullanımı kolay bir deneyim sunan, Ubuntu tabanlı özel bir Linux dağıtımı.</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Topluluk</value>
   </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Kaynak Kodu</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Haberler</value>
+  <data name="Document" xml:space="preserve">
+    <value>Belge</value>
   </data>
   <data name="Legals" xml:space="preserve">
     <value>Yasal Bilgiler</value>
@@ -45,20 +36,29 @@
   <data name="License" xml:space="preserve">
     <value>Lisans</value>
   </data>
-  <data name="Social" xml:space="preserve">
-    <value>Sosyal</value>
+  <data name="News" xml:space="preserve">
+    <value>Haberler</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Açık Kaynak</value>
   </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS - Linux&apos;e geçen herkes için tanıdık ve kullanımı kolay bir deneyim sunan, Ubuntu tabanlı özel bir Linux dağıtımı.</value>
-  </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>Gizlilik Politikası</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Topluluk tarafından yürütülür)</value>
+  <data name="Reference" xml:space="preserve">
+    <value>Referans</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Kaynaklar</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Hizmet Durumu</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Sosyal</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Kaynak Kodu</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Hizmet Şartları</value>

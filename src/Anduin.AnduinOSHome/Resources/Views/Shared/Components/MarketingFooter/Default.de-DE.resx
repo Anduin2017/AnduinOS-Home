@@ -18,11 +18,11 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Service Status" xml:space="preserve">
-    <value>Dienststatus</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Wird von der Community betrieben)</value>
   </data>
-  <data name="News" xml:space="preserve">
-    <value>Neuigkeiten</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS – eine benutzerdefinierte, Ubuntu-basierte Linux-Distribution, die ein vertrautes und benutzerfreundliches Erlebnis für alle bietet, die zu Linux wechseln.</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>Community</value>
@@ -30,35 +30,35 @@
   <data name="Document" xml:space="preserve">
     <value>Dokumentation</value>
   </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Referenzen</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Quellcode</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Ressourcen</value>
+  <data name="Legals" xml:space="preserve">
+    <value>Rechtliches</value>
   </data>
   <data name="License" xml:space="preserve">
     <value>Lizenz</value>
   </data>
-  <data name="Legals" xml:space="preserve">
-    <value>Rechtliches</value>
+  <data name="News" xml:space="preserve">
+    <value>Neuigkeiten</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
   </data>
-  <data name="Social" xml:space="preserve">
-    <value>Soziale Medien</value>
-  </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Wird von der Community betrieben)</value>
-  </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>Datenschutzerklärung</value>
   </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS – eine benutzerdefinierte, Ubuntu-basierte Linux-Distribution, die ein vertrautes und benutzerfreundliches Erlebnis für alle bietet, die zu Linux wechseln.</value>
+  <data name="Reference" xml:space="preserve">
+    <value>Referenzen</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Ressourcen</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Dienststatus</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Soziale Medien</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Quellcode</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Nutzungsbedingungen</value>

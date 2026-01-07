@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Community" xml:space="preserve">
-    <value>المجتمع</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>حالة الخدمة</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>الموارد</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>المستندات</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>الأخبار</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>الكود المصدري</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>المراجع</value>
-  </data>
-  <data name="Legals" xml:space="preserve">
-    <value>النواحي القانونية</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>سياسة الخصوصية</value>
-  </data>
-  <data name="License" xml:space="preserve">
-    <value>الترخيص</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(تديره المجتمع)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>أندوين أو إس - توزيعة لينكس مخصصة مبنية على أوبونتو تقدم تجربة مألوفة وسهلة الاستخدام لأي شخص ينتقل إلى لينكس.</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>شروط الخدمة</value>
+  <data name="Community" xml:space="preserve">
+    <value>المجتمع</value>
   </data>
-  <data name="Social" xml:space="preserve">
-    <value>اجتماعي</value>
+  <data name="Document" xml:space="preserve">
+    <value>المستندات</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>النواحي القانونية</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>الترخيص</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>الأخبار</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>مفتوح المصدر</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(تديره المجتمع)</value>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>سياسة الخصوصية</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>المراجع</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>الموارد</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>حالة الخدمة</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>اجتماعي</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>الكود المصدري</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>شروط الخدمة</value>
   </data>
 
 </root>

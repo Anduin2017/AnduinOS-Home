@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Reference" xml:space="preserve">
-    <value>Reference</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Kildekode</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>Dokumentation</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Fællesskab</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Nyheder</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Servicestatus</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Ressourcer</value>
-  </data>
-  <data name="License" xml:space="preserve">
-    <value>Licens</value>
-  </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>Åben Kildekode</value>
-  </data>
-  <data name="Social" xml:space="preserve">
-    <value>Sociale medier</value>
-  </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>Servicevilkår</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Privatlivspolitik</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Drevet af fællesskabet)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - en brugerdefineret Ubuntu-baseret Linux-distribution, der tilbyder en velkendt og brugervenlig oplevelse for alle, der skifter til Linux.</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>Fællesskab</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Dokumentation</value>
+  </data>
   <data name="Legals" xml:space="preserve">
     <value>Juridiske oplysninger</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Drevet af fællesskabet)</value>
+  <data name="License" xml:space="preserve">
+    <value>Licens</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Nyheder</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Åben Kildekode</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Privatlivspolitik</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Reference</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Ressourcer</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Servicestatus</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Sociale medier</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Kildekode</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Servicevilkår</value>
   </data>
 
 </root>
