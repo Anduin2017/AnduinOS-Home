@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Community" xml:space="preserve">
+      <data name="(Running by community)" xml:space="preserve">
+    <value>（由社群營運）</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - 一款基於 Ubuntu 的客製化 Linux 發行版，為轉用 Linux 的使用者提供熟悉且易於使用的體驗。</value>
+  </data>
+  <data name="Community" xml:space="preserve">
     <value>社群</value>
   </data>
   <data name="Document" xml:space="preserve">
     <value>文件</value>
   </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>原始碼</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>資源</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>參考資源</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>最新消息</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>服務狀態</value>
+  <data name="Legals" xml:space="preserve">
+    <value>法律資訊</value>
   </data>
   <data name="License" xml:space="preserve">
     <value>授權</value>
   </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS - 一款基於 Ubuntu 的客製化 Linux 發行版，為轉用 Linux 的使用者提供熟悉且易於使用的體驗。</value>
-  </data>
-  <data name="Social" xml:space="preserve">
-    <value>社群</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>隱私權政策</value>
+  <data name="News" xml:space="preserve">
+    <value>最新消息</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>開放原始碼</value>
   </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>隱私權政策</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>參考資源</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>資源</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>服務狀態</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>社群</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>原始碼</value>
+  </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>服務條款</value>
-  </data>
-  <data name="Legals" xml:space="preserve">
-    <value>法律資訊</value>
-  </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>（由社群營運）</value>
   </data>
 
 </root>

@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Resources" xml:space="preserve">
-    <value>리소스</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>소스 코드</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>뉴스</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>커뮤니티</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>참조</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>문서</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>서비스 상태</value>
-  </data>
-  <data name="License" xml:space="preserve">
-    <value>라이선스</value>
-  </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>오픈 소스</value>
-  </data>
-  <data name="Legals" xml:space="preserve">
-    <value>법적 정보</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(커뮤니티 운영)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>안두인OS - 리눅스로 전환하는 모든 사용자에게 익숙하고 사용하기 쉬운 경험을 제공하는 Ubuntu 기반의 맞춤형 리눅스 배포판입니다.</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>커뮤니티</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>문서</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>법적 정보</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>라이선스</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>뉴스</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>오픈 소스</value>
+  </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>개인정보처리방침</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>이용약관</value>
+  <data name="Reference" xml:space="preserve">
+    <value>참조</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>리소스</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>서비스 상태</value>
   </data>
   <data name="Social" xml:space="preserve">
     <value>소셜</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(커뮤니티 운영)</value>
+  <data name="Source Code" xml:space="preserve">
+    <value>소스 코드</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>이용약관</value>
   </data>
 
 </root>

@@ -18,50 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Thank you for downloading" xml:space="preserve">
-    <value>Bedankt voor het downloaden</value>
-  </data>
-  <data name="AnduinOS" xml:space="preserve">
-    <value>AnduinOS</value>
-  </data>
-  <data name="!" xml:space="preserve">
+      <data name="!" xml:space="preserve">
     <value>!</value>
-  </data>
-  <data name="After downloading, you may want to learn how to" xml:space="preserve">
-    <value>Na het downloaden wilt u misschien leren hoe u</value>
-  </data>
-  <data name="verify the checksum" xml:space="preserve">
-    <value>controleer de checksum</value>
-  </data>
-  <data name="and" xml:space="preserve">
-    <value>en</value>
-  </data>
-  <data name="burn the ISO to a USB drive" xml:space="preserve">
-    <value>de ISO naar een USB-stick branden</value>
   </data>
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
-  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
-    <value>Als je nieuw bent bij AnduinOS, wil je misschien ook de</value>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Na het downloaden wilt u misschien leren hoe u</value>
   </data>
-  <data name="System requirement" xml:space="preserve">
-    <value>Systeemvereisten</value>
+  <data name="and" xml:space="preserve">
+    <value>en</value>
   </data>
-  <data name="Enjoy your new OS!" xml:space="preserve">
-    <value>Geniet van je nieuwe besturingssysteem!</value>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
   </data>
-  <data name="Information" xml:space="preserve">
-    <value>Informatie</value>
-  </data>
-  <data name="What&apos;s next?" xml:space="preserve">
-    <value>Wat nu?</value>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>de ISO naar een USB-stick branden</value>
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>Documentatie</value>
   </data>
-  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
-    <value>Bekijk de documentatie, misschien vind je daar je antwoorden.</value>
+  <data name="Donate" xml:space="preserve">
+    <value>Doneren</value>
+  </data>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>Geniet van je nieuwe besturingssysteem!</value>
+  </data>
+  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
+    <value>Voel je je vrijgevig? AnduinOS werkt dankzij donaties van gebruikers. We zijn dankbaar voor je steun.</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>Als je nieuw bent bij AnduinOS, wil je misschien ook de</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informatie</value>
   </data>
   <data name="Report a problem" xml:space="preserve">
     <value>Een probleem melden</value>
@@ -69,11 +60,20 @@
   <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
     <value>Werkt er iets niet? Heb je een suggestie? Plaats het in de discussie.</value>
   </data>
-  <data name="Donate" xml:space="preserve">
-    <value>Doneren</value>
+  <data name="System requirement" xml:space="preserve">
+    <value>Systeemvereisten</value>
   </data>
-  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
-    <value>Voel je je vrijgevig? AnduinOS werkt dankzij donaties van gebruikers. We zijn dankbaar voor je steun.</value>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>Bekijk de documentatie, misschien vind je daar je antwoorden.</value>
+  </data>
+  <data name="Thank you for downloading" xml:space="preserve">
+    <value>Bedankt voor het downloaden</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>controleer de checksum</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>Wat nu?</value>
   </data>
 
 </root>

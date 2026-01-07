@@ -18,134 +18,368 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Voxihost" xml:space="preserve">
-    <value>Voxihost</value>
+      <data name="." xml:space="preserve">
+    <value>.</value>
   </data>
-  <data name="Sign up today!" xml:space="preserve">
-    <value>Daftar sekarang!</value>
+  <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
+    <value>...jika Anda mempertimbangkan untuk mengambil kembali privasi Anda dan beralih ke Linux, Anduin OS adalah tempat yang sempurna untuk memulai perjalanan Anda. Bersih, sederhana, dan transisinya mulus. Anduin OS tidak dirancang untuk pecinta teknologi. Ini dirancang khusus untuk ANDA. Lakukan peralihan. Anda tidak akan menyesal.</value>
   </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>Sumber Terbuka</value>
+  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
+    <value>...ini cukup spektakuler. Ini juga mungkin salah satu distro Linux paling ramah yang pernah saya coba bagi mereka yang mungkin beralih dari Windows. Dibuat oleh satu orang, sungguh menakjubkan betapa bagusnya distro ini.</value>
   </data>
-  <data name="GPL-v3 License" xml:space="preserve">
-    <value>Lisensi GPL-v3</value>
+  <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
+    <value>...Kita tidak boleh lupa bahwa ini adalah gambar berukuran 1,8 GB. Ini membangkitkan semangat saya... Saya benar-benar berpikir ini layak untuk diinstal, waktu yang akan membuktikannya.</value>
   </data>
-  <data name="Special Thanks!" xml:space="preserve">
-    <value>Terima Kasih Khusus!</value>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 dirilis pada 2024.09.01</value>
   </data>
-  <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
-    <value>Server AnduinOS dengan bangga disponsori oleh</value>
-  </data>
-  <data name="Free" xml:space="preserve">
-    <value>Gratis</value>
+  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
+    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; adalah basis paket Ubuntu + pengalaman aplikasi &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt;</value>
   </data>
   <data name="a provider of top-tier hosting services" xml:space="preserve">
     <value>penyedia layanan hosting kelas atas</value>
   </data>
-  <data name="Download" xml:space="preserve">
-    <value>Unduh</value>
+  <data name="A Universe of Applications at Your Fingertips." xml:space="preserve">
+    <value>Semesta Aplikasi di Ujung Jari Anda.</value>
   </data>
-  <data name="Docs" xml:space="preserve">
-    <value>Dokumen</value>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>Setelah mengunduh, Anda mungkin ingin mempelajari cara</value>
   </data>
   <data name="All versions" xml:space="preserve">
     <value>Semua versi</value>
   </data>
-  <data name="Why choose AnduinOS?" xml:space="preserve">
-    <value>Mengapa memilih AnduinOS?</value>
+  <data name="and" xml:space="preserve">
+    <value>dan</value>
   </data>
-  <data name="Change Log" xml:space="preserve">
-    <value>Catatan Perubahan</value>
+  <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can&apos;t miss. Trust me!!!" xml:space="preserve">
+    <value>AnduinOS memiliki desain modern yang bersih dan indah, antarmuka yang ramah pengguna, di antara begitu banyak distribusi, ini adalah pilihan yang tidak boleh Anda lewatkan. Percayalah!!!</value>
   </data>
-  <data name="Reasons" xml:space="preserve">
-    <value>Alasan</value>
+  <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
+    <value>AnduinOS telah memberikan napas baru ke Surface Go saya, yang sebelumnya saya pikir tidak berguna. Yang mengejutkan, sistem ini berjalan jauh lebih lancar dibandingkan Windows. Semua fitur berfungsi dengan sempurna!</value>
   </data>
-  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
-    <value>Ukuran lebih kecil, antarmuka ramah, performa tak tertandingi, aman dan terjamin.</value>
+  <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
+    <value>AnduinOS telah sangat menyederhanakan kehidupan dan proses kerja saya, memperkuat posisinya sebagai distribusi Linux pilihan saya untuk penggunaan sehari-hari!</value>
   </data>
   <data name="AnduinOS is a custom Ubuntu-based Linux distribution that aims to facilitate developers transitioning from Windows to Linux by maintaining familiar operational habits and workflows." xml:space="preserve">
     <value>AnduinOS adalah distribusi Linux berbasis Ubuntu yang dikustomisasi, bertujuan untuk memudahkan pengembang beralih dari Windows ke Linux dengan mempertahankan kebiasaan operasional dan alur kerja yang familiar.</value>
   </data>
-  <data name="Ready to use" xml:space="preserve">
-    <value>Siap digunakan</value>
+  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS adalah distribusi Linux berbasis Ubuntu yang menawarkan pengalaman familiar dan mudah digunakan bagi siapa pun yang beralih ke Linux.</value>
   </data>
-  <data name="Friendly interface" xml:space="preserve">
-    <value>Antarmuka yang ramah pengguna</value>
-  </data>
-  <data name="Root and privacy" xml:space="preserve">
-    <value>Akses root dan privasi</value>
-  </data>
-  <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
-    <value>Ukuran ISO hanya 2.0GB. Mirip seperti Ubuntu, proses instalasinya sederhana dan dapat memenuhi kebutuhan harian Anda tanpa konfigurasi tambahan atau operasi yang rumit.</value>
-  </data>
-  <data name="Ecological perfection" xml:space="preserve">
-    <value>Kesempurnaan ekosistem</value>
-  </data>
-  <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
-    <value>Lingkungan desktop berbasis GNOME memiliki antarmuka yang indah dan interaksi manusia-komputer yang sesuai dengan kebiasaan pengguna, memungkinkan Anda untuk cepat memulai dengan AnduinOS tanpa biaya belajar yang terlalu besar.</value>
-  </data>
-  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
-    <value>AnduinOS berbasis pada paket dasar Ubuntu. Ini kompatibel dengan sebagian besar paket apt dari Ubuntu. Ini adalah kombinasi sempurna antara pengalaman dan ekosistem.</value>
-  </data>
-  <data name="Containerized" xml:space="preserve">
-    <value>Terkontainerisasi</value>
-  </data>
-  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
-    <value>Privasi bukan lagi pilihan. Ini adalah hal yang esensial. AnduinOS dirancang untuk tidak mengumpulkan apa pun dari Anda. Kami tidak melacak Anda. Kami tidak membuat profil Anda. Kami tidak menargetkan Anda. Anda tetap anonim bagi sistem.</value>
+  <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
+    <value>AnduinOS adalah proyek nirlaba yang dikembangkan di waktu luang, didanai sepenuhnya melalui donasi, dan tidak didukung oleh perusahaan atau pemerintah manapun.</value>
   </data>
   <data name="AnduinOS is an open-source project. Following the GPL-v3 license, you can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>AnduinOS adalah proyek sumber terbuka. Sesuai lisensi GPL-v3, Anda dapat melihat kode sumber, memodifikasinya, dan mendistribusikannya kembali. Ini gratis dan akan selalu gratis.</value>
   </data>
-  <data name="Versions" xml:space="preserve">
-    <value>Versi</value>
+  <data name="AnduinOS is available in" xml:space="preserve">
+    <value>AnduinOS tersedia dalam</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
+    <value>AnduinOS berbasis pada paket dasar Ubuntu. Perangkat lunak apa pun yang berjalan di Ubuntu dapat berjalan di AnduinOS. Anda dapat menjalankan berbagai aplikasi, termasuk tetapi tidak terbatas pada: aplikasi Linux, aplikasi web, dan bahkan aplikasi Windows menggunakan Wine.</value>
+  </data>
+  <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
+    <value>AnduinOS berbasis pada paket dasar Ubuntu. Ini kompatibel dengan sebagian besar paket apt dari Ubuntu. Ini adalah kombinasi sempurna antara pengalaman dan ekosistem.</value>
+  </data>
+  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
+    <value>AnduinOS didanai oleh donasi pengguna. Kami berterima kasih atas dukungan Anda. Dan Anda bisa</value>
+  </data>
+  <data name="AnduinOS is your final Linux distribution! It&apos;s built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
+    <value>AnduinOS adalah distribusi Linux terakhir untuk Anda! Dibangun untuk para pengembang, ringan namun tetap bertenaga. Dengan tema dan pintasan yang dirancang dengan baik, pengguna Windows dapat beralih ke AnduinOS dengan lancar dan melupakan proses pengaturan sistem.</value>
+  </data>
+  <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
+    <value>AnduinOS menggunakan Flatpak untuk mengelola aplikasi grafis. Flatpak adalah utilitas perangkat lunak untuk penyebaran perangkat lunak, virtualisasi aplikasi, dan manajemen paket. Ini memungkinkan Anda menjalankan aplikasi dalam lingkungan sandbox, yang dapat membantu meningkatkan keamanan dan stabilitas.</value>
+  </data>
+  <data name="Browsing" xml:space="preserve">
+    <value>Menjelajah</value>
+  </data>
+  <data name="Build" xml:space="preserve">
+    <value>Membangun</value>
+  </data>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>memindahkan ISO ke drive USB</value>
+  </data>
+  <data name="By downloading, you agree to our" xml:space="preserve">
+    <value>Dengan mengunduh, Anda menyetujui</value>
+  </data>
+  <data name="Change Log" xml:space="preserve">
+    <value>Catatan Perubahan</value>
   </data>
   <data name="Choose your AnduinOS version" xml:space="preserve">
     <value>Pilih versi AnduinOS Anda</value>
   </data>
-  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
-    <value>Aplikasi grafis diinstal melalui Flatpak, dan tetap terpisah dari sistem dasar (Sejak versi 1.3). Mereka juga memungkinkan kontrol yang sangat rinci atas izin yang dimiliki.</value>
+  <data name="Close" xml:space="preserve">
+    <value>Tutup</value>
   </data>
-  <data name="two version branches" xml:space="preserve">
-    <value>dua cabang versi</value>
+  <data name="Composer, Producer, and Audio Engineer" xml:space="preserve">
+    <value>Komposer, Produser, dan Teknisi Audio</value>
   </data>
-  <data name="LTS and Standard" xml:space="preserve">
-    <value>LTS dan Standar</value>
+  <data name="Containerized" xml:space="preserve">
+    <value>Terkontainerisasi</value>
   </data>
-  <data name="AnduinOS is available in" xml:space="preserve">
-    <value>AnduinOS tersedia dalam</value>
+  <data name="Designer" xml:space="preserve">
+    <value>Desainer</value>
   </data>
-  <data name="Includes:" xml:space="preserve">
-    <value>Termasuk:</value>
+  <data name="Developer" xml:space="preserve">
+    <value>Pengembang</value>
   </data>
-  <data name="Released on" xml:space="preserve">
-    <value>Dirilis pada</value>
+  <data name="Discord channel" xml:space="preserve">
+    <value>Discord channel</value>
   </data>
-  <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
-    <value>Versi LTS direkomendasikan untuk pengguna yang membutuhkan dukungan jangka panjang yang stabil, sementara versi Standard direkomendasikan untuk pengguna dengan perangkat lebih baru dan ingin menjelajahi fitur terbaru.</value>
+  <data name="Docs" xml:space="preserve">
+    <value>Dokumen</value>
   </data>
-  <data name="packages" xml:space="preserve">
-    <value>paket</value>
+  <data name="donate" xml:space="preserve">
+    <value>donasikan</value>
   </data>
-  <data name="Latest version" xml:space="preserve">
-    <value>Versi terbaru</value>
+  <data name="Download" xml:space="preserve">
+    <value>Unduh</value>
   </data>
-  <data name="Support till" xml:space="preserve">
-    <value>Dukungan hingga</value>
+  <data name="Download AnduinOS" xml:space="preserve">
+    <value>Unduh AnduinOS</value>
   </data>
-  <data name="Recommended" xml:space="preserve">
-    <value>Direkomendasikan</value>
+  <data name="Ecological perfection" xml:space="preserve">
+    <value>Kesempurnaan ekosistem</value>
   </data>
-  <data name="Usage" xml:space="preserve">
-    <value>Penggunaan</value>
+  <data name="Editing" xml:space="preserve">
+    <value>Mengedit</value>
   </data>
-  <data name="With AnduinOS, you can do more" xml:space="preserve">
-    <value>Dengan AnduinOS, Anda bisa melakukan lebih banyak hal.</value>
+  <data name="Everything you do on Ubuntu, you can do it on &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Segala yang bisa Anda lakukan di Ubuntu, bisa Anda lakukan di &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It&apos;s up to you." xml:space="preserve">
+    <value>Semua yang bisa Anda lakukan di Ubuntu, bisa Anda lakukan di AnduinOS. Anda bisa menggunakannya sebagai sistem operasi sehari-hari, lingkungan pengembangan, server, atau alat pembelajaran. Terserah Anda.</value>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>FAQ</value>
+  </data>
+  <data name="for any questions." xml:space="preserve">
+    <value>untuk pertanyaan apa pun.</value>
+  </data>
+  <data name="for any questions. Please join our" xml:space="preserve">
+    <value>untuk pertanyaan apa pun. Silakan bergabung dengan</value>
+  </data>
+  <data name="for community support." xml:space="preserve">
+    <value>untuk dukungan komunitas.</value>
+  </data>
+  <data name="Free" xml:space="preserve">
+    <value>Gratis</value>
+  </data>
+  <data name="Frequently asked questions" xml:space="preserve">
+    <value>Pertanyaan yang sering diajukan</value>
+  </data>
+  <data name="Friendly interface" xml:space="preserve">
+    <value>Antarmuka yang ramah pengguna</value>
   </data>
   <data name="Gaming" xml:space="preserve">
     <value>Bermain Game</value>
   </data>
-  <data name="Browsing" xml:space="preserve">
-    <value>Menjelajah</value>
+  <data name="GPL-v3 License" xml:space="preserve">
+    <value>Lisensi GPL-v3</value>
+  </data>
+  <data name="Graphical applications are installed via Flatpak, and keep themselves separate from the base system (Since 1.3). They also allow for fine-grained control over their permissions." xml:space="preserve">
+    <value>Aplikasi grafis diinstal melalui Flatpak, dan tetap terpisah dari sistem dasar (Sejak versi 1.3). Mereka juga memungkinkan kontrol yang sangat rinci atas izin yang dimiliki.</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>di sini</value>
+  </data>
+  <data name="Here are some of the answers you might be looking for." xml:space="preserve">
+    <value>Berikut beberapa jawaban yang mungkin Anda cari.</value>
+  </data>
+  <data name="Here&apos;s what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
+    <value>Inilah yang dikatakan oleh beberapa dari 2000+ pengguna kami tentang bekerja dengan AnduinOS.</value>
+  </data>
+  <data name="How can I contact the AnduinOS team?" xml:space="preserve">
+    <value>Bagaimana saya bisa menghubungi tim AnduinOS?</value>
+  </data>
+  <data name="How can I search for solutions to problems?" xml:space="preserve">
+    <value>Bagaimana cara mencari solusi untuk masalah?</value>
+  </data>
+  <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It&apos;s intuitive, simple to use, and well-designed." xml:space="preserve">
+    <value>Faktanya, ini adalah salah satu distribusi &quot;pasang-dan-lupakan&quot; yang membuat penggunaan Linux menyenangkan. Desainnya intuitif, mudah digunakan, dan dirancang dengan baik.</value>
+  </data>
+  <data name="Includes:" xml:space="preserve">
+    <value>Termasuk:</value>
+  </data>
+  <data name="Is it free to use AnduinOS?" xml:space="preserve">
+    <value>Apakah AnduinOS gratis digunakan?</value>
+  </data>
+  <data name="Is there any support included?" xml:space="preserve">
+    <value>Apakah ada dukungan yang disertakan?</value>
+  </data>
+  <data name="Join Discord channel" xml:space="preserve">
+    <value>Join Discord channel</value>
+  </data>
+  <data name="Join Discussions" xml:space="preserve">
+    <value>Bergabung dalam Diskusi</value>
+  </data>
+  <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
+    <value>Bergabunglah dengan komunitas kami dan terlibatlah dengan AnduinOS!</value>
+  </data>
+  <data name="Join Revolt channel" xml:space="preserve">
+    <value>Bergabunglah dengan saluran Revolt</value>
+  </data>
+  <data name="Join Stoat channel" xml:space="preserve">
+    <value>Bergabunglah dengan saluran Stoat</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Bahasa</value>
+  </data>
+  <data name="Latest version" xml:space="preserve">
+    <value>Versi terbaru</value>
+  </data>
+  <data name="Lead Developer" xml:space="preserve">
+    <value>Pengembang Utama</value>
+  </data>
+  <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
+    <value>Linux merupakan pilihan yang baik untuk menjaga komputer tetap berjalan, dan jika Anda menginginkan sesuatu yang terlihat mirip dengan Windows, maka AnduinOS patut dicoba.</value>
+  </data>
+  <data name="LTS and Standard" xml:space="preserve">
+    <value>LTS dan Standar</value>
+  </data>
+  <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
+    <value>Sebagian besar perangkat lunak yang Anda andalkan berjalan sempurna di AnduinOS, bersama dengan ribuan alternatif yang kuat, gratis, dan sumber terbuka. AnduinOS menyediakan akses instan dan terintegrasi ke perpustakaan besar Flatpak dan Ubuntu, membuat alur kerja ideal Anda hanya sejauh satu klik.</value>
+  </data>
+  <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>Tidak ada telemetri sama sekali! Pilih &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; untuk mendapatkan kembali privasi Anda.</value>
+  </data>
+  <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
+    <value>Tidak ada telemetri yang terintegrasi! Pilih &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; untuk mendapatkan kembali privasi Anda</value>
+  </data>
+  <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
+    <value>Di Ask Ubuntu, Anda dapat mencari dan menanyakan masalah yang sangat umum. Solusi untuk hampir semua masalah AnduinOS identik dengan solusi untuk Ubuntu. Anda dapat sepenuhnya mengandalkan dokumentasi dan keahlian Ubuntu untuk menyelesaikan masalah dengan AnduinOS.</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Sumber Terbuka</value>
+  </data>
+  <data name="packages" xml:space="preserve">
+    <value>paket</value>
+  </data>
+  <data name="Please contact us with email at" xml:space="preserve">
+    <value>Silakan hubungi kami melalui email di</value>
+  </data>
+  <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
+    <value>Privasi bukan lagi pilihan. Ini adalah hal yang esensial. AnduinOS dirancang untuk tidak mengumpulkan apa pun dari Anda. Kami tidak melacak Anda. Kami tidak membuat profil Anda. Kami tidak menargetkan Anda. Anda tetap anonim bagi sistem.</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Kebijakan Privasi</value>
+  </data>
+  <data name="Read more" xml:space="preserve">
+    <value>Baca selengkapnya</value>
+  </data>
+  <data name="Ready to use" xml:space="preserve">
+    <value>Siap digunakan</value>
+  </data>
+  <data name="Reasons" xml:space="preserve">
+    <value>Alasan</value>
+  </data>
+  <data name="Recommended" xml:space="preserve">
+    <value>Direkomendasikan</value>
+  </data>
+  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
+    <value>Direkomendasikan untuk pengguna yang membutuhkan versi jangka panjang yang stabil dan pada perangkat keras yang lebih lama.</value>
+  </data>
+  <data name="Released on" xml:space="preserve">
+    <value>Dirilis pada</value>
+  </data>
+  <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Tunjukkan kekuatan komputer Anda, pilih &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="Reviews" xml:space="preserve">
+    <value>Ulasan</value>
+  </data>
+  <data name="Revolt channel" xml:space="preserve">
+    <value>Saluran Revolt</value>
+  </data>
+  <data name="Root and privacy" xml:space="preserve">
+    <value>Akses root dan privasi</value>
+  </data>
+  <data name="Serve" xml:space="preserve">
+    <value>Melayani</value>
+  </data>
+  <data name="Sign up today!" xml:space="preserve">
+    <value>Daftar sekarang!</value>
+  </data>
+  <data name="Smaller image, friendly interface, unbeatable performance, safe and secure." xml:space="preserve">
+    <value>Ukuran lebih kecil, antarmuka ramah, performa tak tertandingi, aman dan terjamin.</value>
+  </data>
+  <data name="Special Thanks!" xml:space="preserve">
+    <value>Terima Kasih Khusus!</value>
+  </data>
+  <data name="Start exploring on Flathub now" xml:space="preserve">
+    <value>Mulai jelajahi di Flathub sekarang</value>
+  </data>
+  <data name="Stoat channel" xml:space="preserve">
+    <value>saluran Stoat</value>
+  </data>
+  <data name="Support till" xml:space="preserve">
+    <value>Dukungan hingga</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Syarat Layanan</value>
+  </data>
+  <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
+    <value>Server AnduinOS dengan bangga disponsori oleh</value>
+  </data>
+  <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
+    <value>Lingkungan desktop berbasis GNOME memiliki antarmuka yang indah dan interaksi manusia-komputer yang sesuai dengan kebiasaan pengguna, memungkinkan Anda untuk cepat memulai dengan AnduinOS tanpa biaya belajar yang terlalu besar.</value>
+  </data>
+  <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
+    <value>Ukuran ISO hanya 2.0GB. Mirip seperti Ubuntu, proses instalasinya sederhana dan dapat memenuhi kebutuhan harian Anda tanpa konfigurasi tambahan atau operasi yang rumit.</value>
+  </data>
+  <data name="The LTS version is recommended for users need a stable long-term support, while the Standard version is recommended for users with newer devices and want to explore the latest features." xml:space="preserve">
+    <value>Versi LTS direkomendasikan untuk pengguna yang membutuhkan dukungan jangka panjang yang stabil, sementara versi Standard direkomendasikan untuk pengguna dengan perangkat lebih baru dan ingin menjelajahi fitur terbaru.</value>
+  </data>
+  <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
+    <value>OS ini terus berfokus pada kemudahan penggunaan, terutama bagi pengguna yang beralih dari Windows.</value>
+  </data>
+  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
+    <value>Untuk mengunduh AnduinOS, pilih edisi yang sesuai di bawah ini:</value>
+  </data>
+  <data name="to us via PayPal." xml:space="preserve">
+    <value>kepada kami melalui PayPal.</value>
+  </data>
+  <data name="to us." xml:space="preserve">
+    <value>kepada kami.</value>
+  </data>
+  <data name="Today is the best day for you to switch to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
+    <value>Hari ini adalah hari terbaik untuk beralih ke &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
+  </data>
+  <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
+    <value>Beralih ke &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; akan menjadi keputusan terbaik yang pernah Anda buat</value>
+  </data>
+  <data name="two version branches" xml:space="preserve">
+    <value>dua cabang versi</value>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>Penggunaan</value>
+  </data>
+  <data name="Using Flatpak for graphical applications." xml:space="preserve">
+    <value>Menggunakan flatpak untuk aplikasi grafis.</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>verifikasi checksum</value>
+  </data>
+  <data name="Versions" xml:space="preserve">
+    <value>Versi</value>
+  </data>
+  <data name="Voxihost" xml:space="preserve">
+    <value>Voxihost</value>
+  </data>
+  <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
+    <value>Aplikasi apa saja yang bisa saya jalankan di AnduinOS?</value>
+  </data>
+  <data name="What users are saying" xml:space="preserve">
+    <value>Apa kata pengguna...</value>
+  </data>
+  <data name="Who is behind AnduinOS?" xml:space="preserve">
+    <value>Siapa di balik AnduinOS?</value>
+  </data>
+  <data name="Why choose AnduinOS?" xml:space="preserve">
+    <value>Mengapa memilih AnduinOS?</value>
+  </data>
+  <data name="With AnduinOS, you can do more" xml:space="preserve">
+    <value>Dengan AnduinOS, Anda bisa melakukan lebih banyak hal.</value>
   </data>
   <data name="With Steam" xml:space="preserve">
     <value>Dengan Steam</value>
@@ -153,245 +387,11 @@
   <data name="Work" xml:space="preserve">
     <value>Bekerja</value>
   </data>
-  <data name="Serve" xml:space="preserve">
-    <value>Melayani</value>
-  </data>
-  <data name="Everything you do on Ubuntu, you can do it on AnduinOS. You can use it as a daily operating system, a development environment, a server, or a learning tool. It&apos;s up to you." xml:space="preserve">
-    <value>Semua yang bisa Anda lakukan di Ubuntu, bisa Anda lakukan di AnduinOS. Anda bisa menggunakannya sebagai sistem operasi sehari-hari, lingkungan pengembangan, server, atau alat pembelajaran. Terserah Anda.</value>
-  </data>
-  <data name="Build" xml:space="preserve">
-    <value>Membangun</value>
-  </data>
-  <data name="Editing" xml:space="preserve">
-    <value>Mengedit</value>
-  </data>
-  <data name="Reviews" xml:space="preserve">
-    <value>Ulasan</value>
-  </data>
-  <data name="What users are saying" xml:space="preserve">
-    <value>Apa kata pengguna...</value>
-  </data>
-  <data name="Designer" xml:space="preserve">
-    <value>Desainer</value>
-  </data>
-  <data name="Here&apos;s what some of our 2000+ users have to say about working with AnduinOS." xml:space="preserve">
-    <value>Inilah yang dikatakan oleh beberapa dari 2000+ pengguna kami tentang bekerja dengan AnduinOS.</value>
-  </data>
-  <data name="Composer, Producer, and Audio Engineer" xml:space="preserve">
-    <value>Komposer, Produser, dan Teknisi Audio</value>
-  </data>
-  <data name="Developer" xml:space="preserve">
-    <value>Pengembang</value>
-  </data>
-  <data name="Lead Developer" xml:space="preserve">
-    <value>Pengembang Utama</value>
-  </data>
-  <data name="AnduinOS has a clean, beautiful modern design, user-friendly interface, among so many distributions, this is the choice you can&apos;t miss. Trust me!!!" xml:space="preserve">
-    <value>AnduinOS memiliki desain modern yang bersih dan indah, antarmuka yang ramah pengguna, di antara begitu banyak distribusi, ini adalah pilihan yang tidak boleh Anda lewatkan. Percayalah!!!</value>
-  </data>
-  <data name="...if you&apos;re considering taking back your privacy and switching to Linux, Anduin OS is the perfect place to start your journey. It&apos;s clean, it&apos;s simple, and the transition is seamless. Anduin OS wasn&apos;t designed for the tech nerd. It was designed specifically for YOU. Make the switch. You won&apos;t regret it." xml:space="preserve">
-    <value>...jika Anda mempertimbangkan untuk mengambil kembali privasi Anda dan beralih ke Linux, Anduin OS adalah tempat yang sempurna untuk memulai perjalanan Anda. Bersih, sederhana, dan transisinya mulus. Anduin OS tidak dirancang untuk pecinta teknologi. Ini dirancang khusus untuk ANDA. Lakukan peralihan. Anda tidak akan menyesal.</value>
-  </data>
-  <data name="AnduinOS has breathed new life into my Surface Go, which I previously thought was useless. Surprisingly, it runs much smoother than Windows. All the features work perfectly!" xml:space="preserve">
-    <value>AnduinOS telah memberikan napas baru ke Surface Go saya, yang sebelumnya saya pikir tidak berguna. Yang mengejutkan, sistem ini berjalan jauh lebih lancar dibandingkan Windows. Semua fitur berfungsi dengan sempurna!</value>
-  </data>
-  <data name="AnduinOS is your final Linux distribution! It&apos;s built for developers and is lightweight yet still powerful. With its well-constructed themes and shortcuts, Windows users can smoothly transition to AnduinOS and forget about setting up your system." xml:space="preserve">
-    <value>AnduinOS adalah distribusi Linux terakhir untuk Anda! Dibangun untuk para pengembang, ringan namun tetap bertenaga. Dengan tema dan pintasan yang dirancang dengan baik, pengguna Windows dapat beralih ke AnduinOS dengan lancar dan melupakan proses pengaturan sistem.</value>
-  </data>
-  <data name="The OS continues to focus on ease of use, especially for those users moving over from Windows." xml:space="preserve">
-    <value>OS ini terus berfokus pada kemudahan penggunaan, terutama bagi pengguna yang beralih dari Windows.</value>
-  </data>
-  <data name="AnduinOS has profoundly streamlined my life and work processes, solidifying its position as my preferred Linux distribution for everyday use!" xml:space="preserve">
-    <value>AnduinOS telah sangat menyederhanakan kehidupan dan proses kerja saya, memperkuat posisinya sebagai distribusi Linux pilihan saya untuk penggunaan sehari-hari!</value>
-  </data>
-  <data name="FAQ" xml:space="preserve">
-    <value>FAQ</value>
-  </data>
-  <data name="...We must not forget that it is a 1.8 GB image. It lifted my spirits... I really think it deserves an installation, surely time will tell." xml:space="preserve">
-    <value>...Kita tidak boleh lupa bahwa ini adalah gambar berukuran 1,8 GB. Ini membangkitkan semangat saya... Saya benar-benar berpikir ini layak untuk diinstal, waktu yang akan membuktikannya.</value>
-  </data>
-  <data name="In fact, this is one of those &quot;set-it-and-forget-it&quot; distributions that makes using Linux a delight. It&apos;s intuitive, simple to use, and well-designed." xml:space="preserve">
-    <value>Faktanya, ini adalah salah satu distribusi &quot;pasang-dan-lupakan&quot; yang membuat penggunaan Linux menyenangkan. Desainnya intuitif, mudah digunakan, dan dirancang dengan baik.</value>
-  </data>
-  <data name="Frequently asked questions" xml:space="preserve">
-    <value>Pertanyaan yang sering diajukan</value>
-  </data>
-  <data name="Linux stands as a good option to keep computers running, and if you want something that looks similar to Windows, then AnduinOS is worth checking out." xml:space="preserve">
-    <value>Linux merupakan pilihan yang baik untuk menjaga komputer tetap berjalan, dan jika Anda menginginkan sesuatu yang terlihat mirip dengan Windows, maka AnduinOS patut dicoba.</value>
-  </data>
-  <data name="Here are some of the answers you might be looking for." xml:space="preserve">
-    <value>Berikut beberapa jawaban yang mungkin Anda cari.</value>
-  </data>
-  <data name="Is it free to use AnduinOS?" xml:space="preserve">
-    <value>Apakah AnduinOS gratis digunakan?</value>
-  </data>
-  <data name="What kind of applications can I run on AnduinOS?" xml:space="preserve">
-    <value>Aplikasi apa saja yang bisa saya jalankan di AnduinOS?</value>
-  </data>
   <data name="Yes, AnduinOS is free to use. It is an open-source project that follows the GPL-v3 license. You can view the source code, modify it, and redistribute it. It&apos;s free and will always be free." xml:space="preserve">
     <value>Ya, AnduinOS gratis digunakan. Ini adalah proyek open-source yang mengikuti lisensi GPL-v3. Anda dapat melihat kode sumber, memodifikasinya, dan mendistribusikannya kembali. Ini gratis dan akan selalu gratis.</value>
-  </data>
-  <data name="AnduinOS is based on Ubuntu&apos;s package base. Any software that runs on Ubuntu that can run on AnduinOS. You can run a variety of applications, including but not limited to: Linux apps, web apps, and even Windows apps using Wine." xml:space="preserve">
-    <value>AnduinOS berbasis pada paket dasar Ubuntu. Perangkat lunak apa pun yang berjalan di Ubuntu dapat berjalan di AnduinOS. Anda dapat menjalankan berbagai aplikasi, termasuk tetapi tidak terbatas pada: aplikasi Linux, aplikasi web, dan bahkan aplikasi Windows menggunakan Wine.</value>
-  </data>
-  <data name="How can I search for solutions to problems?" xml:space="preserve">
-    <value>Bagaimana cara mencari solusi untuk masalah?</value>
-  </data>
-  <data name="AnduinOS uses Flatpak to manage graphical applications. Flatpak is a software utility for software deployment, application virtualization, and package management. It allows you to run applications in a sandboxed environment, which can help improve security and stability." xml:space="preserve">
-    <value>AnduinOS menggunakan Flatpak untuk mengelola aplikasi grafis. Flatpak adalah utilitas perangkat lunak untuk penyebaran perangkat lunak, virtualisasi aplikasi, dan manajemen paket. Ini memungkinkan Anda menjalankan aplikasi dalam lingkungan sandbox, yang dapat membantu meningkatkan keamanan dan stabilitas.</value>
-  </data>
-  <data name="here" xml:space="preserve">
-    <value>di sini</value>
-  </data>
-  <data name="Is there any support included?" xml:space="preserve">
-    <value>Apakah ada dukungan yang disertakan?</value>
-  </data>
-  <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
-    <value>Di Ask Ubuntu, Anda dapat mencari dan menanyakan masalah yang sangat umum. Solusi untuk hampir semua masalah AnduinOS identik dengan solusi untuk Ubuntu. Anda dapat sepenuhnya mengandalkan dokumentasi dan keahlian Ubuntu untuk menyelesaikan masalah dengan AnduinOS.</value>
-  </data>
-  <data name="for any questions." xml:space="preserve">
-    <value>untuk pertanyaan apa pun.</value>
   </data>
   <data name="You have access to AnduinOS online support services via GitHub Discussions. Please contact us at" xml:space="preserve">
     <value>Anda memiliki akses ke layanan dukungan online AnduinOS melalui GitHub Discussions. Silakan hubungi kami di</value>
   </data>
-  <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
-    <value>AnduinOS didanai oleh donasi pengguna. Kami berterima kasih atas dukungan Anda. Dan Anda bisa</value>
-  </data>
-  <data name="Who is behind AnduinOS?" xml:space="preserve">
-    <value>Siapa di balik AnduinOS?</value>
-  </data>
-  <data name="Read more" xml:space="preserve">
-    <value>Baca selengkapnya</value>
-  </data>
-  <data name="donate" xml:space="preserve">
-    <value>donasikan</value>
-  </data>
-  <data name="AnduinOS is a non-profit project built in spare time, sustained solely through donations, and is not backed by any corporation or national government." xml:space="preserve">
-    <value>AnduinOS adalah proyek nirlaba yang dikembangkan di waktu luang, didanai sepenuhnya melalui donasi, dan tidak didukung oleh perusahaan atau pemerintah manapun.</value>
-  </data>
-  <data name="Please contact us with email at" xml:space="preserve">
-    <value>Silakan hubungi kami melalui email di</value>
-  </data>
-  <data name="for any questions. Please join our" xml:space="preserve">
-    <value>untuk pertanyaan apa pun. Silakan bergabung dengan</value>
-  </data>
-  <data name="to us via PayPal." xml:space="preserve">
-    <value>kepada kami melalui PayPal.</value>
-  </data>
-  <data name="Revolt channel" xml:space="preserve">
-    <value>Saluran Revolt</value>
-  </data>
-  <data name="How can I contact the AnduinOS team?" xml:space="preserve">
-    <value>Bagaimana saya bisa menghubungi tim AnduinOS?</value>
-  </data>
-  <data name="for community support." xml:space="preserve">
-    <value>untuk dukungan komunitas.</value>
-  </data>
-  <data name="Join Revolt channel" xml:space="preserve">
-    <value>Bergabunglah dengan saluran Revolt</value>
-  </data>
-  <data name="Join our community and get involved with AnduinOS!" xml:space="preserve">
-    <value>Bergabunglah dengan komunitas kami dan terlibatlah dengan AnduinOS!</value>
-  </data>
-  <data name="Join Discussions" xml:space="preserve">
-    <value>Bergabung dalam Diskusi</value>
-  </data>
-  <data name="Download AnduinOS" xml:space="preserve">
-    <value>Unduh AnduinOS</value>
-  </data>
-  <data name="Language" xml:space="preserve">
-    <value>Bahasa</value>
-  </data>
-  <data name="To download AnduinOS, select the correct edition below:" xml:space="preserve">
-    <value>Untuk mengunduh AnduinOS, pilih edisi yang sesuai di bawah ini:</value>
-  </data>
-  <data name="By downloading, you agree to our" xml:space="preserve">
-    <value>Dengan mengunduh, Anda menyetujui</value>
-  </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>Syarat Layanan</value>
-  </data>
-  <data name="and" xml:space="preserve">
-    <value>dan</value>
-  </data>
-  <data name="After downloading, you may want to learn how to" xml:space="preserve">
-    <value>Setelah mengunduh, Anda mungkin ingin mempelajari cara</value>
-  </data>
-  <data name="verify the checksum" xml:space="preserve">
-    <value>verifikasi checksum</value>
-  </data>
-  <data name="burn the ISO to a USB drive" xml:space="preserve">
-    <value>memindahkan ISO ke drive USB</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Kebijakan Privasi</value>
-  </data>
-  <data name="." xml:space="preserve">
-    <value>.</value>
-  </data>
-  <data name="Close" xml:space="preserve">
-    <value>Tutup</value>
-  </data>
-  <data name="Reveal the power of your computer, choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-    <value>Tunjukkan kekuatan komputer Anda, pilih &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
-  </data>
-  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 is released on 2024.09.01" xml:space="preserve">
-    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 1.0 dirilis pada 2024.09.01</value>
-  </data>
-  <data name="Today is the best day for you to switch to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-    <value>Hari ini adalah hari terbaik untuk beralih ke &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
-  </data>
-  <data name="Everything you do on Ubuntu, you can do it on &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;" xml:space="preserve">
-    <value>Segala yang bisa Anda lakukan di Ubuntu, bisa Anda lakukan di &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;</value>
-  </data>
-  <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
-    <value>Tidak ada telemetri sama sekali! Pilih &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; untuk mendapatkan kembali privasi Anda.</value>
-  </data>
-  <data name="&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; is Ubuntu&apos;s package base + &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt; app experience" xml:space="preserve">
-    <value>&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; adalah basis paket Ubuntu + pengalaman aplikasi &lt;span class=&apos;text-primary&apos;&gt;Flatpak&lt;/span&gt;</value>
-  </data>
-  <data name="Transitioning to &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; will be the best decision you&apos;ve ever made" xml:space="preserve">
-    <value>Beralih ke &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; akan menjadi keputusan terbaik yang pernah Anda buat</value>
-  </data>
-  <data name="...it&apos;s pretty spectacular. It&apos;s also quite possibly one of the friendliest Linux distros I&apos;ve tried when it comes to folks who may well be moving over from Windows. Built by one person, it&apos;s pretty astonishing how good it is." xml:space="preserve">
-    <value>...ini cukup spektakuler. Ini juga mungkin salah satu distro Linux paling ramah yang pernah saya coba bagi mereka yang mungkin beralih dari Windows. Dibuat oleh satu orang, sungguh menakjubkan betapa bagusnya distro ini.</value>
-  </data>
-  <data name="AnduinOS is a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS adalah distribusi Linux berbasis Ubuntu yang menawarkan pengalaman familiar dan mudah digunakan bagi siapa pun yang beralih ke Linux.</value>
-  </data>
-  <data name="Using Flatpak for graphical applications." xml:space="preserve">
-    <value>Menggunakan flatpak untuk aplikasi grafis.</value>
-  </data>
-  <data name="Recommended for users need a stable long-term version and on older hardware." xml:space="preserve">
-    <value>Direkomendasikan untuk pengguna yang membutuhkan versi jangka panjang yang stabil dan pada perangkat keras yang lebih lama.</value>
-  </data>
-  <data name="Join Stoat channel" xml:space="preserve">
-    <value>Bergabunglah dengan saluran Stoat</value>
-  </data>
-  <data name="Stoat channel" xml:space="preserve">
-    <value>saluran Stoat</value>
-  </data>
-  <data name="A Universe of Applications at Your Fingertips." xml:space="preserve">
-    <value>Semesta Aplikasi di Ujung Jari Anda.</value>
-  </data>
-  <data name="Start exploring on Flathub now" xml:space="preserve">
-    <value>Mulai jelajahi di Flathub sekarang</value>
-  </data>
-  <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
-    <value>Sebagian besar perangkat lunak yang Anda andalkan berjalan sempurna di AnduinOS, bersama dengan ribuan alternatif yang kuat, gratis, dan sumber terbuka. AnduinOS menyediakan akses instan dan terintegrasi ke perpustakaan besar Flatpak dan Ubuntu, membuat alur kerja ideal Anda hanya sejauh satu klik.</value>
-  </data>
-  <data name="No telemetry integrated! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
-    <value>Tidak ada telemetri yang terintegrasi! Pilih &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; untuk mendapatkan kembali privasi Anda</value>
-  </data>
-  <data name="to us." xml:space="preserve">
-    <value>kepada kami.</value>
-  </data>
 
-  <data name="Discord channel" xml:space="preserve">
-    <value>Discord channel</value>
-  </data>
-  <data name="Join Discord channel" xml:space="preserve">
-    <value>Join Discord channel</value>
-  </data>
 </root>

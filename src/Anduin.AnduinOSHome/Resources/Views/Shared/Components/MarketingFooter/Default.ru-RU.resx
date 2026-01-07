@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Document" xml:space="preserve">
-    <value>Документация</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Ссылки</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Исходный код</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Статус службы</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Ресурсы</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Новости</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Сообщество</value>
-  </data>
-  <data name="Legals" xml:space="preserve">
-    <value>Правовая информация</value>
-  </data>
-  <data name="Social" xml:space="preserve">
-    <value>Социальные сети</value>
-  </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>Условия использования</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Политика конфиденциальности</value>
-  </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>Открытое программное обеспечение</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Управляется сообществом)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS — пользовательский дистрибутив Linux на основе Ubuntu, который предлагает знакомый и простой в использовании опыт для всех, кто переходит на Linux.</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>Сообщество</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Документация</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>Правовая информация</value>
+  </data>
   <data name="License" xml:space="preserve">
     <value>Лицензия</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Управляется сообществом)</value>
+  <data name="News" xml:space="preserve">
+    <value>Новости</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Открытое программное обеспечение</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Политика конфиденциальности</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Ссылки</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Ресурсы</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Статус службы</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Социальные сети</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Исходный код</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Условия использования</value>
   </data>
 
 </root>

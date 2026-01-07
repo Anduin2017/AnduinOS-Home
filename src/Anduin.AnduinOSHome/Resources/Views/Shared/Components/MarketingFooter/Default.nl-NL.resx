@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Document" xml:space="preserve">
-    <value>Documentatie</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Bronnen</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Community</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Nieuws</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Servicestatus</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Broncode</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Referentie</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Beheerd door de gemeenschap)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - een op Ubuntu gebaseerde aangepaste Linux-distributie die een vertrouwde en gebruiksvriendelijke ervaring biedt voor iedereen die overstapt naar Linux.</value>
   </data>
-  <data name="License" xml:space="preserve">
-    <value>Licentie</value>
+  <data name="Community" xml:space="preserve">
+    <value>Community</value>
   </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>Open Source</value>
+  <data name="Document" xml:space="preserve">
+    <value>Documentatie</value>
   </data>
   <data name="Legals" xml:space="preserve">
     <value>Juridisch</value>
   </data>
-  <data name="Social" xml:space="preserve">
-    <value>Sociaal</value>
+  <data name="License" xml:space="preserve">
+    <value>Licentie</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Nieuws</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Open Source</value>
   </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>Privacybeleid</value>
   </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referentie</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Bronnen</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Servicestatus</value>
+  </data>
+  <data name="Social" xml:space="preserve">
+    <value>Sociaal</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Broncode</value>
+  </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Servicevoorwaarden</value>
-  </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Beheerd door de gemeenschap)</value>
   </data>
 
 </root>

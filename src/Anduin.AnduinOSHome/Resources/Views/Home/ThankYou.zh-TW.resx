@@ -18,50 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Thank you for downloading" xml:space="preserve">
-    <value>感謝您下載</value>
-  </data>
-  <data name="AnduinOS" xml:space="preserve">
-    <value>AnduinOS</value>
-  </data>
-  <data name="!" xml:space="preserve">
+      <data name="!" xml:space="preserve">
     <value>！</value>
-  </data>
-  <data name="After downloading, you may want to learn how to" xml:space="preserve">
-    <value>下載完成後，您可能會想了解如何</value>
-  </data>
-  <data name="verify the checksum" xml:space="preserve">
-    <value>驗證校驗碼</value>
-  </data>
-  <data name="and" xml:space="preserve">
-    <value>以及</value>
-  </data>
-  <data name="burn the ISO to a USB drive" xml:space="preserve">
-    <value>將 ISO 燒錄到 USB 隨身碟</value>
   </data>
   <data name="." xml:space="preserve">
     <value>。</value>
   </data>
-  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
-    <value>如果你是 AnduinOS 的新用戶，也可以查看</value>
+  <data name="After downloading, you may want to learn how to" xml:space="preserve">
+    <value>下載完成後，您可能會想了解如何</value>
   </data>
-  <data name="System requirement" xml:space="preserve">
-    <value>系統需求</value>
+  <data name="and" xml:space="preserve">
+    <value>以及</value>
   </data>
-  <data name="Enjoy your new OS!" xml:space="preserve">
-    <value>盡情享受您的新作業系統吧！</value>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
   </data>
-  <data name="Information" xml:space="preserve">
-    <value>資訊</value>
-  </data>
-  <data name="What&apos;s next?" xml:space="preserve">
-    <value>接下來呢？</value>
+  <data name="burn the ISO to a USB drive" xml:space="preserve">
+    <value>將 ISO 燒錄到 USB 隨身碟</value>
   </data>
   <data name="Documentation" xml:space="preserve">
     <value>文件</value>
   </data>
-  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
-    <value>查看文件，您可能會在那裡找到答案。</value>
+  <data name="Donate" xml:space="preserve">
+    <value>捐款</value>
+  </data>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>盡情享受您的新作業系統吧！</value>
+  </data>
+  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
+    <value>想要慷慨解囊嗎？AnduinOS 的運作仰賴用戶的捐款支持，我們衷心感謝您的幫助。</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>如果你是 AnduinOS 的新用戶，也可以查看</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>資訊</value>
   </data>
   <data name="Report a problem" xml:space="preserve">
     <value>回報問題</value>
@@ -69,11 +60,20 @@
   <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
     <value>遇到問題了嗎？有建議嗎？歡迎到討論區發文討論。</value>
   </data>
-  <data name="Donate" xml:space="preserve">
-    <value>捐款</value>
+  <data name="System requirement" xml:space="preserve">
+    <value>系統需求</value>
   </data>
-  <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
-    <value>想要慷慨解囊嗎？AnduinOS 的運作仰賴用戶的捐款支持，我們衷心感謝您的幫助。</value>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>查看文件，您可能會在那裡找到答案。</value>
+  </data>
+  <data name="Thank you for downloading" xml:space="preserve">
+    <value>感謝您下載</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>驗證校驗碼</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>接下來呢？</value>
   </data>
 
 </root>

@@ -18,62 +18,62 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="and" xml:space="preserve">
-    <value>și</value>
+      <data name="!" xml:space="preserve">
+    <value>!</value>
   </data>
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
-  <data name="AnduinOS" xml:space="preserve">
-    <value>AnduinOS</value>
-  </data>
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>După descărcare, poate doriți să aflați cum să</value>
   </data>
-  <data name="!" xml:space="preserve">
-    <value>!</value>
+  <data name="and" xml:space="preserve">
+    <value>și</value>
   </data>
-  <data name="Thank you for downloading" xml:space="preserve">
-    <value>Vă mulțumim pentru descărcare</value>
+  <data name="AnduinOS" xml:space="preserve">
+    <value>AnduinOS</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>scrieți ISO-ul pe o unitate USB</value>
   </data>
-  <data name="verify the checksum" xml:space="preserve">
-    <value>verifică suma de control</value>
-  </data>
-  <data name="System requirement" xml:space="preserve">
-    <value>Cerințe de sistem</value>
-  </data>
-  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
-    <value>Dacă ești nou în AnduinOS, poți să consulți și</value>
-  </data>
-  <data name="Report a problem" xml:space="preserve">
-    <value>Raportează o problemă</value>
-  </data>
-  <data name="Enjoy your new OS!" xml:space="preserve">
-    <value>Bucură-te de noul tău sistem de operare!</value>
-  </data>
-  <data name="Information" xml:space="preserve">
-    <value>Informații</value>
-  </data>
-  <data name="What&apos;s next?" xml:space="preserve">
-    <value>Ce urmează?</value>
-  </data>
   <data name="Documentation" xml:space="preserve">
     <value>Documentație</value>
-  </data>
-  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
-    <value>Consultați documentația, s-ar putea să găsiți răspunsurile acolo.</value>
   </data>
   <data name="Donate" xml:space="preserve">
     <value>Donează</value>
   </data>
-  <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
-    <value>Ceva nu funcționează? Ai o sugestie? Postează despre asta în discuții.</value>
+  <data name="Enjoy your new OS!" xml:space="preserve">
+    <value>Bucură-te de noul tău sistem de operare!</value>
   </data>
   <data name="Feeling generous? AnduinOS works based on donations from users. We are grateful for your support." xml:space="preserve">
     <value>Te simți generos? AnduinOS funcționează pe baza donațiilor utilizatorilor. Suntem recunoscători pentru sprijinul tău.</value>
+  </data>
+  <data name="If you are new to AnduinOS, you may also want to check out the" xml:space="preserve">
+    <value>Dacă ești nou în AnduinOS, poți să consulți și</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informații</value>
+  </data>
+  <data name="Report a problem" xml:space="preserve">
+    <value>Raportează o problemă</value>
+  </data>
+  <data name="Something not working? Have a suggestion? Post about it to discussion." xml:space="preserve">
+    <value>Ceva nu funcționează? Ai o sugestie? Postează despre asta în discuții.</value>
+  </data>
+  <data name="System requirement" xml:space="preserve">
+    <value>Cerințe de sistem</value>
+  </data>
+  <data name="Take a look at documentation, you may find your answers there." xml:space="preserve">
+    <value>Consultați documentația, s-ar putea să găsiți răspunsurile acolo.</value>
+  </data>
+  <data name="Thank you for downloading" xml:space="preserve">
+    <value>Vă mulțumim pentru descărcare</value>
+  </data>
+  <data name="verify the checksum" xml:space="preserve">
+    <value>verifică suma de control</value>
+  </data>
+  <data name="What&apos;s next?" xml:space="preserve">
+    <value>Ce urmează?</value>
   </data>
 
 </root>

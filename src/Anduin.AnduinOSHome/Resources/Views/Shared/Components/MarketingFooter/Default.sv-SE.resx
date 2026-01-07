@@ -18,50 +18,50 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Reference" xml:space="preserve">
-    <value>Referenser</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>Dokument</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>Gemenskap</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>Nyheter</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Källkod</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>Tjänstestatus</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(driven av communityn)</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - en anpassad Ubuntu-baserad Linux-distribution som erbjuder en bekant och lättanvänd upplevelse för alla som byter till Linux.</value>
   </data>
-  <data name="License" xml:space="preserve">
-    <value>Licens</value>
+  <data name="Community" xml:space="preserve">
+    <value>Gemenskap</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>Dokument</value>
   </data>
   <data name="Legals" xml:space="preserve">
     <value>Juridik</value>
   </data>
-  <data name="Resources" xml:space="preserve">
-    <value>Resurser</value>
+  <data name="License" xml:space="preserve">
+    <value>Licens</value>
   </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Integritetspolicy</value>
+  <data name="News" xml:space="preserve">
+    <value>Nyheter</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>Öppen källkod</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>Användarvillkor</value>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Integritetspolicy</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(driven av communityn)</value>
+  <data name="Reference" xml:space="preserve">
+    <value>Referenser</value>
+  </data>
+  <data name="Resources" xml:space="preserve">
+    <value>Resurser</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>Tjänstestatus</value>
   </data>
   <data name="Social" xml:space="preserve">
     <value>Sociala medier</value>
+  </data>
+  <data name="Source Code" xml:space="preserve">
+    <value>Källkod</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Användarvillkor</value>
   </data>
 
 </root>

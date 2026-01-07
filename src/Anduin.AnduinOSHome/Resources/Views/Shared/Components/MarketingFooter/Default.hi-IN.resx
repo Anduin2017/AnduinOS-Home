@@ -18,29 +18,26 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="News" xml:space="preserve">
-    <value>समाचार</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(सामुदायिक रूप से संचालित)</value>
+  </data>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>एंडुइनओएस - एक कस्टम उबंटू-आधारित लिनक्स डिस्ट्रीब्यूशन जो लिनक्स पर आने वाले किसी भी व्यक्ति के लिए एक परिचित और उपयोग में आसान अनुभव प्रदान करता है।</value>
   </data>
   <data name="Community" xml:space="preserve">
     <value>समुदाय</value>
   </data>
-  <data name="Resources" xml:space="preserve">
-    <value>संसाधन</value>
-  </data>
   <data name="Document" xml:space="preserve">
     <value>दस्तावेज़</value>
   </data>
-  <data name="Reference" xml:space="preserve">
-    <value>संदर्भ</value>
-  </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>सोर्स कोड</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>सेवा स्थिति</value>
-  </data>
   <data name="Legals" xml:space="preserve">
     <value>कानूनी</value>
+  </data>
+  <data name="License" xml:space="preserve">
+    <value>लाइसेंस</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>समाचार</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>ओपन सोर्स</value>
@@ -48,20 +45,23 @@
   <data name="Privacy Policy" xml:space="preserve">
     <value>गोपनीयता नीति</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>सेवा की शर्तें</value>
+  <data name="Reference" xml:space="preserve">
+    <value>संदर्भ</value>
   </data>
-  <data name="License" xml:space="preserve">
-    <value>लाइसेंस</value>
+  <data name="Resources" xml:space="preserve">
+    <value>संसाधन</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>सेवा स्थिति</value>
   </data>
   <data name="Social" xml:space="preserve">
     <value>सामाजिक</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(सामुदायिक रूप से संचालित)</value>
+  <data name="Source Code" xml:space="preserve">
+    <value>सोर्स कोड</value>
   </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>एंडुइनओएस - एक कस्टम उबंटू-आधारित लिनक्स डिस्ट्रीब्यूशन जो लिनक्स पर आने वाले किसी भी व्यक्ति के लिए एक परिचित और उपयोग में आसान अनुभव प्रदान करता है।</value>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>सेवा की शर्तें</value>
   </data>
 
 </root>

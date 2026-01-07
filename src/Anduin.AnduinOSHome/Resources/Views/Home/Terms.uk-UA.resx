@@ -18,116 +18,35 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="2. Modifications to Terms" xml:space="preserve">
-    <value>2. Зміни до Умов</value>
-  </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>Умови використання</value>
-  </data>
-  <data name="Last updated: May 10, 2025" xml:space="preserve">
-    <value>Останнє оновлення: 10 травня 2025 року</value>
-  </data>
-  <data name="1. Acceptance of Terms" xml:space="preserve">
-    <value>1. Прийняття Умов</value>
-  </data>
-  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
-    <value>Ми залишаємо за собою право оновлювати або змінювати ці Умови будь-коли без попереднього повідомлення.</value>
-  </data>
-  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
-    <value>Ваше подальше використання Вебсайту або Сервісів після будь-яких змін означає прийняття нових Умов.</value>
-  </data>
-  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
-    <value>Якщо ви не згодні з будь-якою частиною цих Умов, ви не повинні використовувати Вебсайт або Сервіси.</value>
-  </data>
-  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
-    <value>Вам рекомендується періодично переглядати ці Умови.</value>
-  </data>
-  <data name="3. Use of Website and Services" xml:space="preserve">
-    <value>3. Використання вебсайту та послуг</value>
-  </data>
-  <data name="You specifically agree not to:" xml:space="preserve">
-    <value>Ви спеціально погоджуєтеся не:</value>
-  </data>
-  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
-    <value>Отримуючи доступ та використовуючи вебсайт AnduinOS (&quot;Вебсайт&quot;) та будь-які пов’язані сервіси, включаючи, але не обмежуючись документацією, завантаженнями та обговореннями у спільноті (&quot;Сервіси&quot;), ви погоджуєтеся дотримуватися цих Умов обслуговування (&quot;Умови&quot;).</value>
-  </data>
-  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
-    <value>Спроба отримати несанкціонований доступ до систем або даних.</value>
-  </data>
-  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
-    <value>Зловживати, атакувати або перевантажувати Вебсайт, сервери чи Сервіси.</value>
-  </data>
-  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
-    <value>Ви погоджуєтеся використовувати Вебсайт та Сервіси лише для законних цілей та з дотриманням усіх чинних законів і нормативних актів.</value>
-  </data>
-  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
-    <value>Завантажувати, поширювати чи передавати будь-які шкідливі програми, віруси або зловмисний код.</value>
-  </data>
-  <data name="4. Intellectual Property" xml:space="preserve">
-    <value>4. Інтелектуальна власність</value>
-  </data>
-  <data name="." xml:space="preserve">
+      <data name="." xml:space="preserve">
     <value>.</value>
-  </data>
-  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
-    <value>AnduinOS — це безкоштовний та відкритий проект, який поширюється за умовами</value>
-  </data>
-  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
-    <value>Ми залишаємо за собою право обмежити або припинити доступ для користувачів, які порушують ці Умови.</value>
-  </data>
-  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
-    <value>Використовувати Вебсайт або Сервіси для будь-яких шахрайських, незаконних або зловмисних дій.</value>
-  </data>
-  <data name="5. Third-Party Links and Content" xml:space="preserve">
-    <value>5. Посилання та контент третіх сторін</value>
-  </data>
-  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
-    <value>Забороняється копіювати, відтворювати або поширювати елементи вебсайту, що не є кодом, без явного дозволу.</value>
-  </data>
-  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
-    <value>Хоча програмне забезпечення є відкритим, дизайн вебсайту, брендові матеріали та інший не програмний контент можуть підлягати окремим правам інтелектуальної власності.</value>
-  </data>
-  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
-    <value>Доступ до ресурсів третіх сторін здійснюється на ваш власний ризик.</value>
-  </data>
-  <data name="6. Disclaimer of Warranties" xml:space="preserve">
-    <value>6. Відмова від гарантій</value>
-  </data>
-  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
-    <value>Веб-сайт, Сервіси та програмне забезпечення AnduinOS надаються</value>
-  </data>
-  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
-    <value>На Вебсайті та в Сервісах можуть міститися посилання на вебсайти або сервіси третіх сторін, які не належать нам і не контролюються нами.</value>
-  </data>
-  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
-    <value>Ми не несемо відповідальності за вміст, політики або практики будь-яких сторонніх сайтів.</value>
-  </data>
-  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
-    <value>без будь-яких гарантій будь-якого роду, явних чи непрямих.</value>
   </data>
   <data name="&quot;as is&quot; and &quot;as available,&quot;" xml:space="preserve">
     <value>&quot;як є&quot; та &quot;як доступно&quot;,</value>
   </data>
-  <data name="Accuracy" xml:space="preserve">
-    <value>Точність</value>
+  <data name="1. Acceptance of Terms" xml:space="preserve">
+    <value>1. Прийняття Умов</value>
   </data>
-  <data name="Fitness for a particular purpose" xml:space="preserve">
-    <value>Придатність для певної мети</value>
+  <data name="10. Contact Information" xml:space="preserve">
+    <value>10. Контактна інформація</value>
   </data>
-  <data name="Reliability" xml:space="preserve">
-    <value>Надійність</value>
+  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
+    <value>11. Відмова від відповідальності щодо модифікованих версій</value>
   </data>
-  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
-    <value>Ми категорично відмовляємося від усіх гарантій, включаючи, але не обмежуючись:</value>
+  <data name="2. Modifications to Terms" xml:space="preserve">
+    <value>2. Зміни до Умов</value>
   </data>
-  <data name="Non-infringement" xml:space="preserve">
-    <value>Відсутність порушення прав</value>
+  <data name="3. Use of Website and Services" xml:space="preserve">
+    <value>3. Використання вебсайту та послуг</value>
   </data>
-  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
-    <value>Доступність або безпека Вебсайту, Сервісів або програмного забезпечення</value>
+  <data name="4. Intellectual Property" xml:space="preserve">
+    <value>4. Інтелектуальна власність</value>
   </data>
-  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
-    <value>Використання AnduinOS та вебсайту повністю на ваш ризик.</value>
+  <data name="5. Third-Party Links and Content" xml:space="preserve">
+    <value>5. Посилання та контент третіх сторін</value>
+  </data>
+  <data name="6. Disclaimer of Warranties" xml:space="preserve">
+    <value>6. Відмова від гарантій</value>
   </data>
   <data name="7. Limitation of Liability" xml:space="preserve">
     <value>7. Обмеження відповідальності</value>
@@ -135,68 +54,149 @@
   <data name="8. Termination" xml:space="preserve">
     <value>8. Припинення</value>
   </data>
-  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
-    <value>Непрямі, випадкові, спеціальні, наслідкові або покарані збитки;</value>
-  </data>
-  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
-    <value>У максимально допустимому законом ступені ми не несемо відповідальності за будь-які:</value>
-  </data>
-  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
-    <value>Втрата прибутків, доходів, даних або ділової репутації;</value>
-  </data>
-  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
-    <value>Збитки, спричинені використанням (або неможливістю використання) Вебсайту, Сервісів або програмного забезпечення AnduinOS.</value>
-  </data>
   <data name="9. Governing Law" xml:space="preserve">
     <value>9. Застосовне право</value>
   </data>
-  <data name="10. Contact Information" xml:space="preserve">
-    <value>10. Контактна інформація</value>
+  <data name="Abuse, attack, or overload the Website, servers, or Services." xml:space="preserve">
+    <value>Зловживати, атакувати або перевантажувати Вебсайт, сервери чи Сервіси.</value>
   </data>
-  <data name="Email:" xml:space="preserve">
-    <value>Електронна пошта:</value>
+  <data name="Accessing third-party resources is done at your own risk." xml:space="preserve">
+    <value>Доступ до ресурсів третіх сторін здійснюється на ваш власний ризик.</value>
   </data>
-  <data name="Community:" xml:space="preserve">
-    <value>Спільнота:</value>
-  </data>
-  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
-    <value>Ці Умови регулюються та тлумачаться відповідно до законодавства юрисдикції, в якій зареєстрований оператор Вебсайту, без урахування принципів колізії норм права.</value>
-  </data>
-  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
-    <value>Якщо у вас виникли запитання щодо цих Умов надання послуг, будь ласка, зв’яжіться з нами:</value>
-  </data>
-  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
-    <value>Ми залишаємо за собою право припинити або призупинити ваш доступ до Вебсайту чи Сервісів негайно, без попередження, за поведінку, яка, на нашу думку, порушує ці Умови або є шкідливою для інших користувачів, нас чи третіх осіб.</value>
+  <data name="Accuracy" xml:space="preserve">
+    <value>Точність</value>
   </data>
   <data name="AnduinOS GitHub Discussions" xml:space="preserve">
     <value>Обговорення AnduinOS на GitHub</value>
   </data>
-  <data name="11. Disclaimer Regarding Modified Versions" xml:space="preserve">
-    <value>11. Відмова від відповідальності щодо модифікованих версій</value>
-  </data>
-  <data name="including:" xml:space="preserve">
-    <value>зокрема:</value>
+  <data name="AnduinOS is a free and open-source project distributed under the" xml:space="preserve">
+    <value>AnduinOS — це безкоштовний та відкритий проект, який поширюється за умовами</value>
   </data>
   <data name="AnduinOS is a free and open-source project distributed under the GNU General Public License v3.0 (GPL-v3)." xml:space="preserve">
     <value>AnduinOS — це безкоштовний та відкритий проект, розповсюджуваний під ліцензією GNU General Public License v3.0 (GPL-v3).</value>
   </data>
-  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
-    <value>ми несемо відповідальність лише за версії, офіційно поширені через наші офіційні канали,</value>
+  <data name="Attempt to gain unauthorized access to systems or data." xml:space="preserve">
+    <value>Спроба отримати несанкціонований доступ до систем або даних.</value>
   </data>
-  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
-    <value>Хоча будь-хто може на законних підставах отримувати, змінювати та поширювати копії програмного забезпечення відповідно до умов ліцензії,</value>
+  <data name="Availability or security of the Website, Services, or software" xml:space="preserve">
+    <value>Доступність або безпека Вебсайту, Сервісів або програмного забезпечення</value>
   </data>
-  <data name="you do so entirely at your own risk." xml:space="preserve">
-    <value>ви робите це виключно на свій власний ризик.</value>
+  <data name="By accessing and using the AnduinOS website (&quot;Website&quot;) and any related services, including but not limited to documentation, downloads, and community discussions (&quot;Services&quot;), you agree to be bound by these Terms of Service (&quot;Terms&quot;)." xml:space="preserve">
+    <value>Отримуючи доступ та використовуючи вебсайт AnduinOS (&quot;Вебсайт&quot;) та будь-які пов’язані сервіси, включаючи, але не обмежуючись документацією, завантаженнями та обговореннями у спільноті (&quot;Сервіси&quot;), ви погоджуєтеся дотримуватися цих Умов обслуговування (&quot;Умови&quot;).</value>
   </data>
-  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
-    <value>Ми не схвалюємо, не перевіряємо та не підтримуємо жодні неофіційні чи модифіковані третіми сторонами версії AnduinOS.</value>
+  <data name="Community:" xml:space="preserve">
+    <value>Спільнота:</value>
+  </data>
+  <data name="Damages resulting from your use of (or inability to use) the Website, Services, or AnduinOS software." xml:space="preserve">
+    <value>Збитки, спричинені використанням (або неможливістю використання) Вебсайту, Сервісів або програмного забезпечення AnduinOS.</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>Електронна пошта:</value>
+  </data>
+  <data name="Fitness for a particular purpose" xml:space="preserve">
+    <value>Придатність для певної мети</value>
+  </data>
+  <data name="If you do not agree with any part of these Terms, you must not use the Website or Services." xml:space="preserve">
+    <value>Якщо ви не згодні з будь-якою частиною цих Умов, ви не повинні використовувати Вебсайт або Сервіси.</value>
+  </data>
+  <data name="If you have any questions regarding these Terms of Service, please contact:" xml:space="preserve">
+    <value>Якщо у вас виникли запитання щодо цих Умов надання послуг, будь ласка, зв’яжіться з нами:</value>
   </data>
   <data name="If you obtain AnduinOS from any source other than the official channels listed above," xml:space="preserve">
     <value>Якщо ви отримали AnduinOS з будь-якого джерела, крім офіційних каналів, перелічених вище,</value>
   </data>
+  <data name="including:" xml:space="preserve">
+    <value>зокрема:</value>
+  </data>
+  <data name="Indirect, incidental, special, consequential, or punitive damages;" xml:space="preserve">
+    <value>Непрямі, випадкові, спеціальні, наслідкові або покарані збитки;</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Останнє оновлення: 10 травня 2025 року</value>
+  </data>
+  <data name="Loss of profits, revenues, data, or goodwill;" xml:space="preserve">
+    <value>Втрата прибутків, доходів, даних або ділової репутації;</value>
+  </data>
+  <data name="Non-infringement" xml:space="preserve">
+    <value>Відсутність порушення прав</value>
+  </data>
+  <data name="Reliability" xml:space="preserve">
+    <value>Надійність</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>Умови використання</value>
+  </data>
+  <data name="The Website and Services may include links to third-party websites or services not owned or controlled by us." xml:space="preserve">
+    <value>На Вебсайті та в Сервісах можуть міститися посилання на вебсайти або сервіси третіх сторін, які не належать нам і не контролюються нами.</value>
+  </data>
+  <data name="The Website, Services, and AnduinOS software are provided" xml:space="preserve">
+    <value>Веб-сайт, Сервіси та програмне забезпечення AnduinOS надаються</value>
+  </data>
+  <data name="These Terms are governed by and construed in accordance with the laws of the jurisdiction where the Website operator resides, without regard to its conflict of law principles." xml:space="preserve">
+    <value>Ці Умови регулюються та тлумачаться відповідно до законодавства юрисдикції, в якій зареєстрований оператор Вебсайту, без урахування принципів колізії норм права.</value>
+  </data>
+  <data name="To the maximum extent permitted by law, we shall not be liable for any:" xml:space="preserve">
+    <value>У максимально допустимому законом ступені ми не несемо відповідальності за будь-які:</value>
+  </data>
+  <data name="Upload, distribute, or transmit any malware, viruses, or harmful code." xml:space="preserve">
+    <value>Завантажувати, поширювати чи передавати будь-які шкідливі програми, віруси або зловмисний код.</value>
+  </data>
+  <data name="Use of AnduinOS and the Website is entirely at your own risk." xml:space="preserve">
+    <value>Використання AnduinOS та вебсайту повністю на ваш ризик.</value>
+  </data>
+  <data name="Use the Website or Services for any fraudulent, illegal, or malicious activities." xml:space="preserve">
+    <value>Використовувати Вебсайт або Сервіси для будь-яких шахрайських, незаконних або зловмисних дій.</value>
+  </data>
+  <data name="We are not responsible for the content, policies, or practices of any third-party sites." xml:space="preserve">
+    <value>Ми не несемо відповідальності за вміст, політики або практики будь-яких сторонніх сайтів.</value>
+  </data>
+  <data name="we are only responsible for the versions officially distributed through our official channels, " xml:space="preserve">
+    <value>ми несемо відповідальність лише за версії, офіційно поширені через наші офіційні канали,</value>
+  </data>
   <data name="We disclaim any responsibility for any harm, damage, loss, or security vulnerabilities caused by unofficial or modified versions of AnduinOS." xml:space="preserve">
     <value>Ми знімаємо з себе будь-яку відповідальність за будь-яку шкоду, пошкодження, втрати або вразливості безпеки, спричинені неофіційними або модифікованими версіями AnduinOS.</value>
+  </data>
+  <data name="We do not endorse, verify, or support any unofficial or third-party modified versions of AnduinOS." xml:space="preserve">
+    <value>Ми не схвалюємо, не перевіряємо та не підтримуємо жодні неофіційні чи модифіковані третіми сторонами версії AnduinOS.</value>
+  </data>
+  <data name="We expressly disclaim all warranties, including but not limited to:" xml:space="preserve">
+    <value>Ми категорично відмовляємося від усіх гарантій, включаючи, але не обмежуючись:</value>
+  </data>
+  <data name="We reserve the right to restrict or terminate access for users who violate these Terms." xml:space="preserve">
+    <value>Ми залишаємо за собою право обмежити або припинити доступ для користувачів, які порушують ці Умови.</value>
+  </data>
+  <data name="We reserve the right to terminate or suspend your access to the Website or Services immediately, without notice, for conduct that we believe violates these Terms or is harmful to other users, us, or third parties." xml:space="preserve">
+    <value>Ми залишаємо за собою право припинити або призупинити ваш доступ до Вебсайту чи Сервісів негайно, без попередження, за поведінку, яка, на нашу думку, порушує ці Умови або є шкідливою для інших користувачів, нас чи третіх осіб.</value>
+  </data>
+  <data name="We reserve the right to update or modify these Terms at any time without prior notice." xml:space="preserve">
+    <value>Ми залишаємо за собою право оновлювати або змінювати ці Умови будь-коли без попереднього повідомлення.</value>
+  </data>
+  <data name="While anyone may legally obtain, modify, and redistribute copies of the software under the terms of the license, " xml:space="preserve">
+    <value>Хоча будь-хто може на законних підставах отримувати, змінювати та поширювати копії програмного забезпечення відповідно до умов ліцензії,</value>
+  </data>
+  <data name="While the software is open-source, the Website design, branding materials, and other non-software content may be subject to separate intellectual property rights." xml:space="preserve">
+    <value>Хоча програмне забезпечення є відкритим, дизайн вебсайту, брендові матеріали та інший не програмний контент можуть підлягати окремим правам інтелектуальної власності.</value>
+  </data>
+  <data name="without any warranties of any kind, whether express or implied." xml:space="preserve">
+    <value>без будь-яких гарантій будь-якого роду, явних чи непрямих.</value>
+  </data>
+  <data name="You agree to use the Website and Services only for lawful purposes and in compliance with all applicable laws and regulations." xml:space="preserve">
+    <value>Ви погоджуєтеся використовувати Вебсайт та Сервіси лише для законних цілей та з дотриманням усіх чинних законів і нормативних актів.</value>
+  </data>
+  <data name="You are encouraged to review these Terms periodically." xml:space="preserve">
+    <value>Вам рекомендується періодично переглядати ці Умови.</value>
+  </data>
+  <data name="you do so entirely at your own risk." xml:space="preserve">
+    <value>ви робите це виключно на свій власний ризик.</value>
+  </data>
+  <data name="You may not copy, reproduce, or distribute non-code elements of the Website without explicit permission." xml:space="preserve">
+    <value>Забороняється копіювати, відтворювати або поширювати елементи вебсайту, що не є кодом, без явного дозволу.</value>
+  </data>
+  <data name="You specifically agree not to:" xml:space="preserve">
+    <value>Ви спеціально погоджуєтеся не:</value>
+  </data>
+  <data name="Your continued use of the Website or Services after any changes constitutes acceptance of the new Terms." xml:space="preserve">
+    <value>Ваше подальше використання Вебсайту або Сервісів після будь-яких змін означає прийняття нових Умов.</value>
   </data>
 
 </root>

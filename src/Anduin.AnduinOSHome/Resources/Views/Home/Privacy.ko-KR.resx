@@ -18,335 +18,335 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="1. Data Collection by AnduinOS" xml:space="preserve">
-    <value>1. AnduinOS의 데이터 수집</value>
-  </data>
-  <data name="Privacy Statement" xml:space="preserve">
-    <value>개인정보 처리방침</value>
-  </data>
-  <data name="Introduction" xml:space="preserve">
-    <value>소개</value>
-  </data>
-  <data name="entirely on your computer" xml:space="preserve">
-    <value>완전히 사용자의 컴퓨터에서</value>
-  </data>
-  <data name="This ensures:" xml:space="preserve">
-    <value>이를 통해 다음과 같은 점이 보장됩니다:</value>
-  </data>
-  <data name="We are committed to protecting your privacy." xml:space="preserve">
-    <value>당신의 개인정보 보호를 위해 최선을 다하겠습니다.</value>
-  </data>
-  <data name="2. Why Local Execution Matters" xml:space="preserve">
-    <value>2. 로컬 실행이 중요한 이유</value>
-  </data>
-  <data name="Local execution means that all features and services of AnduinOS are performed" xml:space="preserve">
-    <value>로컬 실행은 AnduinOS의 모든 기능과 서비스가 수행됨을 의미합니다</value>
+      <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, 아래에 상세히 설명된 특정 사용자 개시 기능 또는 필수 서비스를 제외하고.</value>
   </data>
   <data name=", without requiring communication with any external servers owned by us or third parties." xml:space="preserve">
     <value>, 저희 또는 제3자가 소유한 외부 서버와의 통신 없이도 가능합니다.</value>
   </data>
-  <data name="AnduinOS is a free and open-source Linux distribution based on Ubuntu." xml:space="preserve">
-    <value>AnduinOS는 Ubuntu 기반의 무료 오픈 소스 Linux 배포판입니다.</value>
-  </data>
-  <data name="There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information." xml:space="preserve">
-    <value>사용자 정보 수집을 목적으로 시스템에서 시작되는 숨겨진 백그라운드 프로세스나 네트워크 통신이 없습니다.</value>
-  </data>
-  <data name="Last updated: May 10, 2025" xml:space="preserve">
-    <value>마지막 업데이트: 2025년 5월 10일</value>
-  </data>
-  <data name="Thus, AnduinOS is fundamentally privacy-preserving by design." xml:space="preserve">
-    <value>따라서, AnduinOS는 기본적으로 설계 상 개인정보 보호를 최우선으로 합니다.</value>
-  </data>
-  <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
-    <value>이 문서는 AnduinOS가 사용자 데이터를 어떻게 처리하는지 설명하고, 개인정보 보호와 관련된 기술적 설계를 명확히 하며, 상위 구성 요소와 관련된 고려 사항을 개요합니다.</value>
-  </data>
-  <data name="AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms." xml:space="preserve">
-    <value>AnduinOS는 원격 측정, 분석, 광고, 추적 또는 행동 프로파일링 메커니즘을 포함하지 않습니다.</value>
-  </data>
-  <data name="AnduinOS itself does not collect, transmit, or store any user data." xml:space="preserve">
-    <value>AnduinOS 자체는 어떠한 사용자 데이터도 수집, 전송 또는 저장하지 않습니다.</value>
-  </data>
-  <data name="Control:" xml:space="preserve">
-    <value>제어:</value>
-  </data>
-  <data name="You retain complete control over your personal data." xml:space="preserve">
-    <value>귀하는 개인 데이터에 대한 완전한 통제권을 유지합니다.</value>
-  </data>
-  <data name="No data leaves your machine without your explicit action." xml:space="preserve">
-    <value>사용자의 명시적인 동작 없이는 어떤 데이터도 기기에서 유출되지 않습니다.</value>
-  </data>
-  <data name="GNU General Public License v3.0 (GPL-v3)" xml:space="preserve">
-    <value>GNU 일반 공중 라이선스 v3.0 (GPL-v3)</value>
-  </data>
-  <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
-    <value>3. 오픈 소스가 보장하는 자유</value>
-  </data>
-  <data name="Transparency:" xml:space="preserve">
-    <value>투명성:</value>
-  </data>
-  <data name="Security:" xml:space="preserve">
-    <value>보안:</value>
-  </data>
-  <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
-    <value>원격 원격 측정이 보편화된 세상에서 AnduinOS는 사용자를 보호하기 위해 의도적으로 외부 의존성을 최소화합니다.</value>
-  </data>
-  <data name="This license guarantees:" xml:space="preserve">
-    <value>이 라이선스는 다음과 같은 것을 보장합니다:</value>
-  </data>
-  <data name="Freedom to inspect:" xml:space="preserve">
-    <value>검토할 자유:</value>
-  </data>
-  <data name="AnduinOS is distributed under the" xml:space="preserve">
-    <value>AnduinOS는 다음 라이선스 하에 배포됩니다.</value>
-  </data>
-  <data name="Reducing external communications limits exposure to interception or exploitation risks." xml:space="preserve">
-    <value>외부 통신을 줄이면 가로채기 또는 악용 위험에 노출될 가능성을 제한할 수 있습니다.</value>
-  </data>
-  <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
-    <value>소스 코드를 검토하여 숨겨진 추적 메커니즘이 없음을 확인할 수 있습니다.</value>
-  </data>
-  <data name="Freedom to redistribute:" xml:space="preserve">
-    <value>재배포의 자유:</value>
-  </data>
-  <data name="Freedom to modify:" xml:space="preserve">
-    <value>수정할 자유:</value>
-  </data>
-  <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
-    <value>4. 업스트림 소프트웨어 및 개인정보 보호 고려사항</value>
-  </data>
-  <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
-    <value>필요에 따라 코드를 수정할 수 있으며, 신뢰하지 않는 구성 요소를 제거하는 것도 포함됩니다.</value>
-  </data>
-  <data name="here" xml:space="preserve">
-    <value>여기</value>
-  </data>
-  <data name="(Some examples and references can be found" xml:space="preserve">
-    <value>(일부 예시 및 참고 자료는 다음에서 확인할 수 있습니다</value>
-  </data>
-  <data name="The open nature of AnduinOS empowers users to independently verify that the system respects their privacy." xml:space="preserve">
-    <value>AnduinOS의 개방적인 특성으로 인해 사용자는 시스템이 자신의 프라이버시를 존중한다는 사실을 독립적으로 확인할 수 있습니다.</value>
-  </data>
-  <data name="it integrates a wide range of upstream open-source software" xml:space="preserve">
-    <value>이는 광범위한 업스트림 오픈 소스 소프트웨어를 통합합니다.</value>
-  </data>
-  <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
-    <value>Ubuntu, Debian, GNOME, Flathub 및 기타 소스에서 유래한</value>
-  </data>
-  <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
-    <value>AnduinOS 자체는 어떠한 데이터도 수집하지 않지만,</value>
-  </data>
-  <data name="Notably:" xml:space="preserve">
-    <value>특히:</value>
-  </data>
-  <data name="There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu." xml:space="preserve">
-    <value>Ubuntu에서 명시적으로 상속된 업스트림 종속성 외에는 독점 블롭이나 비공개 모듈이 없습니다.</value>
-  </data>
-  <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
-    <value>동일한 라이선스 조건 하에 수정 여부와 관계없이 AnduinOS를 공유할 수 있습니다.</value>
-  </data>
-  <data name="Some upstream components may have independent data collection mechanisms." xml:space="preserve">
-    <value>일부 상위 구성 요소는 독립적인 데이터 수집 메커니즘을 가질 수 있습니다.</value>
-  </data>
-  <data name="(Ubuntu&apos;s developer) may collect certain system information for statistics and diagnostics purposes via tools like:" xml:space="preserve">
-    <value>(우분투 개발사인) Canonical Ltd.는 통계 및 진단 목적으로 일부 시스템 정보를 수집할 수 있습니다. 예를 들어 다음과 같은 도구를 통해:</value>
-  </data>
-  <data name="Snap store background services (if Snap is manually installed by users)" xml:space="preserve">
-    <value>Snap 스토어 백그라운드 서비스 (사용자가 Snap을 수동으로 설치한 경우)</value>
-  </data>
-  <data name="not" xml:space="preserve">
-    <value>아니요</value>
-  </data>
-  <data name="AnduinOS does" xml:space="preserve">
-    <value>AnduinOS는</value>
-  </data>
-  <data name="AnduinOS does not preinstall any telemetry-related packages" xml:space="preserve">
-    <value>AnduinOS는 원격 측정과 관련된 패키지를 사전 설치하지 않습니다.</value>
-  </data>
-  <data name="Snap daemon" xml:space="preserve">
-    <value>Snap 데몬</value>
-  </data>
-  <data name="for details." xml:space="preserve">
-    <value>자세한 내용은</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>개인정보 처리방침</value>
-  </data>
-  <data name="Canonical Livepatch service" xml:space="preserve">
-    <value>Canonical Livepatch 서비스</value>
-  </data>
-  <data name="We strongly recommend users review Canonical&apos;s" xml:space="preserve">
-    <value>사용자들은 Canonical의</value>
-  </data>
-  <data name="modify, enhance, or introduce additional telemetry into these upstream components." xml:space="preserve">
-    <value>이러한 업스트림 구성 요소를 수정, 개선하거나 추가적인 원격 측정 기능을 도입하지 않습니다.</value>
-  </data>
-  <data name="AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting" xml:space="preserve">
-    <value>AnduinOS는 어떠한 시스템 보고, 사용 통계 제출 또는 자동화된 충돌 보고에도 참여하지 않습니다.</value>
-  </data>
-  <data name="Thus, by default," xml:space="preserve">
-    <value>따라서, 기본적으로</value>
-  </data>
-  <data name="popularity-contest" xml:space="preserve">
-    <value>인기 투표</value>
-  </data>
-  <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
-    <value>하지만, Ubuntu 저장소에서 패키지를 수동으로 설치하거나 Ubuntu 전용 기능을 활성화하는 경우 이러한 원격 측정 메커니즘 중 일부가 도입될 수 있습니다.</value>
-  </data>
-  <data name=": Periodically submits anonymous package usage statistics." xml:space="preserve">
-    <value>주기적으로 익명의 패키지 사용 통계를 제출합니다.</value>
+  <data name=": Automated error reporting services." xml:space="preserve">
+    <value>자동 오류 보고 서비스.</value>
   </data>
   <data name=": Collects basic hardware and software details at installation time." xml:space="preserve">
     <value>설치 시 기본 하드웨어 및 소프트웨어 정보를 수집합니다.</value>
   </data>
-  <data name=": Automated error reporting services." xml:space="preserve">
-    <value>자동 오류 보고 서비스.</value>
-  </data>
-  <data name="Explanation:" xml:space="preserve">
-    <value>설명:</value>
-  </data>
-  <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
-    <value>완전한 옵트아웃을 보장하기 위해, 필요한 경우 다음 명령을 사용하여 해당 패키지를 검토하고 제거할 수 있습니다:</value>
-  </data>
-  <data name="Note:" xml:space="preserve">
-    <value>참고:</value>
-  </data>
-  <data name="maintained in spare time by volunteers." xml:space="preserve">
-    <value>자원봉사자들이 여가 시간에 유지보수합니다.</value>
-  </data>
-  <data name="6. Responsibility Clarification" xml:space="preserve">
-    <value>6. 책임 사항 명확화</value>
-  </data>
-  <data name="AnduinOS is a community-driven, non-profit project" xml:space="preserve">
-    <value>AnduinOS는 커뮤니티 주도적이며 비영리적인 프로젝트입니다.</value>
-  </data>
-  <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
-    <value>AnduinOS는 기본적으로 사용자의 설치 환경을 깨끗하게 유지하고 원격 측정 기능이 없도록 최선을 다하고 있습니다.</value>
-  </data>
-  <data name="AnduinOS does not have a data collection infrastructure" xml:space="preserve">
-    <value>AnduinOS는 데이터 수집 인프라를 갖추고 있지 않습니다.</value>
-  </data>
-  <data name="If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required." xml:space="preserve">
-    <value>해당 패키지가 설치되어 있지 않은 경우(깨끗한 AnduinOS 설치 시 기본 상태와 같이), 별도의 조치가 필요하지 않습니다.</value>
-  </data>
-  <data name="and does not share any information with governments, corporations, or any third parties." xml:space="preserve">
-    <value>그리고 정부, 기업 또는 제3자와 어떠한 정보도 공유하지 않습니다.</value>
-  </data>
-  <data name="such as:" xml:space="preserve">
-    <value>예를 들어:</value>
-  </data>
-  <data name="For privacy concerns related to third-party applications," xml:space="preserve">
-    <value>타사 애플리케이션과 관련된 개인정보 보호 문제의 경우,</value>
-  </data>
-  <data name="Community:" xml:space="preserve">
-    <value>커뮤니티:</value>
-  </data>
-  <data name="7. Contact Information" xml:space="preserve">
-    <value>7. 연락처 정보</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>이메일:</value>
-  </data>
-  <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
-    <value>각각의 상위 스트림(upstream) 개인정보 처리방침을 참조해 주시기 바랍니다.</value>
-  </data>
-  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
-    <value>AnduinOS GitHub 토론</value>
-  </data>
-  <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
-    <value>이 개인정보 보호정책 또는 AnduinOS의 개인정보 처리 방침에 대해 궁금한 점이 있으면 다음 연락처로 문의해 주세요:</value>
-  </data>
-  <data name="5. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
-    <value>5. 잠재적인 Ubuntu 원격 측정 처리 방법</value>
-  </data>
-  <data name="It merely redistributes them in their original, unmodified state." xml:space="preserve">
-    <value>단순히 원본 그대로의 상태로 재배포할 뿐입니다.</value>
-  </data>
-  <data name="All system operations, configurations, and user activities take place locally on your own device (\&quot;local execution\&quot;)." xml:space="preserve">
-    <value>모든 시스템 작업, 구성 및 사용자 활동은 사용자 자신의 기기에서 로컬로 실행됩니다(&quot;로컬 실행&quot;).</value>
-  </data>
-  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
-    <value>모든 시스템 작업, 구성 및 사용자 활동은 사용자 자신의 기기에서 로컬로 이루어집니다(&quot;로컬 실행&quot;).</value>
+  <data name=": Periodically submits anonymous package usage statistics." xml:space="preserve">
+    <value>주기적으로 익명의 패키지 사용 통계를 제출합니다.</value>
   </data>
   <data name="." xml:space="preserve">
     <value>.</value>
   </data>
-  <data name="AnduinOS Update Service" xml:space="preserve">
-    <value>안두인OS 업데이트 서비스</value>
+  <data name="(Some examples and references can be found" xml:space="preserve">
+    <value>(일부 예시 및 참고 자료는 다음에서 확인할 수 있습니다</value>
+  </data>
+  <data name="(Ubuntu&apos;s developer) may collect certain system information for statistics and diagnostics purposes via tools like:" xml:space="preserve">
+    <value>(우분투 개발사인) Canonical Ltd.는 통계 및 진단 목적으로 일부 시스템 정보를 수집할 수 있습니다. 예를 들어 다음과 같은 도구를 통해:</value>
+  </data>
+  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
+    <value>), 이 외부 서버에 연결됩니다. 이 과정은 시스템 보안에 필수적이지만, 귀하의 IP 주소가 연결된 저장소 미러 운영자에게 노출될 수 있습니다.</value>
+  </data>
+  <data name="1. Data Collection by AnduinOS" xml:space="preserve">
+    <value>1. AnduinOS의 데이터 수집</value>
+  </data>
+  <data name="2. Why Local Execution Matters" xml:space="preserve">
+    <value>2. 로컬 실행이 중요한 이유</value>
   </data>
   <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
     <value>3. 필수 네트워크 연결 및 타사 서비스</value>
   </data>
-  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
-    <value>로컬 실행은 AnduinOS의 대부분의 기능과 서비스가 수행됨을 의미합니다</value>
-  </data>
-  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
-    <value>, 아래에 상세히 설명된 특정 사용자 개시 기능 또는 필수 서비스를 제외하고.</value>
-  </data>
-  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
-    <value>시스템 업데이트를 확인하고 다운로드하기 위해, AnduinOS는 당사의 업데이트 엔드포인트에 연결됩니다.</value>
-  </data>
-  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
-    <value>사용자의 명시적인 조치 없이 또는 필수 기능을 위해 사용자의 데이터가 기기를 벗어나지 않습니다.</value>
-  </data>
-  <data name="SimpleWeather Extension" xml:space="preserve">
-    <value>SimpleWeather 확장 프로그램</value>
-  </data>
-  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
-    <value>이 연결은 시스템을 안전하게 유지하고 최신 상태로 업데이트하는 데 필수적입니다. 모든 표준 HTTPS 연결과 마찬가지로, 이 과정에서 귀하의 IP 주소가 당사 서버에 노출됩니다.</value>
-  </data>
-  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
-    <value>AnduinOS는 현재 날씨 정보를 제공하기 위해 &apos;SimpleWeather&apos; GNOME 확장 기능을 포함합니다.</value>
-  </data>
-  <data name="source" xml:space="preserve">
-    <value>개인정보 처리방침</value>
-  </data>
-  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
-    <value>저희 팀은 이 확장 기능의 소스 코드를 검토했습니다</value>
-  </data>
-  <data name="and confirmed it contains no telemetry." xml:space="preserve">
-    <value>텔레메트리가 포함되어 있지 않음을 확인했습니다.</value>
-  </data>
-  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
-    <value>AnduinOS는 로컬 퍼스트(local-first) 운영을 위해 설계되었지만, 특정 기능들은 정상적으로 작동하기 위해 네트워크 접속이 필요합니다. 이러한 연결은 원격 측정(telemetry)에 사용되지 않지만, 외부 서버와의 통신을 수반하며, 이는 해당 서비스들이 운영되기 위해 피할 수 없는 요구사항이고 귀하의 IP 주소를 노출시킬 것입니다.</value>
-  </data>
-  <data name="to determine your location based on your IP address." xml:space="preserve">
-    <value>귀하의 IP 주소를 기반으로 위치를 확인하기 위해</value>
-  </data>
-  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
-    <value>그러나 해당 확장 기능이 작동하려면 제3자 서비스에서 위치 및 날씨 데이터를 검색해야 합니다. 여기에는 다음에 연결하는 것이 포함됩니다.</value>
-  </data>
-  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
-    <value>5. 업스트림 소프트웨어 및 개인정보 보호 고려사항</value>
+  <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>3. 오픈 소스가 보장하는 자유</value>
   </data>
   <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
     <value>4. 오픈 소스가 보장하는 자유</value>
   </data>
-  <data name="We cannot control the privacy practices of" xml:space="preserve">
-    <value>해당 서비스들의 개인정보 처리 방침은 저희가 통제할 수 없습니다.</value>
+  <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>4. 업스트림 소프트웨어 및 개인정보 보호 고려사항</value>
   </data>
-  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
-    <value>여기에는 Ubuntu의 공식 소프트웨어 저장소 및 미러 사용이 포함되며, 이들은 대학 및 기업과 같은 제3자 조직에서 운영합니다.</value>
+  <data name="5. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>5. 잠재적인 Ubuntu 원격 측정 처리 방법</value>
   </data>
-  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
-    <value>시스템이 소프트웨어 업데이트를 확인할 때(예:</value>
-  </data>
-  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
-    <value>또는 이 서비스가 사용하는 기상 데이터 제공업체의 개인정보 보호 관행도 통제할 수 없습니다. 이러한 서비스에 연결하면 필연적으로 귀하의 IP 주소가 해당 업체에 노출됩니다.</value>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. 업스트림 소프트웨어 및 개인정보 보호 고려사항</value>
   </data>
   <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
     <value>6. 잠재적인 Ubuntu 원격 측정 처리 방법</value>
   </data>
+  <data name="6. Responsibility Clarification" xml:space="preserve">
+    <value>6. 책임 사항 명확화</value>
+  </data>
+  <data name="7. Contact Information" xml:space="preserve">
+    <value>7. 연락처 정보</value>
+  </data>
   <data name="7. Responsibility Clarification" xml:space="preserve">
     <value>7. 책임 소재 명확화</value>
-  </data>
-  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
-    <value>또한 일부 상류 구성 요소에는 독립적인 데이터 수집 메커니즘이 있을 수 있습니다.</value>
   </data>
   <data name="8. Contact Information" xml:space="preserve">
     <value>8. 연락처 정보</value>
   </data>
-  <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
-    <value>), 이 외부 서버에 연결됩니다. 이 과정은 시스템 보안에 필수적이지만, 귀하의 IP 주소가 연결된 저장소 미러 운영자에게 노출될 수 있습니다.</value>
+  <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>또한 일부 상류 구성 요소에는 독립적인 데이터 수집 메커니즘이 있을 수 있습니다.</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
+    <value>모든 시스템 작업, 구성 및 사용자 활동은 사용자 자신의 기기에서 로컬로 이루어집니다(&quot;로컬 실행&quot;).</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (\&quot;local execution\&quot;)." xml:space="preserve">
+    <value>모든 시스템 작업, 구성 및 사용자 활동은 사용자 자신의 기기에서 로컬로 실행됩니다(&quot;로컬 실행&quot;).</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>텔레메트리가 포함되어 있지 않음을 확인했습니다.</value>
+  </data>
+  <data name="and does not share any information with governments, corporations, or any third parties." xml:space="preserve">
+    <value>그리고 정부, 기업 또는 제3자와 어떠한 정보도 공유하지 않습니다.</value>
+  </data>
+  <data name="AnduinOS does" xml:space="preserve">
+    <value>AnduinOS는</value>
+  </data>
+  <data name="AnduinOS does not have a data collection infrastructure" xml:space="preserve">
+    <value>AnduinOS는 데이터 수집 인프라를 갖추고 있지 않습니다.</value>
+  </data>
+  <data name="AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms." xml:space="preserve">
+    <value>AnduinOS는 원격 측정, 분석, 광고, 추적 또는 행동 프로파일링 메커니즘을 포함하지 않습니다.</value>
+  </data>
+  <data name="AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting" xml:space="preserve">
+    <value>AnduinOS는 어떠한 시스템 보고, 사용 통계 제출 또는 자동화된 충돌 보고에도 참여하지 않습니다.</value>
+  </data>
+  <data name="AnduinOS does not preinstall any telemetry-related packages" xml:space="preserve">
+    <value>AnduinOS는 원격 측정과 관련된 패키지를 사전 설치하지 않습니다.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>AnduinOS GitHub 토론</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS는 현재 날씨 정보를 제공하기 위해 &apos;SimpleWeather&apos; GNOME 확장 기능을 포함합니다.</value>
+  </data>
+  <data name="AnduinOS is a community-driven, non-profit project" xml:space="preserve">
+    <value>AnduinOS는 커뮤니티 주도적이며 비영리적인 프로젝트입니다.</value>
+  </data>
+  <data name="AnduinOS is a free and open-source Linux distribution based on Ubuntu." xml:space="preserve">
+    <value>AnduinOS는 Ubuntu 기반의 무료 오픈 소스 Linux 배포판입니다.</value>
+  </data>
+  <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
+    <value>AnduinOS는 기본적으로 사용자의 설치 환경을 깨끗하게 유지하고 원격 측정 기능이 없도록 최선을 다하고 있습니다.</value>
+  </data>
+  <data name="AnduinOS is distributed under the" xml:space="preserve">
+    <value>AnduinOS는 다음 라이선스 하에 배포됩니다.</value>
+  </data>
+  <data name="AnduinOS itself does not collect, transmit, or store any user data." xml:space="preserve">
+    <value>AnduinOS 자체는 어떠한 사용자 데이터도 수집, 전송 또는 저장하지 않습니다.</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>안두인OS 업데이트 서비스</value>
+  </data>
+  <data name="Canonical Livepatch service" xml:space="preserve">
+    <value>Canonical Livepatch 서비스</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>커뮤니티:</value>
+  </data>
+  <data name="Control:" xml:space="preserve">
+    <value>제어:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>이메일:</value>
+  </data>
+  <data name="entirely on your computer" xml:space="preserve">
+    <value>완전히 사용자의 컴퓨터에서</value>
+  </data>
+  <data name="Explanation:" xml:space="preserve">
+    <value>설명:</value>
+  </data>
+  <data name="for details." xml:space="preserve">
+    <value>자세한 내용은</value>
+  </data>
+  <data name="For privacy concerns related to third-party applications," xml:space="preserve">
+    <value>타사 애플리케이션과 관련된 개인정보 보호 문제의 경우,</value>
+  </data>
+  <data name="Freedom to inspect:" xml:space="preserve">
+    <value>검토할 자유:</value>
+  </data>
+  <data name="Freedom to modify:" xml:space="preserve">
+    <value>수정할 자유:</value>
+  </data>
+  <data name="Freedom to redistribute:" xml:space="preserve">
+    <value>재배포의 자유:</value>
+  </data>
+  <data name="GNU General Public License v3.0 (GPL-v3)" xml:space="preserve">
+    <value>GNU 일반 공중 라이선스 v3.0 (GPL-v3)</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>여기</value>
+  </data>
+  <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
+    <value>하지만, Ubuntu 저장소에서 패키지를 수동으로 설치하거나 Ubuntu 전용 기능을 활성화하는 경우 이러한 원격 측정 메커니즘 중 일부가 도입될 수 있습니다.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>그러나 해당 확장 기능이 작동하려면 제3자 서비스에서 위치 및 날씨 데이터를 검색해야 합니다. 여기에는 다음에 연결하는 것이 포함됩니다.</value>
+  </data>
+  <data name="If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required." xml:space="preserve">
+    <value>해당 패키지가 설치되어 있지 않은 경우(깨끗한 AnduinOS 설치 시 기본 상태와 같이), 별도의 조치가 필요하지 않습니다.</value>
+  </data>
+  <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
+    <value>이 개인정보 보호정책 또는 AnduinOS의 개인정보 처리 방침에 대해 궁금한 점이 있으면 다음 연락처로 문의해 주세요:</value>
+  </data>
+  <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
+    <value>원격 원격 측정이 보편화된 세상에서 AnduinOS는 사용자를 보호하기 위해 의도적으로 외부 의존성을 최소화합니다.</value>
+  </data>
+  <data name="Introduction" xml:space="preserve">
+    <value>소개</value>
+  </data>
+  <data name="it integrates a wide range of upstream open-source software" xml:space="preserve">
+    <value>이는 광범위한 업스트림 오픈 소스 소프트웨어를 통합합니다.</value>
+  </data>
+  <data name="It merely redistributes them in their original, unmodified state." xml:space="preserve">
+    <value>단순히 원본 그대로의 상태로 재배포할 뿐입니다.</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>마지막 업데이트: 2025년 5월 10일</value>
+  </data>
+  <data name="Local execution means that all features and services of AnduinOS are performed" xml:space="preserve">
+    <value>로컬 실행은 AnduinOS의 모든 기능과 서비스가 수행됨을 의미합니다</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>로컬 실행은 AnduinOS의 대부분의 기능과 서비스가 수행됨을 의미합니다</value>
+  </data>
+  <data name="maintained in spare time by volunteers." xml:space="preserve">
+    <value>자원봉사자들이 여가 시간에 유지보수합니다.</value>
+  </data>
+  <data name="modify, enhance, or introduce additional telemetry into these upstream components." xml:space="preserve">
+    <value>이러한 업스트림 구성 요소를 수정, 개선하거나 추가적인 원격 측정 기능을 도입하지 않습니다.</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>사용자의 명시적인 조치 없이 또는 필수 기능을 위해 사용자의 데이터가 기기를 벗어나지 않습니다.</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action." xml:space="preserve">
+    <value>사용자의 명시적인 동작 없이는 어떤 데이터도 기기에서 유출되지 않습니다.</value>
+  </data>
+  <data name="not" xml:space="preserve">
+    <value>아니요</value>
+  </data>
+  <data name="Notably:" xml:space="preserve">
+    <value>특히:</value>
+  </data>
+  <data name="Note:" xml:space="preserve">
+    <value>참고:</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>또는 이 서비스가 사용하는 기상 데이터 제공업체의 개인정보 보호 관행도 통제할 수 없습니다. 이러한 서비스에 연결하면 필연적으로 귀하의 IP 주소가 해당 업체에 노출됩니다.</value>
+  </data>
+  <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
+    <value>Ubuntu, Debian, GNOME, Flathub 및 기타 소스에서 유래한</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>저희 팀은 이 확장 기능의 소스 코드를 검토했습니다</value>
+  </data>
+  <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
+    <value>각각의 상위 스트림(upstream) 개인정보 처리방침을 참조해 주시기 바랍니다.</value>
+  </data>
+  <data name="popularity-contest" xml:space="preserve">
+    <value>인기 투표</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>개인정보 처리방침</value>
+  </data>
+  <data name="Privacy Statement" xml:space="preserve">
+    <value>개인정보 처리방침</value>
+  </data>
+  <data name="Reducing external communications limits exposure to interception or exploitation risks." xml:space="preserve">
+    <value>외부 통신을 줄이면 가로채기 또는 악용 위험에 노출될 가능성을 제한할 수 있습니다.</value>
+  </data>
+  <data name="Security:" xml:space="preserve">
+    <value>보안:</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>SimpleWeather 확장 프로그램</value>
+  </data>
+  <data name="Snap daemon" xml:space="preserve">
+    <value>Snap 데몬</value>
+  </data>
+  <data name="Snap store background services (if Snap is manually installed by users)" xml:space="preserve">
+    <value>Snap 스토어 백그라운드 서비스 (사용자가 Snap을 수동으로 설치한 경우)</value>
+  </data>
+  <data name="Some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>일부 상위 구성 요소는 독립적인 데이터 수집 메커니즘을 가질 수 있습니다.</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>개인정보 처리방침</value>
+  </data>
+  <data name="such as:" xml:space="preserve">
+    <value>예를 들어:</value>
+  </data>
+  <data name="The open nature of AnduinOS empowers users to independently verify that the system respects their privacy." xml:space="preserve">
+    <value>AnduinOS의 개방적인 특성으로 인해 사용자는 시스템이 자신의 프라이버시를 존중한다는 사실을 독립적으로 확인할 수 있습니다.</value>
+  </data>
+  <data name="There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information." xml:space="preserve">
+    <value>사용자 정보 수집을 목적으로 시스템에서 시작되는 숨겨진 백그라운드 프로세스나 네트워크 통신이 없습니다.</value>
+  </data>
+  <data name="There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu." xml:space="preserve">
+    <value>Ubuntu에서 명시적으로 상속된 업스트림 종속성 외에는 독점 블롭이나 비공개 모듈이 없습니다.</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>이 연결은 시스템을 안전하게 유지하고 최신 상태로 업데이트하는 데 필수적입니다. 모든 표준 HTTPS 연결과 마찬가지로, 이 과정에서 귀하의 IP 주소가 당사 서버에 노출됩니다.</value>
+  </data>
+  <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
+    <value>이 문서는 AnduinOS가 사용자 데이터를 어떻게 처리하는지 설명하고, 개인정보 보호와 관련된 기술적 설계를 명확히 하며, 상위 구성 요소와 관련된 고려 사항을 개요합니다.</value>
+  </data>
+  <data name="This ensures:" xml:space="preserve">
+    <value>이를 통해 다음과 같은 점이 보장됩니다:</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>여기에는 Ubuntu의 공식 소프트웨어 저장소 및 미러 사용이 포함되며, 이들은 대학 및 기업과 같은 제3자 조직에서 운영합니다.</value>
+  </data>
+  <data name="This license guarantees:" xml:space="preserve">
+    <value>이 라이선스는 다음과 같은 것을 보장합니다:</value>
+  </data>
+  <data name="Thus, AnduinOS is fundamentally privacy-preserving by design." xml:space="preserve">
+    <value>따라서, AnduinOS는 기본적으로 설계 상 개인정보 보호를 최우선으로 합니다.</value>
+  </data>
+  <data name="Thus, by default," xml:space="preserve">
+    <value>따라서, 기본적으로</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>시스템 업데이트를 확인하고 다운로드하기 위해, AnduinOS는 당사의 업데이트 엔드포인트에 연결됩니다.</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>귀하의 IP 주소를 기반으로 위치를 확인하기 위해</value>
+  </data>
+  <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
+    <value>완전한 옵트아웃을 보장하기 위해, 필요한 경우 다음 명령을 사용하여 해당 패키지를 검토하고 제거할 수 있습니다:</value>
+  </data>
+  <data name="Transparency:" xml:space="preserve">
+    <value>투명성:</value>
+  </data>
+  <data name="We are committed to protecting your privacy." xml:space="preserve">
+    <value>당신의 개인정보 보호를 위해 최선을 다하겠습니다.</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>해당 서비스들의 개인정보 처리 방침은 저희가 통제할 수 없습니다.</value>
+  </data>
+  <data name="We strongly recommend users review Canonical&apos;s" xml:space="preserve">
+    <value>사용자들은 Canonical의</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>시스템이 소프트웨어 업데이트를 확인할 때(예:</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>AnduinOS는 로컬 퍼스트(local-first) 운영을 위해 설계되었지만, 특정 기능들은 정상적으로 작동하기 위해 네트워크 접속이 필요합니다. 이러한 연결은 원격 측정(telemetry)에 사용되지 않지만, 외부 서버와의 통신을 수반하며, 이는 해당 서비스들이 운영되기 위해 피할 수 없는 요구사항이고 귀하의 IP 주소를 노출시킬 것입니다.</value>
+  </data>
+  <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
+    <value>AnduinOS 자체는 어떠한 데이터도 수집하지 않지만,</value>
+  </data>
+  <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
+    <value>필요에 따라 코드를 수정할 수 있으며, 신뢰하지 않는 구성 요소를 제거하는 것도 포함됩니다.</value>
+  </data>
+  <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
+    <value>소스 코드를 검토하여 숨겨진 추적 메커니즘이 없음을 확인할 수 있습니다.</value>
+  </data>
+  <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
+    <value>동일한 라이선스 조건 하에 수정 여부와 관계없이 AnduinOS를 공유할 수 있습니다.</value>
+  </data>
+  <data name="You retain complete control over your personal data." xml:space="preserve">
+    <value>귀하는 개인 데이터에 대한 완전한 통제권을 유지합니다.</value>
   </data>
 
 </root>

@@ -18,32 +18,26 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Source Code" xml:space="preserve">
-    <value>源代码</value>
-  </data>
-  <data name="Service Status" xml:space="preserve">
-    <value>服务状态</value>
-  </data>
-  <data name="Document" xml:space="preserve">
-    <value>文档</value>
-  </data>
-  <data name="Reference" xml:space="preserve">
-    <value>参考</value>
-  </data>
-  <data name="Community" xml:space="preserve">
-    <value>社区</value>
-  </data>
-  <data name="News" xml:space="preserve">
-    <value>新闻</value>
-  </data>
-  <data name="Resources" xml:space="preserve">
-    <value>资源</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>（由社区运营）</value>
   </data>
   <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
     <value>AnduinOS - 一款基于 Ubuntu 的定制 Linux 发行版，为转向 Linux 的用户提供熟悉且易于使用的体验。</value>
   </data>
+  <data name="Community" xml:space="preserve">
+    <value>社区</value>
+  </data>
+  <data name="Document" xml:space="preserve">
+    <value>文档</value>
+  </data>
+  <data name="Legals" xml:space="preserve">
+    <value>法律信息</value>
+  </data>
   <data name="License" xml:space="preserve">
     <value>许可证</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>新闻</value>
   </data>
   <data name="Open Source" xml:space="preserve">
     <value>开源</value>
@@ -51,17 +45,23 @@
   <data name="Privacy Policy" xml:space="preserve">
     <value>隐私政策</value>
   </data>
-  <data name="Legals" xml:space="preserve">
-    <value>法律信息</value>
+  <data name="Reference" xml:space="preserve">
+    <value>参考</value>
   </data>
-  <data name="Terms of Service" xml:space="preserve">
-    <value>服务条款</value>
+  <data name="Resources" xml:space="preserve">
+    <value>资源</value>
+  </data>
+  <data name="Service Status" xml:space="preserve">
+    <value>服务状态</value>
   </data>
   <data name="Social" xml:space="preserve">
     <value>社交</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>（由社区运营）</value>
+  <data name="Source Code" xml:space="preserve">
+    <value>源代码</value>
+  </data>
+  <data name="Terms of Service" xml:space="preserve">
+    <value>服务条款</value>
   </data>
 
 </root>

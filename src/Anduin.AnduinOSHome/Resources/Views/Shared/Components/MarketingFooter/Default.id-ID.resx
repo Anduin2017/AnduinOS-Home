@@ -18,20 +18,35 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="News" xml:space="preserve">
-    <value>Berita</value>
+      <data name="(Running by community)" xml:space="preserve">
+    <value>(Dikelola oleh komunitas)</value>
   </data>
-  <data name="Reference" xml:space="preserve">
-    <value>Referensi</value>
+  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
+    <value>AnduinOS - distribusi Linux kustom berbasis Ubuntu yang menawarkan pengalaman yang familiar dan mudah digunakan bagi siapa pun yang beralih ke Linux.</value>
+  </data>
+  <data name="Community" xml:space="preserve">
+    <value>Komunitas</value>
   </data>
   <data name="Document" xml:space="preserve">
     <value>Dokumen</value>
   </data>
-  <data name="Source Code" xml:space="preserve">
-    <value>Kode Sumber</value>
+  <data name="Legals" xml:space="preserve">
+    <value>Informasi Hukum</value>
   </data>
-  <data name="Community" xml:space="preserve">
-    <value>Komunitas</value>
+  <data name="License" xml:space="preserve">
+    <value>Lisensi</value>
+  </data>
+  <data name="News" xml:space="preserve">
+    <value>Berita</value>
+  </data>
+  <data name="Open Source" xml:space="preserve">
+    <value>Sumber Terbuka</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Kebijakan Privasi</value>
+  </data>
+  <data name="Reference" xml:space="preserve">
+    <value>Referensi</value>
   </data>
   <data name="Resources" xml:space="preserve">
     <value>Sumber Daya</value>
@@ -39,29 +54,14 @@
   <data name="Service Status" xml:space="preserve">
     <value>Status Layanan</value>
   </data>
-  <data name="Legals" xml:space="preserve">
-    <value>Informasi Hukum</value>
+  <data name="Social" xml:space="preserve">
+    <value>Sosial</value>
   </data>
-  <data name="(Running by community)" xml:space="preserve">
-    <value>(Dikelola oleh komunitas)</value>
-  </data>
-  <data name="Open Source" xml:space="preserve">
-    <value>Sumber Terbuka</value>
-  </data>
-  <data name="AnduinOS - a custom Ubuntu-based Linux distribution that offers a familiar and easy-to-use experience for anyone moving to Linux." xml:space="preserve">
-    <value>AnduinOS - distribusi Linux kustom berbasis Ubuntu yang menawarkan pengalaman yang familiar dan mudah digunakan bagi siapa pun yang beralih ke Linux.</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Kebijakan Privasi</value>
+  <data name="Source Code" xml:space="preserve">
+    <value>Kode Sumber</value>
   </data>
   <data name="Terms of Service" xml:space="preserve">
     <value>Ketentuan Layanan</value>
-  </data>
-  <data name="License" xml:space="preserve">
-    <value>Lisensi</value>
-  </data>
-  <data name="Social" xml:space="preserve">
-    <value>Sosial</value>
   </data>
 
 </root>

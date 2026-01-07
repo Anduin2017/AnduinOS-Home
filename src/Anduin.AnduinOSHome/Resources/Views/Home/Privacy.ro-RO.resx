@@ -18,194 +18,11 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Introduction" xml:space="preserve">
-    <value>Introducere</value>
-  </data>
-  <data name="AnduinOS is a free and open-source Linux distribution based on Ubuntu." xml:space="preserve">
-    <value>AnduinOS este o distribuție Linux gratuită și open-source bazată pe Ubuntu.</value>
-  </data>
-  <data name="Last updated: May 10, 2025" xml:space="preserve">
-    <value>Ultima actualizare: 10 mai 2025</value>
-  </data>
-  <data name="1. Data Collection by AnduinOS" xml:space="preserve">
-    <value>1. Colectarea de date de către AnduinOS</value>
-  </data>
-  <data name="Privacy Statement" xml:space="preserve">
-    <value>Politica de Confidențialitate</value>
-  </data>
-  <data name="AnduinOS itself does not collect, transmit, or store any user data." xml:space="preserve">
-    <value>AnduinOS în sine nu colectează, nu transmite și nu stochează nicio dată a utilizatorilor.</value>
-  </data>
-  <data name="We are committed to protecting your privacy." xml:space="preserve">
-    <value>Suntem dedicați protejării confidențialității dumneavoastră.</value>
-  </data>
-  <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
-    <value>Acest document explică modul în care AnduinOS gestionează datele utilizatorilor, clarifică designul său tehnic privind confidențialitatea și prezintă considerațiile legate de componentele upstream.</value>
-  </data>
-  <data name="Thus, AnduinOS is fundamentally privacy-preserving by design." xml:space="preserve">
-    <value>Astfel, AnduinOS este în mod fundamental conceput pentru a proteja confidențialitatea.</value>
-  </data>
-  <data name="2. Why Local Execution Matters" xml:space="preserve">
-    <value>2. De ce contează execuția locală</value>
-  </data>
-  <data name="AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms." xml:space="preserve">
-    <value>AnduinOS nu include niciun mecanism de telemetrie, analiză, publicitate, urmărire sau profilare a comportamentului.</value>
-  </data>
-  <data name="entirely on your computer" xml:space="preserve">
-    <value>în întregime pe computerul dumneavoastră</value>
-  </data>
-  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
-    <value>Toate operațiunile sistemului, configurațiile și activitățile utilizatorului au loc local pe propriul dispozitiv (&quot;execuție locală&quot;).</value>
-  </data>
-  <data name="Local execution means that all features and services of AnduinOS are performed" xml:space="preserve">
-    <value>Execuția locală înseamnă că toate funcțiile și serviciile AnduinOS sunt efectuate</value>
+      <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
+    <value>, cu excepția unor funcționalități specifice, inițiate de utilizator sau a unor servicii esențiale detaliate mai jos.</value>
   </data>
   <data name=", without requiring communication with any external servers owned by us or third parties." xml:space="preserve">
     <value>, fără a fi necesară comunicarea cu vreun server extern deținut de noi sau de terți.</value>
-  </data>
-  <data name="There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information." xml:space="preserve">
-    <value>Nu există procese ascunse în fundal sau comunicări de rețea inițiate de sistem în scopul colectării de informații despre utilizatori.</value>
-  </data>
-  <data name="This ensures:" xml:space="preserve">
-    <value>Acest lucru asigură:</value>
-  </data>
-  <data name="Transparency:" xml:space="preserve">
-    <value>Transparență:</value>
-  </data>
-  <data name="Control:" xml:space="preserve">
-    <value>Control:</value>
-  </data>
-  <data name="You retain complete control over your personal data." xml:space="preserve">
-    <value>Păstrați controlul total asupra datelor dvs. personale.</value>
-  </data>
-  <data name="Security:" xml:space="preserve">
-    <value>Securitate:</value>
-  </data>
-  <data name="No data leaves your machine without your explicit action." xml:space="preserve">
-    <value>Niciun date nu părăsește dispozitivul tău fără acțiunea ta explicită.</value>
-  </data>
-  <data name="Reducing external communications limits exposure to interception or exploitation risks." xml:space="preserve">
-    <value>Reducerea comunicărilor externe limitează expunerea la riscuri de interceptare sau exploatare.</value>
-  </data>
-  <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
-    <value>3. Open Source vă garantează libertatea</value>
-  </data>
-  <data name="AnduinOS is distributed under the" xml:space="preserve">
-    <value>AnduinOS este distribuit sub licența</value>
-  </data>
-  <data name="." xml:space="preserve">
-    <value>.</value>
-  </data>
-  <data name="This license guarantees:" xml:space="preserve">
-    <value>Această licență garantează:</value>
-  </data>
-  <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
-    <value>Într-o lume în care telemetria la distanță a devenit omniprezentă, AnduinOS minimizează în mod deliberat dependențele externe pentru a proteja utilizatorii.</value>
-  </data>
-  <data name="Freedom to inspect:" xml:space="preserve">
-    <value>Libertatea de a inspecta:</value>
-  </data>
-  <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
-    <value>Puteți examina codul sursă pentru a verifica că nu există mecanisme ascunse de urmărire.</value>
-  </data>
-  <data name="Freedom to modify:" xml:space="preserve">
-    <value>Libertatea de a modifica:</value>
-  </data>
-  <data name="Freedom to redistribute:" xml:space="preserve">
-    <value>Libertatea de a redistribui:</value>
-  </data>
-  <data name="There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu." xml:space="preserve">
-    <value>Nu există blob-uri proprietare sau module închise în afara dependențelor upstream moștenite explicit de la Ubuntu.</value>
-  </data>
-  <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
-    <value>Puteți ajusta codul pentru a se potrivi nevoilor dumneavoastră, inclusiv eliminarea componentelor în care nu aveți încredere.</value>
-  </data>
-  <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
-    <value>Puteți distribui AnduinOS, modificat sau nemodificat, în conformitate cu aceleași termeni de licență.</value>
-  </data>
-  <data name="The open nature of AnduinOS empowers users to independently verify that the system respects their privacy." xml:space="preserve">
-    <value>Natura deschisă a AnduinOS le oferă utilizatorilor puterea de a verifica în mod independent că sistemul respectă confidențialitatea lor.</value>
-  </data>
-  <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
-    <value>4. Software de la sursă și considerații privind confidențialitatea</value>
-  </data>
-  <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
-    <value>Deși AnduinOS în sine nu colectează nicio dată,</value>
-  </data>
-  <data name="(Some examples and references can be found" xml:space="preserve">
-    <value>(Câteva exemple și referințe pot fi găsite</value>
-  </data>
-  <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
-    <value>originare din Ubuntu, Debian, GNOME, Flathub și alte surse.</value>
-  </data>
-  <data name="here" xml:space="preserve">
-    <value>aici</value>
-  </data>
-  <data name="Notably:" xml:space="preserve">
-    <value>În special:</value>
-  </data>
-  <data name="it integrates a wide range of upstream open-source software" xml:space="preserve">
-    <value>integrează o gamă largă de software open-source upstream</value>
-  </data>
-  <data name="Some upstream components may have independent data collection mechanisms." xml:space="preserve">
-    <value>Unele componente sursă pot avea mecanisme independente de colectare a datelor.</value>
-  </data>
-  <data name="(Ubuntu&apos;s developer) may collect certain system information for statistics and diagnostics purposes via tools like:" xml:space="preserve">
-    <value>(Dezvoltatorul Ubuntu) poate colecta anumite informații de sistem în scopuri statistice și de diagnosticare prin instrumente precum:</value>
-  </data>
-  <data name="Snap store background services (if Snap is manually installed by users)" xml:space="preserve">
-    <value>Servicii de fundal Snap store (dacă Snap este instalat manual de utilizatori)</value>
-  </data>
-  <data name="AnduinOS does" xml:space="preserve">
-    <value>AnduinOS face</value>
-  </data>
-  <data name="for details." xml:space="preserve">
-    <value>pentru detalii.</value>
-  </data>
-  <data name="not" xml:space="preserve">
-    <value>nu</value>
-  </data>
-  <data name="Privacy Policy" xml:space="preserve">
-    <value>Politica de Confidențialitate</value>
-  </data>
-  <data name="We strongly recommend users review Canonical&apos;s" xml:space="preserve">
-    <value>Recomandăm cu tărie utilizatorilor să consulte Politica de Confidențialitate a Canonical</value>
-  </data>
-  <data name="modify, enhance, or introduce additional telemetry into these upstream components." xml:space="preserve">
-    <value>modifică, îmbunătățește sau introduce telemetrie suplimentară în aceste componente sursă.</value>
-  </data>
-  <data name="It merely redistributes them in their original, unmodified state." xml:space="preserve">
-    <value>Pur și simplu le redistribuie în starea lor originală, nemodificată.</value>
-  </data>
-  <data name="5. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
-    <value>5. Cum să gestionați potențiala telemetrie Ubuntu</value>
-  </data>
-  <data name="such as:" xml:space="preserve">
-    <value>cum ar fi:</value>
-  </data>
-  <data name="Snap daemon" xml:space="preserve">
-    <value>Daemonul Snap</value>
-  </data>
-  <data name="Thus, by default," xml:space="preserve">
-    <value>Astfel, în mod implicit,</value>
-  </data>
-  <data name="AnduinOS does not preinstall any telemetry-related packages" xml:space="preserve">
-    <value>AnduinOS nu preinstalează pachete legate de telemetrie.</value>
-  </data>
-  <data name="Canonical Livepatch service" xml:space="preserve">
-    <value>Serviciul Canonical Livepatch</value>
-  </data>
-  <data name="AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting" xml:space="preserve">
-    <value>AnduinOS nu participă la nicio raportare de sistem, trimitere de statistici de utilizare sau raportare automată de erori.</value>
-  </data>
-  <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
-    <value>Cu toate acestea, dacă instalați manual pachete din depozitele Ubuntu sau activați anumite funcții specifice Ubuntu, unele dintre aceste mecanisme de telemetrie pot fi introduse.</value>
-  </data>
-  <data name="Explanation:" xml:space="preserve">
-    <value>Explicație:</value>
-  </data>
-  <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
-    <value>Pentru a vă asigura că renunțați complet, puteți examina și, dacă este necesar, elimina aceste pachete folosind:</value>
   </data>
   <data name=": Automated error reporting services." xml:space="preserve">
     <value>Servicii automate de raportare a erorilor.</value>
@@ -216,128 +33,311 @@
   <data name=": Periodically submits anonymous package usage statistics." xml:space="preserve">
     <value>Trimite periodic statistici anonime de utilizare a pachetelor.</value>
   </data>
-  <data name="Note:" xml:space="preserve">
-    <value>Notă:</value>
+  <data name="." xml:space="preserve">
+    <value>.</value>
   </data>
-  <data name="6. Responsibility Clarification" xml:space="preserve">
-    <value>6. Clarificarea responsabilităților</value>
+  <data name="(Some examples and references can be found" xml:space="preserve">
+    <value>(Câteva exemple și referințe pot fi găsite</value>
   </data>
-  <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
-    <value>AnduinOS se angajează să mențină instalarea dumneavoastră curată și fără telemetrie în mod implicit.</value>
-  </data>
-  <data name="AnduinOS is a community-driven, non-profit project" xml:space="preserve">
-    <value>AnduinOS este un proiect condus de comunitate, fără scop lucrativ.</value>
-  </data>
-  <data name="AnduinOS does not have a data collection infrastructure" xml:space="preserve">
-    <value>AnduinOS nu dispune de o infrastructură de colectare a datelor</value>
-  </data>
-  <data name="If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required." xml:space="preserve">
-    <value>Dacă aceste pachete nu sunt instalate (așa cum este cazul unei instalări curate de AnduinOS), nu este necesară nicio acțiune.</value>
-  </data>
-  <data name="maintained in spare time by volunteers." xml:space="preserve">
-    <value>întreținut în timpul liber de voluntari.</value>
-  </data>
-  <data name="and does not share any information with governments, corporations, or any third parties." xml:space="preserve">
-    <value>și nu partajează nicio informație cu guverne, corporații sau alte terțe părți.</value>
-  </data>
-  <data name="For privacy concerns related to third-party applications," xml:space="preserve">
-    <value>Pentru problemele de confidențialitate legate de aplicațiile terțe,</value>
-  </data>
-  <data name="Email:" xml:space="preserve">
-    <value>E-mail:</value>
-  </data>
-  <data name="Community:" xml:space="preserve">
-    <value>Comunitate:</value>
-  </data>
-  <data name="7. Contact Information" xml:space="preserve">
-    <value>7. Informații de contact</value>
-  </data>
-  <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
-    <value>vă rugăm să consultați politicile de confidențialitate respective ale surselor upstream.</value>
-  </data>
-  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
-    <value>Discuții GitHub AnduinOS</value>
-  </data>
-  <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
-    <value>Dacă aveți întrebări legate de această Politică de Confidențialitate sau practicile de confidențialitate ale AnduinOS, vă rugăm să contactați:</value>
-  </data>
-  <data name="AnduinOS Update Service" xml:space="preserve">
-    <value>Serviciul de Actualizare AnduinOS</value>
-  </data>
-  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
-    <value>3. Conexiuni de Rețea Esențiale și Servicii Terțe</value>
-  </data>
-  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
-    <value>Execuția locală înseamnă că majoritatea funcțiilor și serviciilor AnduinOS sunt efectuate</value>
-  </data>
-  <data name="SimpleWeather Extension" xml:space="preserve">
-    <value>Extensia SimpleWeather</value>
-  </data>
-  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
-    <value>Pentru a verifica și descărca actualizări de sistem, AnduinOS se conectează la punctul nostru de actualizare de la</value>
-  </data>
-  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
-    <value>Niciun date nu părăsește dispozitivul fără acțiunea dumneavoastră explicită sau pentru funcționalități esențiale.</value>
-  </data>
-  <data name=", with the exception of specific, user-initiated features or essential services detailed below." xml:space="preserve">
-    <value>, cu excepția unor funcționalități specifice, inițiate de utilizator sau a unor servicii esențiale detaliate mai jos.</value>
-  </data>
-  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
-    <value>Această conexiune este esențială pentru a vă menține sistemul securizat și actualizat. La fel ca orice conexiune HTTPS standard, acest proces va expune adresa dvs. IP către serverul nostru.</value>
-  </data>
-  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
-    <value>Echipa noastră a analizat codul sursă al acestei extensii</value>
-  </data>
-  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
-    <value>AnduinOS include extensia GNOME &apos;SimpleWeather&apos; pentru a oferi condiții meteorologice curente.</value>
-  </data>
-  <data name="source" xml:space="preserve">
-    <value>Declarația de Confidențialitate</value>
-  </data>
-  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
-    <value>Deși AnduinOS este conceput pentru o funcționare local-first, anumite funcționalități necesită acces la rețea pentru a funcționa. Aceste conexiuni nu sunt utilizate pentru telemetrie, dar implică comunicarea cu servere externe, ceea ce este o cerință inevitabilă pentru ca aceste servicii să funcționeze și vă va expune adresa IP.</value>
-  </data>
-  <data name="and confirmed it contains no telemetry." xml:space="preserve">
-    <value>și am confirmat că nu conține telemetrie.</value>
-  </data>
-  <data name="to determine your location based on your IP address." xml:space="preserve">
-    <value>pentru a determina locația dumneavoastră pe baza adresei dvs. IP.</value>
-  </data>
-  <data name="We cannot control the privacy practices of" xml:space="preserve">
-    <value>Nu putem controla practicile de confidențialitate ale</value>
-  </data>
-  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
-    <value>4. Sursa Deschisă Îți Garantează Libertatea</value>
-  </data>
-  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
-    <value>5. Software-ul Upstream și Considerațiile de Confidențialitate</value>
-  </data>
-  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
-    <value>Cu toate acestea, pentru a funcționa, extensia trebuie să preia datele de localizare și vreme de la servicii terțe. Aceasta include conectarea la</value>
-  </data>
-  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
-    <value>sau orice furnizori de date meteorologice pe care îi utilizează. Conectarea la aceste servicii va expune în mod necesar adresa dvs. IP către aceștia.</value>
-  </data>
-  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
-    <value>Când sistemul dumneavoastră verifică disponibilitatea actualizărilor de software (de exemplu, utilizând</value>
-  </data>
-  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
-    <value>Aceasta include utilizarea depozitelor și a oglindelor oficiale de software ale Ubuntu, care sunt operate de organizații terțe (cum ar fi universități și corporații).</value>
-  </data>
-  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
-    <value>6. Cum să Gestionați Potențiala Telemetrie Ubuntu</value>
-  </data>
-  <data name="8. Contact Information" xml:space="preserve">
-    <value>8. Informații de contact</value>
-  </data>
-  <data name="7. Responsibility Clarification" xml:space="preserve">
-    <value>7. Clarificarea responsabilităților</value>
+  <data name="(Ubuntu&apos;s developer) may collect certain system information for statistics and diagnostics purposes via tools like:" xml:space="preserve">
+    <value>(Dezvoltatorul Ubuntu) poate colecta anumite informații de sistem în scopuri statistice și de diagnosticare prin instrumente precum:</value>
   </data>
   <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
     <value>), se conectează la aceste servere externe. Acest proces este esențial pentru securitatea sistemului, dar va expune adresa dvs. IP operatorilor mirror-ului de repository la care v-ați conectat.</value>
   </data>
+  <data name="1. Data Collection by AnduinOS" xml:space="preserve">
+    <value>1. Colectarea de date de către AnduinOS</value>
+  </data>
+  <data name="2. Why Local Execution Matters" xml:space="preserve">
+    <value>2. De ce contează execuția locală</value>
+  </data>
+  <data name="3. Essential Network Connections &amp; Third-Party Services" xml:space="preserve">
+    <value>3. Conexiuni de Rețea Esențiale și Servicii Terțe</value>
+  </data>
+  <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>3. Open Source vă garantează libertatea</value>
+  </data>
+  <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
+    <value>4. Sursa Deschisă Îți Garantează Libertatea</value>
+  </data>
+  <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>4. Software de la sursă și considerații privind confidențialitatea</value>
+  </data>
+  <data name="5. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>5. Cum să gestionați potențiala telemetrie Ubuntu</value>
+  </data>
+  <data name="5. Upstream Software and Privacy Considerations" xml:space="preserve">
+    <value>5. Software-ul Upstream și Considerațiile de Confidențialitate</value>
+  </data>
+  <data name="6. How to Handle Potential Ubuntu Telemetry" xml:space="preserve">
+    <value>6. Cum să Gestionați Potențiala Telemetrie Ubuntu</value>
+  </data>
+  <data name="6. Responsibility Clarification" xml:space="preserve">
+    <value>6. Clarificarea responsabilităților</value>
+  </data>
+  <data name="7. Contact Information" xml:space="preserve">
+    <value>7. Informații de contact</value>
+  </data>
+  <data name="7. Responsibility Clarification" xml:space="preserve">
+    <value>7. Clarificarea responsabilităților</value>
+  </data>
+  <data name="8. Contact Information" xml:space="preserve">
+    <value>8. Informații de contact</value>
+  </data>
   <data name="Additionally, some upstream components may have independent data collection mechanisms." xml:space="preserve">
     <value>În plus, unele componente sursă pot avea mecanisme independente de colectare a datelor.</value>
+  </data>
+  <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
+    <value>Toate operațiunile sistemului, configurațiile și activitățile utilizatorului au loc local pe propriul dispozitiv (&quot;execuție locală&quot;).</value>
+  </data>
+  <data name="and confirmed it contains no telemetry." xml:space="preserve">
+    <value>și am confirmat că nu conține telemetrie.</value>
+  </data>
+  <data name="and does not share any information with governments, corporations, or any third parties." xml:space="preserve">
+    <value>și nu partajează nicio informație cu guverne, corporații sau alte terțe părți.</value>
+  </data>
+  <data name="AnduinOS does" xml:space="preserve">
+    <value>AnduinOS face</value>
+  </data>
+  <data name="AnduinOS does not have a data collection infrastructure" xml:space="preserve">
+    <value>AnduinOS nu dispune de o infrastructură de colectare a datelor</value>
+  </data>
+  <data name="AnduinOS does not include any telemetry, analytics, advertising, tracking, or behavior profiling mechanisms." xml:space="preserve">
+    <value>AnduinOS nu include niciun mecanism de telemetrie, analiză, publicitate, urmărire sau profilare a comportamentului.</value>
+  </data>
+  <data name="AnduinOS does not participate in any system reporting, usage statistics submission, or automated crash reporting" xml:space="preserve">
+    <value>AnduinOS nu participă la nicio raportare de sistem, trimitere de statistici de utilizare sau raportare automată de erori.</value>
+  </data>
+  <data name="AnduinOS does not preinstall any telemetry-related packages" xml:space="preserve">
+    <value>AnduinOS nu preinstalează pachete legate de telemetrie.</value>
+  </data>
+  <data name="AnduinOS GitHub Discussions" xml:space="preserve">
+    <value>Discuții GitHub AnduinOS</value>
+  </data>
+  <data name="AnduinOS includes the &apos;SimpleWeather&apos; GNOME extension to provide current weather conditions." xml:space="preserve">
+    <value>AnduinOS include extensia GNOME &apos;SimpleWeather&apos; pentru a oferi condiții meteorologice curente.</value>
+  </data>
+  <data name="AnduinOS is a community-driven, non-profit project" xml:space="preserve">
+    <value>AnduinOS este un proiect condus de comunitate, fără scop lucrativ.</value>
+  </data>
+  <data name="AnduinOS is a free and open-source Linux distribution based on Ubuntu." xml:space="preserve">
+    <value>AnduinOS este o distribuție Linux gratuită și open-source bazată pe Ubuntu.</value>
+  </data>
+  <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
+    <value>AnduinOS se angajează să mențină instalarea dumneavoastră curată și fără telemetrie în mod implicit.</value>
+  </data>
+  <data name="AnduinOS is distributed under the" xml:space="preserve">
+    <value>AnduinOS este distribuit sub licența</value>
+  </data>
+  <data name="AnduinOS itself does not collect, transmit, or store any user data." xml:space="preserve">
+    <value>AnduinOS în sine nu colectează, nu transmite și nu stochează nicio dată a utilizatorilor.</value>
+  </data>
+  <data name="AnduinOS Update Service" xml:space="preserve">
+    <value>Serviciul de Actualizare AnduinOS</value>
+  </data>
+  <data name="Canonical Livepatch service" xml:space="preserve">
+    <value>Serviciul Canonical Livepatch</value>
+  </data>
+  <data name="Community:" xml:space="preserve">
+    <value>Comunitate:</value>
+  </data>
+  <data name="Control:" xml:space="preserve">
+    <value>Control:</value>
+  </data>
+  <data name="Email:" xml:space="preserve">
+    <value>E-mail:</value>
+  </data>
+  <data name="entirely on your computer" xml:space="preserve">
+    <value>în întregime pe computerul dumneavoastră</value>
+  </data>
+  <data name="Explanation:" xml:space="preserve">
+    <value>Explicație:</value>
+  </data>
+  <data name="for details." xml:space="preserve">
+    <value>pentru detalii.</value>
+  </data>
+  <data name="For privacy concerns related to third-party applications," xml:space="preserve">
+    <value>Pentru problemele de confidențialitate legate de aplicațiile terțe,</value>
+  </data>
+  <data name="Freedom to inspect:" xml:space="preserve">
+    <value>Libertatea de a inspecta:</value>
+  </data>
+  <data name="Freedom to modify:" xml:space="preserve">
+    <value>Libertatea de a modifica:</value>
+  </data>
+  <data name="Freedom to redistribute:" xml:space="preserve">
+    <value>Libertatea de a redistribui:</value>
+  </data>
+  <data name="here" xml:space="preserve">
+    <value>aici</value>
+  </data>
+  <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
+    <value>Cu toate acestea, dacă instalați manual pachete din depozitele Ubuntu sau activați anumite funcții specifice Ubuntu, unele dintre aceste mecanisme de telemetrie pot fi introduse.</value>
+  </data>
+  <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
+    <value>Cu toate acestea, pentru a funcționa, extensia trebuie să preia datele de localizare și vreme de la servicii terțe. Aceasta include conectarea la</value>
+  </data>
+  <data name="If these packages are not installed (as is the case with a clean AnduinOS installation), no action is required." xml:space="preserve">
+    <value>Dacă aceste pachete nu sunt instalate (așa cum este cazul unei instalări curate de AnduinOS), nu este necesară nicio acțiune.</value>
+  </data>
+  <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
+    <value>Dacă aveți întrebări legate de această Politică de Confidențialitate sau practicile de confidențialitate ale AnduinOS, vă rugăm să contactați:</value>
+  </data>
+  <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
+    <value>Într-o lume în care telemetria la distanță a devenit omniprezentă, AnduinOS minimizează în mod deliberat dependențele externe pentru a proteja utilizatorii.</value>
+  </data>
+  <data name="Introduction" xml:space="preserve">
+    <value>Introducere</value>
+  </data>
+  <data name="it integrates a wide range of upstream open-source software" xml:space="preserve">
+    <value>integrează o gamă largă de software open-source upstream</value>
+  </data>
+  <data name="It merely redistributes them in their original, unmodified state." xml:space="preserve">
+    <value>Pur și simplu le redistribuie în starea lor originală, nemodificată.</value>
+  </data>
+  <data name="Last updated: May 10, 2025" xml:space="preserve">
+    <value>Ultima actualizare: 10 mai 2025</value>
+  </data>
+  <data name="Local execution means that all features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Execuția locală înseamnă că toate funcțiile și serviciile AnduinOS sunt efectuate</value>
+  </data>
+  <data name="Local execution means that most features and services of AnduinOS are performed" xml:space="preserve">
+    <value>Execuția locală înseamnă că majoritatea funcțiilor și serviciilor AnduinOS sunt efectuate</value>
+  </data>
+  <data name="maintained in spare time by volunteers." xml:space="preserve">
+    <value>întreținut în timpul liber de voluntari.</value>
+  </data>
+  <data name="modify, enhance, or introduce additional telemetry into these upstream components." xml:space="preserve">
+    <value>modifică, îmbunătățește sau introduce telemetrie suplimentară în aceste componente sursă.</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
+    <value>Niciun date nu părăsește dispozitivul fără acțiunea dumneavoastră explicită sau pentru funcționalități esențiale.</value>
+  </data>
+  <data name="No data leaves your machine without your explicit action." xml:space="preserve">
+    <value>Niciun date nu părăsește dispozitivul tău fără acțiunea ta explicită.</value>
+  </data>
+  <data name="not" xml:space="preserve">
+    <value>nu</value>
+  </data>
+  <data name="Notably:" xml:space="preserve">
+    <value>În special:</value>
+  </data>
+  <data name="Note:" xml:space="preserve">
+    <value>Notă:</value>
+  </data>
+  <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
+    <value>sau orice furnizori de date meteorologice pe care îi utilizează. Conectarea la aceste servicii va expune în mod necesar adresa dvs. IP către aceștia.</value>
+  </data>
+  <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
+    <value>originare din Ubuntu, Debian, GNOME, Flathub și alte surse.</value>
+  </data>
+  <data name="Our team has reviewed the source code of this extension" xml:space="preserve">
+    <value>Echipa noastră a analizat codul sursă al acestei extensii</value>
+  </data>
+  <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
+    <value>vă rugăm să consultați politicile de confidențialitate respective ale surselor upstream.</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Politica de Confidențialitate</value>
+  </data>
+  <data name="Privacy Statement" xml:space="preserve">
+    <value>Politica de Confidențialitate</value>
+  </data>
+  <data name="Reducing external communications limits exposure to interception or exploitation risks." xml:space="preserve">
+    <value>Reducerea comunicărilor externe limitează expunerea la riscuri de interceptare sau exploatare.</value>
+  </data>
+  <data name="Security:" xml:space="preserve">
+    <value>Securitate:</value>
+  </data>
+  <data name="SimpleWeather Extension" xml:space="preserve">
+    <value>Extensia SimpleWeather</value>
+  </data>
+  <data name="Snap daemon" xml:space="preserve">
+    <value>Daemonul Snap</value>
+  </data>
+  <data name="Snap store background services (if Snap is manually installed by users)" xml:space="preserve">
+    <value>Servicii de fundal Snap store (dacă Snap este instalat manual de utilizatori)</value>
+  </data>
+  <data name="Some upstream components may have independent data collection mechanisms." xml:space="preserve">
+    <value>Unele componente sursă pot avea mecanisme independente de colectare a datelor.</value>
+  </data>
+  <data name="source" xml:space="preserve">
+    <value>Declarația de Confidențialitate</value>
+  </data>
+  <data name="such as:" xml:space="preserve">
+    <value>cum ar fi:</value>
+  </data>
+  <data name="The open nature of AnduinOS empowers users to independently verify that the system respects their privacy." xml:space="preserve">
+    <value>Natura deschisă a AnduinOS le oferă utilizatorilor puterea de a verifica în mod independent că sistemul respectă confidențialitatea lor.</value>
+  </data>
+  <data name="There are no hidden background processes or network communications initiated by the system for the purpose of gathering user information." xml:space="preserve">
+    <value>Nu există procese ascunse în fundal sau comunicări de rețea inițiate de sistem în scopul colectării de informații despre utilizatori.</value>
+  </data>
+  <data name="There are no proprietary blobs or closed modules outside of upstream dependencies explicitly inherited from Ubuntu." xml:space="preserve">
+    <value>Nu există blob-uri proprietare sau module închise în afara dependențelor upstream moștenite explicit de la Ubuntu.</value>
+  </data>
+  <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
+    <value>Această conexiune este esențială pentru a vă menține sistemul securizat și actualizat. La fel ca orice conexiune HTTPS standard, acest proces va expune adresa dvs. IP către serverul nostru.</value>
+  </data>
+  <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
+    <value>Acest document explică modul în care AnduinOS gestionează datele utilizatorilor, clarifică designul său tehnic privind confidențialitatea și prezintă considerațiile legate de componentele upstream.</value>
+  </data>
+  <data name="This ensures:" xml:space="preserve">
+    <value>Acest lucru asigură:</value>
+  </data>
+  <data name="This includes the use of Ubuntu&apos;s official software repositories and mirrors, which are operated by third-party organizations (such as universities and corporations)." xml:space="preserve">
+    <value>Aceasta include utilizarea depozitelor și a oglindelor oficiale de software ale Ubuntu, care sunt operate de organizații terțe (cum ar fi universități și corporații).</value>
+  </data>
+  <data name="This license guarantees:" xml:space="preserve">
+    <value>Această licență garantează:</value>
+  </data>
+  <data name="Thus, AnduinOS is fundamentally privacy-preserving by design." xml:space="preserve">
+    <value>Astfel, AnduinOS este în mod fundamental conceput pentru a proteja confidențialitatea.</value>
+  </data>
+  <data name="Thus, by default," xml:space="preserve">
+    <value>Astfel, în mod implicit,</value>
+  </data>
+  <data name="To check for and download system updates, AnduinOS connects to our update endpoint at" xml:space="preserve">
+    <value>Pentru a verifica și descărca actualizări de sistem, AnduinOS se conectează la punctul nostru de actualizare de la</value>
+  </data>
+  <data name="to determine your location based on your IP address." xml:space="preserve">
+    <value>pentru a determina locația dumneavoastră pe baza adresei dvs. IP.</value>
+  </data>
+  <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
+    <value>Pentru a vă asigura că renunțați complet, puteți examina și, dacă este necesar, elimina aceste pachete folosind:</value>
+  </data>
+  <data name="Transparency:" xml:space="preserve">
+    <value>Transparență:</value>
+  </data>
+  <data name="We are committed to protecting your privacy." xml:space="preserve">
+    <value>Suntem dedicați protejării confidențialității dumneavoastră.</value>
+  </data>
+  <data name="We cannot control the privacy practices of" xml:space="preserve">
+    <value>Nu putem controla practicile de confidențialitate ale</value>
+  </data>
+  <data name="We strongly recommend users review Canonical&apos;s" xml:space="preserve">
+    <value>Recomandăm cu tărie utilizatorilor să consulte Politica de Confidențialitate a Canonical</value>
+  </data>
+  <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
+    <value>Când sistemul dumneavoastră verifică disponibilitatea actualizărilor de software (de exemplu, utilizând</value>
+  </data>
+  <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
+    <value>Deși AnduinOS este conceput pentru o funcționare local-first, anumite funcționalități necesită acces la rețea pentru a funcționa. Aceste conexiuni nu sunt utilizate pentru telemetrie, dar implică comunicarea cu servere externe, ceea ce este o cerință inevitabilă pentru ca aceste servicii să funcționeze și vă va expune adresa IP.</value>
+  </data>
+  <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
+    <value>Deși AnduinOS în sine nu colectează nicio dată,</value>
+  </data>
+  <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
+    <value>Puteți ajusta codul pentru a se potrivi nevoilor dumneavoastră, inclusiv eliminarea componentelor în care nu aveți încredere.</value>
+  </data>
+  <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
+    <value>Puteți examina codul sursă pentru a verifica că nu există mecanisme ascunse de urmărire.</value>
+  </data>
+  <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
+    <value>Puteți distribui AnduinOS, modificat sau nemodificat, în conformitate cu aceleași termeni de licență.</value>
+  </data>
+  <data name="You retain complete control over your personal data." xml:space="preserve">
+    <value>Păstrați controlul total asupra datelor dvs. personale.</value>
   </data>
 
 </root>
