@@ -3,6 +3,7 @@ using System.Text.RegularExpressions;
 using Aiursoft.CSTools.Tools;
 using Aiursoft.DbTools;
 using Anduin.AnduinOSHome.Entities;
+using Newtonsoft.Json;
 using static Aiursoft.WebTools.Extends;
 
 [assembly:DoNotParallelize]
@@ -399,5 +400,36 @@ public class BasicTests
         var html = await homePageResponse.Content.ReadAsStringAsync();
         Assert.Contains(newUserName, html);
         Assert.DoesNotContain(originalUserName, html);
+    }
+
+    [TestMethod]
+    public async Task UploadAndDownloadCacheTest()
+    {
+        // 1. Register and login
+        await RegisterAndLoginAsync();
+
+        // 2. Upload a file
+        var fileContent = new ByteArrayContent("test content"u8.ToArray());
+        fileContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("text/plain");
+        var formData = new MultipartFormDataContent
+        {
+            { fileContent, "file", "test.txt" }
+        };
+        var uploadResponse = await _http.PostAsync("/upload/testfolder", formData);
+        uploadResponse.EnsureSuccessStatusCode();
+        var uploadResultString = await uploadResponse.Content.ReadAsStringAsync();
+        var uploadResult = JsonConvert.DeserializeObject<dynamic>(uploadResultString);
+        string path = uploadResult!.Path;
+
+        // 3. Download the file
+        var downloadResponse = await _http.GetAsync("/download/" + path);
+        downloadResponse.EnsureSuccessStatusCode();
+
+        // 4. Verify headers
+        // Note: The format might be "public, max-age=31536000" or "max-age=31536000, public"
+        var cacheControl = downloadResponse.Headers.CacheControl?.ToString();
+        Assert.IsNotNull(cacheControl);
+        StringAssert.Contains(cacheControl, "public");
+        StringAssert.Contains(cacheControl, "max-age=31536000");
     }
 }
