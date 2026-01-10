@@ -62,7 +62,14 @@ public class Startup : IWebStartup
     public void Configure(WebApplication app)
     {
         app.UseExceptionHandler("/Error/Error");
-        app.UseStaticFiles();
+        app.UseStaticFiles(new StaticFileOptions
+        {
+            OnPrepareResponse = ctx =>
+            {
+                const int durationInSeconds = 60 * 60 * 24 * 365; // 1 year
+                ctx.Context.Response.Headers.CacheControl = "public,max-age=" + durationInSeconds;
+            }
+        });
         app.UseRouting();
         app.UseAuthentication();
         app.UseAuthorization();
