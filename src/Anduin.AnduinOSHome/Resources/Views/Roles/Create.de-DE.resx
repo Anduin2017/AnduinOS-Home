@@ -31,10 +31,10 @@
     <value>Rolle erstellen</value>
   </data>
   <data name="Enter the new role name" xml:space="preserve">
-    <value>Geben Sie den neuen Rollennamen ein</value>
+    <value>Gib den neuen Rollennamen ein</value>
   </data>
   <data name="OpenID Connect (OIDC) is enabled. Roles are synchronized from an external identity provider. We strongly recommend creating new roles or groups on your OIDC provider to ensure they are managed centrally. This form will create a local-only role that exists solely within this application." xml:space="preserve">
-    <value>OpenID Connect (OIDC) ist aktiviert. Rollen werden von einem externen Identitätsanbieter synchronisiert. Wir empfehlen dringend, neue Rollen oder Gruppen auf Ihrem OIDC-Provider zu erstellen, um eine zentrale Verwaltung zu gewährleisten. Dieses Formular erstellt eine rein lokale Rolle, die ausschließlich innerhalb dieser Anwendung existiert.</value>
+    <value>OpenID Connect (OIDC) ist aktiviert. Rollen werden von einem externen Identitätsanbieter synchronisiert. Wir empfehlen dringend, neue Rollen oder Gruppen auf deinem OIDC-Provider zu erstellen, um eine zentrale Verwaltung zu gewährleisten. Dieses Formular erstellt eine rein lokale Rolle, die ausschließlich innerhalb dieser Anwendung existiert.</value>
   </data>
   <data name="Role" xml:space="preserve">
     <value>Rolle</value>

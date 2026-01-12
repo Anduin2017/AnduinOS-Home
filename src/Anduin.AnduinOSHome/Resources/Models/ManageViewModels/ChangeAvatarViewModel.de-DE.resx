@@ -25,7 +25,7 @@
     <value>Name</value>
   </data>
   <data name="The avatar file is invalid. Please upload it again." xml:space="preserve">
-    <value>Die Avatar-Datei ist ungültig. Bitte laden Sie sie erneut hoch.</value>
+    <value>Die Avatar-Datei ist ungültig. Bitte lade sie erneut hoch.</value>
   </data>
   <data name="The avatar file is required." xml:space="preserve">
     <value>Die Avatar-Datei ist erforderlich.</value>

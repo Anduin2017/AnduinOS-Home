@@ -43,10 +43,10 @@
     <value>E-Mail-Adresse</value>
   </data>
   <data name="Leave blank if you don&apos;t want to change the password." xml:space="preserve">
-    <value>Leer lassen, wenn Sie das Passwort nicht ändern möchten.</value>
+    <value>Leer lassen, wenn du das Passwort nicht ändern möchtest.</value>
   </data>
   <data name="Modify user details or manage their assigned roles below." xml:space="preserve">
-    <value>Ändern Sie die Benutzerdetails oder verwalten Sie unten ihre zugewiesenen Rollen.</value>
+    <value>Ändere die Benutzerdetails oder verwalte unten ihre zugewiesenen Rollen.</value>
   </data>
   <data name="New avatar file" xml:space="preserve">
     <value>Neue Avatar-Datei</value>
@@ -61,7 +61,7 @@
     <value>Benutzerdetails speichern</value>
   </data>
   <data name="This user account is synchronized with an OpenID Connect (OIDC) provider. Any modifications made here (e.g., to the display name or email) may be overwritten during the next data sync. For permanent changes, please update the user&apos;s profile directly on your OIDC provider." xml:space="preserve">
-    <value>Dieses Benutzerkonto wird mit einem OpenID Connect (OIDC)-Provider synchronisiert. Änderungen, die hier vorgenommen werden (z. B. am Anzeigenamen oder der E-Mail-Adresse), können bei der nächsten Datensynchronisation überschrieben werden. Für dauerhafte Änderungen aktualisieren Sie bitte das Benutzerprofil direkt bei Ihrem OIDC-Provider.</value>
+    <value>Dieses Benutzerkonto wird mit einem OpenID Connect (OIDC)-Provider synchronisiert. Änderungen, die hier vorgenommen werden (z. B. am Anzeigenamen oder der E-Mail-Adresse), können bei der nächsten Datensynchronisation überschrieben werden. Für dauerhafte Änderungen aktualisiere bitte das Benutzerprofil direkt bei deinem OIDC-Provider.</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Benutzername</value>

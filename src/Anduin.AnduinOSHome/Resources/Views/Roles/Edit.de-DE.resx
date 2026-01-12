@@ -49,7 +49,7 @@
     <value>Änderungen speichern</value>
   </data>
   <data name="This role is synchronized from an OpenID Connect (OIDC) provider. Any modifications made here (e.g., to the name) may cause conflicts during the next data sync. For permanent changes, please update the role directly on your OIDC provider." xml:space="preserve">
-    <value>Diese Rolle wird von einem OpenID Connect (OIDC)-Provider synchronisiert. Änderungen, die hier vorgenommen werden (z. B. am Namen), können beim nächsten Datensync zu Konflikten führen. Für dauerhafte Änderungen aktualisieren Sie die Rolle bitte direkt auf Ihrem OIDC-Provider.</value>
+    <value>Diese Rolle wird von einem OpenID Connect (OIDC)-Provider synchronisiert. Änderungen, die hier vorgenommen werden (z. B. am Namen), können beim nächsten Datensync zu Konflikten führen. Für dauerhafte Änderungen aktualisiere die Rolle bitte direkt auf deinem OIDC-Provider.</value>
   </data>
   <data name="Warning!" xml:space="preserve">
     <value>Warnung!</value>

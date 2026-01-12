@@ -25,7 +25,7 @@
     <value>Eine Übersicht über die Serverumgebung, den Prozess und den aktuellen Anforderungskontext der Anwendung.</value>
   </data>
   <data name="Are you sure you want to restart the application? This action is irreversible and will terminate all active connections." xml:space="preserve">
-    <value>Sind Sie sicher, dass Sie die Anwendung neu starten möchten? Diese Aktion ist unwiderruflich und beendet alle aktiven Verbindungen.</value>
+    <value>Bist du sicher, dass du die Anwendung neu starten möchtest? Diese Aktion ist unwiderruflich und beendet alle aktiven Verbindungen.</value>
   </data>
   <data name="Cancel" xml:space="preserve">
     <value>Abbrechen</value>

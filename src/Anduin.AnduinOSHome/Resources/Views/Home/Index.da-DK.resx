@@ -79,7 +79,7 @@
     <value>AnduinOS er baseret på Ubuntus pakkegrundlag. Enhver software, der kører på Ubuntu, kan køre på AnduinOS. Du kan køre en række forskellige applikationer, herunder men ikke begrænset til: Linux-apps, webapps og endda Windows-apps ved hjælp af Wine.</value>
   </data>
   <data name="AnduinOS is based on Ubuntu&apos;s package base. It&apos;s compatible with most of the apt packages from Ubuntu. It&apos;s a perfect combination of experience and ecology." xml:space="preserve">
-    <value>AnduinOS er baseret på Ubuntus pakkegrundlag. Den er kompatibel med de fleste apt-pakker fra Ubuntu. Det er en perfekt kombination af erfaring og økologi.</value>
+    <value>AnduinOS er baseret på Ubuntus pakkegrundlag. Den er kompatibel med de fleste apt-pakker fra Ubuntu. Det er en perfekt kombination af erfaring og økosystem.</value>
   </data>
   <data name="AnduinOS is funded by user donations. We are grateful for your support. And you can" xml:space="preserve">
     <value>AnduinOS finansieres af brugerdonationer. Vi er taknemmelige for din støtte. Og du kan</value>
@@ -139,7 +139,7 @@
     <value>Download AnduinOS</value>
   </data>
   <data name="Ecological perfection" xml:space="preserve">
-    <value>Økologisk perfektion</value>
+    <value>Perfekt økosystem</value>
   </data>
   <data name="Editing" xml:space="preserve">
     <value>Redigering</value>
@@ -259,7 +259,7 @@
     <value>Kontakt os venligst via e-mail på</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
-    <value>Privatliv er ikke længere valgfrit. Det er essentielt. AnduinOS er designet til ikke at indsamle noget fra dig. Vi tracker dig ikke. Vi profilerer dig ikke. Vi målretter dig ikke. Du forbliver anonym for systemet.</value>
+    <value>Privatliv er ikke længere valgfrit. Det er essentielt. AnduinOS er designet til ikke at indsamle noget fra dig. Vi tracker dig ikke. Vi laver ikke brugerprofiler af dig. Vi bruger ikke målrettet annoncering. Du forbliver anonym for systemet.</value>
   </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>Privatlivspolitik</value>
@@ -322,7 +322,7 @@
     <value>AnduinOS-serveren er stolt sponsoreret af</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
-    <value>GNOME-baserede desktopmiljø har smukke grænseflader og menneske-maskine-interaktioner, der passer til brugerens vaner, hvilket gør det nemt at komme i gang med AnduinOS uden for stor indlæringstid.</value>
+    <value>GNOME-baserede desktopmiljø har smukke grænseflader og en intuitiv brugeroplevelse, der passer til brugervaner, hvilket gør det nemt at komme i gang med AnduinOS uden lang indlæring.</value>
   </data>
   <data name="The ISO is just 2.0GB in size. Similar to Ubuntu, it is simple to install and can meet your daily needs without additional configuration or complicated operations." xml:space="preserve">
     <value>ISO-filen er kun 2,0 GB i størrelse. Ligesom Ubuntu er den nem at installere og kan dække dine daglige behov uden yderligere konfiguration eller komplicerede operationer.</value>

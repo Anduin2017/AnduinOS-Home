@@ -19,7 +19,7 @@
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
       <data name="Drag and drop a file here or click" xml:space="preserve">
-    <value>Ziehen Sie eine Datei per Drag &amp; Drop hierher oder klicken Sie</value>
+    <value>Zieh eine Datei per Drag &amp; Drop hierher oder klicke</value>
   </data>
   <data name="Drag and drop or click to replace" xml:space="preserve">
     <value>Ziehen und ablegen oder klicken, um zu ersetzen</value>

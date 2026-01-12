@@ -22,7 +22,7 @@
     <value>Ein Fehler ist aufgetreten</value>
   </data>
   <data name="An error occurred while processing your request." xml:space="preserve">
-    <value>Bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten.</value>
+    <value>Bei der Verarbeitung deiner Anfrage ist ein Fehler aufgetreten.</value>
   </data>
   <data name="Back to Home" xml:space="preserve">
     <value>Zurück zur Startseite</value>
@@ -31,16 +31,16 @@
     <value>Fehler.</value>
   </data>
   <data name="Please contact the administrator for help." xml:space="preserve">
-    <value>Bitte wenden Sie sich zur Hilfe an den Administrator.</value>
+    <value>Bitte wende dich zur Hilfe an den Administrator.</value>
   </data>
   <data name="Please try again later or contact support if the problem persists." xml:space="preserve">
-    <value>Bitte versuchen Sie es später erneut oder kontaktieren Sie den Support, falls das Problem weiterhin besteht.</value>
+    <value>Bitte versuche es später erneut oder kontaktiere den Support, falls das Problem weiterhin besteht.</value>
   </data>
   <data name="Request ID:" xml:space="preserve">
     <value>Anfrage-ID:</value>
   </data>
   <data name="We&apos;re sorry, something went wrong while processing your request." xml:space="preserve">
-    <value>Es tut uns leid, bei der Verarbeitung Ihrer Anfrage ist ein Fehler aufgetreten.</value>
+    <value>Es tut uns leid, bei der Verarbeitung deiner Anfrage ist ein Fehler aufgetreten.</value>
   </data>
 
 </root>

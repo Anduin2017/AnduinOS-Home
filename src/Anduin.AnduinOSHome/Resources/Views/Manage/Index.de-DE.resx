@@ -28,13 +28,13 @@
     <value>Avatar-Einstellungen</value>
   </data>
   <data name="Change your account settings" xml:space="preserve">
-    <value>Ändern Sie Ihre Kontoeinstellungen</value>
+    <value>Ändere deine Kontoeinstellungen</value>
   </data>
   <data name="Change your avatar" xml:space="preserve">
     <value>Avatar ändern</value>
   </data>
   <data name="Change your password" xml:space="preserve">
-    <value>Ihr Passwort ändern</value>
+    <value>dein Passwort ändern</value>
   </data>
   <data name="Change your profile" xml:space="preserve">
     <value>Profil ändern</value>
@@ -49,10 +49,10 @@
     <value>Erfolg!</value>
   </data>
   <data name="You can&apos;t change your password because local authentication is disabled. Please edit your profile from the" xml:space="preserve">
-    <value>Sie können Ihr Passwort nicht ändern, da die lokale Authentifizierung deaktiviert ist. Bitte bearbeiten Sie Ihr Profil über den</value>
+    <value>Du kannst dein Passwort nicht ändern, da die lokale Authentifizierung deaktiviert ist. Bitte bearbeite dein Profil über den</value>
   </data>
   <data name="You can&apos;t change your password because local authentication is disabled. Please edit your profile from the auth provider." xml:space="preserve">
-    <value>Sie können Ihr Passwort nicht ändern, da die lokale Authentifizierung deaktiviert ist. Bitte bearbeiten Sie Ihr Profil über den Authentifizierungsanbieter.</value>
+    <value>Du kannst dein Passwort nicht ändern, da die lokale Authentifizierung deaktiviert ist. Bitte bearbeite dein Profil über den Authentifizierungsanbieter.</value>
   </data>
 
 </root>

@@ -43,7 +43,7 @@
     <value>(der Entwickler von Ubuntu) kann bestimmte Systeminformationen zu statistischen und diagnostischen Zwecken über Tools wie folgende sammeln:</value>
   </data>
   <data name="), it connects to these external servers. This process is essential for system security but will expose your IP address to the operators of the repository mirror you are connected to." xml:space="preserve">
-    <value>), stellt es eine Verbindung zu diesen externen Servern her. Dieser Vorgang ist für die Systemsicherheit unerlässlich, wird jedoch Ihre IP-Adresse den Betreibern des Repository-Spiegels, mit dem Sie verbunden sind, offenlegen.</value>
+    <value>), stellt es eine Verbindung zu diesen externen Servern her. Dieser Vorgang ist für die Systemsicherheit unerlässlich, wird jedoch deine IP-Adresse den Betreibern des Repository-Spiegels, mit dem du verbunden bist, offenlegen.</value>
   </data>
   <data name="1. Data Collection by AnduinOS" xml:space="preserve">
     <value>1. Datenerfassung durch AnduinOS</value>
@@ -55,10 +55,10 @@
     <value>3. Notwendige Netzwerkverbindungen &amp; Dienste von Drittanbietern</value>
   </data>
   <data name="3. Open Source Guarantees Your Freedom" xml:space="preserve">
-    <value>3. Open Source garantiert Ihre Freiheit</value>
+    <value>3. Open Source garantiert deine Freiheit</value>
   </data>
   <data name="4. Open Source Guarantees Your Freedom" xml:space="preserve">
-    <value>4. Open Source garantiert Ihre Freiheit</value>
+    <value>4. Open Source garantiert deine Freiheit</value>
   </data>
   <data name="4. Upstream Software and Privacy Considerations" xml:space="preserve">
     <value>4. Upstream-Software und Datenschutzüberlegungen</value>
@@ -88,7 +88,7 @@
     <value>Darüber hinaus könnten einige Upstream-Komponenten unabhängige Datenerfassungsmechanismen besitzen.</value>
   </data>
   <data name="All system operations, configurations, and user activities take place locally on your own device (&quot;local execution&quot;)." xml:space="preserve">
-    <value>Alle Systemoperationen, Konfigurationen und Benutzeraktivitäten finden lokal auf Ihrem eigenen Gerät statt (&quot;lokale Ausführung&quot;).</value>
+    <value>Alle Systemoperationen, Konfigurationen und Benutzeraktivitäten finden lokal auf deinem eigenen Gerät statt (&quot;lokale Ausführung&quot;).</value>
   </data>
   <data name="and confirmed it contains no telemetry." xml:space="preserve">
     <value>und bestätigt, dass sie keine Telemetrie enthält.</value>
@@ -124,7 +124,7 @@
     <value>AnduinOS ist eine freie und quelloffene Linux-Distribution, die auf Ubuntu basiert.</value>
   </data>
   <data name="AnduinOS is committed to keeping your installation clean and telemetry-free by default." xml:space="preserve">
-    <value>AnduinOS ist bestrebt, Ihre Installation standardmäßig sauber und frei von Telemetrie zu halten.</value>
+    <value>AnduinOS ist bestrebt, deine Installation standardmäßig sauber und frei von Telemetrie zu halten.</value>
   </data>
   <data name="AnduinOS is distributed under the" xml:space="preserve">
     <value>AnduinOS wird unter der</value>
@@ -148,7 +148,7 @@
     <value>E-Mail:</value>
   </data>
   <data name="entirely on your computer" xml:space="preserve">
-    <value>vollständig auf Ihrem Computer</value>
+    <value>vollständig auf deinem Computer</value>
   </data>
   <data name="Explanation:" xml:space="preserve">
     <value>Erklärung:</value>
@@ -172,7 +172,7 @@
     <value>hier</value>
   </data>
   <data name="However, if you manually install packages from Ubuntu repositories or enable certain Ubuntu-specific features, some of these telemetry mechanisms may be introduced." xml:space="preserve">
-    <value>Wenn Sie jedoch Pakete manuell aus den Ubuntu-Repositorys installieren oder bestimmte Ubuntu-spezifische Funktionen aktivieren, können einige dieser Telemetrie-Mechanismen eingeführt werden.</value>
+    <value>Wenn du jedoch Pakete manuell aus den Ubuntu-Repositorys installierst oder bestimmte Ubuntu-spezifische Funktionen aktivierst, können einige dieser Telemetrie-Mechanismen eingeführt werden.</value>
   </data>
   <data name="However, to function, the extension must retrieve location and weather data from third-party services. This includes connecting to" xml:space="preserve">
     <value>Um zu funktionieren, muss die Erweiterung jedoch Standort- und Wetterdaten von Drittanbietern abrufen. Dies umfasst die Verbindung zu</value>
@@ -181,7 +181,7 @@
     <value>Falls diese Pakete nicht installiert sind (wie bei einer sauberen AnduinOS-Installation der Fall), ist keine Aktion erforderlich.</value>
   </data>
   <data name="If you have any questions regarding this Privacy Statement or AnduinOS&apos;s privacy practices, please contact:" xml:space="preserve">
-    <value>Falls Sie Fragen zu dieser Datenschutzerklärung oder den Datenschutzpraktiken von AnduinOS haben, wenden Sie sich bitte an:</value>
+    <value>Falls du Fragen zu dieser Datenschutzerklärung oder den Datenschutzpraktiken von AnduinOS hast, wende dich bitte an:</value>
   </data>
   <data name="In a world where remote telemetry has become ubiquitous, AnduinOS deliberately minimizes external dependencies to protect users." xml:space="preserve">
     <value>In einer Welt, in der Remote-Telemetrie allgegenwärtig geworden ist, minimiert AnduinOS bewusst externe Abhängigkeiten, um Nutzer zu schützen.</value>
@@ -211,10 +211,10 @@
     <value>ändern, erweitern oder zusätzliche Telemetrie in diese Upstream-Komponenten einführen.</value>
   </data>
   <data name="No data leaves your machine without your explicit action or for essential functionality." xml:space="preserve">
-    <value>Keine Daten verlassen Ihren Rechner ohne Ihre ausdrückliche Handlung oder für wesentliche Funktionalität.</value>
+    <value>Keine Daten verlassen deinen Rechner ohne deine ausdrückliche Handlung oder für wesentliche Funktionalität.</value>
   </data>
   <data name="No data leaves your machine without your explicit action." xml:space="preserve">
-    <value>Keine Daten verlassen Ihren Computer ohne Ihre ausdrückliche Aktion.</value>
+    <value>Keine Daten verlassen deinen Computer ohne deine ausdrückliche Aktion.</value>
   </data>
   <data name="not" xml:space="preserve">
     <value>nicht</value>
@@ -226,7 +226,7 @@
     <value>Hinweis:</value>
   </data>
   <data name="or any weather data providers it uses. Connecting to these services will necessarily expose your IP address to them." xml:space="preserve">
-    <value>oder jeglichen Wetterdatenanbietern, die es nutzt. Die Verbindung zu diesen Diensten wird zwangsläufig Ihre IP-Adresse ihnen gegenüber offenlegen.</value>
+    <value>oder jeglichen Wetterdatenanbietern, die es nutzt. Die Verbindung zu diesen Diensten wird zwangsläufig deine IP-Adresse ihnen gegenüber offenlegen.</value>
   </data>
   <data name="originating from Ubuntu, Debian, GNOME, Flathub, and other sources." xml:space="preserve">
     <value>die von Ubuntu, Debian, GNOME, Flathub und anderen Quellen stammen.</value>
@@ -235,7 +235,7 @@
     <value>Unser Team hat den Quellcode dieser Erweiterung überprüft.</value>
   </data>
   <data name="please refer to their respective upstream privacy policies." xml:space="preserve">
-    <value>Bitte beachten Sie die jeweiligen Datenschutzrichtlinien der Upstream-Projekte.</value>
+    <value>Bitte beachte die jeweiligen Datenschutzrichtlinien der Upstream-Projekte.</value>
   </data>
   <data name="Privacy Policy" xml:space="preserve">
     <value>Datenschutzerklärung</value>
@@ -277,7 +277,7 @@
     <value>Es gibt keine proprietären Blobs oder geschlossenen Module außerhalb der explizit von Ubuntu übernommenen Upstream-Abhängigkeiten.</value>
   </data>
   <data name="This connection is essential for keeping your system secure and up-to-date. As with any standard HTTPS connection, this process will expose your IP address to our server." xml:space="preserve">
-    <value>Diese Verbindung ist unerlässlich, um Ihr System sicher und auf dem neuesten Stand zu halten. Wie bei jeder standardmäßigen HTTPS-Verbindung wird dieser Prozess Ihre IP-Adresse unserem Server offenlegen.</value>
+    <value>Diese Verbindung ist unerlässlich, um dein System sicher und auf dem neuesten Stand zu halten. Wie bei jeder standardmäßigen HTTPS-Verbindung wird dieser Prozess deine IP-Adresse unserem Server offenlegen.</value>
   </data>
   <data name="This document explains how AnduinOS handles user data, clarifies its technical design regarding privacy, and outlines considerations related to upstream components." xml:space="preserve">
     <value>Dieses Dokument erläutert, wie AnduinOS mit Nutzerdaten umgeht, klärt dessen technisches Design in Bezug auf Datenschutz und skizziert Überlegungen zu upstream-Komponenten.</value>
@@ -301,16 +301,16 @@
     <value>Um nach Systemupdates zu suchen und diese herunterzuladen, verbindet sich AnduinOS mit unserem Update-Endpunkt unter</value>
   </data>
   <data name="to determine your location based on your IP address." xml:space="preserve">
-    <value>um Ihren Standort anhand Ihrer IP-Adresse zu ermitteln.</value>
+    <value>um deinen Standort anhand deiner IP-Adresse zu ermitteln.</value>
   </data>
   <data name="To ensure full opt-out, you can review and, if necessary, remove these packages using:" xml:space="preserve">
-    <value>Um einen vollständigen Opt-out zu gewährleisten, können Sie diese Pakete überprüfen und bei Bedarf mit folgendem Befehl entfernen:</value>
+    <value>Um einen vollständigen Opt-out zu gewährleisten, kannst du diese Pakete überprüfen und bei Bedarf mit folgendem Befehl entfernen:</value>
   </data>
   <data name="Transparency:" xml:space="preserve">
     <value>Transparenz:</value>
   </data>
   <data name="We are committed to protecting your privacy." xml:space="preserve">
-    <value>Wir sind bestrebt, Ihre Privatsphäre zu schützen.</value>
+    <value>Wir sind bestrebt, deine Privatsphäre zu schützen.</value>
   </data>
   <data name="We cannot control the privacy practices of" xml:space="preserve">
     <value>Wir haben keinen Einfluss auf die Datenschutzpraktiken von</value>
@@ -319,25 +319,25 @@
     <value>Wir empfehlen Benutzern dringend, Canonical&apos;s</value>
   </data>
   <data name="When your system checks for software updates (e.g., using" xml:space="preserve">
-    <value>Wenn Ihr System nach Software-Updates sucht (z. B. mit</value>
+    <value>Wenn dein System nach Software-Updates sucht (z. B. mit</value>
   </data>
   <data name="While AnduinOS is designed for local-first operation, certain features require network access to function. These connections are not used for telemetry, but they do involve communication with external servers, which is an unavoidable requirement for these services to operate and will expose your IP address." xml:space="preserve">
-    <value>Obwohl AnduinOS für einen lokalen Betrieb ausgelegt ist, erfordern bestimmte Funktionen Netzwerkzugriff, um zu funktionieren. Diese Verbindungen werden nicht für Telemetrie genutzt, beinhalten jedoch die Kommunikation mit externen Servern, was eine unvermeidliche Voraussetzung für den Betrieb dieser Dienste ist und Ihre IP-Adresse preisgeben wird.</value>
+    <value>Obwohl AnduinOS für einen lokalen Betrieb ausgelegt ist, erfordern bestimmte Funktionen Netzwerkzugriff, um zu funktionieren. Diese Verbindungen werden nicht für Telemetrie genutzt, beinhalten jedoch die Kommunikation mit externen Servern, was eine unvermeidliche Voraussetzung für den Betrieb dieser Dienste ist und deine IP-Adresse preisgeben wird.</value>
   </data>
   <data name="While AnduinOS itself does not collect any data," xml:space="preserve">
     <value>Während AnduinOS selbst keine Daten sammelt,</value>
   </data>
   <data name="You can adjust the code to suit your needs, including removing any components you distrust." xml:space="preserve">
-    <value>Sie können den Code an Ihre Bedürfnisse anpassen, einschließlich der Entfernung von Komponenten, denen Sie misstrauen.</value>
+    <value>Du kannst den Code an deine Bedürfnisse anpassen, einschließlich der Entfernung von Komponenten, denen du misstraust.</value>
   </data>
   <data name="You can review the source code to verify there are no hidden tracking mechanisms." xml:space="preserve">
-    <value>Sie können den Quellcode überprüfen, um sicherzustellen, dass keine versteckten Tracking-Mechanismen vorhanden sind.</value>
+    <value>Du kannst den Quellcode überprüfen, um sicherzustellen, dass keine versteckten Tracking-Mechanismen vorhanden sind.</value>
   </data>
   <data name="You can share AnduinOS, either modified or unmodified, under the same license terms." xml:space="preserve">
-    <value>Sie können AnduinOS, entweder modifiziert oder unverändert, unter denselben Lizenzbedingungen weitergeben.</value>
+    <value>Du kannst AnduinOS, entweder modifiziert oder unverändert, unter denselben Lizenzbedingungen weitergeben.</value>
   </data>
   <data name="You retain complete control over your personal data." xml:space="preserve">
-    <value>Sie behalten die vollständige Kontrolle über Ihre persönlichen Daten.</value>
+    <value>du behältst die vollständige Kontrolle über deine persönlichen Daten.</value>
   </data>
 
 </root>

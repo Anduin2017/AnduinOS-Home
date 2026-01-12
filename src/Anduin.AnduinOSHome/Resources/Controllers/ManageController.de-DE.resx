@@ -25,13 +25,13 @@
     <value>Die Datei ist kein gültiges Bild.</value>
   </data>
   <data name="Your avatar has been saved." xml:space="preserve">
-    <value>Ihr Avatar wurde gespeichert.</value>
+    <value>dein Avatar wurde gespeichert.</value>
   </data>
   <data name="Your password has been changed." xml:space="preserve">
-    <value>Ihr Passwort wurde geändert.</value>
+    <value>dein Passwort wurde geändert.</value>
   </data>
   <data name="Your profile has been saved." xml:space="preserve">
-    <value>Ihr Profil wurde gespeichert.</value>
+    <value>dein Profil wurde gespeichert.</value>
   </data>
 
 </root>

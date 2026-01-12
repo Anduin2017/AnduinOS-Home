@@ -22,7 +22,7 @@
     <value>Gesperrt.</value>
   </data>
   <data name="This account has been locked out, please try again later." xml:space="preserve">
-    <value>Dieses Konto wurde gesperrt. Bitte versuchen Sie es später erneut.</value>
+    <value>Dieses Konto wurde gesperrt. Bitte versuche es später erneut.</value>
   </data>
 
 </root>
