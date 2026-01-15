@@ -18,11 +18,17 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
+      <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
+    <value>&quot;Fire-and-forget&quot;-støtte til langvarende opgaver (som emails eller AI), med en brugergrænseflade til køstyring, parallel behandling og annullering.</value>
+  </data>
+  <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
     <value>Et indbygget Role-Based Access Control (RBAC)-system til finjusteret tilladelseshåndtering.</value>
   </data>
   <data name="A complete solution for user authentication and profile management right out of the box." xml:space="preserve">
     <value>En komplet løsning til brugerautentificering og profiladministration klar til brug ud af boksen.</value>
+  </data>
+  <data name="A complete solution for user authentication and profile management." xml:space="preserve">
+    <value>En komplet løsning til brugerautentifikation og profilhåndtering.</value>
   </data>
   <data name="A fully responsive layout that looks great on both desktop and mobile devices." xml:space="preserve">
     <value>En fuldt responsiv layout, der ser fantastisk ud på både stationære og mobile enheder.</value>
@@ -42,11 +48,23 @@
   <data name="Automatic Dependency Injection" xml:space="preserve">
     <value>Automatisk Afhængighedsinjektion</value>
   </data>
+  <data name="Automatic Time Zone Handling" xml:space="preserve">
+    <value>Automatisk tidszonehåndtering</value>
+  </data>
   <data name="Automatic, AI-driven translation into 28 languages for global reach." xml:space="preserve">
     <value>Automatisk, AI-drevet oversættelse til 28 sprog for global rækkevidde.</value>
   </data>
+  <data name="Automatic, AI-driven translation into 28 languages." xml:space="preserve">
+    <value>Automatisk, AI-drevet oversættelse til 28 sprog.</value>
+  </data>
+  <data name="Background Job Processing" xml:space="preserve">
+    <value>Baggrundstaskbehandling</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Indbygget brugeradministration</value>
+  </data>
+  <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
+    <value>Kommer med Docker-understøttelse for forenklet og konsistent implementering.</value>
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>Kommer med fuld Docker-understøttelse til forenklede, konsistente og pålidelige installationer.</value>
@@ -54,17 +72,38 @@
   <data name="Comprehensive Documentation" xml:space="preserve">
     <value>Omfattende Dokumentation</value>
   </data>
+  <data name="Consistency Validation" xml:space="preserve">
+    <value>Konsistensvalidering</value>
+  </data>
+  <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
+    <value>Udvikl udelukkende i UTC, mens systemet automatisk konverterer og viser datoer i brugeren&apos;s lokale tidszone.</value>
+  </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Dockeriseret til implementering</value>
+  </data>
+  <data name="Dockerized for Easy Deployment" xml:space="preserve">
+    <value>Dockeriseret til nem installation</value>
   </data>
   <data name="Dynamic Navigation Bar" xml:space="preserve">
     <value>Dynamisk Navigationslinje</value>
   </data>
+  <data name="Easily switch between database providers, including SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
+    <value>Skift nemt mellem databaseudbydere, herunder SQLite, MySQL, SQL Server og en i-hukommelsesdatabase til test.</value>
+  </data>
   <data name="Easily switch between providers like SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
     <value>Skift nemt mellem udbydere som SQLite, MySQL, SQL Server og en hukommelsesdatabase til test.</value>
   </data>
+  <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
+    <value>Skriv integreringstests let og nemt ved hjælp af minnehukommelsesdatabaser, midlertidige filsystemer, indbygget mocking og simulation af virkelige HTTP-anmodninger.</value>
+  </data>
+  <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
+    <value>Funktioner et indbygget filhåndterings-system med automatisk avatar-komprimering og privatlivsbeskyttelse.</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression." xml:space="preserve">
     <value>Har et indbygget filstyringssystem med automatisk avatar-komprimering.</value>
+  </data>
+  <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
+    <value>Håndter gentagende opgaver som rydning og synkronisering med en omfattende brugergrænseflade til overvågning af udførelseshistorik og logfiler.</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>Hej Verden!</value>
@@ -74,6 +113,12 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Integreret Filhåndtering</value>
+  </data>
+  <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
+    <value>Modeller valideres på både klient- og serversiden baseret på dataanmerkninger.</value>
+  </data>
+  <data name="Multiple Database Provider Support" xml:space="preserve">
+    <value>Støtte til flere databaseudbydere</value>
   </data>
   <data name="Multiple Database Support" xml:space="preserve">
     <value>Understøttelse af flere databaser</value>
@@ -90,14 +135,29 @@
   <data name="Responsive Design" xml:space="preserve">
     <value>Responsivt Design</value>
   </data>
+  <data name="Robust Integration Testing" xml:space="preserve">
+    <value>Robust integrationstest</value>
+  </data>
+  <data name="Scheduled Task Management" xml:space="preserve">
+    <value>Planlagt opgavestyring</value>
+  </data>
   <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
     <value>Integrer problemfrit med enhver OpenID Connect-udbyder, med automatisk rolle-synkronisering.</value>
+  </data>
+  <data name="Smart Configuration Overrides" xml:space="preserve">
+    <value>Smart konfigurationsoverstyring</value>
+  </data>
+  <data name="Smart dark mode that adapts to the user&apos;s system settings." xml:space="preserve">
+    <value>Smart mørk tilstand, der tilpasser sig brugeren&apos;s systemindstillinger.</value>
   </data>
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>Smart mørk tilstand, der automatisk tilpasser sig brugerens systemindstillinger.</value>
   </data>
   <data name="Start a new project" xml:space="preserve">
     <value>Start et nyt projekt</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>Støtter både miljøvariabler og databasebaserede indstillinger, med automatisk prioritet til miljøvariabler for smertefri genoprettelse.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Navigationslinjen tilpasser sig automatisk baseret på brugerroller og tilladelser.</value>

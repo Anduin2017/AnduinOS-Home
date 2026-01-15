@@ -18,11 +18,17 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
+      <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
+    <value>Поддержка «огонь и забыть» для длительных задач (например, электронная почта или ИИ), с графическим интерфейсом для управления очередью, параллельной обработки и отмены.</value>
+  </data>
+  <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
     <value>Встроенная система управления доступом на основе ролей (RBAC) для детального управления разрешениями.</value>
   </data>
   <data name="A complete solution for user authentication and profile management right out of the box." xml:space="preserve">
     <value>Готовое комплексное решение для аутентификации пользователей и управления профилями прямо из коробки.</value>
+  </data>
+  <data name="A complete solution for user authentication and profile management." xml:space="preserve">
+    <value>Полное решение для аутентификации пользователей и управления профилями.</value>
   </data>
   <data name="A fully responsive layout that looks great on both desktop and mobile devices." xml:space="preserve">
     <value>Адаптивный макет, который отлично выглядит как на настольных компьютерах, так и на мобильных устройствах.</value>
@@ -42,11 +48,23 @@
   <data name="Automatic Dependency Injection" xml:space="preserve">
     <value>Автоматическое внедрение зависимостей</value>
   </data>
+  <data name="Automatic Time Zone Handling" xml:space="preserve">
+    <value>Автоматическое управление часовым поясом</value>
+  </data>
   <data name="Automatic, AI-driven translation into 28 languages for global reach." xml:space="preserve">
     <value>Автоматический перевод с использованием искусственного интеллекта на 28 языков для глобального охвата.</value>
   </data>
+  <data name="Automatic, AI-driven translation into 28 languages." xml:space="preserve">
+    <value>Автоматический перевод с использованием ИИ на 28 языков.</value>
+  </data>
+  <data name="Background Job Processing" xml:space="preserve">
+    <value>Обработка фоновых задач</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Встроенное управление пользователями</value>
+  </data>
+  <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
+    <value>Имеет поддержку Docker для упрощённого и единообразного развертывания.</value>
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>Предоставляет полную поддержку Docker для упрощённых, согласованных и надёжных развёртываний.</value>
@@ -54,17 +72,38 @@
   <data name="Comprehensive Documentation" xml:space="preserve">
     <value>Полная документация</value>
   </data>
+  <data name="Consistency Validation" xml:space="preserve">
+    <value>Проверка согласованности</value>
+  </data>
+  <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
+    <value>Разрабатывайте исключительно в формате UTC, при этом система автоматически преобразует и отображает даты в часовом поясе пользователя.</value>
+  </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Готово к развертыванию в Docker</value>
+  </data>
+  <data name="Dockerized for Easy Deployment" xml:space="preserve">
+    <value>Dockerized for Easy Deployment</value>
   </data>
   <data name="Dynamic Navigation Bar" xml:space="preserve">
     <value>Динамическая панель навигации</value>
   </data>
+  <data name="Easily switch between database providers, including SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
+    <value>Легко переключаться между поставщиками баз данных, включая SQLite, MySQL, SQL Server и базу данных в оперативной памяти для тестирования.</value>
+  </data>
   <data name="Easily switch between providers like SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
     <value>Легко переключайтесь между поставщиками, такими как SQLite, MySQL, SQL Server, и базой данных в памяти для тестирования.</value>
   </data>
+  <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
+    <value>Без усилий пишите интеграционные тесты с использованием баз данных в памяти, временных файловых систем, встроенных моков и имитации реальных HTTP-запросов.</value>
+  </data>
+  <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
+    <value>Обладает встроенной системой управления файлами с автоматическим сжатием аватаров и защитой конфиденциальности.</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression." xml:space="preserve">
     <value>Оснащена встроенной системой управления файлами с автоматическим сжатием аватаров.</value>
+  </data>
+  <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
+    <value>Управляйте повторяющимися задачами, такими как очистка и синхронизация, с помощью комплексного графического интерфейса для мониторинга истории выполнения и журналов.</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>Привет, мир!</value>
@@ -74,6 +113,12 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Встроенная система управления файлами</value>
+  </data>
+  <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
+    <value>Модели проверяются на стороне клиента и сервера на основе аннотаций данных.</value>
+  </data>
+  <data name="Multiple Database Provider Support" xml:space="preserve">
+    <value>Поддержка нескольких поставщиков баз данных</value>
   </data>
   <data name="Multiple Database Support" xml:space="preserve">
     <value>Поддержка нескольких баз данных</value>
@@ -90,14 +135,29 @@
   <data name="Responsive Design" xml:space="preserve">
     <value>Адаптивный дизайн</value>
   </data>
+  <data name="Robust Integration Testing" xml:space="preserve">
+    <value>Надежное интеграционное тестирование</value>
+  </data>
+  <data name="Scheduled Task Management" xml:space="preserve">
+    <value>Планировщик задач</value>
+  </data>
   <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
     <value>Беспрепятственная интеграция с любым провайдером OpenID Connect с автоматической синхронизацией ролей.</value>
+  </data>
+  <data name="Smart Configuration Overrides" xml:space="preserve">
+    <value>Умные переопределения конфигурации</value>
+  </data>
+  <data name="Smart dark mode that adapts to the user&apos;s system settings." xml:space="preserve">
+    <value>Умный темный режим, который адаптируется к настройкам системы пользователя.</value>
   </data>
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>Умный тёмный режим, который автоматически подстраивается под системные настройки пользователя.</value>
   </data>
   <data name="Start a new project" xml:space="preserve">
     <value>Начать новый проект</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>Поддерживает как переменные среды, так и настройки, хранящиеся в базе данных, при этом автоматически приоритет отдается переменным среды для бесшовного переопределения.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Панель навигации автоматически адаптируется в зависимости от ролей и разрешений пользователя.</value>

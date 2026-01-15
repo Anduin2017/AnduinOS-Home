@@ -18,11 +18,17 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
+      <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
+    <value>長時間実行タスク（メールやAIなど）に対する「ファイアアンドフォーゲット」サポート。キュー管理、並列処理、キャンセルを実現するGUIを備えています。</value>
+  </data>
+  <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
     <value>きめ細かい権限管理のための組み込みロールベースアクセス制御(RBAC)システム。</value>
   </data>
   <data name="A complete solution for user authentication and profile management right out of the box." xml:space="preserve">
     <value>すぐに使える、ユーザー認証とプロファイル管理のための完全なソリューションです。</value>
+  </data>
+  <data name="A complete solution for user authentication and profile management." xml:space="preserve">
+    <value>ユーザー認証およびプロフィール管理の完全なソリューション</value>
   </data>
   <data name="A fully responsive layout that looks great on both desktop and mobile devices." xml:space="preserve">
     <value>デスクトップとモバイルデバイスの両方で美しく表示される、完全なレスポンシブレイアウト。</value>
@@ -42,11 +48,23 @@
   <data name="Automatic Dependency Injection" xml:space="preserve">
     <value>自動依存性注入</value>
   </data>
+  <data name="Automatic Time Zone Handling" xml:space="preserve">
+    <value>自動時間帯処理</value>
+  </data>
   <data name="Automatic, AI-driven translation into 28 languages for global reach." xml:space="preserve">
     <value>28言語への自動AI翻訳で、グローバルな展開を実現。</value>
   </data>
+  <data name="Automatic, AI-driven translation into 28 languages." xml:space="preserve">
+    <value>自動、AI駆動の28言語への翻訳</value>
+  </data>
+  <data name="Background Job Processing" xml:space="preserve">
+    <value>バックグラウンドジョブ処理</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>組み込みユーザー管理</value>
+  </data>
+  <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
+    <value>Docker対応を備えており、簡素化され、一貫性のあるデプロイが可能になります。</value>
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>完全なDockerサポートにより、簡素化された一貫性のある信頼性の高いデプロイを実現します。</value>
@@ -54,17 +72,38 @@
   <data name="Comprehensive Documentation" xml:space="preserve">
     <value>包括的なドキュメント</value>
   </data>
+  <data name="Consistency Validation" xml:space="preserve">
+    <value>整合性検証</value>
+  </data>
+  <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
+    <value>UTCで開発を exclusively 行い、システムが日付をユーザーのローカルタイムゾーンに自動的に変換および表示します。</value>
+  </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Docker化によるデプロイ</value>
+  </data>
+  <data name="Dockerized for Easy Deployment" xml:space="preserve">
+    <value>Docker対応でデプロイが簡単</value>
   </data>
   <data name="Dynamic Navigation Bar" xml:space="preserve">
     <value>動的ナビゲーションバー</value>
   </data>
+  <data name="Easily switch between database providers, including SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
+    <value>SQLite、MySQL、SQL Server、およびテスト用のメモリ内データベースを含む、データベースプロバイダー間を簡単に切り替えることができます。</value>
+  </data>
   <data name="Easily switch between providers like SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
     <value>SQLite、MySQL、SQL Server、およびテスト用のインメモリデータベースなどのプロバイダーを簡単に切り替えられます。</value>
   </data>
+  <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
+    <value>メモリ内データベース、一時ファイルシステム、組み込みモック、そして現実世界のHTTPリクエストシミュレーションを使用して、簡単に統合テストを記述できます。</value>
+  </data>
+  <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
+    <value>自動アバター圧縮とプライバシー保護を備えた組み込みファイル管理システムを搭載しています。</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression." xml:space="preserve">
     <value>アバターの自動圧縮機能を備えた組み込みファイル管理システムを搭載しています。</value>
+  </data>
+  <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
+    <value>クリーンアップや同期などの繰り返し実行ジョブを、実行履歴やログの監視が可能な包括的なGUIで管理します。</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>こんにちは、世界！</value>
@@ -74,6 +113,12 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>統合ファイル管理</value>
+  </data>
+  <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
+    <value>モデルはデータ注釈に基づいて、クライアントおよびサーバーの両方で検証されます。</value>
+  </data>
+  <data name="Multiple Database Provider Support" xml:space="preserve">
+    <value>複数のデータベースプロバイダーサポート</value>
   </data>
   <data name="Multiple Database Support" xml:space="preserve">
     <value>複数データベースサポート</value>
@@ -90,14 +135,29 @@
   <data name="Responsive Design" xml:space="preserve">
     <value>レスポンシブデザイン</value>
   </data>
+  <data name="Robust Integration Testing" xml:space="preserve">
+    <value>堅牢な統合テスト</value>
+  </data>
+  <data name="Scheduled Task Management" xml:space="preserve">
+    <value>スケジュールタスク管理</value>
+  </data>
   <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
     <value>あらゆるOpenID Connectプロバイダーとシームレスに統合し、ロールの自動同期を実現します。</value>
+  </data>
+  <data name="Smart Configuration Overrides" xml:space="preserve">
+    <value>スマート設定オーバーライド</value>
+  </data>
+  <data name="Smart dark mode that adapts to the user&apos;s system settings." xml:space="preserve">
+    <value>ユーザーのシステム設定に合わせて自動調整されるスマートなダークモード。</value>
   </data>
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>ユーザーのシステム設定に自動的に適応するスマートダークモード。</value>
   </data>
   <data name="Start a new project" xml:space="preserve">
     <value>新規プロジェクトを開始</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>環境変数とデータベースベースの設定の両方をサポートしており、環境変数に自動的に優先順位が与えられ、スムーズな上書きが可能になります。</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>ナビゲーションバーはユーザーの役割と権限に基づいて自動的に調整されます。</value>
