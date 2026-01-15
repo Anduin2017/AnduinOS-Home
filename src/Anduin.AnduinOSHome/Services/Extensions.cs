@@ -71,7 +71,7 @@ public static class Extensions
 
         controller.Response.Headers.Append("Content-Disposition", $"inline; filename*=UTF-8''{asciiFileName}");
         controller.Response.Headers.Append("Content-Length", length.ToString());
-        controller.Response.Headers.CacheControl = $"public, max-age={TimeSpan.FromDays(365).TotalSeconds}";
+        controller.Response.Headers.Append("Cache-Control", $"public, max-age={TimeSpan.FromDays(7).TotalSeconds}");
 
         var extension = Path.GetExtension(path).TrimStart('.');
         return controller.PhysicalFile(path, Mime.GetContentType(extension), true);

@@ -1,3 +1,4 @@
+using System.Diagnostics.CodeAnalysis;
 using Anduin.AnduinOSHome.Authorization;
 using Anduin.AnduinOSHome.Configuration;
 using Anduin.AnduinOSHome.Entities;
@@ -9,6 +10,7 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace Anduin.AnduinOSHome.Services.Authentication;
 
+[ExcludeFromCodeCoverage]
 public static class AuthenticationExtensions
 {
     public static IServiceCollection AddTemplateAuth(

@@ -1,3 +1,4 @@
+using System.Diagnostics.CodeAnalysis;
 using Aiursoft.DbTools;
 using Aiursoft.DbTools.MySql;
 using Anduin.AnduinOSHome.Entities;
@@ -5,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace Anduin.AnduinOSHome.MySql;
 
+[ExcludeFromCodeCoverage]
 public class MySqlSupportedDb(bool allowCache, bool splitQuery) : SupportedDatabaseType<TemplateDbContext>
 {
     public override string DbType => "MySql";

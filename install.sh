@@ -1,7 +1,7 @@
-aiur() { arg="$( cut -d ' ' -f 2- <<< "$@" )" && curl -sL https://gitlab.anduin.com/anduin/aiurscript/-/raw/master/$1.sh | sudo bash -s $arg; }
+aiur() { arg="$( cut -d ' ' -f 2- <<< "$@" )" && curl -sL https://gitlab.aiursoft.com/aiursoft/aiurscript/-/raw/master/$1.sh | sudo bash -s $arg; }
 
 app_name="anduinOSHome"
-repo_path="https://gitlab.anduin.com/anduin/anduinOSHome"
+repo_path="https://gitlab.aiursoft.com/aiursoft/anduinOSHome"
 proj_path="src/Anduin.AnduinOSHome/Anduin.AnduinOSHome.csproj"
 
 get_dll_name()

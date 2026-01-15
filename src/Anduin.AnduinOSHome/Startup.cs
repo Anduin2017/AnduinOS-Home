@@ -28,7 +28,7 @@ public class Startup : IWebStartup
         // Relational database
         var (connectionString, dbType, allowCache) = configuration.GetDbSettings();
         services.AddSwitchableRelationalDatabase(
-            dbType: EntryExtends.IsInUnitTests() ? "InMemory": dbType,
+            dbType: EntryExtends.IsInUnitTests() ? "InMemory" : dbType,
             connectionString: connectionString,
             supportedDbs:
             [
@@ -46,6 +46,10 @@ public class Startup : IWebStartup
         services.AddAssemblyDependencies(typeof(Startup).Assembly);
         services.AddSingleton<NavigationState<Startup>>();
 
+        // Background job queue
+        services.AddSingleton<Services.BackgroundJobs.BackgroundJobQueue>();
+        services.AddHostedService<Services.BackgroundJobs.QueueWorkerService>();
+
         // Controllers and localization
         services.AddControllersWithViews()
             .AddNewtonsoftJson(options =>
@@ -62,14 +66,7 @@ public class Startup : IWebStartup
     public void Configure(WebApplication app)
     {
         app.UseExceptionHandler("/Error/Error");
-        app.UseStaticFiles(new StaticFileOptions
-        {
-            OnPrepareResponse = ctx =>
-            {
-                const int durationInSeconds = 60 * 60 * 24 * 365; // 1 year
-                ctx.Context.Response.Headers.CacheControl = "public,max-age=" + durationInSeconds;
-            }
-        });
+        app.UseStaticFiles();
         app.UseRouting();
         app.UseAuthentication();
         app.UseAuthorization();
