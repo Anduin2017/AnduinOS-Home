@@ -18,11 +18,17 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
+      <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
+    <value>긴 실행 시간 작업(예: 이메일 또는 AI)에 대한 &quot;파이어 앤 포겟&quot; 지원, 대기열 관리, 병렬 처리 및 취소를 위한 GUI를 제공합니다.</value>
+  </data>
+  <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
     <value>세분화된 권한 관리를 위한 내장형 역할 기반 접근 제어(RBAC) 시스템.</value>
   </data>
   <data name="A complete solution for user authentication and profile management right out of the box." xml:space="preserve">
     <value>사용자 인증 및 프로필 관리를 위한 완벽한 솔루션을 바로 사용할 수 있습니다.</value>
+  </data>
+  <data name="A complete solution for user authentication and profile management." xml:space="preserve">
+    <value>사용자 인증 및 프로필 관리를 위한 완전한 솔루션</value>
   </data>
   <data name="A fully responsive layout that looks great on both desktop and mobile devices." xml:space="preserve">
     <value>데스크톱과 모바일 기기 모두에서 훌륭하게 보이는 완벽하게 반응형 레이아웃.</value>
@@ -42,11 +48,23 @@
   <data name="Automatic Dependency Injection" xml:space="preserve">
     <value>자동 의존성 주입</value>
   </data>
+  <data name="Automatic Time Zone Handling" xml:space="preserve">
+    <value>자동 시간대 처리</value>
+  </data>
   <data name="Automatic, AI-driven translation into 28 languages for global reach." xml:space="preserve">
     <value>전 세계적 접근성을 위한 28개 언어의 자동 AI 기반 번역.</value>
   </data>
+  <data name="Automatic, AI-driven translation into 28 languages." xml:space="preserve">
+    <value>자동으로 AI 기반 번역이 28개 언어로 가능합니다.</value>
+  </data>
+  <data name="Background Job Processing" xml:space="preserve">
+    <value>백그라운드 작업 처리</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>내장된 사용자 관리</value>
+  </data>
+  <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
+    <value>간편하고 일관된 배포를 위한 Docker 지원이 포함되어 있습니다.</value>
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>완전한 Docker 지원을 통해 단순화되고 일관성 있으며 신뢰할 수 있는 배포를 제공합니다.</value>
@@ -54,17 +72,38 @@
   <data name="Comprehensive Documentation" xml:space="preserve">
     <value>포괄적인 문서</value>
   </data>
+  <data name="Consistency Validation" xml:space="preserve">
+    <value>일관성 검증</value>
+  </data>
+  <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
+    <value>UTC에서만 개발하고 시스템이 사용자의 로컬 시간대에 맞춰 날짜를 자동으로 변환하여 표시합니다.</value>
+  </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>배포를 위한 Docker화</value>
+  </data>
+  <data name="Dockerized for Easy Deployment" xml:space="preserve">
+    <value>Docker를 사용하여 간편 배포 가능</value>
   </data>
   <data name="Dynamic Navigation Bar" xml:space="preserve">
     <value>동적 내비게이션 바</value>
   </data>
+  <data name="Easily switch between database providers, including SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
+    <value>SQLite, MySQL, SQL Server, 그리고 테스트용 메모리 내 데이터베이스를 포함하여 데이터베이스 공급자를 쉽게 전환할 수 있습니다.</value>
+  </data>
   <data name="Easily switch between providers like SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
     <value>SQLite, MySQL, SQL Server 및 테스트용 인메모리 데이터베이스와 같은 공급자 간에 쉽게 전환할 수 있습니다.</value>
   </data>
+  <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
+    <value>메모리 내 데이터베이스, 임시 파일 시스템, 내장 모킹, 그리고 실제 세계의 HTTP 요청 시뮬레이션을 사용하여 통합 테스트를 쉽게 작성하세요.</value>
+  </data>
+  <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
+    <value>내장된 파일 관리 시스템을 갖추고 있으며, 자동 아바타 압축 및 개인정보 보호 기능을 제공합니다.</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression." xml:space="preserve">
     <value>내장된 파일 관리 시스템과 자동 아바타 압축 기능을 제공합니다.</value>
+  </data>
+  <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
+    <value>정기 작업(예: 정리 및 동기화)을 처리하고 실행 이력 및 로그를 모니터링할 수 있는 포괄적인 GUI를 사용하세요.</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>안녕하세요 세계!</value>
@@ -74,6 +113,12 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>통합 파일 관리</value>
+  </data>
+  <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
+    <value>모델은 데이터 주석을 기반으로 클라이언트 및 서버 측에서 모두 검증됩니다.</value>
+  </data>
+  <data name="Multiple Database Provider Support" xml:space="preserve">
+    <value>다중 데이터베이스 공급자 지원</value>
   </data>
   <data name="Multiple Database Support" xml:space="preserve">
     <value>다중 데이터베이스 지원</value>
@@ -90,14 +135,29 @@
   <data name="Responsive Design" xml:space="preserve">
     <value>반응형 디자인</value>
   </data>
+  <data name="Robust Integration Testing" xml:space="preserve">
+    <value>강력한 통합 테스팅</value>
+  </data>
+  <data name="Scheduled Task Management" xml:space="preserve">
+    <value>스케줄된 작업 관리</value>
+  </data>
   <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
     <value>어떤 OpenID Connect 공급자와도 원활하게 통합되며, 자동 역할 동기화를 지원합니다.</value>
+  </data>
+  <data name="Smart Configuration Overrides" xml:space="preserve">
+    <value>스마트 설정 오버라이드</value>
+  </data>
+  <data name="Smart dark mode that adapts to the user&apos;s system settings." xml:space="preserve">
+    <value>사용자 시스템 설정에 자동으로 적응하는 스마트 다크 모드</value>
   </data>
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>사용자의 시스템 설정에 자동으로 적응하는 스마트 다크 모드.</value>
   </data>
   <data name="Start a new project" xml:space="preserve">
     <value>새 프로젝트 시작하기</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>환경 변수와 데이터베이스 기반 설정을 모두 지원하며, 환경 변수가 세부 설정을 원활하게 오버라이드할 수 있도록 자동으로 우선 순위가 부여됩니다.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>네비게이션 바는 사용자 역할과 권한에 따라 자동으로 조정됩니다.</value>

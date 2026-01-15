@@ -18,11 +18,17 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
+      <data name="&quot;Fire-and-forget&quot; support for long-running tasks (like emails or AI), featuring a GUI for queue management, parallel processing, and cancellation." xml:space="preserve">
+    <value>Uzun çalışma süresi gerektiren görevler için &quot;fire-and-forget&quot; desteği (örneğin e-postalar veya AI), sırayı yönetme, paralel işlem ve iptal için grafik arayüzle birlikte.</value>
+  </data>
+  <data name="A built-in Role-Based Access Control (RBAC) system for fine-grained permission management." xml:space="preserve">
     <value>Hassas izin yönetimi için yerleşik bir Rol Tabanlı Erişim Kontrolü (RBAC) sistemi.</value>
   </data>
   <data name="A complete solution for user authentication and profile management right out of the box." xml:space="preserve">
     <value>Kullanıcı kimlik doğrulama ve profil yönetimi için kutudan çıkar çıkmaz kullanıma hazır eksiksiz bir çözüm.</value>
+  </data>
+  <data name="A complete solution for user authentication and profile management." xml:space="preserve">
+    <value>Kullanıcı kimlik doğrulaması ve profil yönetimi için kapsamlı bir çözüm.</value>
   </data>
   <data name="A fully responsive layout that looks great on both desktop and mobile devices." xml:space="preserve">
     <value>Hem masaüstü hem de mobil cihazlarda harika görünen tamamen duyarlı bir düzen.</value>
@@ -42,11 +48,23 @@
   <data name="Automatic Dependency Injection" xml:space="preserve">
     <value>Otomatik Bağımlılık Enjeksiyonu</value>
   </data>
+  <data name="Automatic Time Zone Handling" xml:space="preserve">
+    <value>Otomatik Saat Dilimi İşleme</value>
+  </data>
   <data name="Automatic, AI-driven translation into 28 languages for global reach." xml:space="preserve">
     <value>Küresel erişim için 28 dile otomatik, yapay zeka destekli çeviri.</value>
   </data>
+  <data name="Automatic, AI-driven translation into 28 languages." xml:space="preserve">
+    <value>Otomatik, yapay zeka destekli 28 dilde çeviri.</value>
+  </data>
+  <data name="Background Job Processing" xml:space="preserve">
+    <value>Arka Plan İşlem İşleme</value>
+  </data>
   <data name="Built-in User Management" xml:space="preserve">
     <value>Dahili Kullanıcı Yönetimi</value>
+  </data>
+  <data name="Comes with Docker support for simplified and consistent deployments." xml:space="preserve">
+    <value>Docker desteğiyle gelir, basit ve tutarlı dağıtımlar için.</value>
   </data>
   <data name="Comes with full Docker support for simplified, consistent, and reliable deployments." xml:space="preserve">
     <value>Basitleştirilmiş, tutarlı ve güvenilir dağıtımlar için tam Docker desteği ile birlikte gelir.</value>
@@ -54,17 +72,38 @@
   <data name="Comprehensive Documentation" xml:space="preserve">
     <value>Kapsamlı Dokümantasyon</value>
   </data>
+  <data name="Consistency Validation" xml:space="preserve">
+    <value>Tutarlılık Doğrulama</value>
+  </data>
+  <data name="Develop exclusively in UTC while the system automatically converts and displays dates in the user&apos;s local time zone." xml:space="preserve">
+    <value>UTC&apos;de özel olarak geliştirin, sistem tarihleri otomatik olarak kullanıcının yerel saat dilimine dönüştürür ve görüntüler.</value>
+  </data>
   <data name="Dockerized for Deployment" xml:space="preserve">
     <value>Dağıtım İçin Dockerize Edildi</value>
+  </data>
+  <data name="Dockerized for Easy Deployment" xml:space="preserve">
+    <value>Docker ile Kolay Dağıtım İçin Hazır</value>
   </data>
   <data name="Dynamic Navigation Bar" xml:space="preserve">
     <value>Dinamik Gezinti Çubuğu</value>
   </data>
+  <data name="Easily switch between database providers, including SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
+    <value>Basitçe SQLite, MySQL, SQL Server ve test amaçlı bellek içi veritabanı dahil olmak üzere veritabanı sağlayıcıları arasında geçiş yapın.</value>
+  </data>
   <data name="Easily switch between providers like SQLite, MySQL, SQL Server, and an in-memory database for testing." xml:space="preserve">
     <value>SQLite, MySQL, SQL Server gibi sağlayıcılar ile testler için kullanılan bellek içi veritabanı arasında kolayca geçiş yapın.</value>
   </data>
+  <data name="Effortlessly write integration tests using in-memory databases, temporary file systems, built-in mocking, and real-world HTTP request simulation." xml:space="preserve">
+    <value>Hafifçe entegrasyon testleri, bellekte çalışan veritabanları, geçici dosya sistemleri, yerleşik mocklama ve gerçek dünya HTTP isteği simülasyonu kullanarak yazın.</value>
+  </data>
+  <data name="Features a built-in file management system with automatic avatar compression and privacy protection." xml:space="preserve">
+    <value>Gömülü dosya yönetim sistemi, otomatik avatar sıkıştırma ve gizlilik koruması ile birlikte gelir.</value>
+  </data>
   <data name="Features a built-in file management system with automatic avatar compression." xml:space="preserve">
     <value>Otomatik avatar sıkıştırmalı yerleşik bir dosya yönetim sistemi içerir.</value>
+  </data>
+  <data name="Handle recurring jobs like cleanup and synchronization with a comprehensive GUI for monitoring execution history and logs." xml:space="preserve">
+    <value>Temizlik ve senkronizasyon gibi tekrar eden görevleri, yürütme geçmişi ve günlükleri izlemek için kapsamlı bir GUI ile yönetin.</value>
   </data>
   <data name="Hello World!" xml:space="preserve">
     <value>Merhaba Dünya!</value>
@@ -74,6 +113,12 @@
   </data>
   <data name="Integrated File Management" xml:space="preserve">
     <value>Entegre Dosya Yönetimi</value>
+  </data>
+  <data name="Models are validated on both client and server sides based on data annotations." xml:space="preserve">
+    <value>Modeller, veri eklemelerine göre hem istemci hem de sunucu tarafında doğrulanır.</value>
+  </data>
+  <data name="Multiple Database Provider Support" xml:space="preserve">
+    <value>Çoklu Veritabanı Sağlayıcı Desteği</value>
   </data>
   <data name="Multiple Database Support" xml:space="preserve">
     <value>Çoklu Veritabanı Desteği</value>
@@ -90,14 +135,29 @@
   <data name="Responsive Design" xml:space="preserve">
     <value>Duyarlı Tasarım</value>
   </data>
+  <data name="Robust Integration Testing" xml:space="preserve">
+    <value>Güçlü Entegrasyon Testi</value>
+  </data>
+  <data name="Scheduled Task Management" xml:space="preserve">
+    <value>Zamanlanmış Görev Yönetimi</value>
+  </data>
   <data name="Seamlessly integrate with any OpenID Connect provider, with automatic role synchronization." xml:space="preserve">
     <value>Herhangi bir OpenID Connect sağlayıcısıyla sorunsuz entegre olun, otomatik rol senkronizasyonu ile.</value>
+  </data>
+  <data name="Smart Configuration Overrides" xml:space="preserve">
+    <value>Akıllı Yapılandırma Geçersiz Kılma</value>
+  </data>
+  <data name="Smart dark mode that adapts to the user&apos;s system settings." xml:space="preserve">
+    <value>Akıllı karanlık mod, kullanıcı sistemi ayarlarına uyum sağlar.</value>
   </data>
   <data name="Smart dark mode that automatically adapts to the user&apos;s system settings." xml:space="preserve">
     <value>Kullanıcının sistem ayarlarına otomatik olarak uyum sağlayan akıllı karanlık mod.</value>
   </data>
   <data name="Start a new project" xml:space="preserve">
     <value>Yeni bir proje başlat</value>
+  </data>
+  <data name="Supports both environment variables and database-backed settings, with automatic priority given to environment variables for seamless overrides." xml:space="preserve">
+    <value>Ortam değişkenleri ve veritabanı temelli ayarlar destekler, sorunsuz geçişler için otomatik olarak ortam değişkenlerine öncelik verilir.</value>
   </data>
   <data name="The navigation bar automatically adjusts based on user roles and permissions." xml:space="preserve">
     <value>Gezinme çubuğu, kullanıcı rollerine ve izinlerine göre otomatik olarak ayarlanır.</value>
