@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Anduin.AnduinOSHome.InMemory;
 
-public class InMemoryContext(DbContextOptions<InMemoryContext> options) : TemplateDbContext(options)
+public class InMemoryContext(DbContextOptions<InMemoryContext> options) : AnduinOSHomeDbContext(options)
 {
     public override Task MigrateAsync(CancellationToken cancellationToken)
     {

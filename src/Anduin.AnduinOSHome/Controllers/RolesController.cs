@@ -19,7 +19,7 @@ namespace Anduin.AnduinOSHome.Controllers;
 [LimitPerMin]
 public class RolesController(
     UserManager<User> userManager,
-    TemplateDbContext context,
+    AnduinOSHomeDbContext context,
     RoleManager<IdentityRole> roleManager)
     : Controller
 {

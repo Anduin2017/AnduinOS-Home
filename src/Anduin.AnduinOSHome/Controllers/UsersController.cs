@@ -19,7 +19,7 @@ namespace Anduin.AnduinOSHome.Controllers;
 public class UsersController(
     RoleManager<IdentityRole> roleManager,
     UserManager<User> userManager,
-    TemplateDbContext context)
+    AnduinOSHomeDbContext context)
     : Controller
 {
     [Authorize(Policy = AppPermissionNames.CanReadUsers)]

@@ -6,4 +6,4 @@ namespace Anduin.AnduinOSHome.MySql;
 
 [ExcludeFromCodeCoverage]
 
-public class MySqlContext(DbContextOptions<MySqlContext> options) : TemplateDbContext(options);
+public class MySqlContext(DbContextOptions<MySqlContext> options) : AnduinOSHomeDbContext(options);

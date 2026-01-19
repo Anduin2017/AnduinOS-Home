@@ -6,7 +6,7 @@ namespace Anduin.AnduinOSHome.Sqlite;
 
 [ExcludeFromCodeCoverage]
 
-public class SqliteContext(DbContextOptions<SqliteContext> options) : TemplateDbContext(options)
+public class SqliteContext(DbContextOptions<SqliteContext> options) : AnduinOSHomeDbContext(options)
 {
     public override Task<bool> CanConnectAsync()
     {

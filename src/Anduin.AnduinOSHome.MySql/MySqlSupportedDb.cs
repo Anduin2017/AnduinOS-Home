@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 namespace Anduin.AnduinOSHome.MySql;
 
 [ExcludeFromCodeCoverage]
-public class MySqlSupportedDb(bool allowCache, bool splitQuery) : SupportedDatabaseType<TemplateDbContext>
+public class MySqlSupportedDb(bool allowCache, bool splitQuery) : SupportedDatabaseType<AnduinOSHomeDbContext>
 {
     public override string DbType => "MySql";
 
@@ -19,7 +19,7 @@ public class MySqlSupportedDb(bool allowCache, bool splitQuery) : SupportedDatab
             allowCache: allowCache);
     }
 
-    public override TemplateDbContext ContextResolver(IServiceProvider serviceProvider)
+    public override AnduinOSHomeDbContext ContextResolver(IServiceProvider serviceProvider)
     {
         return serviceProvider.GetRequiredService<MySqlContext>();
     }
