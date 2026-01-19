@@ -1,0 +1,19 @@
+using System.Diagnostics.CodeAnalysis;
+using Aiursoft.DbTools;
+using Anduin.AnduinOSHome.Entities;
+using static Aiursoft.WebTools.Extends;
+
+namespace Anduin.AnduinOSHome;
+
+[ExcludeFromCodeCoverage]
+public abstract class Program
+{
+    public static async Task Main(string[] args)
+    {
+        var app = await AppAsync<Startup>(args);
+        await app.UpdateDbAsync<AnduinOSHomeDbContext>();
+        await app.SeedAsync();
+        await app.CopyAvatarFileAsync();
+        await app.RunAsync();
+    }
+}
