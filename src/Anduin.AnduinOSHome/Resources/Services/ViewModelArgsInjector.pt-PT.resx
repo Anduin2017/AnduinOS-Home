@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Admin" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>Acesso Negado</value>
+  </data>
+  <data name="Admin" xml:space="preserve">
     <value>Administrador</value>
   </data>
   <data name="Administration" xml:space="preserve">
@@ -32,6 +35,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>Tarefas em Segundo Plano</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>Pedido Inválido</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>Alterar Avatar</value>
@@ -50,6 +56,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>Criar Utilizador</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Painel de Controle</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>Eliminar Função</value>
@@ -84,6 +93,12 @@
   <data name="Info" xml:space="preserve">
     <value>Informação</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>Erro Interno do Servidor</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>Bloqueio</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>Iniciar sessão</value>
   </data>
@@ -93,11 +108,23 @@
   <data name="Manage" xml:space="preserve">
     <value>Gerir</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Não Encontrado</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>Open Source &amp; Linux</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>Detalhes de Permissões</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>Permissões</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>Pessoal</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Privacidade</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>Perfil</value>
@@ -128,6 +155,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Modelo</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Termos</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>Obrigado</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Não Autorizado</value>

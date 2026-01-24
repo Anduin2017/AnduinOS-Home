@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Account Settings" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>存取被拒</value>
+  </data>
+  <data name="Account Settings" xml:space="preserve">
     <value>帳戶設定</value>
   </data>
   <data name="Admin" xml:space="preserve">
@@ -35,6 +38,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>背景工作</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>錯誤的請求</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>變更大頭貼</value>
@@ -53,6 +59,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>建立使用者</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>儀表板</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>刪除角色</value>
@@ -87,6 +96,12 @@
   <data name="Info" xml:space="preserve">
     <value>資訊</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>內部伺服器錯誤</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>帳戶鎖定</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>登入</value>
   </data>
@@ -96,11 +111,23 @@
   <data name="Manage" xml:space="preserve">
     <value>管理</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>找不到</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>開源與 Linux</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>權限詳情</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>權限</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>個人</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>隱私權</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>個人檔案</value>
@@ -131,6 +158,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>範本</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>條款</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>感謝您</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>未經授權</value>
