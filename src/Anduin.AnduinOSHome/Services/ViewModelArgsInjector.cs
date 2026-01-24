@@ -68,6 +68,19 @@ public class ViewModelArgsInjector(
         _ = localizer["Background Jobs"];
         _ = localizer["Global Settings"];
         _ = localizer["Permissions"];
+    
+        _ = localizer["Access Denied"];
+        _ = localizer["Bad Request"];
+        _ = localizer["Dashboard"];
+        _ = localizer["Internal Server Error"];
+        _ = localizer["Lockout"];
+        _ = localizer["Not Found"];
+        _ = localizer["Open Source & Linux"];
+        _ = localizer["Permission Details"];
+        _ = localizer["Privacy"];
+        _ = localizer["Register"];
+        _ = localizer["Terms"];
+        _ = localizer["Thank You"];
     }
 
     public void InjectSimple(

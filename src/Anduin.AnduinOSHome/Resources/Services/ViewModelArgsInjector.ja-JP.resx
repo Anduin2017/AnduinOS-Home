@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Account Settings" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>アクセスが拒否されました</value>
+  </data>
+  <data name="Account Settings" xml:space="preserve">
     <value>アカウント設定</value>
   </data>
   <data name="Admin" xml:space="preserve">
@@ -35,6 +38,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>バックグラウンドジョブ</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>Bad Request</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>アバターを変更</value>
@@ -53,6 +59,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>ユーザーを作成</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>ダッシュボード</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>ロールを削除</value>
@@ -87,6 +96,12 @@
   <data name="Info" xml:space="preserve">
     <value>情報</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>内部サーバーエラー</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>ロックアウト</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>ログイン</value>
   </data>
@@ -96,11 +111,23 @@
   <data name="Manage" xml:space="preserve">
     <value>管理</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>見つかりません</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>オープンソース &amp; Linux</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>権限の詳細</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>権限</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>個人</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>プライバシー</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>プロフィール</value>
@@ -131,6 +158,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>テンプレート</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>利用規約</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>ありがとう</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>権限がありません</value>

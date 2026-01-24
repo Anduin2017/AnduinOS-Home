@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Admin" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>Åtkomst nekad</value>
+  </data>
+  <data name="Admin" xml:space="preserve">
     <value>Administratör</value>
   </data>
   <data name="Administration" xml:space="preserve">
@@ -32,6 +35,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>Bakgrundsjobb</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>Felaktig förfrågan</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>Byt avatar</value>
@@ -50,6 +56,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>Skapa användare</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Instrumentbräda</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>Ta bort roll</value>
@@ -84,6 +93,12 @@
   <data name="Info" xml:space="preserve">
     <value>Information</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>Intern serverfel</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>Låst ut</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>Logga in</value>
   </data>
@@ -93,11 +108,23 @@
   <data name="Manage" xml:space="preserve">
     <value>Hantera</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Sidan hittades inte</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>Öppen källkod &amp; Linux</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>Behörighetsdetaljer</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>Behörigheter</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>Personligt</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Integritet</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>Profil</value>
@@ -128,6 +155,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Mall</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Villkor</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>Tack</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Obehörig</value>

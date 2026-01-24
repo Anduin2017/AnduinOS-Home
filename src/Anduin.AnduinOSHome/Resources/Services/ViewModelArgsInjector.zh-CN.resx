@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Account Settings" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>访问被拒绝</value>
+  </data>
+  <data name="Account Settings" xml:space="preserve">
     <value>账户设置</value>
   </data>
   <data name="Admin" xml:space="preserve">
@@ -35,6 +38,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>后台任务</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>错误的请求</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>更换头像</value>
@@ -53,6 +59,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>创建用户</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>仪表盘</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>删除角色</value>
@@ -87,6 +96,12 @@
   <data name="Info" xml:space="preserve">
     <value>信息</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>内部服务器错误</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>账户被锁定</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>登录</value>
   </data>
@@ -96,11 +111,23 @@
   <data name="Manage" xml:space="preserve">
     <value>管理</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>未找到</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>开源 &amp; Linux</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>权限详情</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>权限</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>个人</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>隐私</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>个人资料</value>
@@ -131,6 +158,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>模板</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>条款</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>感谢</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>未授权</value>

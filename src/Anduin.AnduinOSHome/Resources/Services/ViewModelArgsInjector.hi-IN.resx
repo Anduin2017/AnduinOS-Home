@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Admin" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>प्रवेश अस्वीकृत</value>
+  </data>
+  <data name="Admin" xml:space="preserve">
     <value>प्रशासक</value>
   </data>
   <data name="Administration" xml:space="preserve">
@@ -32,6 +35,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>बैकग्राउंड जॉब्स</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>बैड रिक्वेस्ट</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>अवतार बदलें</value>
@@ -50,6 +56,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>उपयोगकर्ता बनाएं</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>डैशबोर्ड</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>रोल हटाएं</value>
@@ -84,6 +93,12 @@
   <data name="Info" xml:space="preserve">
     <value>जानकारी</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>आ interनल सर्वर त्रुटि</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>लॉकआउट</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>लॉगिन</value>
   </data>
@@ -93,11 +108,23 @@
   <data name="Manage" xml:space="preserve">
     <value>प्रबंधित करें</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>नहीं मिला</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>ओपन सोर्स &amp; लिनक्स</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>अनुमति विवरण</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>अनुमतियाँ</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>व्यक्तिगत</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>गोपनीयता</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>प्रोफ़ाइल</value>
@@ -128,6 +155,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>टेम्पलेट</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>शर्तें</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>धन्यवाद</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>अनधिकृत</value>

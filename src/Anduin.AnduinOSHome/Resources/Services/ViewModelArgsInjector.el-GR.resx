@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Admin" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>Πρόσβαση Απαγορευμένη</value>
+  </data>
+  <data name="Admin" xml:space="preserve">
     <value>Διαχειριστής</value>
   </data>
   <data name="Administration" xml:space="preserve">
@@ -32,6 +35,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>Hintergrund Jobs</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>Λάθος Αίτημα</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>Αλλαγή Avatar</value>
@@ -50,6 +56,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>Δημιουργία Χρήστη</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Πίνακας Ελέγχου</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>Διαγραφή Ρόλου</value>
@@ -84,6 +93,12 @@
   <data name="Info" xml:space="preserve">
     <value>Πληροφορίες</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>Internal Server Error</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>Μπλοκάρισμα</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>Σύνδεση</value>
   </data>
@@ -93,11 +108,23 @@
   <data name="Manage" xml:space="preserve">
     <value>Διαχείριση</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Δεν βρέθηκε</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>Ανοιχτού Κώδικα &amp; Linux</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>Λεπτομέρειες Εξουσιοδότησης</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>Άδειες</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>Προσωπικά</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Προστασία Προσωπικών Δεδομένων</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>Προφίλ</value>
@@ -128,6 +155,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Πρότυπο</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Όροι</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>Ευχαριστούμε</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Μη Εξουσιοδοτημένος</value>

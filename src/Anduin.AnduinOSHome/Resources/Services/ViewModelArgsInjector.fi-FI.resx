@@ -18,7 +18,10 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Admin" xml:space="preserve">
+      <data name="Access Denied" xml:space="preserve">
+    <value>Pääsy estetty</value>
+  </data>
+  <data name="Admin" xml:space="preserve">
     <value>Ylläpitäjä</value>
   </data>
   <data name="Administration" xml:space="preserve">
@@ -32,6 +35,9 @@
   </data>
   <data name="Background Jobs" xml:space="preserve">
     <value>Taustatehtävät</value>
+  </data>
+  <data name="Bad Request" xml:space="preserve">
+    <value>Virheellinen pyyntö</value>
   </data>
   <data name="Change Avatar" xml:space="preserve">
     <value>Vaihda avataria</value>
@@ -50,6 +56,9 @@
   </data>
   <data name="Create User" xml:space="preserve">
     <value>Luo käyttäjä</value>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Hallintapaneeli</value>
   </data>
   <data name="Delete Role" xml:space="preserve">
     <value>Poista rooli</value>
@@ -84,6 +93,12 @@
   <data name="Info" xml:space="preserve">
     <value>Tiedot</value>
   </data>
+  <data name="Internal Server Error" xml:space="preserve">
+    <value>Sisäinen palvelinvirhe</value>
+  </data>
+  <data name="Lockout" xml:space="preserve">
+    <value>Lukitus</value>
+  </data>
   <data name="Login" xml:space="preserve">
     <value>Kirjaudu</value>
   </data>
@@ -93,11 +108,23 @@
   <data name="Manage" xml:space="preserve">
     <value>Hallinnoi</value>
   </data>
+  <data name="Not Found" xml:space="preserve">
+    <value>Ei löytynyt</value>
+  </data>
+  <data name="Open Source &amp; Linux" xml:space="preserve">
+    <value>Avoin lähdekoodi &amp; Linux</value>
+  </data>
+  <data name="Permission Details" xml:space="preserve">
+    <value>Käyttöoikeuden tiedot</value>
+  </data>
   <data name="Permissions" xml:space="preserve">
     <value>Oikeudet</value>
   </data>
   <data name="Personal" xml:space="preserve">
     <value>Henkilökohtainen</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Yksityisyyden suoja</value>
   </data>
   <data name="Profile" xml:space="preserve">
     <value>Profiili</value>
@@ -128,6 +155,12 @@
   </data>
   <data name="Template" xml:space="preserve">
     <value>Malli</value>
+  </data>
+  <data name="Terms" xml:space="preserve">
+    <value>Käyttöehdot</value>
+  </data>
+  <data name="Thank You" xml:space="preserve">
+    <value>Kiitos</value>
   </data>
   <data name="Unauthorized" xml:space="preserve">
     <value>Luvaton</value>
