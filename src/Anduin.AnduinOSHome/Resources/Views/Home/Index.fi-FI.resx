@@ -48,6 +48,9 @@
   <data name="AI Tool Environment" xml:space="preserve">
     <value>AI Tool Environment</value>
   </data>
+  <data name="AI-Native Environment" xml:space="preserve">
+    <value>AI-Native Environment</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Kaikki versiot</value>
   </data>
@@ -209,6 +212,9 @@
   </data>
   <data name="Includes:" xml:space="preserve">
     <value>Sisältää:</value>
+  </data>
+  <data name="Install Antigravity" xml:space="preserve">
+    <value>Asenna Antigravity</value>
   </data>
   <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
     <value>Asenna Gemini CLI (Suositeltu)</value>

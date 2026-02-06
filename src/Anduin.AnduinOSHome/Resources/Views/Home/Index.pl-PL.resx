@@ -48,6 +48,9 @@
   <data name="AI Tool Environment" xml:space="preserve">
     <value>Środowisko narzędzi AI</value>
   </data>
+  <data name="AI-Native Environment" xml:space="preserve">
+    <value>Środowisko AI-Native</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Wszystkie wersje</value>
   </data>
@@ -212,6 +215,9 @@
   </data>
   <data name="Includes:" xml:space="preserve">
     <value>Zawiera:</value>
+  </data>
+  <data name="Install Antigravity" xml:space="preserve">
+    <value>Zainstaluj Antigravity</value>
   </data>
   <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
     <value>Zainstaluj Gemini CLI (Zalecane)</value>

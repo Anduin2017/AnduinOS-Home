@@ -222,11 +222,11 @@
   <data name="Includes:" xml:space="preserve">
     <value>含まれるもの:</value>
   </data>
+  <data name="Install Antigravity" xml:space="preserve">
+    <value>Install Antigravity</value>
+  </data>
   <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
     <value>Install Gemini CLI (Recommended)</value>
-  </data>
-  <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
-    <value>Install Gemini CLI (Suggested)</value>
   </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>AnduinOSは無料で使用できますか？</value>

@@ -219,6 +219,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>Enthält:</value>
   </data>
+  <data name="Install Antigravity" xml:space="preserve">
+    <value>Install Antigravity</value>
+  </data>
   <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
     <value>Installieren Sie Gemini CLI (Empfohlen)</value>
   </data>
