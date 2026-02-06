@@ -178,3 +178,144 @@ nav.navbar{
          transform: translateY(-50%);
      }
  }
+
+/* 1. 区域设置 */
+.ai-section {
+    background-color: #020617; /* 深蓝黑背景 */
+    min-height: 800px; /* 给足够的高度展示背景图 */
+    position: relative;
+}
+
+/* 2. 沉浸式背景容器 - 电影院布局 */
+.ai-immersive-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60%; /* 占据左侧空间 */
+    height: 100%;
+    z-index: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 2%;
+    overflow: hidden;
+    
+    /* 渐变遮罩，让边缘软化融入背景 */
+    -webkit-mask-image: radial-gradient(circle at center, black 40%, transparent 95%);
+    mask-image: radial-gradient(circle at center, black 40%, transparent 95%);
+}
+
+/* 3. 图片本身的特效 (电影院巨幕感) */
+.ai-immersive-bg .bg-image-wrapper {
+    width: 95%;
+    max-width: 900px;
+    aspect-ratio: 16/10;
+    
+    /* 极微小透视：接近矩形，仅保留极少的纵深感 */
+    /* perspective 调大至 3000px 让透视更平 */
+    transform: perspective(3000px) rotateX(4deg) rotateY(5deg) scale(0.95);
+    transform-origin: center center;
+    
+    /* 巨幕效果：阴影也相应调得更柔和 */
+    box-shadow: 
+        0 30px 80px rgba(0, 0, 0, 0.8), 
+        0 0 40px rgba(14, 165, 233, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    
+    overflow: hidden;
+    filter: blur(1px) brightness(0.65); 
+    transition: all 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.ai-immersive-bg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* 4. 鼠标悬停时，几乎回正，极其微小的动效 */
+.ai-section:hover .ai-immersive-bg .bg-image-wrapper {
+    filter: blur(0px) brightness(0.95);
+    /* 几乎平行，只留 1-2 度的呼吸感 */
+    transform: perspective(3000px) rotateX(1deg) rotateY(2deg) scale(0.98);
+    box-shadow: 
+        0 40px 100px rgba(0, 0, 0, 0.9), 
+        0 0 60px rgba(14, 165, 233, 0.2);
+}
+
+/* 5. 卡片样式保持不变 (沿用之前的深色玻璃) */
+.bg-dark-glass {
+    background: rgba(15, 23, 42, 0.6);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+.bg-dark-glass-sm {
+    background: rgba(15, 23, 42, 0.4);
+}
+.hover-lift {
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+.hover-lift:hover {
+    transform: translateY(-5px);
+    background: rgba(30, 41, 59, 0.8);
+    border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Shell 卡片悬停时的微光紫色，代替原来的大紫块 */
+.hover-glow-purple:hover {
+    transform: translateY(-4px);
+    background: rgba(30, 41, 59, 0.9);
+    border-color: rgba(168, 85, 247, 0.3) !important; /* 紫色边框 */
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.15); /* 紫色光晕 */
+}
+
+/* 边框辅助色 */
+.border-white-10 {
+    border-color: rgba(255, 255, 255, 0.08) !important;
+}
+
+.bg-white-10 {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* 文字颜色协调方案 */
+.text-gray-300 { color: #cbd5e1 !important; }
+.text-gray-400 { color: #94a3b8 !important; } /* 正文主要颜色，不刺眼 */
+.text-gray-500 { color: #64748b !important; }
+
+/* 小图标容器 */
+.icon-box-sm {
+    width: 42px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 字母间距微调 */
+.tracking-wider { letter-spacing: 0.05em; }
+
+/* 移动端适配 */
+@media (max-width: 991px) {
+    .ai-immersive-bg {
+        width: 100%; /* 手机上全屏宽 */
+        height: 100%;
+        opacity: 0.2; /* 手机上淡化背景，避免干扰文字 */
+        -webkit-mask-image: linear-gradient(to bottom, black 0%, transparent 90%); /* 手机上改成上下渐变 */
+        mask-image: linear-gradient(to bottom, black 0%, transparent 90%);
+    }
+    
+    .ai-immersive-bg .bg-image-wrapper {
+        transform: none; /* 手机 on mobile 取消 3D 旋转 */
+        filter: blur(4px) brightness(0.4);
+    }
+}
+
+.extra-small {
+    font-size: 0.65rem;
+    line-height: 1.2;
+    margin-top: 4px;
+}
