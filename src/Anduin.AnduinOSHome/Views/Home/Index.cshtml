@@ -586,7 +586,7 @@
     @* =========================== *@
     <div class="ai-immersive-bg">
         <div class="bg-image-wrapper">
-             <img src="~/images/ainative.png" alt="AI Native Environment" class="img-fluid object-fit-cover w-100 h-100">
+             <img src="~/images/ainative.webp" alt="AI Native Environment" class="img-fluid object-fit-cover w-100 h-100">
         </div>
         <div class="bg-overlay"></div>
     </div>
@@ -604,12 +604,17 @@
                         <span class="text-gray-300 small fw-medium text-uppercase tracking-wider">AI-First Architecture</span>
                     </div>
                     <h2 class="display-4 fw-bold text-white mb-3">
-                        @Localizer["首屈一指的"]<br>
-                        @Localizer["AI 工具环境"]
+                        <span class="text-primary">@Localizer["Premier"]</span><br>
+                        @Localizer["AI Tool Environment"]
                     </h2>
                     <p class="lead text-gray-400 fs-5">
-                        @Localizer["专为大模型时代打造。原生 Shell，原生 Docker，以及无拘无束的 Python 体验。"]
+                        @Localizer["Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience."]
                     </p>
+                    <div class="mt-4">
+                        <a href="https://github.com/google-gemini/gemini-cli" target="_blank" class="btn btn-primary btn-pill">
+                            @Localizer["Install Gemini CLI (Suggested)"]
+                        </a>
+                    </div>
                 </div>
 
                 <div class="row g-3 ps-lg-4">
@@ -621,35 +626,35 @@
                                 <div class="icon-box-sm bg-warning-subtle text-warning rounded-3 me-3 mb-3">
                                     <i class="fab fa-python fa-lg"></i>
                                 </div>
-                                <h5 class="fw-bold text-white fs-6">@Localizer["一等公民的 Python"]</h5>
-                                <p class="text-gray-400 small mb-0 lh-sm"> @Localizer["原生预装，系统级集成，开箱即用。"]</p>
+                                <h5 class="fw-bold text-white fs-6">@Localizer["First-class Python"]</h5>
+                                <p class="text-gray-400 small mb-0 lh-sm"> @Localizer["Natively pre-installed, system-level integration, out-of-the-box."]</p>
                             </div>
                         </div>
                     </div>
 
                     @* Card 2: Docker *@
                     <div class="col-md-6">
-                        <div class="card bg-dark-glass border-white-10 h-100 hover-lift">
+                        <a href="https://docs.anduinos.com/Applications/Development/Docker/Docker.html" target="_blank" class="card bg-dark-glass border-white-10 h-100 hover-lift text-decoration-none">
                             <div class="card-body p-4">
                                 <div class="icon-box-sm bg-primary-subtle text-primary rounded-3 me-3 mb-3">
                                     <i class="fab fa-docker fa-lg"></i>
                                 </div>
                                 <h5 class="fw-bold text-white fs-6">Docker</h5>
-                                <p class="text-gray-400 small mb-0 lh-sm"> @Localizer["一键部署，原生支持 GPU 直通，容器开发Never easier。"]</p>
+                                <p class="text-gray-400 small mb-0 lh-sm"> @Localizer["One-click deployment, native GPU passthrough support, container development has never been easier."]</p>
                             </div>
-                        </div>
+                        </a>
                     </div>
 
                     @* Card 3: Shell *@
                     <div class="col-12">
-                        <div class="card bg-dark-glass border-white-10 h-100 hover-glow-purple">
+                        <div class="card bg-dark-glass border-white-10 h-100 hover-lift">
                             <div class="card-body p-4 d-flex align-items-center">
                                 <div class="icon-box-sm bg-white-10 text-white rounded-3 me-3">
                                     <i class="fas fa-terminal"></i>
                                 </div>
                                 <div>
-                                    <h5 class="fw-bold text-white mb-1 fs-6"> @Localizer["原生 Shell 体验"]</h5>
-                                    <p class="text-gray-400 small mb-0">Zsh, Fish, Bash - @Localizer["无缝兼容所有 Dotfiles"]</p>
+                                    <h5 class="fw-bold text-white mb-1 fs-6"> @Localizer["Native Shell Experience"]</h5>
+                                    <p class="text-gray-400 small mb-0">Zsh, Fish, Bash - @Localizer["Seamlessly compatible with all dotfiles"]</p>
                                 </div>
                             </div>
                         </div>
@@ -661,7 +666,7 @@
                             <div class="card-body p-2">
                                 <i class="fab fa-ubuntu text-danger mb-2 fs-5"></i>
                                 <div class="text-gray-300 small fw-bold" style="font-size: 0.75rem">Ubuntu</div>
-                                <div class="text-gray-500 extra-small">@Localizer["AI 最熟悉的基底环境"]</div>
+                                <div class="text-gray-500 extra-small">@Localizer["The base environment AI knows best"]</div>
                             </div>
                         </div>
                     </div>
@@ -670,7 +675,7 @@
                             <div class="card-body p-2">
                                 <i class="fas fa-unlock text-success mb-2 fs-5"></i>
                                 <div class="text-gray-300 small fw-bold" style="font-size: 0.75rem">Unsigned</div>
-                                <div class="text-gray-500 extra-small">@Localizer["无任何执行签名和配置限制"]</div>
+                                <div class="text-gray-500 extra-small">@Localizer["No execution signing or modification restrictions"]</div>
                             </div>
                         </div>
                     </div>
@@ -679,7 +684,7 @@
                             <div class="card-body p-2">
                                 <i class="fas fa-robot text-info mb-2 fs-5"></i>
                                 <div class="text-gray-300 small fw-bold" style="font-size: 0.75rem">AI Fix</div>
-                                <div class="text-gray-500 extra-small">@Localizer["使用自然语言 AI 自动修正系统和环境问题"]</div>
+                                <div class="text-gray-500 extra-small">@Localizer["Use natural language AI to automatically fix system and environment issues"]</div>
                             </div>
                         </div>
                     </div>

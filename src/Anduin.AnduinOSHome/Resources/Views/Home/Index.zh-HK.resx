@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>下載完成後，你可能想了解如何</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>AI 工具環境</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>所有版本</value>
   </data>
@@ -101,6 +104,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>建構</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>為大型模型時代而設。原生 Shell、原生 Docker，以及無拘無束的 Python 使用體驗。</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>將ISO燒錄到USB驅動器</value>
@@ -159,6 +165,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>常見問題</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>首選 Python</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>聯繫我們以解答任何問題。</value>
   </data>
@@ -210,6 +219,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>包括：</value>
   </data>
+  <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
+    <value>安裝 Gemini CLI (建議)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>使用 AnduinOS 是免費的嗎？</value>
   </data>
@@ -252,6 +264,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>您所依賴嘅大多數軟件都可以喺 AnduinOS 上完美運行，同時仲有成千上萬個強大、免費同開源嘅替代選擇。AnduinOS 提供即時、整合嘅 Flatpak 同 Ubuntu 龐大軟件庫存取，讓您理想嘅工作流程只需點擊一下即可實現。</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>原生 Shell 經驗</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>原生預裝，系統級整合，開箱即用。</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>無執行簽署或修改限制</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>完全沒有遙測！選擇 &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; 來重獲您的私隱</value>
   </data>
@@ -261,6 +282,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>在 Ask Ubuntu 上，您可以搜尋和詢問非常常見的問題。幾乎所有 AnduinOS 問題的解決方案都與 Ubuntu 的解決方案相同。您可以完全依賴 Ubuntu 的文檔和專業知識來解決 AnduinOS 的問題。</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>一鍵部署，原生 GPU 直通支援，容器開發從未如此輕鬆。</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>開源</value>
   </data>
@@ -269,6 +293,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>請透過電郵聯繫我們：</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>首選</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>私隱不再是可選的，而是必需的。AnduinOS 設計為不收集您的任何資料。我們不追蹤您、不分析您、不針對您。您在系統中保持匿名。</value>
@@ -306,6 +333,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>根權限與私隱</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>與所有 dotfiles 無縫兼容</value>
+  </data>
   <data name="Select the correct edition below:" xml:space="preserve">
     <value>請在下方選擇正確的版本：</value>
   </data>
@@ -335,6 +365,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>AnduinOS 伺服器由</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>AI最熟悉的基礎環境</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>基於 GNOME 的桌面環境擁有美麗的介面和符合用戶習慣的人機互動，讓您可以快速上手 AnduinOS，無需太多學習成本。</value>
@@ -371,6 +404,9 @@
   </data>
   <data name="Use flatpak for graphical applications." xml:space="preserve">
     <value>使用 flatpak 安裝圖形應用程式。</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>使用自然語言 AI 自動修復系統和環境問題</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>使用 flatpak 安裝圖形應用程式。</value>

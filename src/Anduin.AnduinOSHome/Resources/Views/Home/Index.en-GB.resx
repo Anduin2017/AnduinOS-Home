@@ -42,6 +42,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>After downloading, you may want to learn how to</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>AI Tool Environment</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>All versions</value>
   </data>
@@ -89,6 +92,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>Develop</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience.</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>write the ISO to a USB drive</value>
@@ -147,6 +153,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>FAQ</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>First-class Python</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>for any enquiries.</value>
   </data>
@@ -195,6 +204,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>Includes:</value>
   </data>
+  <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
+    <value>Install Gemini CLI (Suggested)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>Is it free to use AnduinOS?</value>
   </data>
@@ -234,6 +246,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away.</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>Native Shell Experience</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>Natively pre-installed, system-level integration, out-of-the-box.</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>No execution signing or modification restrictions</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>No telemetry whatsoever! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to reclaim your privacy</value>
   </data>
@@ -243,6 +264,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS.</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>One-click deployment, native GPU passthrough support, container development has never been easier.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
   </data>
@@ -251,6 +275,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>Please contact us by email at</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>Premier</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system.</value>
@@ -285,6 +312,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>Root access and privacy</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>Seamlessly compatible with all dotfiles</value>
+  </data>
   <data name="Serve" xml:space="preserve">
     <value>Host</value>
   </data>
@@ -311,6 +341,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>The AnduinOS server is proudly sponsored by</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>The base environment AI knows best</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>The GNOME-based desktop environment features beautiful interfaces and intuitive human-computer interactions that align with user habits, enabling you to get started with AnduinOS quickly without a steep learning curve.</value>
@@ -344,6 +377,9 @@
   </data>
   <data name="Usage" xml:space="preserve">
     <value>Usage</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>Use natural language AI to automatically fix system and environment issues</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Using Flatpak for graphical applications.</value>

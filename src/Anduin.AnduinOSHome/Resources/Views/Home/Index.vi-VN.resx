@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>Sau khi tải xuống, bạn có thể muốn tìm hiểu cách để</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>Môi trường Công cụ AI</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Tất cả phiên bản</value>
   </data>
@@ -101,6 +104,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>Xây dựng</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>Xây dựng cho kỷ nguyên của các mô hình lớn. Shell tích hợp, Docker tích hợp và trải nghiệm Python không giới hạn.</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>ghi file ISO vào ổ USB</value>
@@ -159,6 +165,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>Câu hỏi thường gặp</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>Python cấp cao</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>cho bất kỳ câu hỏi nào.</value>
   </data>
@@ -210,6 +219,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>Bao gồm:</value>
   </data>
+  <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
+    <value>Cài đặt Gemini CLI (Gợi ý)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>Có miễn phí khi sử dụng AnduinOS không?</value>
   </data>
@@ -252,6 +264,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>Phần lớn phần mềm bạn đang sử dụng đều chạy hoàn hảo trên AnduinOS, cùng với hàng ngàn lựa chọn thay thế mạnh mẽ, miễn phí và mã nguồn mở. AnduinOS cung cấp quyền truy cập tích hợp tức thì vào kho ứng dụng khổng lồ của Flatpak và Ubuntu, giúp quy trình làm việc hoàn hảo của bạn chỉ còn cách một cú nhấp chuột.</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>Trải nghiệm Shell gốc</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>Cài đặt sẵn natively, tích hợp ở cấp hệ thống, sẵn sàng sử dụng ngay lập tức.</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>Không có hạn chế ký tên thực thi hoặc sửa đổi</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Không theo dõi dữ liệu! Chọn &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; để lấy lại quyền riêng tư của bạn</value>
   </data>
@@ -261,6 +282,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>Trên Ask Ubuntu, bạn có thể tìm kiếm và hỏi về các vấn đề rất phổ biến. Giải pháp cho hầu hết tất cả các vấn đề của AnduinOS đều giống hệt với Ubuntu. Bạn có thể hoàn toàn dựa vào tài liệu và chuyên môn của Ubuntu để giải quyết các vấn đề với AnduinOS.</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>Cài đặt một cú nhấp chuột, hỗ trợ truyền qua GPU gốc, phát triển container chưa bao giờ dễ dàng hơn.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Mã nguồn mở</value>
   </data>
@@ -269,6 +293,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>Vui lòng liên hệ với chúng tôi qua email tại</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>Premier</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Quyền riêng tư không còn là tùy chọn. Nó là thiết yếu. AnduinOS được thiết kế để không thu thập gì từ bạn. Chúng tôi không theo dõi bạn. Chúng tôi không tạo hồ sơ cho bạn. Chúng tôi không nhắm mục tiêu bạn. Bạn vẫn ẩn danh với hệ thống.</value>
@@ -306,6 +333,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>Quyền root và quyền riêng tư</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>Tương thích liền mạch với tất cả dotfiles</value>
+  </data>
   <data name="Select the correct edition below:" xml:space="preserve">
     <value>Chọn phiên bản phù hợp bên dưới:</value>
   </data>
@@ -335,6 +365,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>Máy chủ AnduinOS được tài trợ một cách tự hào bởi</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>Môi trường cơ sở AI hiểu rõ nhất</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Môi trường desktop dựa trên GNOME có giao diện đẹp và tương tác người-máy phù hợp với thói quen người dùng, cho phép bạn nhanh chóng bắt đầu với AnduinOS mà không tốn quá nhiều thời gian học hỏi.</value>
@@ -371,6 +404,9 @@
   </data>
   <data name="Use flatpak for graphical applications." xml:space="preserve">
     <value>Sử dụng flatpak cho các ứng dụng đồ họa.</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>Sử dụng AI ngôn ngữ tự nhiên để tự động sửa các sự cố hệ thống và môi trường</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Sử dụng flatpak cho các ứng dụng đồ họa.</value>

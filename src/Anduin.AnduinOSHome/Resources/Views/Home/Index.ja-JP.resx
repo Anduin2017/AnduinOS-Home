@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>ダウンロード後、以下の方法を学ぶことをお勧めします：</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>AIツール環境</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>すべてのバージョン</value>
   </data>
@@ -101,6 +104,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>ビルド</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>大規模モデルの時代に合わせて設計されました。ネイティブなシェル、ネイティブな Docker、制限のない Python の体験。</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>ISOをUSBドライブに書き込む</value>
@@ -159,6 +165,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>よくある質問</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>第一級の Python</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>からお気軽にお問い合わせください。</value>
   </data>
@@ -210,6 +219,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>含まれるもの:</value>
   </data>
+  <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
+    <value>Install Gemini CLI (Suggested)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>AnduinOSは無料で使用できますか？</value>
   </data>
@@ -252,6 +264,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>お使いのソフトウェアのほとんどはAnduinOS上で完璧に動作し、さらに何千もの強力で無料、かつオープンソースの代替ソフトウェアも利用できます。AnduinOSはFlatpakとUbuntuの巨大なライブラリへの即時かつ統合されたアクセスを提供し、あなたに最適なワークフローをワンクリックで実現します。</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>ネイティブシェル体験</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>ネイティブにプリインストールされ、システムレベルの統合が行われており、即時使用可能。</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>実行の署名や変更に対する制限なし</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>テレメトリーは一切なし！プライバシーを取り戻すために&lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;を選択してください</value>
   </data>
@@ -261,6 +282,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>Ask Ubuntuでは、非常に一般的な問題を検索し、質問することができます。ほぼすべてのAnduinOSの問題の解決策は、Ubuntuのものと同じです。AnduinOSの問題を解決するために、Ubuntuのドキュメントと専門知識に完全に依存できます。</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>ワンクリックデプロイ、ネイティブなGPUパススルー対応、コンテナ開発がこれまでになく簡単になりました。</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>オープンソース</value>
   </data>
@@ -269,6 +293,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>メールでお問い合わせください：</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>プレミア</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>プライバシーはもはやオプションではありません。必須です。AnduinOSはあなたから何も収集しないように設計されています。私たちはあなたを追跡しません。プロファイリングもしません。ターゲティングもしません。あなたはシステムに対して匿名のままです。</value>
@@ -306,6 +333,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>ルート権限とプライバシー</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>すべての dotfiles とシームレスに互換性があります</value>
+  </data>
   <data name="Select the correct edition below:" xml:space="preserve">
     <value>以下から正しいエディションを選択してください：</value>
   </data>
@@ -335,6 +365,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>AnduinOSサーバーは</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>AIが最もよく知っている基本環境</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>GNOMEベースのデスクトップ環境は、ユーザーの習慣に合った美しいインターフェースと人間とコンピューターのインタラクションを持ち、学習コストをかけずにAnduinOSをすぐに始めることができます。</value>
@@ -371,6 +404,9 @@
   </data>
   <data name="Use flatpak for graphical applications." xml:space="preserve">
     <value>グラフィカルアプリケーションにはFlatpakを使用してください。</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>自然言語AIを使用して、システムや環境の問題を自動的に修復します</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>グラフィカルアプリケーションにFlatpakを使用しています。</value>
