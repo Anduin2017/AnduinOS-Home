@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>Efter download kan det være en god idé at lære, hvordan du</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>AI-værktøjsmiljø</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Alle versioner</value>
   </data>
@@ -95,6 +98,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>Byg</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>Udviklet til æraen for store modeller. Native Shell, native Docker og en ubegrænset Python-oplevelse.</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>brænd ISO-filen til en USB-drev</value>
@@ -153,6 +159,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>Ofte stillede spørgsmål</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>Førsteklasses Python</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>for spørgsmål.</value>
   </data>
@@ -201,6 +210,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>Inkluderer:</value>
   </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>Installér Gemini CLI (Anbefalet)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>Er AnduinOS gratis at bruge?</value>
   </data>
@@ -240,6 +252,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>Størstedelen af den software, du er afhængig af, kører perfekt på AnduinOS, sammen med tusindvis af kraftfulde, gratis og open-source alternativer. AnduinOS giver øjeblikkelig, integreret adgang til de enorme biblioteker fra Flatpak og Ubuntu, hvilket gør din perfekte arbejdsgang kun et klik væk.</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>Native Shell Experience</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>Nativt forudinstalleret, systemniveau integration, klar til brug.</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>Ingen krav til signering eller ændring af eksekvering</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Ingen telemetri overhovedet! Vælg &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; for at genvinde din privatliv.</value>
   </data>
@@ -249,6 +270,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>På Ask Ubuntu kan du søge efter og stille spørgsmål om meget almindelige problemer. Løsninger til næsten alle AnduinOS-problemer er identiske med dem for Ubuntu. Du kan helt og holdent stole på Ubuntus dokumentation og ekspertise til at løse problemer med AnduinOS.</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>En-klik-implementering, native GPU-gennemførselstilstand, containerudvikling har aldrig været nemmere.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
   </data>
@@ -257,6 +281,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>Kontakt os venligst via e-mail på</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>Premier</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Privatliv er ikke længere valgfrit. Det er essentielt. AnduinOS er designet til ikke at indsamle noget fra dig. Vi tracker dig ikke. Vi laver ikke brugerprofiler af dig. Vi bruger ikke målrettet annoncering. Du forbliver anonym for systemet.</value>
@@ -294,6 +321,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>Root og privatliv</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>Sætning med alle dotfiles kompatibel</value>
+  </data>
   <data name="Serve" xml:space="preserve">
     <value>Server</value>
   </data>
@@ -320,6 +350,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>AnduinOS-serveren er stolt sponsoreret af</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>Den grundlæggende miljø, som AI kender bedst</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>GNOME-baserede desktopmiljø har smukke grænseflader og en intuitiv brugeroplevelse, der passer til brugervaner, hvilket gør det nemt at komme i gang med AnduinOS uden lang indlæring.</value>
@@ -353,6 +386,9 @@
   </data>
   <data name="Usage" xml:space="preserve">
     <value>Brug</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>Brug naturlig sprog AI til automatisk at fikse system- og miljøproblemer</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Brug af Flatpak til grafiske applikationer.</value>

@@ -48,6 +48,9 @@
   <data name="AI Tool Environment" xml:space="preserve">
     <value>สภาพแวดล้อมเครื่องมือปัญญาประดิษฐ์</value>
   </data>
+  <data name="AI-Native Environment" xml:space="preserve">
+    <value>สภาพแวดล้อมที่รองรับ AI</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>ทุกเวอร์ชัน</value>
   </data>
@@ -215,6 +218,9 @@
   </data>
   <data name="Includes:" xml:space="preserve">
     <value>ประกอบด้วย:</value>
+  </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>ติดตั้ง Gemini CLI (แนะนำ)</value>
   </data>
   <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
     <value>ติดตั้ง Gemini CLI (แนะนำ)</value>

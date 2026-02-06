@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>İndirdikten sonra, nasıl yapılacağını öğrenmek isteyebilirsiniz</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>Yapay Zeka Araç Ortamı</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Tüm sürümler</value>
   </data>
@@ -101,6 +104,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>Geliştirme</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>Büyük modeller çağı için geliştirildi. Native Shell, native Docker ve sınırsız bir Python deneyimi.</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>ISO&apos;yu bir USB sürücüsüne yazın</value>
@@ -159,6 +165,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>SSS</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>İlk sınıf Python</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>herhangi bir soru için.</value>
   </data>
@@ -207,6 +216,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>İçerir:</value>
   </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>Install Gemini CLI (Tavsiye Edilir)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>AnduinOS&apos;u kullanmak ücretsiz mi?</value>
   </data>
@@ -246,6 +258,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>Güvendiğiniz yazılımların çoğu AnduinOS&apos;ta kusursuz çalışır ve binlerce güçlü, ücretsiz, açık kaynak alternatifle yan yana gelir. AnduinOS, Flatpak ve Ubuntu&apos;nun devasa kütüphanelerine anında, entegre erişim sağlayarak mükemmel iş akışınızı sadece bir tık uzağınıza getirir.</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>Native Shell Experience</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>Doğrudan önceden yüklenmiş, sistem düzeyinde entegrasyon, kutudan çıkar gibi.</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>İşlem imzalama veya değiştirme kısıtlaması yok</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Hiç telemetri yok! Gizliliğinizi geri kazanmak için &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;&apos;u seçin</value>
   </data>
@@ -255,6 +276,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>Ask Ubuntu&apos;da çok yaygın sorunları arayabilir ve sorabilirsiniz. AnduinOS sorunlarının neredeyse tümünün çözümleri Ubuntu ile aynıdır. AnduinOS ile ilgili sorunları çözmek için tamamen Ubuntu&apos;nun dokümantasyonuna ve uzmanlığına güvenebilirsiniz.</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>Tek tıkla dağıtım, doğal GPU geçişi desteği, konteyner geliştirme hiç bu kadar kolay olmamıştı.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Açık kaynak</value>
   </data>
@@ -263,6 +287,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>Lütfen şu e-posta adresinden bize ulaşın</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>Öncelikli</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Gizlilik artık isteğe bağlı değil. Temel bir gerekliliktir. AnduinOS sizden hiçbir şey toplamayacak şekilde tasarlanmıştır. Sizi takip etmiyoruz. Profilinizi çıkarmıyoruz. Sizi hedef almıyoruz. Sistem için anonim kalıyorsunuz.</value>
@@ -300,6 +327,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>Kök erişim ve gizlilik</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>Tüm dotfiles ile sorunsuz uyumlu</value>
+  </data>
   <data name="Select the correct edition below:" xml:space="preserve">
     <value>Aşağıdan doğru sürümü seçin:</value>
   </data>
@@ -329,6 +359,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>AnduinOS sunucusu gururla sponsor edilmiştir</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>Temel ortam AI&apos;nın en iyi bildiği</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>GNOME tabanlı masaüstü ortamı, kullanıcı alışkanlıklarına uygun güzel arayüzlere ve insan-bilgisayar etkileşimlerine sahiptir, fazla öğrenme maliyeti olmadan AnduinOS&apos;a hızlıca başlamanıza olanak tanır.</value>
@@ -365,6 +398,9 @@
   </data>
   <data name="Use flatpak for graphical applications." xml:space="preserve">
     <value>Grafik uygulamalar için flatpak kullanın.</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>Doğal dil yapay zekâsını kullanarak sistem ve ortam sorunlarını otomatik olarak çözün</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Grafik uygulamalar için flatpak kullanımı.</value>

@@ -48,6 +48,9 @@
   <data name="AI Tool Environment" xml:space="preserve">
     <value>Environnement d&apos;outil d&apos;IA</value>
   </data>
+  <data name="AI-Native Environment" xml:space="preserve">
+    <value>Environnement natif IA</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Toutes les versions</value>
   </data>
@@ -215,6 +218,9 @@
   </data>
   <data name="Includes:" xml:space="preserve">
     <value>Comprend :</value>
+  </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>Installer Gemini CLI (Recommandé)</value>
   </data>
   <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
     <value>Installer Gemini CLI (Recommandé)</value>

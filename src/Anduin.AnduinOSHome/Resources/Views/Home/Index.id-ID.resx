@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>Setelah mengunduh, Anda mungkin ingin mempelajari cara</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>Lingkungan Alat AI</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Semua versi</value>
   </data>
@@ -95,6 +98,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>Membangun</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>Dibuat untuk era model besar. Shell native, Docker native, dan pengalaman Python yang tak terbatas.</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>memindahkan ISO ke drive USB</value>
@@ -153,6 +159,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>FAQ</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>Python kelas utama</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>untuk pertanyaan apa pun.</value>
   </data>
@@ -201,6 +210,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>Termasuk:</value>
   </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>Pasang Gemini CLI (Disarankan)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>Apakah AnduinOS gratis digunakan?</value>
   </data>
@@ -240,6 +252,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>Sebagian besar perangkat lunak yang Anda andalkan berjalan sempurna di AnduinOS, bersama dengan ribuan alternatif yang kuat, gratis, dan sumber terbuka. AnduinOS menyediakan akses instan dan terintegrasi ke perpustakaan besar Flatpak dan Ubuntu, membuat alur kerja ideal Anda hanya sejauh satu klik.</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>Pengalaman Shell Asli</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>Terinstal secara bawaan secara native, integrasi tingkat sistem, siap pakai.</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>Tidak ada pembatasan penandatanganan eksekusi atau modifikasi</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Tidak ada telemetri sama sekali! Pilih &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; untuk mendapatkan kembali privasi Anda.</value>
   </data>
@@ -249,6 +270,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>Di Ask Ubuntu, Anda dapat mencari dan menanyakan masalah yang sangat umum. Solusi untuk hampir semua masalah AnduinOS identik dengan solusi untuk Ubuntu. Anda dapat sepenuhnya mengandalkan dokumentasi dan keahlian Ubuntu untuk menyelesaikan masalah dengan AnduinOS.</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>Deploy satu klik, dukungan GPU passthrough native, pengembangan container tidak pernah semudah ini.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Sumber Terbuka</value>
   </data>
@@ -257,6 +281,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>Silakan hubungi kami melalui email di</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>Premier</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Privasi bukan lagi pilihan. Ini adalah hal yang esensial. AnduinOS dirancang untuk tidak mengumpulkan apa pun dari Anda. Kami tidak melacak Anda. Kami tidak membuat profil Anda. Kami tidak menargetkan Anda. Anda tetap anonim bagi sistem.</value>
@@ -294,6 +321,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>Akses root dan privasi</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>Kompatibel secara mulus dengan semua dotfiles</value>
+  </data>
   <data name="Serve" xml:space="preserve">
     <value>Melayani</value>
   </data>
@@ -320,6 +350,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>Server AnduinOS dengan bangga disponsori oleh</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>Lingkungan dasar yang paling diketahui AI</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Lingkungan desktop berbasis GNOME memiliki antarmuka yang indah dan interaksi manusia-komputer yang sesuai dengan kebiasaan pengguna, memungkinkan Anda untuk cepat memulai dengan AnduinOS tanpa biaya belajar yang terlalu besar.</value>
@@ -353,6 +386,9 @@
   </data>
   <data name="Usage" xml:space="preserve">
     <value>Penggunaan</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>Gunakan AI bahasa alami untuk memperbaiki masalah sistem dan lingkungan secara otomatis</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Menggunakan flatpak untuk aplikasi grafis.</value>

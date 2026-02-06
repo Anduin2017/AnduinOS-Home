@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>Ladattuasi saatat haluta oppia, kuinka</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>AI Tool Environment</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Kaikki versiot</value>
   </data>
@@ -95,6 +98,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>Rakenna</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>Suunniteltu suurten mallien aikakaudelle. Luonnollinen Shell, luonnollinen Docker ja rajoittamaton Python-kokemus.</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>polta ISO-kuva USB-tikulle</value>
@@ -153,6 +159,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>UKK</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>Ensimmäisen luokan Python</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>kaikissa kysymyksissä.</value>
   </data>
@@ -201,6 +210,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>Sisältää:</value>
   </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>Asenna Gemini CLI (Suositeltu)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>Onko AnduinOS ilmainen käyttää?</value>
   </data>
@@ -240,6 +252,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>Suurin osa tietokoneohjelmista, joihin luotat, toimii moitteettomasti AnduinOS:lla, rinnan tuhansien tehokkaiden, ilmaisten ja avoimen lähdekoodin vaihtoehtojen kanssa. AnduinOS tarjoaa välittömän, integroidun pääsyn Flatpak- ja Ubuntu-kirjastojen valtaviin kokoelmiin, tehden täydellisen työskentelytilasi vain yhden napsautuksen päässä.</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>Alkuperäinen shell-kokemus</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>Alkuperäisesti asennettu, järjestelmätasolla integroitu, valmiina käyttöön.</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>Ei suoritusallekirjoitus- tai muokkausrajoituksia</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Ei telemetriaa lainkaan! Valitse &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; palauttaaksesi yksityisyytesi.</value>
   </data>
@@ -249,6 +270,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>Ask Ubuntu -sivustolta voit etsiä ja kysyä hyvin yleisistä ongelmista. Lähes kaikkiin AnduinOS-ongelmiin ratkaisut ovat samat kuin Ubuntussa. Voit luottaa täysin Ubuntun dokumentaatioon ja asiantuntemukseen AnduinOS-ongelmien ratkaisemisessa.</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>Yksi napsautus käyttöönotto, luonteva GPU passthrough-tuki, säiliökehitys on ollut koskaan helpompaa.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Avoin lähdekoodi</value>
   </data>
@@ -257,6 +281,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>Ota yhteyttä sähköpostitse osoitteeseen</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>Premier</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Yksityisyys ei ole enää valinnaista. Se on välttämätöntä. AnduinOS on suunniteltu keräämään mitään sinusta. Emme seuraa sinua. Emme luo profiilia sinusta. Emme kohdista sinua. Pysyt järjestelmälle nimettömänä.</value>
@@ -294,6 +321,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>Pääkäyttäjä ja yksityisyys</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>Sopii täydellisesti kaikkiin dotfileihin</value>
+  </data>
   <data name="Serve" xml:space="preserve">
     <value>Palvele</value>
   </data>
@@ -320,6 +350,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>AnduinOS-palvelimen ylpeänä sponsoroijana on</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>Perusympäristö, jonka AI tuntee parhaiten</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>GNOME-pohjainen työpöytäympäristö tarjoaa kauniit käyttöliittymät ja käyttäjäystävälliset vuorovaikutustavat, jotka sopivat käyttäjien tottumuksiin, joten pääset nopeasti alkuun AnduinOS:n kanssa ilman suurta oppimiskurssia.</value>
@@ -353,6 +386,9 @@
   </data>
   <data name="Usage" xml:space="preserve">
     <value>Käyttö</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>Käytä luonnollisen kielen tekoälyä automaattisesti korjataksesi järjestelmä- ja ympäristöongelmia</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Graafisten sovellusten asentamiseen käytetään Flatpakia.</value>

@@ -48,6 +48,9 @@
   <data name="AI Tool Environment" xml:space="preserve">
     <value>Môi trường Công cụ AI</value>
   </data>
+  <data name="AI-Native Environment" xml:space="preserve">
+    <value>Môi trường AI-Native</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Tất cả phiên bản</value>
   </data>
@@ -218,6 +221,9 @@
   </data>
   <data name="Includes:" xml:space="preserve">
     <value>Bao gồm:</value>
+  </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>Cài đặt Gemini CLI (Khuyến nghị)</value>
   </data>
   <data name="Install Gemini CLI (Suggested)" xml:space="preserve">
     <value>Cài đặt Gemini CLI (Gợi ý)</value>

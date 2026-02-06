@@ -181,7 +181,7 @@ nav.navbar{
 
 /* 1. 区域设置 */
 .ai-section {
-    background-color: #020617; /* 深蓝黑背景 */
+    background-color: #161a27; /* 深蓝黑背景 */
     min-height: 800px; /* 给足够的高度展示背景图 */
     position: relative;
 }
@@ -224,7 +224,7 @@ nav.navbar{
     border-radius: 6px;
     
     overflow: hidden;
-    filter: blur(1px) brightness(0.65); 
+    filter: blur(1px) brightness(0.75); 
     transition: all 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 

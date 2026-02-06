@@ -45,6 +45,9 @@
   <data name="After downloading, you may want to learn how to" xml:space="preserve">
     <value>Po pobraniu możesz chcieć dowiedzieć się, jak...</value>
   </data>
+  <data name="AI Tool Environment" xml:space="preserve">
+    <value>Środowisko narzędzi AI</value>
+  </data>
   <data name="All versions" xml:space="preserve">
     <value>Wszystkie wersje</value>
   </data>
@@ -98,6 +101,9 @@
   </data>
   <data name="Build" xml:space="preserve">
     <value>Budowanie</value>
+  </data>
+  <data name="Built for the era of large models. Native Shell, native Docker, and an unrestrained Python experience." xml:space="preserve">
+    <value>Stworzony dla ery dużych modeli. Native Shell, native Docker i nieograniczony doświadczenie z Pythonem.</value>
   </data>
   <data name="burn the ISO to a USB drive" xml:space="preserve">
     <value>nagraj obraz ISO na pendrive</value>
@@ -156,6 +162,9 @@
   <data name="FAQ" xml:space="preserve">
     <value>FAQ</value>
   </data>
+  <data name="First-class Python" xml:space="preserve">
+    <value>Pierwszorzędowy Python</value>
+  </data>
   <data name="for any questions." xml:space="preserve">
     <value>w przypadku jakichkolwiek pytań.</value>
   </data>
@@ -204,6 +213,9 @@
   <data name="Includes:" xml:space="preserve">
     <value>Zawiera:</value>
   </data>
+  <data name="Install Gemini CLI (Recommended)" xml:space="preserve">
+    <value>Zainstaluj Gemini CLI (Zalecane)</value>
+  </data>
   <data name="Is it free to use AnduinOS?" xml:space="preserve">
     <value>Czy korzystanie z AnduinOS jest bezpłatne?</value>
   </data>
@@ -243,6 +255,15 @@
   <data name="Most of the software you rely on runs perfectly on AnduinOS, alongside thousands of powerful, free, and open-source alternatives. AnduinOS provides instant, integrated access to the massive libraries of Flatpak and Ubuntu, making your perfect workflow just a click away." xml:space="preserve">
     <value>Większość oprogramowania, na którym polegasz, działa doskonale na AnduinOS, obok tysięcy potężnych, darmowych i otwartych alternatyw. AnduinOS zapewnia natychmiastowy, zintegrowany dostęp do ogromnych bibliotek Flatpak i Ubuntu, dzięki czemu Twój idealny przepływ pracy jest tylko o jedno kliknięcie.</value>
   </data>
+  <data name="Native Shell Experience" xml:space="preserve">
+    <value>Naturalne środowisko powłoki</value>
+  </data>
+  <data name="Natively pre-installed, system-level integration, out-of-the-box." xml:space="preserve">
+    <value>Zainstalowane domyślnie, integracja na poziomie systemowym, gotowe do użycia.</value>
+  </data>
+  <data name="No execution signing or modification restrictions" xml:space="preserve">
+    <value>Brak ograniczeń podpisu lub modyfikacji wykonania</value>
+  </data>
   <data name="No telemetry at all! Choose &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt; to regain your privacy" xml:space="preserve">
     <value>Żadnej telemetrii! Wybierz &lt;span class=&apos;text-primary&apos;&gt;AnduinOS&lt;/span&gt;, aby odzyskać prywatność</value>
   </data>
@@ -252,6 +273,9 @@
   <data name="On Ask Ubuntu, you can search for and ask about very common issues. Solutions for almost all AnduinOS issues are identical to those for Ubuntu. You can rely entirely on Ubuntu&apos;s documentation and expertise to resolve problems with AnduinOS." xml:space="preserve">
     <value>Na Ask Ubuntu możesz wyszukiwać i pytać o bardzo powszechne problemy. Rozwiązania prawie wszystkich problemów AnduinOS są identyczne z tymi dla Ubuntu. Możesz całkowicie polegać na dokumentacji i wiedzy Ubuntu, aby rozwiązać problemy z AnduinOS.</value>
   </data>
+  <data name="One-click deployment, native GPU passthrough support, container development has never been easier." xml:space="preserve">
+    <value>Wdrożenie jednym kliknięciem, obsługa bezpośredniego przekazywania GPU, tworzenie kontenerów nigdy nie było łatwiejsze.</value>
+  </data>
   <data name="Open Source" xml:space="preserve">
     <value>Open Source</value>
   </data>
@@ -260,6 +284,9 @@
   </data>
   <data name="Please contact us with email at" xml:space="preserve">
     <value>Skontaktuj się z nami emailem pod adresem</value>
+  </data>
+  <data name="Premier" xml:space="preserve">
+    <value>Premier</value>
   </data>
   <data name="Privacy is no longer optional. It&apos;s essential. AnduinOS is designed to gather nothing from you. We don&apos;t track you. We don&apos;t profile you. We don&apos;t target you. You remain anonymous to the system." xml:space="preserve">
     <value>Prywatność nie jest już opcjonalna. To konieczność. AnduinOS został zaprojektowany tak, aby nic od Ciebie nie zbierać. Nie śledzimy Cię. Nie profilujemy Cię. Nie kierujemy na Ciebie reklam. Pozostajesz anonimowy dla systemu.</value>
@@ -297,6 +324,9 @@
   <data name="Root and privacy" xml:space="preserve">
     <value>Root i prywatność</value>
   </data>
+  <data name="Seamlessly compatible with all dotfiles" xml:space="preserve">
+    <value>Bezproblemowo zgodne ze wszystkimi plikami dotfiles</value>
+  </data>
   <data name="Select the correct edition below:" xml:space="preserve">
     <value>Wybierz właściwą edycję poniżej:</value>
   </data>
@@ -326,6 +356,9 @@
   </data>
   <data name="The AnduinOS server is proudly sponsored by" xml:space="preserve">
     <value>Serwer AnduinOS jest dumnie sponsorowany przez</value>
+  </data>
+  <data name="The base environment AI knows best" xml:space="preserve">
+    <value>Podstawowe środowisko, które AI zna najlepiej</value>
   </data>
   <data name="The GNOME-based desktop environment have beautiful interfaces and human-computer interactions that fit user habits, allowing you to quickly get started with AnduinOS without too much learning cost." xml:space="preserve">
     <value>Środowisko pulpitu oparte na GNOME ma piękne interfejsy i interakcje człowiek-komputer, które pasują do nawyków użytkownika, pozwalając szybko rozpocząć pracę z AnduinOS bez zbyt dużych kosztów nauki.</value>
@@ -362,6 +395,9 @@
   </data>
   <data name="Use flatpak for graphical applications." xml:space="preserve">
     <value>Używaj Flatpak do aplikacji graficznych.</value>
+  </data>
+  <data name="Use natural language AI to automatically fix system and environment issues" xml:space="preserve">
+    <value>Użyj sztucznej inteligencji opartej na naturalnym języku, aby automatycznie naprawiać problemy systemowe i środowiskowe</value>
   </data>
   <data name="Using Flatpak for graphical applications." xml:space="preserve">
     <value>Używanie Flatpak do aplikacji graficznych.</value>

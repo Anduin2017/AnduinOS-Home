@@ -581,9 +581,6 @@
 @* AI Native Section - Immersive Split Layout *@
 <section class="ai-section position-relative w-100 overflow-hidden d-flex align-items-center">
     
-    @* =========================== *@
-    @* 1. 沉浸式背景层 (绝对定位)  *@
-    @* =========================== *@
     <div class="ai-immersive-bg">
         <div class="bg-image-wrapper">
              <img src="~/images/ainative.webp" alt="AI Native Environment" class="img-fluid object-fit-cover w-100 h-100">
@@ -591,9 +588,6 @@
         <div class="bg-overlay"></div>
     </div>
 
-    @* =========================== *@
-    @* 2. 内容层 (右侧悬浮)       *@
-    @* =========================== *@
     <div class="container position-relative z-2 py-5">
         <div class="row">
             <div class="col-lg-6 offset-lg-6 col-md-12">
@@ -601,7 +595,7 @@
                 <div class="mb-5 text-start ps-lg-4">
                     <div class="d-inline-flex align-items-center px-3 py-1 mb-3 rounded-pill border border-white-10 bg-dark-glass-sm backdrop-blur">
                         <span class="text-info me-2"><i class="fas fa-microchip"></i></span>
-                        <span class="text-gray-300 small fw-medium text-uppercase tracking-wider">AI-First Architecture</span>
+                        <span class="text-gray-300 small fw-medium text-uppercase tracking-wider">@Localizer["AI-Native Environment"]</span>
                     </div>
                     <h2 class="display-4 fw-bold text-white mb-3">
                         <span class="text-primary">@Localizer["Premier"]</span><br>
@@ -612,7 +606,7 @@
                     </p>
                     <div class="mt-4">
                         <a href="https://github.com/google-gemini/gemini-cli" target="_blank" class="btn btn-primary btn-pill">
-                            @Localizer["Install Gemini CLI (Suggested)"]
+                            @Localizer["Install Gemini CLI (Recommended)"]
                         </a>
                     </div>
                 </div>
@@ -634,7 +628,7 @@
 
                     @* Card 2: Docker *@
                     <div class="col-md-6">
-                        <a href="https://docs.anduinos.com/Applications/Development/Docker/Docker.html" target="_blank" class="card bg-dark-glass border-white-10 h-100 hover-lift text-decoration-none">
+                        <div class="card bg-dark-glass border-white-10 h-100 hover-lift">
                             <div class="card-body p-4">
                                 <div class="icon-box-sm bg-primary-subtle text-primary rounded-3 me-3 mb-3">
                                     <i class="fab fa-docker fa-lg"></i>
@@ -642,7 +636,7 @@
                                 <h5 class="fw-bold text-white fs-6">Docker</h5>
                                 <p class="text-gray-400 small mb-0 lh-sm"> @Localizer["One-click deployment, native GPU passthrough support, container development has never been easier."]</p>
                             </div>
-                        </a>
+                        </div>
                     </div>
 
                     @* Card 3: Shell *@
