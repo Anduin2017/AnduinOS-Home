@@ -18,11 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Allow User Adjust Nickname" xml:space="preserve">
+      <data name=" The link to the brand&apos;s home page." xml:space="preserve">
+    <value>Il collegamento alla pagina principale del marchio.</value>
+  </data>
+  <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Consenti all&apos;utente di modificare il soprannome</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Consenti agli utenti di modificare il proprio nickname nella pagina di gestione del profilo.</value>
+  </data>
+  <data name="Brand Home URL" xml:space="preserve">
+    <value>URL Home del Marchio</value>
+  </data>
+  <data name="Brand Name" xml:space="preserve">
+    <value>Nome del marchio</value>
+  </data>
+  <data name="ICP Number" xml:space="preserve">
+    <value>Numero ICP</value>
+  </data>
+  <data name="Project Logo" xml:space="preserve">
+    <value>Logo del progetto</value>
+  </data>
+  <data name="Project Name" xml:space="preserve">
+    <value>Nome del progetto</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Il nome del marchio visualizzato nel piè di pagina.</value>
+  </data>
+  <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
+    <value>Il numero di licenza ICP per gli utenti della Cina continentale. Lasciare vuoto per nascondere.</value>
+  </data>
+  <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
+    <value>Il logo del progetto visualizzato nella barra di navigazione e nel piè di pagina. Supporta jpg, png, svg.</value>
+  </data>
+  <data name="The name of the project displayed in the frontend." xml:space="preserve">
+    <value>Il nome del progetto visualizzato nell&apos;interfaccia utente</value>
   </data>
 
 </root>

@@ -18,11 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Allow User Adjust Nickname" xml:space="preserve">
+      <data name=" The link to the brand&apos;s home page." xml:space="preserve">
+    <value>Enlace a la página principal de la marca.</value>
+  </data>
+  <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Permitir que el usuario ajuste el apodo</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Permitir a los usuarios ajustar su apodo en la página de gestión de perfil.</value>
+  </data>
+  <data name="Brand Home URL" xml:space="preserve">
+    <value>URL de inicio de la marca</value>
+  </data>
+  <data name="Brand Name" xml:space="preserve">
+    <value>Nombre de la marca</value>
+  </data>
+  <data name="ICP Number" xml:space="preserve">
+    <value>Número ICP</value>
+  </data>
+  <data name="Project Logo" xml:space="preserve">
+    <value>Logotipo del proyecto</value>
+  </data>
+  <data name="Project Name" xml:space="preserve">
+    <value>Nombre del proyecto</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>El nombre de la marca mostrado en el pie de página.</value>
+  </data>
+  <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
+    <value>El número de licencia ICP para usuarios de la región principal de China. Deje en blanco para ocultarlo.</value>
+  </data>
+  <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
+    <value>El logotipo del proyecto mostrado en la barra de navegación y el pie de página. Compatible con jpg, png, svg.</value>
+  </data>
+  <data name="The name of the project displayed in the frontend." xml:space="preserve">
+    <value>El nombre del proyecto mostrado en la interfaz de usuario.</value>
   </data>
 
 </root>
