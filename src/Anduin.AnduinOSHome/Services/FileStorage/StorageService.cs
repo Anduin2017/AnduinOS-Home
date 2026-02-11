@@ -1,10 +1,7 @@
 using Aiursoft.Scanner.Abstractions;
 using Microsoft.AspNetCore.DataProtection;
-// For IFormFile and HttpContext
 
-// For Path and Directory
-
-namespace Anduin.AnduinOSHome.Services.FileStorage;
+namespace Aiursoft.AnduinOSHome.Services.FileStorage;
 
 public enum FilePermission
 {
