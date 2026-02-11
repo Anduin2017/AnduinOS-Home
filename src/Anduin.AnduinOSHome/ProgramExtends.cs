@@ -3,8 +3,8 @@ using Anduin.AnduinOSHome.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System.Security.Claims;
-using Anduin.AnduinOSHome.Services;
 using Anduin.AnduinOSHome.Services.FileStorage;
+using Anduin.AnduinOSHome.Services;
 
 namespace Anduin.AnduinOSHome;
 
@@ -54,7 +54,7 @@ public static class ProgramExtends
         var services = scope.ServiceProvider;
         var db = services.GetRequiredService<AnduinOSHomeDbContext>();
         var logger = services.GetRequiredService<ILogger<Program>>();
-        
+
         var settingsService = services.GetRequiredService<GlobalSettingsService>();
         await settingsService.SeedSettingsAsync();
 

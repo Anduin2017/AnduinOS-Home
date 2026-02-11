@@ -1,9 +1,9 @@
+using Anduin.AnduinOSHome.Services.FileStorage;
 using Aiursoft.Scanner.Abstractions;
 using Anduin.AnduinOSHome.Configuration;
 using Anduin.AnduinOSHome.Controllers;
 using Anduin.AnduinOSHome.Entities;
 using Anduin.AnduinOSHome.Services.Authentication;
-using Anduin.AnduinOSHome.Services.FileStorage;
 using Aiursoft.UiStack.Layout;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.UiStack.Views.Shared.Components.FooterMenu;
@@ -65,11 +65,11 @@ public class ViewModelArgsInjector(
         _ = localizer["Personal"];
         _ = localizer["Unauthorized"];
         _ = localizer["Error"];
-    
+
         _ = localizer["Background Jobs"];
         _ = localizer["Global Settings"];
         _ = localizer["Permissions"];
-    
+
         _ = localizer["Access Denied"];
         _ = localizer["Bad Request"];
         _ = localizer["Dashboard"];

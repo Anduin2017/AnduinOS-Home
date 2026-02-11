@@ -1,7 +1,7 @@
 using Aiursoft.Scanner.Abstractions;
 using Microsoft.AspNetCore.DataProtection;
 
-namespace Aiursoft.AnduinOSHome.Services.FileStorage;
+namespace Anduin.AnduinOSHome.Services.FileStorage;
 
 public enum FilePermission
 {

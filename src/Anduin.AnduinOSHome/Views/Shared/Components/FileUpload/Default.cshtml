@@ -25,7 +25,7 @@
 
     // Use custom FieldName if provided, otherwise use AspFor.Name
     var fieldName = Model.FieldName ?? Model.AspFor.Name;
-    
+
     var hiddenInputTag = HtmlGenerator.GenerateTextBox(
         ViewContext,
         Model.AspFor.ModelExplorer,
