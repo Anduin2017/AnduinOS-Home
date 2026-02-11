@@ -26,6 +26,7 @@ namespace Anduin.AnduinOSHome.Services;
 public class ViewModelArgsInjector(
     IStringLocalizer<ViewModelArgsInjector> localizer,
     StorageService storageService,
+    GlobalSettingsService globalSettingsService,
     NavigationState<Startup> navigationState,
     IAuthorizationService authorizationService,
     IOptions<AppSettings> appSettings,
@@ -101,13 +102,16 @@ public class ViewModelArgsInjector(
     {
         var preferDarkTheme = context.Request.Cookies[ThemeController.ThemeCookieKey] == true.ToString();
         toInject.PageTitle = localizer[toInject.PageTitle ?? "View"];
-        toInject.AppName = "AnduinOS";
+        var projectName = globalSettingsService.GetSettingValueAsync("ProjectName").GetAwaiter().GetResult();
+        var bandName = globalSettingsService.GetSettingValueAsync("BrandName").GetAwaiter().GetResult();
+        var brandHomeUrl = globalSettingsService.GetSettingValueAsync("BrandHomeUrl").GetAwaiter().GetResult();
+        toInject.AppName = projectName;
         toInject.Theme = preferDarkTheme ? UiTheme.Dark : UiTheme.Light;
         toInject.SidebarTheme = preferDarkTheme ? UiSidebarTheme.Dark : UiSidebarTheme.Default;
         toInject.Layout = UiLayout.Fluid;
         toInject.FooterMenu = new FooterMenuViewModel
         {
-            AppBrand = new Link { Text = "AnduinOS", Href = "https://gitlab.aiursoft.com/anduin/anduinos-home" },
+            AppBrand = new Link { Text = bandName, Href = brandHomeUrl },
             Links =
             [
                 new Link { Text = localizer["Home"], Href = "/" },
@@ -184,8 +188,8 @@ public class ViewModelArgsInjector(
         {
             SideLogo = new SideLogoViewModel
             {
-                AppName = "AnduinOS",
-                LogoUrl = "/logo.svg",
+                AppName = projectName,
+                LogoUrl = GetLogoUrl(context).GetAwaiter().GetResult(),
                 Href = "/"
             },
             SideMenu = new SideMenuViewModel
@@ -287,5 +291,16 @@ public class ViewModelArgsInjector(
                 ]
             };
         }
+    }
+
+
+    private async Task<string> GetLogoUrl(HttpContext context)
+    {
+        var logoPath = await globalSettingsService.GetSettingValueAsync("ProjectLogo");
+        if (string.IsNullOrWhiteSpace(logoPath))
+        {
+            return "/logo.svg";
+        }
+        return storageService.RelativePathToInternetUrl(logoPath, context);
     }
 }

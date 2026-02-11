@@ -1,4 +1,5 @@
 using Aiursoft.Scanner.Abstractions;
+using Microsoft.Extensions.Configuration;
 
 namespace Anduin.AnduinOSHome.Services.FileStorage;
 

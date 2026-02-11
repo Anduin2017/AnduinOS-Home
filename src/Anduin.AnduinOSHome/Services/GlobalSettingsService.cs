@@ -1,12 +1,19 @@
 using Aiursoft.Scanner.Abstractions;
 using Anduin.AnduinOSHome.Configuration;
-using Anduin.AnduinOSHome.Entities;
-using Anduin.AnduinOSHome.Models;
+using Anduin.AnduinOSHome.Entities; // Added for AnduinOSHomeDbContext
+using Anduin.AnduinOSHome.Models; // GlobalSetting is here now - but it's for SettingType
+using Anduin.AnduinOSHome.Services.FileStorage;
 using Microsoft.EntityFrameworkCore;
 
 namespace Anduin.AnduinOSHome.Services;
 
-public class GlobalSettingsService(AnduinOSHomeDbContext dbContext, IConfiguration configuration) : IScopedDependency
+public class GlobalSettingsService(
+    // Placeholder for DbContext name, will confirm later
+    // The original was 'TemplateDbContext dbContext'
+    // Assuming 'AnduinOSHomeDbContext dbContext'
+    AnduinOSHomeDbContext dbContext,
+    IConfiguration configuration,
+    StorageService storageService) : IScopedDependency
 {
     public async Task<string> GetSettingValueAsync(string key)
     {
@@ -79,6 +86,25 @@ public class GlobalSettingsService(AnduinOSHomeDbContext dbContext, IConfigurati
                     throw new InvalidOperationException($"Value '{value}' is not a valid choice for setting {key}.");
                 }
                 break;
+            case SettingType.File:
+                if (string.IsNullOrWhiteSpace(value))
+                {
+                    throw new InvalidOperationException($"File path cannot be empty for setting {key}.");
+                }
+                // Validate that the file exists and path is secure using StorageService
+                try
+                {
+                    var physicalPath = storageService.GetFilePhysicalPath(value, isVault: false);
+                    if (!File.Exists(physicalPath))
+                    {
+                        throw new InvalidOperationException($"File not found for setting {key}.");
+                    }
+                }
+                catch (ArgumentException)
+                {
+                    throw new InvalidOperationException($"Invalid file path for setting {key}.");
+                }
+                break;
             case SettingType.Text:
             default:
                 break;
@@ -87,7 +113,7 @@ public class GlobalSettingsService(AnduinOSHomeDbContext dbContext, IConfigurati
         var dbSetting = await dbContext.GlobalSettings.FirstOrDefaultAsync(s => s.Key == key);
         if (dbSetting == null)
         {
-            dbSetting = new GlobalSetting { Key = key, Value = value };
+            dbSetting = new Anduin.AnduinOSHome.Entities.GlobalSetting { Key = key, Value = value };
             dbContext.GlobalSettings.Add(dbSetting);
         }
         else
@@ -97,6 +123,7 @@ public class GlobalSettingsService(AnduinOSHomeDbContext dbContext, IConfigurati
 
         await dbContext.SaveChangesAsync();
     }
+
     public async Task SeedSettingsAsync()
     {
         foreach (var definition in SettingsMap.Definitions)
@@ -107,7 +134,7 @@ public class GlobalSettingsService(AnduinOSHomeDbContext dbContext, IConfigurati
                 var initialValue = configuration[$"GlobalSettings:{definition.Key}"]
                                    ?? configuration[definition.Key]
                                    ?? definition.DefaultValue;
-                dbContext.GlobalSettings.Add(new GlobalSetting
+                dbContext.GlobalSettings.Add(new Anduin.AnduinOSHome.Entities.GlobalSetting
                 {
                     Key = definition.Key,
                     Value = initialValue

@@ -1,6 +1,6 @@
-using Anduin.AnduinOSHome.Authorization;
+using Anduin.AnduinOSHome.Authorization; // To be confirmed/copied
 using Anduin.AnduinOSHome.Configuration;
-using Anduin.AnduinOSHome.Models.GlobalSettingsViewModels;
+using Anduin.AnduinOSHome.Models.GlobalSettingsViewModels; // To be created
 using Anduin.AnduinOSHome.Services;
 using Aiursoft.UiStack.Navigation;
 using Aiursoft.WebTools.Attributes;
@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Anduin.AnduinOSHome.Controllers;
 
-[Authorize(Policy = AppPermissionNames.CanManageGlobalSettings)]
+[Authorize(Policy = AppPermissionNames.CanManageGlobalSettings)] // AppPermissionNames to be confirmed/copied
 [LimitPerMin]
 public class GlobalSettingsController(GlobalSettingsService settingsService) : Controller
 {
@@ -21,7 +21,7 @@ public class GlobalSettingsController(GlobalSettingsService settingsService) : C
         CascadedLinksOrder = 9999,
         LinkText = "Global Settings",
         LinkOrder = 1)]
-    public async Task<IActionResult> Index()
+    public IActionResult Index()
     {
         var model = new IndexViewModel();
         foreach (var definition in SettingsMap.Definitions)
@@ -34,8 +34,12 @@ public class GlobalSettingsController(GlobalSettingsService settingsService) : C
                 Type = definition.Type,
                 DefaultValue = definition.DefaultValue,
                 ChoiceOptions = definition.ChoiceOptions,
-                Value = await settingsService.GetSettingValueAsync(definition.Key),
-                IsOverriddenByConfig = settingsService.IsOverriddenByConfig(definition.Key)
+                Value = settingsService.GetSettingValueAsync(definition.Key).GetAwaiter().GetResult(),
+                IsOverriddenByConfig = settingsService.IsOverriddenByConfig(definition.Key),
+                // File upload settings
+                Subfolder = definition.Subfolder,
+                AllowedExtensions = definition.AllowedExtensions,
+                MaxSizeInMb = definition.MaxSizeInMb
             });
         }
         return this.StackView(model);

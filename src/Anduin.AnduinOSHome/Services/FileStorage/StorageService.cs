@@ -1,5 +1,7 @@
 using Aiursoft.Scanner.Abstractions;
 using Microsoft.AspNetCore.DataProtection;
+using Microsoft.AspNetCore.Http; // For IFormFile and HttpContext
+using System.IO; // For Path and Directory
 
 namespace Anduin.AnduinOSHome.Services.FileStorage;
 
@@ -128,7 +130,7 @@ public class StorageService(
             // Fix: Enforce trailing slash to prevent partial directory matching (e.g. "A" matching "AA")
             var normalizedRequestPath = requestPath.TrimEnd('/') + "/";
             var normalizedAuthorizedPath = authorizedPath.TrimEnd('/') + "/";
-            
+
             return normalizedRequestPath.StartsWith(normalizedAuthorizedPath, StringComparison.OrdinalIgnoreCase);
         }
         catch
