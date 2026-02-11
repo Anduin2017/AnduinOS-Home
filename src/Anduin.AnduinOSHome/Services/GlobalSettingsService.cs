@@ -113,7 +113,7 @@ public class GlobalSettingsService(
         var dbSetting = await dbContext.GlobalSettings.FirstOrDefaultAsync(s => s.Key == key);
         if (dbSetting == null)
         {
-            dbSetting = new Anduin.AnduinOSHome.Entities.GlobalSetting { Key = key, Value = value };
+            dbSetting = new GlobalSetting { Key = key, Value = value };
             dbContext.GlobalSettings.Add(dbSetting);
         }
         else
@@ -134,7 +134,7 @@ public class GlobalSettingsService(
                 var initialValue = configuration[$"GlobalSettings:{definition.Key}"]
                                    ?? configuration[definition.Key]
                                    ?? definition.DefaultValue;
-                dbContext.GlobalSettings.Add(new Anduin.AnduinOSHome.Entities.GlobalSetting
+                dbContext.GlobalSettings.Add(new GlobalSetting
                 {
                     Key = definition.Key,
                     Value = initialValue

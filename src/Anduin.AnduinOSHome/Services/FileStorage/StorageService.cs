@@ -1,7 +1,8 @@
 using Aiursoft.Scanner.Abstractions;
 using Microsoft.AspNetCore.DataProtection;
-using Microsoft.AspNetCore.Http; // For IFormFile and HttpContext
-using System.IO; // For Path and Directory
+// For IFormFile and HttpContext
+
+// For Path and Directory
 
 namespace Anduin.AnduinOSHome.Services.FileStorage;
 
