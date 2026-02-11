@@ -21,7 +21,7 @@ public class GlobalSettingsController(GlobalSettingsService settingsService) : C
         CascadedLinksOrder = 9999,
         LinkText = "Global Settings",
         LinkOrder = 1)]
-    public IActionResult Index()
+    public async Task<IActionResult> Index()
     {
         var model = new IndexViewModel();
         foreach (var definition in SettingsMap.Definitions)
@@ -34,7 +34,7 @@ public class GlobalSettingsController(GlobalSettingsService settingsService) : C
                 Type = definition.Type,
                 DefaultValue = definition.DefaultValue,
                 ChoiceOptions = definition.ChoiceOptions,
-                Value = settingsService.GetSettingValueAsync(definition.Key).GetAwaiter().GetResult(),
+                Value = await settingsService.GetSettingValueAsync(definition.Key),
                 IsOverriddenByConfig = settingsService.IsOverriddenByConfig(definition.Key),
                 // File upload settings
                 Subfolder = definition.Subfolder,
