@@ -18,11 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Allow User Adjust Nickname" xml:space="preserve">
+      <data name=" The link to the brand&apos;s home page." xml:space="preserve">
+    <value>Tautan ke halaman utama merek.</value>
+  </data>
+  <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Izinkan Pengguna Mengubah Nama Panggilan</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Izinkan pengguna menyesuaikan nama panggilan mereka di halaman manajemen profil.</value>
+  </data>
+  <data name="Brand Home URL" xml:space="preserve">
+    <value>URL Halaman Utama Merek</value>
+  </data>
+  <data name="Brand Name" xml:space="preserve">
+    <value>Nama Merek</value>
+  </data>
+  <data name="ICP Number" xml:space="preserve">
+    <value>Nomor ICP</value>
+  </data>
+  <data name="Project Logo" xml:space="preserve">
+    <value>Logo Proyek</value>
+  </data>
+  <data name="Project Name" xml:space="preserve">
+    <value>Nama Proyek</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>Nama merek yang ditampilkan di bagian footer.</value>
+  </data>
+  <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
+    <value>Nomor izin ICP untuk pengguna daratan Tiongkok. Biarkan kosong untuk menyembunyikan.</value>
+  </data>
+  <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
+    <value>Logo proyek yang ditampilkan di navbar dan footer. Mendukung jpg, png, svg.</value>
+  </data>
+  <data name="The name of the project displayed in the frontend." xml:space="preserve">
+    <value>Nama proyek yang ditampilkan di antarmuka pengguna depan</value>
   </data>
 
 </root>

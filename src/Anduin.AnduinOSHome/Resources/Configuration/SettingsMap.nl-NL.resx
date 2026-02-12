@@ -18,11 +18,41 @@
     <resheader name="writer">
         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
     </resheader>
-      <data name="Allow User Adjust Nickname" xml:space="preserve">
+      <data name=" The link to the brand&apos;s home page." xml:space="preserve">
+    <value>De link naar de homepage van het merk.</value>
+  </data>
+  <data name="Allow User Adjust Nickname" xml:space="preserve">
     <value>Gebruiker aanpassen bijnaam toestaan</value>
   </data>
   <data name="Allow users to adjust their nickname in the profile management page." xml:space="preserve">
     <value>Gebruikers toestaan hun bijnaam aan te passen op de pagina voor profielbeheer.</value>
+  </data>
+  <data name="Brand Home URL" xml:space="preserve">
+    <value>Brand Home URL</value>
+  </data>
+  <data name="Brand Name" xml:space="preserve">
+    <value>Merkenaam</value>
+  </data>
+  <data name="ICP Number" xml:space="preserve">
+    <value>ICP-nummer</value>
+  </data>
+  <data name="Project Logo" xml:space="preserve">
+    <value>Projectlogo</value>
+  </data>
+  <data name="Project Name" xml:space="preserve">
+    <value>Projectnaam</value>
+  </data>
+  <data name="The brand name displayed in the footer." xml:space="preserve">
+    <value>De merknaam die wordt weergegeven in de voettekst.</value>
+  </data>
+  <data name="The ICP license number for China mainland users. Leave empty to hide." xml:space="preserve">
+    <value>Het ICP-licentienummer voor gebruikers uit het Chinese vasteland. Laat leeg om te verbergen.</value>
+  </data>
+  <data name="The logo of the project displayed in the navbar and footer. Support jpg, png, svg." xml:space="preserve">
+    <value>Het logo van het project dat wordt weergegeven in de navigatiebalk en voettekst. Ondersteunt jpg, png, svg.</value>
+  </data>
+  <data name="The name of the project displayed in the frontend." xml:space="preserve">
+    <value>De naam van het project dat wordt weergegeven in de frontend.</value>
   </data>
 
 </root>
