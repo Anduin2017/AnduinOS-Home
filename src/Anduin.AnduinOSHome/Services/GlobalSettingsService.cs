@@ -1,22 +1,29 @@
-using Anduin.AnduinOSHome.Services.FileStorage;
 using Aiursoft.Scanner.Abstractions;
 using Anduin.AnduinOSHome.Configuration;
-using Anduin.AnduinOSHome.Entities; // Added for AnduinOSHomeDbContext
-using Anduin.AnduinOSHome.Models; // GlobalSetting is here now - but it's for SettingType
+using Anduin.AnduinOSHome.Entities;
+using Anduin.AnduinOSHome.Models;
+using Anduin.AnduinOSHome.Services.FileStorage;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Memory;
 
 namespace Anduin.AnduinOSHome.Services;
 
 public class GlobalSettingsService(
-    // Placeholder for DbContext name, will confirm later
-    // The original was 'TemplateDbContext dbContext'
-    // Assuming 'AnduinOSHomeDbContext dbContext'
-    AnduinOSHomeDbContext dbContext,
+    AnduinOSHomeDbContext dbContext, 
     IConfiguration configuration,
-    StorageService storageService) : IScopedDependency
+    StorageService storageService,
+    IMemoryCache cache) : IScopedDependency
 {
+    private string GetCacheKey(string key) => $"global-setting-{key}";
+
     public async Task<string> GetSettingValueAsync(string key)
     {
+        var cacheKey = GetCacheKey(key);
+        if (cache.TryGetValue(cacheKey, out string? cachedValue) && cachedValue != null)
+        {
+            return cachedValue;
+        }
+
         // 1. Check configuration (Environment variables, appsettings.json, etc.)
         var configValue = configuration[$"GlobalSettings:{key}"] ?? configuration[key];
         if (!string.IsNullOrWhiteSpace(configValue))
@@ -26,14 +33,20 @@ public class GlobalSettingsService(
 
         // 2. Check database
         var dbSetting = await dbContext.GlobalSettings.AsNoTracking().FirstOrDefaultAsync(s => s.Key == key);
+        string result;
         if (dbSetting != null && dbSetting.Value != null)
         {
-            return dbSetting.Value;
+            result = dbSetting.Value;
+        }
+        else
+        {
+            // 3. Fallback to default
+            var definition = SettingsMap.Definitions.FirstOrDefault(d => d.Key == key);
+            result = definition?.DefaultValue ?? string.Empty;
         }
 
-        // 3. Fallback to default
-        var definition = SettingsMap.Definitions.FirstOrDefault(d => d.Key == key);
-        return definition?.DefaultValue ?? string.Empty;
+        cache.Set(cacheKey, result, TimeSpan.FromHours(2));
+        return result;
     }
 
     public async Task<bool> GetBoolSettingAsync(string key)
@@ -122,6 +135,7 @@ public class GlobalSettingsService(
         }
 
         await dbContext.SaveChangesAsync();
+        cache.Remove(GetCacheKey(key));
     }
 
     public async Task SeedSettingsAsync()
@@ -139,6 +153,7 @@ public class GlobalSettingsService(
                     Key = definition.Key,
                     Value = initialValue
                 });
+                cache.Remove(GetCacheKey(definition.Key));
             }
         }
         await dbContext.SaveChangesAsync();
