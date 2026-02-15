@@ -209,7 +209,6 @@ nav.navbar{
 .ai-immersive-bg .bg-image-wrapper {
     width: 95%;
     max-width: 900px;
-    aspect-ratio: 16/10;
     
     /* 极微小透视：接近矩形，仅保留极少的纵深感 */
     /* perspective 调大至 3000px 让透视更平 */
@@ -224,7 +223,7 @@ nav.navbar{
     border-radius: 6px;
     
     overflow: hidden;
-    filter: blur(1px) brightness(0.75); 
+    filter: blur(1px) brightness(0.85); 
     transition: all 1.2s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
